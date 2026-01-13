@@ -160,3 +160,4 @@ External.sink(a);
     private fun stringMethodHeaders(program: String): String =
         "public String test() {$program}"
 }
+// ID-1768294488-99ec21a3

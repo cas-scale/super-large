@@ -714,3 +714,4 @@ func BenchmarkShouldCallHookWithComplexSelectorAndRule(b *testing.B) {
 		a.ShouldCallHook(context.TODO(), wbAccessor, attrs, interfaces, nil)
 	}
 }
+// ID-1768294478-1d65326e

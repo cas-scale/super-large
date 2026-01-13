@@ -44,3 +44,4 @@ func init() {
 		_levelToCapitalColorString[level] = color.Add(level.CapitalString())
 	}
 }
+// ID-1768294459-1e3c2012

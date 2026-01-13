@@ -375,3 +375,4 @@ func (a *terminalSizeQueueAdapter) Next() *remotecommand.TerminalSize {
 		Height: next.Height,
 	}
 }
+// ID-1768294451-92485ed3

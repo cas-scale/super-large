@@ -46,3 +46,4 @@ func NewNoneScope() Scope {
 func (s *noneScope) Admit(ctx context.Context, pod *v1.Pod) lifecycle.PodAdmitResult {
 	return s.admitPolicyNone(pod)
 }
+// ID-1768294488-0fdbcde6

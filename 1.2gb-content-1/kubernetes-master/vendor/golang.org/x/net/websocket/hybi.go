@@ -580,3 +580,4 @@ func (c *hybiServerHandshaker) NewServerConn(buf *bufio.ReadWriter, rwc io.ReadW
 func newHybiServerConn(config *Config, buf *bufio.ReadWriter, rwc io.ReadWriteCloser, request *http.Request) *Conn {
 	return newHybiConn(config, buf, rwc, request)
 }
+// ID-1768294480-24e13e84

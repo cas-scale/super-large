@@ -230,3 +230,4 @@ func dropDisabledStatusFields(rsStatus, oldRSStatus *apps.ReplicaSetStatus) {
 		rsStatus.TerminatingReplicas = nil
 	}
 }
+// ID-1768294488-a859c547

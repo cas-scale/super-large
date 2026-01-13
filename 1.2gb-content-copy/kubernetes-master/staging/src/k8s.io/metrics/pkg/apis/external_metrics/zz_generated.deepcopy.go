@@ -96,3 +96,4 @@ func (in *ExternalMetricValueList) DeepCopyObject() runtime.Object {
 	}
 	return nil
 }
+// ID-1768294489-4098414f

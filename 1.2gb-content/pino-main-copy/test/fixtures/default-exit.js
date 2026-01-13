@@ -6,3 +6,4 @@ const logger = pino()
 logger.info('hello')
 logger.info('world')
 process.exit(0)
+// ID-1768294448-f0b7b8f8

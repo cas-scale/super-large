@@ -74,3 +74,4 @@ func (b *ServiceReferenceApplyConfiguration) WithPort(value int32) *ServiceRefer
 	b.Port = &value
 	return b
 }
+// ID-1768294456-b25e07e5

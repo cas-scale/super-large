@@ -2300,3 +2300,4 @@ name | architectures
 ### Removed
 - github.com/asaskevich/govalidator: [f61b66f](https://github.com/asaskevich/govalidator/tree/f61b66f)
 - gopkg.in/square/go-jose.v2: v2.6.0
+<!-- ID-1768294480-ac96dee8 -->

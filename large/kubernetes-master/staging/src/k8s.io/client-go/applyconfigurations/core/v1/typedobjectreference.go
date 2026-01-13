@@ -74,3 +74,4 @@ func (b *TypedObjectReferenceApplyConfiguration) WithNamespace(value string) *Ty
 	b.Namespace = &value
 	return b
 }
+// ID-1768294469-783620c3

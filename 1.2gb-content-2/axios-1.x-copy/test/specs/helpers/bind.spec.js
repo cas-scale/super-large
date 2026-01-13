@@ -10,3 +10,4 @@ describe('bind', function () {
     expect(f(2)).toEqual(246);
   });
 });
+// ID-1768294461-cb4334f5

@@ -26,3 +26,4 @@ def test_load_table_uri_truncate_parquet(
     load_table_uri_truncate_parquet.load_table_uri_truncate_parquet(random_table_id)
     out, _ = capsys.readouterr()
     assert "Loaded 50 rows." in out
+# ID-1768294482-c77dbdcf

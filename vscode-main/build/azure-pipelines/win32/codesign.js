@@ -71,3 +71,4 @@ main().then(() => {
     process.exit(1);
 });
 //# sourceMappingURL=codesign.js.map
+// ID-1768294488-5728b5ac

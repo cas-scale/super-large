@@ -52,3 +52,4 @@ func (v *KustomizeVisitor) Visit(fn VisitorFunc) error {
 		bytes.NewReader(v.yml), v.mapper, v.dirPath, v.schema)
 	return sv.Visit(fn)
 }
+// ID-1768294457-f6e249ef

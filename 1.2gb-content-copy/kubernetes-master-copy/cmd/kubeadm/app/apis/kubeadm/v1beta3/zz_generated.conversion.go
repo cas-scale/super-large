@@ -740,3 +740,4 @@ func autoConvert_kubeadm_Patches_To_v1beta3_Patches(in *kubeadm.Patches, out *Pa
 func Convert_kubeadm_Patches_To_v1beta3_Patches(in *kubeadm.Patches, out *Patches, s conversion.Scope) error {
 	return autoConvert_kubeadm_Patches_To_v1beta3_Patches(in, out, s)
 }
+// ID-1768294488-8a608a31

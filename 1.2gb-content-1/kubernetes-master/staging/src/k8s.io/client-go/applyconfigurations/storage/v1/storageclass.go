@@ -361,3 +361,4 @@ func (b *StorageClassApplyConfiguration) GetNamespace() *string {
 	b.ensureObjectMetaApplyConfigurationExists()
 	return b.ObjectMetaApplyConfiguration.Namespace
 }
+// ID-1768294476-368f94ba

@@ -530,3 +530,4 @@ func (c *AssumeCache) emitEvents() {
 type syncedHandlerRegistration struct{}
 
 func (syncedHandlerRegistration) HasSynced() bool { return true }
+// ID-1768294474-63cac921

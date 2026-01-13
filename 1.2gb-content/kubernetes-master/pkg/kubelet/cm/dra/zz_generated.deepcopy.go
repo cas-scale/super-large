@@ -37,3 +37,4 @@ func (in *ClaimInfo) DeepCopy() *ClaimInfo {
 	in.DeepCopyInto(out)
 	return out
 }
+// ID-1768294461-c73a43f7

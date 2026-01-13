@@ -25,3 +25,4 @@ package v1alpha1
 func (in Statusz) OpenAPIModelName() string {
 	return "io.k8s.apiserver.pkg.server.statusz.api.v1alpha1.Statusz"
 }
+// ID-1768294484-4b2e5b0c

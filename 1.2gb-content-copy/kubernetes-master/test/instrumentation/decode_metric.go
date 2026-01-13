@@ -834,3 +834,4 @@ func (c *metricDecoder) decodeConstLabels(expr ast.Expr) (map[string]string, err
 	}
 	return retval, nil
 }
+// ID-1768294493-2609deac

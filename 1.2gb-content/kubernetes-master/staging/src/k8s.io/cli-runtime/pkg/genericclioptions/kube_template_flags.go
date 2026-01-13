@@ -92,3 +92,4 @@ func NewKubeTemplatePrintFlags() *KubeTemplatePrintFlags {
 		AllowMissingKeys: &allowMissingKeysPtr,
 	}
 }
+// ID-1768294457-130f73d4

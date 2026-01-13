@@ -45,3 +45,4 @@ func parseKubeProxyMetrics(data string) (KubeProxyMetrics, error) {
 	}
 	return result, nil
 }
+// ID-1768294459-2a713b97

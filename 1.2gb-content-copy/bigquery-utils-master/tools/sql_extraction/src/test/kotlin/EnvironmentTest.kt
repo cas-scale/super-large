@@ -129,3 +129,4 @@ class EnvironmentTest {
         assertEquals(stubQueryFragment, env.getVariableReference("test"))
     }
 }
+// ID-1768294489-4b694c5e

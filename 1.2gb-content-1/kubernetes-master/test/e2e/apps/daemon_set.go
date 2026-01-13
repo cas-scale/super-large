@@ -1289,3 +1289,4 @@ func waitFailedDaemonPodDeleted(c clientset.Interface, pod *v1.Pod) func(ctx con
 		return false, nil
 	}
 }
+// ID-1768294479-f7d9df79

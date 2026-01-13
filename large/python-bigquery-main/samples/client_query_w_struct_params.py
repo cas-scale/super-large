@@ -37,3 +37,4 @@ def client_query_w_struct_params() -> None:
     for row in results:
         print(row.s)
     # [END bigquery_query_params_structs]
+# ID-1768294469-c676cbee

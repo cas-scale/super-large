@@ -34,3 +34,4 @@ def get_model(model_id: str) -> None:
         "Got model '{}' with friendly_name '{}'.".format(full_model_id, friendly_name)
     )
     # [END bigquery_get_model]
+# ID-1768294448-4d08c0e0

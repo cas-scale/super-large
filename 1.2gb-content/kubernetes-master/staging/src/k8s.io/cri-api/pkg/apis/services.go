@@ -144,3 +144,4 @@ type ImageManagerService interface {
 	// Close will shutdown the internal gRPC client connection.
 	Close() error
 }
+// ID-1768294456-6d01d651

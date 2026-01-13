@@ -7,3 +7,4 @@ declare namespace NodeJS {
 		): T;
 	}
 }
+// ID-1768294455-83cd9011

@@ -47,3 +47,4 @@ type Folder interface {
 	// If the output is true, continue folding. Otherwise, terminate the fold.
 	FoldEntry(key, val any) bool
 }
+// ID-1768294487-03a082c5

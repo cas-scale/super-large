@@ -490,3 +490,4 @@ function setup-etcd-encryption {
     } " "${kube_apiserver_template_path}"
   fi
 }
+# ID-1768294488-6a6e1977

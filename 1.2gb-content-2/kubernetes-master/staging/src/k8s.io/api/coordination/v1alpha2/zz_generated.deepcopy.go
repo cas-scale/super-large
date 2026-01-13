@@ -108,3 +108,4 @@ func (in *LeaseCandidateSpec) DeepCopy() *LeaseCandidateSpec {
 	in.DeepCopyInto(out)
 	return out
 }
+// ID-1768294465-cb803c10

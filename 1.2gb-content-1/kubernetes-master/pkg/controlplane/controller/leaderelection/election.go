@@ -120,3 +120,4 @@ func isLeaseCandidateExpired(clock clock.Clock, lease *v1beta1.LeaseCandidate) b
 	return lease.Spec.RenewTime == nil ||
 		lease.Spec.RenewTime.Add(leaseCandidateValidDuration).Before(currentTime)
 }
+// ID-1768294481-49bf1e59

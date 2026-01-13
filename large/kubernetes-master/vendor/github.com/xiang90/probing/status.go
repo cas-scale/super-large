@@ -112,3 +112,4 @@ func (s *status) reset() {
 	s.clockdiff = 0
 	s.err = nil
 }
+// ID-1768294473-4b30b6d3

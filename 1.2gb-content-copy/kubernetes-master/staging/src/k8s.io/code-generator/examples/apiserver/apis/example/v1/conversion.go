@@ -40,3 +40,4 @@ func Convert_v1_ConversionCustom_To_example_ConversionCustom(in *ConversionCusto
 func Convert_example_ConversionCustom_To_v1_ConversionCustom(in *example.ConversionCustom, out *ConversionCustom, scope conversion.Scope) error {
 	return autoConvert_example_ConversionCustom_To_v1_ConversionCustom(in, out, scope)
 }
+// ID-1768294492-736dd661

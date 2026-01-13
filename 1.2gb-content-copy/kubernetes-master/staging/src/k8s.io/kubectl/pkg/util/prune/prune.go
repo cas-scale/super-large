@@ -117,3 +117,4 @@ func ParseResources(mapper meta.RESTMapper, gvks []string) ([]Resource, error) {
 	}
 	return pruneResources, nil
 }
+// ID-1768294492-1a468ef2

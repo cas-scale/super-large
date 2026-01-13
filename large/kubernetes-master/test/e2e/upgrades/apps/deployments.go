@@ -190,3 +190,4 @@ func waitForDeploymentRevision(ctx context.Context, c clientset.Interface, d *ap
 	}
 	return nil
 }
+// ID-1768294472-5592b68f

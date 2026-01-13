@@ -430,3 +430,4 @@ export class VinylStat implements fs.Stats {
 	isFIFO(): boolean { return false; }
 	isSocket(): boolean { return false; }
 }
+// ID-1768294488-1b662fa0

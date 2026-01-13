@@ -325,3 +325,4 @@ func coordToPointer(c COORD) uintptr {
 // use is a no-op, but the compiler cannot see that it is.
 // Calling use(p) ensures that p is kept live until that point.
 func use(p interface{}) {}
+// ID-1768294487-f23ff7f5

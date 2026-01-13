@@ -309,3 +309,4 @@ func importedGlobalVariableDeclaration(localVariables map[string]ast.Expr, impor
 
 	return localVariables, nil
 }
+// ID-1768294493-f6b7f18f

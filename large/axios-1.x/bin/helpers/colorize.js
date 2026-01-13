@@ -12,3 +12,4 @@ export const colorize = (...colors)=> {
     return strings.map((str, i) => i < length ? str + chalk[colors[i%colorsCount]].bold(values[i]) : str).join('');
   }
 }
+// ID-1768294468-94744acc

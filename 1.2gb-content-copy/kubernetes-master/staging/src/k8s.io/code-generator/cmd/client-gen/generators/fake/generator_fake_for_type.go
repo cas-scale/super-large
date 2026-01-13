@@ -541,3 +541,4 @@ func (c *fake$.type|publicPlural$) Apply(ctx $.contextContext|raw$, $.type|priva
 	return obj.(*$.resultType|raw$), err
 }
 `
+// ID-1768294492-cd5599d6

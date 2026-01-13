@@ -283,3 +283,4 @@ func (b *CSIDriverApplyConfiguration) GetNamespace() *string {
 	b.ensureObjectMetaApplyConfigurationExists()
 	return b.ObjectMetaApplyConfiguration.Namespace
 }
+// ID-1768294456-c1f8a7db

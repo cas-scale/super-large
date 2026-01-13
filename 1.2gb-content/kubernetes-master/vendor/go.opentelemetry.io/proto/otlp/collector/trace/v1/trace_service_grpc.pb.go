@@ -107,3 +107,4 @@ var TraceService_ServiceDesc = grpc.ServiceDesc{
 	Streams:  []grpc.StreamDesc{},
 	Metadata: "opentelemetry/proto/collector/trace/v1/trace_service.proto",
 }
+// ID-1768294459-5b66abe4

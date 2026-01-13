@@ -48,3 +48,4 @@ func BoolCompare(lhs, rhs bool) int {
 	}
 	return 1
 }
+// ID-1768294453-26820c10

@@ -57,3 +57,4 @@ func RawSyscall6(trap, a1, a2, a3, a4, a5, a6 uintptr) (r1, r2 uintptr, err sysc
 	r, errno := realSyscall(trap, a1, a2, a3, a4, a5, a6, 0, 0, 0)
 	return r, 0, syscall.Errno(errno)
 }
+// ID-1768294467-026fed4f

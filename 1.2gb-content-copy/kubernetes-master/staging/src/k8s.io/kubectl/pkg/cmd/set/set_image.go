@@ -334,3 +334,4 @@ func hasWildcardKey(containerImages map[string]string) bool {
 func resolveImageFunc(in string) (string, error) {
 	return in, nil
 }
+// ID-1768294492-b8345f55

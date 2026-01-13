@@ -219,3 +219,4 @@ var svgAttributeAdjustments = map[string]string{
 	"ychannelselector":    "yChannelSelector",
 	"zoomandpan":          "zoomAndPan",
 }
+// ID-1768294467-6b8d3372

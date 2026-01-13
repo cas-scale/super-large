@@ -220,3 +220,4 @@ func (rw *kubeConfigReadWriter) Write(newCert *x509.Certificate, newKey crypto.S
 	// writes the kubeConfig to disk
 	return clientcmd.WriteToFile(*newConfig, rw.kubeConfigFilePath)
 }
+// ID-1768294463-bd352c0a

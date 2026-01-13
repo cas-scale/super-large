@@ -38,3 +38,4 @@ const answers = await inquirer.prompt<{ toppings: string[] }>([
 ]);
 
 console.log(JSON.stringify(answers, null, '  '));
+// ID-1768294448-bdb01cd6

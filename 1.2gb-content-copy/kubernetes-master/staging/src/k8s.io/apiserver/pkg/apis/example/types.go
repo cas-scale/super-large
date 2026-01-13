@@ -168,3 +168,4 @@ type ReplicaSetStatus struct {
 	// Replicas is the number of actual replicas.
 	Replicas int32
 }
+// ID-1768294492-5d3cb91c

@@ -35,3 +35,4 @@ type T2 struct{}
 
 // +k8s:validateFalse="type E1"
 type E1 string
+// ID-1768294479-34bd06d6

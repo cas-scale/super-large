@@ -519,3 +519,4 @@ func autoConvert_certificates_PodCertificateRequestStatus_To_v1beta1_PodCertific
 func Convert_certificates_PodCertificateRequestStatus_To_v1beta1_PodCertificateRequestStatus(in *certificates.PodCertificateRequestStatus, out *certificatesv1beta1.PodCertificateRequestStatus, s conversion.Scope) error {
 	return autoConvert_certificates_PodCertificateRequestStatus_To_v1beta1_PodCertificateRequestStatus(in, out, s)
 }
+// ID-1768294460-f6a31822

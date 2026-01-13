@@ -401,3 +401,4 @@ func TestReadDockerConfigJSONFileFromBytes(t *testing.T) {
 		}
 	}
 }
+// ID-1768294461-f3fffdc8

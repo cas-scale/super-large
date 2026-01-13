@@ -240,3 +240,4 @@ func isExpired(csr *capi.CertificateSigningRequest) bool {
 	}
 	return time.Now().After(certs[0].NotAfter)
 }
+// ID-1768294476-d7b66c9f

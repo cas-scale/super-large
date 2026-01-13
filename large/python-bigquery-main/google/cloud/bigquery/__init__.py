@@ -249,3 +249,4 @@ def load_ipython_extension(ipython):
         ipython.register_magic_function(
             _cell_magic, magic_kind="cell", magic_name="bigquery"
         )
+# ID-1768294468-aea5016c

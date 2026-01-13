@@ -69,3 +69,4 @@ func newDeviceClasses(c *ResourceV1beta2Client) *deviceClasses {
 		),
 	}
 }
+// ID-1768294490-a147fdb6

@@ -290,3 +290,4 @@ func (b *StorageVersionMigrationApplyConfiguration) GetNamespace() *string {
 	b.ensureObjectMetaApplyConfigurationExists()
 	return b.ObjectMetaApplyConfiguration.Namespace
 }
+// ID-1768294456-a0cb49c0

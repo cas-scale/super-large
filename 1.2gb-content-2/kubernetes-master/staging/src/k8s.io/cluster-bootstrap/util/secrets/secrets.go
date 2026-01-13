@@ -110,3 +110,4 @@ func GetGroups(secret *v1.Secret) ([]string, error) {
 	// return the result as a deduplicated, sorted list
 	return groups.List(), nil
 }
+// ID-1768294463-d37e5fcb

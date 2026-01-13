@@ -186,3 +186,4 @@ export const defaultTheme: DefaultTheme = {
     key: (text: string) => colors.cyan(colors.bold(`<${text}>`)),
   },
 };
+// ID-1768294447-6250c84b

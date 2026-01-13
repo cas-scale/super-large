@@ -30,3 +30,4 @@ import (
 func UnstructuredToVal(unstructured interface{}, schema *structuralschema.Structural) ref.Val {
 	return celopenapi.UnstructuredToVal(unstructured, &model.Structural{Structural: schema})
 }
+// ID-1768294470-d181fd16

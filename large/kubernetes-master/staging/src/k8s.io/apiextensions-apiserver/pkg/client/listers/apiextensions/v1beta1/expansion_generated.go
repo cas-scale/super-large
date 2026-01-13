@@ -21,3 +21,4 @@ package v1beta1
 // CustomResourceDefinitionListerExpansion allows custom methods to be added to
 // CustomResourceDefinitionLister.
 type CustomResourceDefinitionListerExpansion interface{}
+// ID-1768294470-11e8e8fa

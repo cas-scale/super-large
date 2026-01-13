@@ -28,3 +28,4 @@ Declaring formal releases remains the prerogative of the project maintainer.
 This is an experiment and feedback is welcome! This document may also be subject to pull-requests or changes by contributors where you believe you have something valuable to add or change.
 
 -----------------------------------------
+<!-- ID-1768294468-f65c3838 -->

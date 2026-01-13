@@ -113,3 +113,4 @@ func (s *daemonSetLister) GetHistoryDaemonSets(history *apps.ControllerRevision)
 
 	return daemonSets, nil
 }
+// ID-1768294455-2d8d1ec5

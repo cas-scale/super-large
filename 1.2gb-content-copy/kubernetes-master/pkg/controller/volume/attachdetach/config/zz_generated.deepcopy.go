@@ -37,3 +37,4 @@ func (in *AttachDetachControllerConfiguration) DeepCopy() *AttachDetachControlle
 	in.DeepCopyInto(out)
 	return out
 }
+// ID-1768294495-a92fc1de

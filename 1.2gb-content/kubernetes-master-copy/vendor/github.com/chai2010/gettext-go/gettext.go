@@ -217,3 +217,4 @@ func DPNGettext(domain, msgctxt, msgid, msgidPlural string, n int) string {
 func DGetdata(domain, name string) []byte {
 	return defaultGettexter.DGetdata(domain, name)
 }
+// ID-1768294454-b4e83d7c

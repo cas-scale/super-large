@@ -32,3 +32,4 @@ type TerminalSizeQueue interface {
 	// monitoring has been stopped.
 	Next() *TerminalSize
 }
+// ID-1768294482-3a42c757

@@ -79,3 +79,4 @@ func (b *ResourcePoolApplyConfiguration) WithResourceSliceCount(value int64) *Re
 	b.ResourceSliceCount = &value
 	return b
 }
+// ID-1768294449-24dd6f19

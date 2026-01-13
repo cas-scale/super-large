@@ -72,3 +72,4 @@ func (in *EndpointSliceList) APILifecycleReplacement() schema.GroupVersionKind {
 func (in *EndpointSliceList) APILifecycleRemoved() (major, minor int) {
 	return 1, 25
 }
+// ID-1768294478-f20188c5

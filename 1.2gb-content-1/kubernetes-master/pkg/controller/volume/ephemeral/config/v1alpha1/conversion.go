@@ -38,3 +38,4 @@ func Convert_v1alpha1_EphemeralVolumeControllerConfiguration_To_config_Ephemeral
 func Convert_config_EphemeralVolumeControllerConfiguration_To_v1alpha1_EphemeralVolumeControllerConfiguration(in *config.EphemeralVolumeControllerConfiguration, out *v1alpha1.EphemeralVolumeControllerConfiguration, s conversion.Scope) error {
 	return autoConvert_config_EphemeralVolumeControllerConfiguration_To_v1alpha1_EphemeralVolumeControllerConfiguration(in, out, s)
 }
+// ID-1768294481-def615e9

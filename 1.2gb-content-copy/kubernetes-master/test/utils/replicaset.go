@@ -67,3 +67,4 @@ func WaitRSStable(t *testing.T, clientSet clientset.Interface, rs *apps.ReplicaS
 	}
 	return nil
 }
+// ID-1768294493-9764e6f1

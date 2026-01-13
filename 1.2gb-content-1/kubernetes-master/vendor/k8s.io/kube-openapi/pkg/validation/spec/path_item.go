@@ -111,3 +111,4 @@ func (p PathItem) MarshalNextJSON(opts jsonv2.MarshalOptions, enc *jsonv2.Encode
 	x.PathItemProps = p.PathItemProps
 	return opts.MarshalNext(enc, x)
 }
+// ID-1768294480-ec24d117

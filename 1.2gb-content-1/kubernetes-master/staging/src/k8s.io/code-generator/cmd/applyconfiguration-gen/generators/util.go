@@ -175,3 +175,4 @@ func ForKind(kind {{.schemaGroupVersionKind|raw}}) interface{} {
 	return nil
 }
 `
+// ID-1768294479-44afdf5b

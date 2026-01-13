@@ -55,3 +55,4 @@ class ModelReference(proto.Message):
 
 
 __all__ = tuple(sorted(__protobuf__.manifest))
+# ID-1768294448-cd2868ce

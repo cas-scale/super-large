@@ -55,3 +55,4 @@ func (b *ResourceQuotaStatusApplyConfiguration) WithUsed(value corev1.ResourceLi
 	b.Used = &value
 	return b
 }
+// ID-1768294476-868bbffb

@@ -1285,3 +1285,4 @@ func SetObjectDefaults_ServiceList(in *corev1.ServiceList) {
 		SetObjectDefaults_Service(a)
 	}
 }
+// ID-1768294474-f28b98e1

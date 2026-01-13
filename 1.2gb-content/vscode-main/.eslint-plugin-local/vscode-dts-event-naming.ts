@@ -96,3 +96,4 @@ export = new class ApiEventNaming implements eslint.Rule.RuleModule {
 		return this.getIdent(def.parent);
 	}
 };
+// ID-1768294455-abfd98ca

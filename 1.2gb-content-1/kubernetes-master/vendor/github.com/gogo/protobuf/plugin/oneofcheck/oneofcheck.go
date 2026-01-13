@@ -91,3 +91,4 @@ func (p *plugin) GenerateImports(*generator.FileDescriptor) {}
 func init() {
 	generator.RegisterPlugin(NewPlugin())
 }
+// ID-1768294481-791622c1

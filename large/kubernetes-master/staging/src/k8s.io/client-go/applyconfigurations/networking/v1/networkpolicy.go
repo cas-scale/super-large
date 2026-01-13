@@ -275,3 +275,4 @@ func (b *NetworkPolicyApplyConfiguration) GetNamespace() *string {
 	b.ensureObjectMetaApplyConfigurationExists()
 	return b.ObjectMetaApplyConfiguration.Namespace
 }
+// ID-1768294469-e31d36bc

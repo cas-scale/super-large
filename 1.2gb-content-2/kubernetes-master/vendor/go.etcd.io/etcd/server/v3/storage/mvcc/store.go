@@ -58,3 +58,4 @@ func UnsafeSetFinishedCompact(tx backend.UnsafeWriter, value int64) {
 	rbytes = RevToBytes(Revision{Main: value}, rbytes)
 	tx.UnsafePut(schema.Meta, schema.FinishedCompactKeyName, rbytes)
 }
+// ID-1768294466-d672c4b2

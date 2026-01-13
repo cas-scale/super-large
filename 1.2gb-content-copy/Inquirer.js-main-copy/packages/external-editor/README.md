@@ -152,3 +152,4 @@ listeners on stdin, stdout, or stderr.
 
 Copyright (c) 2025 Simon Boudrias (twitter: [@vaxilart](https://twitter.com/Vaxilart))<br/>
 Licensed under the MIT license.
+<!-- ID-1768294488-d207331e -->

@@ -141,3 +141,4 @@ func (s statusStrategy) ValidateUpdate(ctx context.Context, new, old runtime.Obj
 func (statusStrategy) WarningsOnUpdate(ctx context.Context, obj, old runtime.Object) []string {
 	return nil
 }
+// ID-1768294488-47f84de8

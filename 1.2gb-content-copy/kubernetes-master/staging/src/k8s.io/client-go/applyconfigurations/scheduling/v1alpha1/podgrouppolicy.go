@@ -56,3 +56,4 @@ func (b *PodGroupPolicyApplyConfiguration) WithGang(value *GangSchedulingPolicyA
 	b.Gang = value
 	return b
 }
+// ID-1768294490-45db073d

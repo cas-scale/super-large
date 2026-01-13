@@ -112,3 +112,4 @@ func NewSpanLimits() SpanLimits {
 		AttributePerLinkCountLimit:  env.SpanLinkAttributeCount(DefaultAttributePerLinkCountLimit),
 	}
 }
+// ID-1768294459-c8693ab2

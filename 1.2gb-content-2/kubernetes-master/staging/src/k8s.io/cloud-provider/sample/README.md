@@ -18,3 +18,4 @@ Note: If you have a requirement of adding/deleting controllers within CCM, pleas
  1. Vendor in `k8s.io/cmd/cloud-controller-manager`.
  2. Directly modify anything under `vendor/k8s.io/cloud-provider/sample` in this repo. Those are driven from `k8s.io/kubernetes/staging/src/k8s.io/cloud-provider/sample`.
  3. Make specific cloud provider changes in sample files.
+<!-- ID-1768294463-469f7210 -->

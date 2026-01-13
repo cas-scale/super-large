@@ -323,3 +323,4 @@ func (codec *directAnyCodec) IsEmpty(ptr unsafe.Pointer) bool {
 	any := *(*Any)(ptr)
 	return any.Size() == 0
 }
+// ID-1768294487-b0c111d1

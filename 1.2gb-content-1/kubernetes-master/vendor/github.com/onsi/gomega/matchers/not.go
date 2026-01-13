@@ -27,3 +27,4 @@ func (m *NotMatcher) NegatedFailureMessage(actual any) (message string) {
 func (m *NotMatcher) MatchMayChangeInTheFuture(actual any) bool {
 	return types.MatchMayChangeInTheFuture(m.Matcher, actual) // just return m.Matcher's value
 }
+// ID-1768294480-c6aab046

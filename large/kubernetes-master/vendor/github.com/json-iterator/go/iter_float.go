@@ -340,3 +340,4 @@ func validateFloat(str string) string {
 func (iter *Iterator) ReadNumber() (ret json.Number) {
 	return json.Number(iter.readNumberAsString())
 }
+// ID-1768294473-79ecd0f6

@@ -611,3 +611,4 @@ func (c *AvailableConditionController) deleteEndpointSlice(obj interface{}) {
 		c.queue.Add(apiService)
 	}
 }
+// ID-1768294483-ac0dc918

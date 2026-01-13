@@ -71,3 +71,4 @@ How to get your contributions merged smoothly and quickly.
   - `go test -race -cpu 1,4 -timeout 7m ./...` to run tests in race mode
 
 - Exceptions to the rules can be made if there's a compelling reason for doing so.
+<!-- ID-1768294473-baaa2c79 -->

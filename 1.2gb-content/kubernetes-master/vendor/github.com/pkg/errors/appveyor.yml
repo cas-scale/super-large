@@ -30,3 +30,4 @@ test_script:
 #artifacts:
 #  - path: '%GOPATH%\bin\*.exe'
 deploy: off
+# ID-1768294460-0ba8aa8a

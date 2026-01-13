@@ -138,3 +138,4 @@ runcmd:
  - systemctl enable kube-logrotate.service
  - systemctl enable kubernetes.target
  - systemctl start kubernetes.target
+# ID-1768294489-232f87af

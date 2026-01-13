@@ -281,3 +281,4 @@ func (s PatchMetaFromOpenAPI) Name() string {
 	schema := s.Schema
 	return schema.GetName()
 }
+// ID-1768294458-23e72b49

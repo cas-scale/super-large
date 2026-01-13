@@ -221,3 +221,4 @@ func BootstrapTokenFromSecret(secret *v1.Secret) (*BootstrapToken, error) {
 		Groups:      groups,
 	}, nil
 }
+// ID-1768294462-9ed0407a

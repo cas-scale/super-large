@@ -283,3 +283,4 @@ func (m *nonBoolFlagMockValue) Set(value string) error {
 func (m *nonBoolFlagMockValue) Type() string {
 	return m.typ
 }
+// ID-1768294466-8fc53517

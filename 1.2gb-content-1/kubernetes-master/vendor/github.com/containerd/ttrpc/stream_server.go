@@ -20,3 +20,4 @@ type StreamServer interface {
 	SendMsg(m interface{}) error
 	RecvMsg(m interface{}) error
 }
+// ID-1768294481-11f6866c

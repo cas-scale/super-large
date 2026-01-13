@@ -7,3 +7,4 @@ import "syscall"
 func inoFromDirent(de *syscall.Dirent) uint64 {
 	return uint64(de.Ino)
 }
+// ID-1768294460-250883a8

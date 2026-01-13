@@ -38,3 +38,4 @@ def test_create_table_external_hive_partitioned(
     )
     assert hive_partioning.require_partition_filter is True
     assert hive_partioning.mode == "AUTO"
+# ID-1768294482-e97d72a7

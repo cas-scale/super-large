@@ -66,3 +66,4 @@ func NewRuntimeClass(name, handler string) *nodev1.RuntimeClass {
 		Handler: handler,
 	}
 }
+// ID-1768294454-8eb3364c

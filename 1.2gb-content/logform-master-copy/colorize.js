@@ -120,3 +120,4 @@ module.exports = opts => new Colorizer(opts);
 module.exports.Colorizer
   = module.exports.Format
   = Colorizer;
+// ID-1768294448-2e3f19ed

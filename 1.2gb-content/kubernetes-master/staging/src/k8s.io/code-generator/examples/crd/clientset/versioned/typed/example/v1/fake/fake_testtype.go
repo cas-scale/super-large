@@ -63,3 +63,4 @@ func (c *fakeTestTypes) GetClusterTestType(ctx context.Context, name string, opt
 	}
 	return obj.(*v1.TestType), err
 }
+// ID-1768294458-2c8ce8f9

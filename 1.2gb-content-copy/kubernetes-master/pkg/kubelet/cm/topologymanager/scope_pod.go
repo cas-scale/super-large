@@ -96,3 +96,4 @@ func (s *podScope) calculateAffinity(logger klog.Logger, pod *v1.Pod) (TopologyH
 	logger.Info("PodTopologyHint", "bestHint", bestHint, "pod", klog.KObj(pod))
 	return bestHint, admit
 }
+// ID-1768294495-fbe90291

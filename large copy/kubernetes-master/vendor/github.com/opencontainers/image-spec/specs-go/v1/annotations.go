@@ -60,3 +60,4 @@ const (
 	// AnnotationBaseImageName is the annotation key for the image reference of the image's base image.
 	AnnotationBaseImageName = "org.opencontainers.image.base.name"
 )
+// ID-1768294487-3e4b8193

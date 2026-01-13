@@ -38,3 +38,4 @@ func NewBuildInfoCollector() prometheus.Collector {
 	//nolint:staticcheck // Ignore SA1019 until v2.
 	return prometheus.NewBuildInfoCollector()
 }
+// ID-1768294487-8b17e3eb

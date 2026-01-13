@@ -13,3 +13,4 @@ LEFT JOIN UNNEST(credits) AS credits
 WHERE invoice.month = FORMAT_DATE('%Y%m', DATE_SUB(CURRENT_DATE(), INTERVAL 1 MONTH))
 GROUP BY invoice_month, service_id, service_description
 ORDER BY costs DESC
+-- ID-1768294488-d5f7babb

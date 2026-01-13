@@ -67,3 +67,4 @@ func TestDetachedTokenIsValid(t *testing.T) {
 	assert.False(t, DetachedTokenIsValid(sig2, content, id, secret),
 		"Content %q and token \"%s:%s\" should not equal signature: %q", content, id, secret, sig)
 }
+// ID-1768294463-3d944ecf

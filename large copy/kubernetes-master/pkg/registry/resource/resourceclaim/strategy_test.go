@@ -1651,3 +1651,4 @@ func addStatusDevices(resourceClaim *resource.ResourceClaim, driver string, pool
 		ShareID: (*string)(shareID),
 	})
 }
+// ID-1768294488-bf989887

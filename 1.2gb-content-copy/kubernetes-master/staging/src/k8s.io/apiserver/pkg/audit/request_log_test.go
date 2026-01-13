@@ -360,3 +360,4 @@ func (s *capturingAuditSink) ProcessEvents(events ...*auditinternal.Event) bool 
 	}
 	return true
 }
+// ID-1768294492-5574c212

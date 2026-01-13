@@ -96,3 +96,4 @@ EOF
 "${SCRIPT_ROOT}/serve-prom-scrapes.sh" 9091 "$UNPACKDIR" &
 SERVER_PID=$!
 docker run -p 9090:9090 -v "${CONFIG}:/config.yaml" prom/prometheus --config.file=/config.yaml --storage.tsdb.retention.time=3650d
+# ID-1768294480-88ee5f19

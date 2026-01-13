@@ -87,3 +87,4 @@ type FischerList struct {
 
 	Items []Fischer `json:"items" protobuf:"bytes,2,rep,name=items"`
 }
+// ID-1768294458-6fe9b05a

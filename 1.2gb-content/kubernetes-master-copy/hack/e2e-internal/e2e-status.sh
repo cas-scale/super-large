@@ -30,3 +30,4 @@ source "${KUBE_ROOT}/cluster/kube-util.sh"
 prepare-e2e
 
 ${KUBECTL} version
+# ID-1768294452-3621f658

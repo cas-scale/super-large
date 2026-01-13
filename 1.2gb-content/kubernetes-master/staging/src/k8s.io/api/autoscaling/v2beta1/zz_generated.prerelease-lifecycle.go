@@ -72,3 +72,4 @@ func (in *HorizontalPodAutoscalerList) APILifecycleReplacement() schema.GroupVer
 func (in *HorizontalPodAutoscalerList) APILifecycleRemoved() (major, minor int) {
 	return 1, 25
 }
+// ID-1768294457-cba7d8f5

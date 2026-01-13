@@ -39,3 +39,4 @@ GOTOOLCHAIN="$(kube::golang::hack_tools_gotoolchain)" go -C "${KUBE_ROOT}/hack/t
 skipping_file="${KUBE_ROOT}/hack/.spelling_failures"
 failing_packages=$(sed "s| | -e |g" "${skipping_file}")
 git ls-files | grep -v -e "${failing_packages}" | xargs misspell -i "Creater,creater,ect" -error -o stderr
+# ID-1768294452-2e5a37cb

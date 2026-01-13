@@ -46,3 +46,4 @@ func newFakeTestTypes(fake *FakeExampleV1, namespace string) examplev1.TestTypeI
 		fake,
 	}
 }
+// ID-1768294479-be09c17b

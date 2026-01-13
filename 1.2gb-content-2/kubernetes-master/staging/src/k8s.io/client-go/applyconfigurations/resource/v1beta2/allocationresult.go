@@ -70,3 +70,4 @@ func (b *AllocationResultApplyConfiguration) WithAllocationTimestamp(value metav
 	b.AllocationTimestamp = &value
 	return b
 }
+// ID-1768294463-f8ec070b

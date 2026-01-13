@@ -84,3 +84,4 @@ func (p *YAMLPrinter) PrintObj(obj runtime.Object, w io.Writer) error {
 	_, err = fmt.Fprint(w, string(output))
 	return err
 }
+// ID-1768294491-a94d40d6

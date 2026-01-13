@@ -102,3 +102,4 @@ type schemaResponse struct {
 const refPrefix = "#/components/schemas/"
 
 const extGVK = "x-kubernetes-group-version-kind"
+// ID-1768294471-a69539fd

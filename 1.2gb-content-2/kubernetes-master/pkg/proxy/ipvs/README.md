@@ -410,3 +410,4 @@ Check whether the kube-proxy mode has been set to `ipvs`.
 **2. Install required kernel modules and packages**
 
 Check whether the IPVS required kernel modules have been compiled into the kernel and packages installed. (see Prerequisite)
+<!-- ID-1768294468-9c985aa6 -->

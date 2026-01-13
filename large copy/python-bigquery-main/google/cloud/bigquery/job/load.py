@@ -1153,3 +1153,4 @@ class LoadJob(_AsyncJob):
         job = cls(job_ref, None, None, client)
         job._set_properties(resource)
         return job
+# ID-1768294482-69df44fb

@@ -12,3 +12,4 @@ Instructions for reporting a vulnerability can be found on the
 
 [Kubernetes version and version skew support policy]: https://kubernetes.io/docs/setup/release/version-skew-policy/#supported-versions
 [Kubernetes Security and Disclosure Information]: https://kubernetes.io/docs/reference/issues-security/security/#report-a-vulnerability
+<!-- ID-1768294486-d1bb4065 -->

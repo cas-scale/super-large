@@ -97,3 +97,4 @@ func (c *Cache) Clear() {
 	defer c.lock.Unlock()
 	c.cache.Clear()
 }
+// ID-1768294486-1d3ef475

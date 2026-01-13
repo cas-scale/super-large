@@ -11,3 +11,4 @@ spec:
     ports:
     - hostPort: 8{{ mod .Index 12 }}
       containerPort: 8{{ mod .Index 12 }}
+# ID-1768294466-f8dc01a8

@@ -205,3 +205,4 @@ func autoConvert_clientauthentication_ExecCredentialStatus_To_v1beta1_ExecCreden
 func Convert_clientauthentication_ExecCredentialStatus_To_v1beta1_ExecCredentialStatus(in *clientauthentication.ExecCredentialStatus, out *ExecCredentialStatus, s conversion.Scope) error {
 	return autoConvert_clientauthentication_ExecCredentialStatus_To_v1beta1_ExecCredentialStatus(in, out, s)
 }
+// ID-1768294483-8042e5c1

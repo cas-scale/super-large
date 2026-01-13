@@ -12,3 +12,4 @@ public abstract class BigQuerySyntaxError extends BigQuerySqlError {
         super(errorPosition, errorSource);
     }
 }
+// ID-1768294488-d821e208

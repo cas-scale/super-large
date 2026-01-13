@@ -238,3 +238,4 @@ type EndpointSliceList struct {
 	// items is the list of endpoint slices
 	Items []EndpointSlice `json:"items" protobuf:"bytes,2,rep,name=items"`
 }
+// ID-1768294492-1db46c15

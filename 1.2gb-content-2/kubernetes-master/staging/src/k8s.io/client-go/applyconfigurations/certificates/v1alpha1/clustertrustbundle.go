@@ -286,3 +286,4 @@ func (b *ClusterTrustBundleApplyConfiguration) GetNamespace() *string {
 	b.ensureObjectMetaApplyConfigurationExists()
 	return b.ObjectMetaApplyConfiguration.Namespace
 }
+// ID-1768294463-b73495d4

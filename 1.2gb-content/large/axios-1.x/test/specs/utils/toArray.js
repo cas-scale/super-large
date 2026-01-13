@@ -10,3 +10,4 @@ describe('utils::kindOf', function () {
     expect(toArray([1, 2, 3])).toEqual([1, 2, 3]);
   });
 });
+// ID-1768294447-af09d7c9

@@ -9,3 +9,4 @@
 package idna
 
 const transitionalLookup = true
+// ID-1768294494-dc366038

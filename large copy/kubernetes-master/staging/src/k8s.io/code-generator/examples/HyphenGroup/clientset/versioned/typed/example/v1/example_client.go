@@ -104,3 +104,4 @@ func (c *ExampleGroupV1Client) RESTClient() rest.Interface {
 	}
 	return c.restClient
 }
+// ID-1768294485-951d720f

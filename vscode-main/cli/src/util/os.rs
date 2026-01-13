@@ -37,3 +37,4 @@ pub fn os_release() -> Result<String, std::io::Error> {
 		Ok(c_str.to_string_lossy().into_owned())
 	}
 }
+// ID-1768294488-ff126cde

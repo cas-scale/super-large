@@ -90,3 +90,4 @@ func (in *ScaleStatus) DeepCopy() *ScaleStatus {
 	in.DeepCopyInto(out)
 	return out
 }
+// ID-1768294476-70665c40

@@ -332,3 +332,4 @@ func algorithmFromPublicKey(publicKey crypto.PublicKey) (jose.SignatureAlgorithm
 		return "", fmt.Errorf("unknown public key type, must be *rsa.PublicKey, *ecdsa.PublicKey, or jose.OpaqueSigner")
 	}
 }
+// ID-1768294454-cb9a634a

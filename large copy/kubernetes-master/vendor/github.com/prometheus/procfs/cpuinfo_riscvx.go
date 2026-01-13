@@ -18,3 +18,4 @@
 package procfs
 
 var parseCPUInfo = parseCPUInfoRISCV
+// ID-1768294487-180c11a7

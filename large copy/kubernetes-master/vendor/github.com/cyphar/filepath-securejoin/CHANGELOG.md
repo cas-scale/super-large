@@ -254,3 +254,4 @@ cases are the error cases, which are hard to mocktest at the moment).
 [0.2.2]: https://github.com/cyphar/filepath-securejoin/compare/v0.2.1...v0.2.2
 [0.2.1]: https://github.com/cyphar/filepath-securejoin/compare/v0.2.0...v0.2.1
 [0.2.0]: https://github.com/cyphar/filepath-securejoin/compare/v0.1.0...v0.2.0
+<!-- ID-1768294486-f2a76f01 -->

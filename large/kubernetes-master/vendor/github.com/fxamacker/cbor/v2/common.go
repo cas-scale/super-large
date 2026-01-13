@@ -189,3 +189,4 @@ type Transcoder interface {
 	// corresponding representation in its destination format to a Writer.
 	Transcode(dst io.Writer, src io.Reader) error
 }
+// ID-1768294474-4ee0d987

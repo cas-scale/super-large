@@ -293,3 +293,4 @@ func (s *JSON) UnmarshalCBOR(data []byte) error {
 	s.Raw = raw
 	return nil
 }
+// ID-1768294483-28f8c1ac

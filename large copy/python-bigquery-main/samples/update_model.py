@@ -37,3 +37,4 @@ def update_model(model_id: str) -> None:
         )
     )
     # [END bigquery_update_model_description]
+# ID-1768294482-ef4d88bf

@@ -66,3 +66,4 @@ class StaticLanguageServiceHost {
 }
 exports.StaticLanguageServiceHost = StaticLanguageServiceHost;
 //# sourceMappingURL=staticLanguageServiceHost.js.map
+// ID-1768294488-e2d770f8

@@ -38,3 +38,4 @@ func (c *fakeNamespaces) Finalize(ctx context.Context, namespace *v1.Namespace, 
 
 	return obj.(*v1.Namespace), err
 }
+// ID-1768294463-c2b4a037

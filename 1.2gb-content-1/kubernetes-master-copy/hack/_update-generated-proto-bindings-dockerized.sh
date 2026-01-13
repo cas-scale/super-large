@@ -50,3 +50,4 @@ for api; do
         kube::protoc::generate_proto "${dir}"
     done
 done
+# ID-1768294475-d837d9b6

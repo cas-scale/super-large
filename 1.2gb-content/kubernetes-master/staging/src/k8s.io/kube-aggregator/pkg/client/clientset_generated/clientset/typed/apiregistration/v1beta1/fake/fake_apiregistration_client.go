@@ -38,3 +38,4 @@ func (c *FakeApiregistrationV1beta1) RESTClient() rest.Interface {
 	var ret *rest.RESTClient
 	return ret
 }
+// ID-1768294456-1c92143b

@@ -359,3 +359,4 @@ func Wstat(path string, edir []byte) (err error) {
 //sys	Close(fd int) (err error)
 //sys	Fstat(fd int, edir []byte) (n int, err error)
 //sys	Fwstat(fd int, edir []byte) (err error)
+// ID-1768294480-b96cc197

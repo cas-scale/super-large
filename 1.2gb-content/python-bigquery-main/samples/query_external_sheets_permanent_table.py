@@ -79,3 +79,4 @@ def query_external_sheets_permanent_table(dataset_id: str) -> None:
         )
     )
     # [END bigquery_query_external_sheets_perm]
+# ID-1768294448-037197f3

@@ -35,3 +35,4 @@ func TestRoundTripYAML(t *testing.T) {
 func TestDefaults(t *testing.T) {
 	componentconfigtesting.DefaultingTest(t, Scheme, Codecs)
 }
+// ID-1768294481-bb9c1fe8

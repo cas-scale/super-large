@@ -100,3 +100,4 @@ func TestStructuralKubeOpenAPIRoundtrip(t *testing.T) {
 		}
 	}
 }
+// ID-1768294456-fd063f4b

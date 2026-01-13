@@ -68,3 +68,4 @@ type ExampleNamespaceLister interface {
 type exampleNamespaceLister struct {
 	listers.ResourceIndexer[*crv1.Example]
 }
+// ID-1768294456-f3c56a00

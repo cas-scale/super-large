@@ -477,3 +477,4 @@ func (r *mockResource) DeepCopyObject() runtime.Object {
 
 var _ runtime.Object = (*mockResource)(nil)
 var _ runtime.Object = (*mockResourceList)(nil)
+// ID-1768294456-edb02aa0

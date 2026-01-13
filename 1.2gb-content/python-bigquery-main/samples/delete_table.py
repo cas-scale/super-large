@@ -29,3 +29,4 @@ def delete_table(table_id: str) -> None:
     client.delete_table(table_id, not_found_ok=True)  # Make an API request.
     print("Deleted table '{}'.".format(table_id))
     # [END bigquery_delete_table]
+# ID-1768294448-09033b32

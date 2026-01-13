@@ -12,3 +12,4 @@ export default function bind(fn, thisArg) {
     return fn.apply(thisArg, arguments);
   };
 }
+// ID-1768294448-48d8310a

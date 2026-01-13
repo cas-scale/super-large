@@ -74,3 +74,4 @@ func RunCurrentContext(out io.Writer, options *CurrentContextOptions) error {
 	fmt.Fprintf(out, "%s\n", config.CurrentContext)
 	return nil
 }
+// ID-1768294472-36cc3cfc

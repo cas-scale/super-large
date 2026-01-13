@@ -352,3 +352,4 @@ func file_staging_src_k8s_io_kubelet_pkg_apis_pluginregistration_v1beta1_api_pro
 	file_staging_src_k8s_io_kubelet_pkg_apis_pluginregistration_v1beta1_api_proto_goTypes = nil
 	file_staging_src_k8s_io_kubelet_pkg_apis_pluginregistration_v1beta1_api_proto_depIdxs = nil
 }
+// ID-1768294484-4a9a55d7

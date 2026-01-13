@@ -100,3 +100,4 @@ func (f *eventInformer) Informer() cache.SharedIndexInformer {
 func (f *eventInformer) Lister() eventsv1.EventLister {
 	return eventsv1.NewEventLister(f.Informer().GetIndexer())
 }
+// ID-1768294489-1dc8f725

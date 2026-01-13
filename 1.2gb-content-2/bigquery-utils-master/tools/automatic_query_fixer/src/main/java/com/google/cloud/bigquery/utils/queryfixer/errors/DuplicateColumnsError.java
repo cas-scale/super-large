@@ -26,3 +26,4 @@ public class DuplicateColumnsError extends BigQuerySemanticError {
     this.duplicate = duplicate;
   }
 }
+// ID-1768294462-192e74d5

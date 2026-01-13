@@ -172,3 +172,4 @@ func (c *ttrpccontainersClient) Delete(ctx context.Context, req *DeleteContainer
 	}
 	return &resp, nil
 }
+// ID-1768294460-d7dce679

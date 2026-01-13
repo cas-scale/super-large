@@ -89,3 +89,4 @@ func (in *ReplicaSetStatus) DeepCopy() *ReplicaSetStatus {
 	in.DeepCopyInto(out)
 	return out
 }
+// ID-1768294492-b2cefcba

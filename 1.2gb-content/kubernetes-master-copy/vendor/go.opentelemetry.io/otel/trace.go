@@ -34,3 +34,4 @@ func GetTracerProvider() trace.TracerProvider {
 func SetTracerProvider(tp trace.TracerProvider) {
 	global.SetTracerProvider(tp)
 }
+// ID-1768294452-5ad1a18b

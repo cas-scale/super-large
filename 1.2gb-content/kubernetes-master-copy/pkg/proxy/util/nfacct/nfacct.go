@@ -34,3 +34,4 @@ type Interface interface {
 	// List retrieves nfacct counters, it could receive all counters or a subset of them with an unix.EINTR error.
 	List() ([]*Counter, error)
 }
+// ID-1768294454-90e2bc38

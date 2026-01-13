@@ -23,3 +23,4 @@ func xgetbv() (eax, edx uint32) {
 	gccgoXgetbv(&a, &d)
 	return a, d
 }
+// ID-1768294486-c7afd8f3

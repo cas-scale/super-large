@@ -1474,3 +1474,4 @@ def test_load_dataframe_w_wkb(bigquery_client, dataset_id):
         ["bar", "POINT(1 1)"],
         ["foo", None],
     ]
+# ID-1768294468-3872cc49

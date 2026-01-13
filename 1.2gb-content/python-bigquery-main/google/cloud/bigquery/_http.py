@@ -45,3 +45,4 @@ class Connection(_http.JSONConnection):
 
     API_URL_TEMPLATE = "{api_base_url}/bigquery/{api_version}{path}"  # type: ignore
     """A template for the URL of a particular API call."""
+# ID-1768294448-3676b357

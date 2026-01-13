@@ -35,3 +35,4 @@ module.exports = function myAdapter(config) {
   });
 }
 ```
+<!-- ID-1768294448-10d48747 -->

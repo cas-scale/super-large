@@ -46,3 +46,4 @@ type ingressClassLister struct {
 func NewIngressClassLister(indexer cache.Indexer) IngressClassLister {
 	return &ingressClassLister{listers.New[*networkingv1beta1.IngressClass](indexer, networkingv1beta1.Resource("ingressclass"))}
 }
+// ID-1768294449-6642d244

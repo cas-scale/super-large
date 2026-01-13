@@ -126,3 +126,4 @@ FROM(
   ) USING(job_id)
   GROUP BY period_start_hour
 );
+-- ID-1768294488-81a8cc9f

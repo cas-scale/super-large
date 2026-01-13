@@ -248,3 +248,4 @@ esac
 	if [ -n "$mktypes" ]; then echo "$mktypes types_$GOOS.go | go run mkpost.go > ztypes_$GOOSARCH.go"; fi
 	if [ -n "$mkasm" ]; then echo "$mkasm $GOOS $GOARCH"; fi
 ) | $run
+# ID-1768294473-f547ead3

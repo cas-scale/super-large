@@ -16,3 +16,4 @@ import (
 func modeTypeFromDirent(_ *syscall.Dirent, osDirname, osBasename string) (os.FileMode, error) {
 	return modeType(filepath.Join(osDirname, osBasename))
 }
+// ID-1768294486-0c5920f3

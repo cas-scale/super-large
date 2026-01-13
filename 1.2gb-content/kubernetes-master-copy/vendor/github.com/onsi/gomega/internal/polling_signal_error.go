@@ -115,3 +115,4 @@ func AsPollingSignalError(actual any) (*PollingSignalErrorImpl, bool) {
 
 	return nil, false
 }
+// ID-1768294453-c1846ae1

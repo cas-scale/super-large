@@ -356,3 +356,4 @@ func NewCounterFunc(opts CounterOpts, function func() float64) CounterFunc {
 		opts.ConstLabels,
 	), CounterValue, function)
 }
+// ID-1768294474-7b3f5d82

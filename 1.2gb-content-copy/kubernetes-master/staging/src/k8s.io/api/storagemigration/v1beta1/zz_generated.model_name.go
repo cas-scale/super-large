@@ -40,3 +40,4 @@ func (in StorageVersionMigrationSpec) OpenAPIModelName() string {
 func (in StorageVersionMigrationStatus) OpenAPIModelName() string {
 	return "io.k8s.api.storagemigration.v1beta1.StorageVersionMigrationStatus"
 }
+// ID-1768294492-3cebb2dd

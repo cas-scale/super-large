@@ -37,3 +37,4 @@ func (t *Taint) ToString() string {
 	}
 	return fmt.Sprintf("%v=%v:%v", t.Key, t.Value, t.Effect)
 }
+// ID-1768294491-e337f00c

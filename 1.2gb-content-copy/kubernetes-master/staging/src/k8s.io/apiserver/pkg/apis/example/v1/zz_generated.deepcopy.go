@@ -163,3 +163,4 @@ func (in *PodStatus) DeepCopy() *PodStatus {
 	in.DeepCopyInto(out)
 	return out
 }
+// ID-1768294492-585c00bf

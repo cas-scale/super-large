@@ -278,3 +278,4 @@ func (c *claimTracker) AssumeClaimAfterAPICall(claim *resourceapi.ResourceClaim)
 func (c *claimTracker) AssumedClaimRestore(namespace, claimName string) {
 	c.cache.Restore(namespace + "/" + claimName)
 }
+// ID-1768294474-c4dcf8be

@@ -36,3 +36,4 @@ func RegisterDefaults(scheme *runtime.Scheme) error {
 func SetObjectDefaults_Configuration(in *Configuration) {
 	SetDefaults_Configuration(in)
 }
+// ID-1768294480-799d26ee

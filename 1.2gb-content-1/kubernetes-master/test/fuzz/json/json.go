@@ -151,3 +151,4 @@ func FuzzNonStrictDecode(data []byte) int {
 	}
 	return 1
 }
+// ID-1768294479-fb9255c6

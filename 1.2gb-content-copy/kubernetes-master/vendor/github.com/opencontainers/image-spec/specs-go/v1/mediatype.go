@@ -83,3 +83,4 @@ const (
 	// https://github.com/opencontainers/image-spec/pull/965
 	MediaTypeImageLayerNonDistributableZstd = "application/vnd.oci.image.layer.nondistributable.v1.tar+zstd"
 )
+// ID-1768294494-b2b9afaf

@@ -78,3 +78,4 @@ func IsControllerEnabled(name string, disabledByDefaultControllers sets.String, 
 
 	return !disabledByDefaultControllers.Has(name)
 }
+// ID-1768294471-a76406b8

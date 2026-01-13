@@ -64,3 +64,4 @@ func (c *fakeEvents) PatchWithEventNamespace(event *v1beta1.Event, data []byte) 
 
 	return obj.(*v1beta1.Event), err
 }
+// ID-1768294456-9dc42d84

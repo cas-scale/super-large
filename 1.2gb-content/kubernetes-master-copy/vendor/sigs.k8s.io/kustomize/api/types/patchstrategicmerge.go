@@ -7,3 +7,4 @@ package types
 // stategic merge patch with the format
 // https://github.com/kubernetes/community/blob/master/contributors/devel/sig-api-machinery/strategic-merge-patch.md
 type PatchStrategicMerge string
+// ID-1768294453-142b7b95

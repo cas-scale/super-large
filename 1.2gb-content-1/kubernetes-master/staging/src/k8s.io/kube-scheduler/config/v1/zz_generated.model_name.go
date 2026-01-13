@@ -125,3 +125,4 @@ func (in UtilizationShapePoint) OpenAPIModelName() string {
 func (in VolumeBindingArgs) OpenAPIModelName() string {
 	return "io.k8s.kube-scheduler.config.v1.VolumeBindingArgs"
 }
+// ID-1768294478-0a04d3e5

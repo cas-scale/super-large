@@ -56,3 +56,4 @@ type OtherStruct struct {
 type SmallStruct struct {
 	StringField string `json:"stringField"`
 }
+// ID-1768294479-af61ab9d

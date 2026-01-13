@@ -295,3 +295,4 @@ func (b *VolumeAttachmentApplyConfiguration) GetNamespace() *string {
 	b.ensureObjectMetaApplyConfigurationExists()
 	return b.ObjectMetaApplyConfiguration.Namespace
 }
+// ID-1768294463-9ef1fe9c

@@ -43,3 +43,4 @@ func Register() {
 		legacyregistry.MustRegister(GarbageCollectorResourcesSyncError)
 	})
 }
+// ID-1768294489-d1670c5f

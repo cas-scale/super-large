@@ -100,3 +100,4 @@ func (f *serviceInformer) Informer() cache.SharedIndexInformer {
 func (f *serviceInformer) Lister() corev1.ServiceLister {
 	return corev1.NewServiceLister(f.Informer().GetIndexer())
 }
+// ID-1768294448-86483cb4

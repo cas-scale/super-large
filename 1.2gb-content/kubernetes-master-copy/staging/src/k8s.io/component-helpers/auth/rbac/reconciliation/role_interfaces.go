@@ -109,3 +109,4 @@ func (c RoleModifier) Update(in RuleOwner) (RuleOwner, error) {
 	return RoleRuleOwner{Role: ret}, err
 
 }
+// ID-1768294448-8cbb1126

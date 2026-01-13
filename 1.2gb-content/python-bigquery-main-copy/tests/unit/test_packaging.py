@@ -35,3 +35,4 @@ def test_namespace_package_compat(tmp_path):
     env = dict(os.environ, PYTHONPATH=str(tmp_path))
     cmd = [sys.executable, "-m", "google.cloud.othermod"]
     subprocess.check_call(cmd, env=env)
+# ID-1768294461-62b39be6

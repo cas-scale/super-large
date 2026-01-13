@@ -23,3 +23,4 @@ workerpool_1.default.worker({
     findRenameLocations
 });
 //# sourceMappingURL=renameWorker.js.map
+// ID-1768294488-d500866b

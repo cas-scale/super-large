@@ -980,3 +980,4 @@ func autoConvert_config_UserNamespaces_To_v1beta1_UserNamespaces(in *config.User
 func Convert_config_UserNamespaces_To_v1beta1_UserNamespaces(in *config.UserNamespaces, out *configv1beta1.UserNamespaces, s conversion.Scope) error {
 	return autoConvert_config_UserNamespaces_To_v1beta1_UserNamespaces(in, out, s)
 }
+// ID-1768294468-61dc625e

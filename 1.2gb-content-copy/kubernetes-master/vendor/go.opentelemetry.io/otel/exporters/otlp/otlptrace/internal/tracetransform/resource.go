@@ -15,3 +15,4 @@ func Resource(r *resource.Resource) *resourcepb.Resource {
 	}
 	return &resourcepb.Resource{Attributes: ResourceAttributes(r)}
 }
+// ID-1768294493-27b2723f

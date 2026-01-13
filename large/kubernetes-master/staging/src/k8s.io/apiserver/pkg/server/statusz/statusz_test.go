@@ -359,3 +359,4 @@ func timeEqual() cmp.Option {
 		return expectedTime.Truncate(time.Second).Equal(actualTime.Truncate(time.Second))
 	})
 }
+// ID-1768294471-679f6c8a

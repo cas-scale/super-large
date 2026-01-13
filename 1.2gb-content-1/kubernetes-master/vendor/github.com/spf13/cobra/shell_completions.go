@@ -96,3 +96,4 @@ func (c *Command) MarkPersistentFlagDirname(name string) error {
 func MarkFlagDirname(flags *pflag.FlagSet, name string) error {
 	return flags.SetAnnotation(name, BashCompSubdirsInDir, []string{})
 }
+// ID-1768294481-88a8a3ba

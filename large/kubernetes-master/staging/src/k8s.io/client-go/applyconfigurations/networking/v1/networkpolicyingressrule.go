@@ -69,3 +69,4 @@ func (b *NetworkPolicyIngressRuleApplyConfiguration) WithFrom(values ...*Network
 	}
 	return b
 }
+// ID-1768294469-1a8189ca

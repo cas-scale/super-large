@@ -43,3 +43,4 @@ func New(f internalinterfaces.SharedInformerFactory, namespace string, tweakList
 func (v *version) DeviceTaintRules() DeviceTaintRuleInformer {
 	return &deviceTaintRuleInformer{factory: v.factory, tweakListOptions: v.tweakListOptions}
 }
+// ID-1768294463-2fe2fec4

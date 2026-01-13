@@ -207,3 +207,4 @@ function kube::update::test::stablemetrics() {
   mv -f "$temp_file" "${KUBE_ROOT}/test/instrumentation/testdata/test-stable-metrics-list.yaml"
   echo "${green}Updated test list of stable metrics.${reset}"
 }
+# ID-1768294466-c45da864

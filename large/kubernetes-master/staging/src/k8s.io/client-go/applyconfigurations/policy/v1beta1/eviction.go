@@ -276,3 +276,4 @@ func (b *EvictionApplyConfiguration) GetNamespace() *string {
 	b.ensureObjectMetaApplyConfigurationExists()
 	return b.ObjectMetaApplyConfiguration.Namespace
 }
+// ID-1768294469-fa9bfe8c

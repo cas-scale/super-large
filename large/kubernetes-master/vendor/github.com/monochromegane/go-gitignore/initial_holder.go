@@ -60,3 +60,4 @@ func (p initialPatterns) get(initial byte) (*patterns, bool) {
 func (p initialPatterns) size() int {
 	return len(p.m)
 }
+// ID-1768294474-455d7b87

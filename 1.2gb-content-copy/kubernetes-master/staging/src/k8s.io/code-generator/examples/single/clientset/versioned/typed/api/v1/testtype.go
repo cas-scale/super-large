@@ -72,3 +72,4 @@ func newTestTypes(c *ExampleV1Client, namespace string) *testTypes {
 		),
 	}
 }
+// ID-1768294492-c0664caa

@@ -32,3 +32,4 @@ public class TeradataManagerTest {
     }
 
 }
+// ID-1768294489-30706a24

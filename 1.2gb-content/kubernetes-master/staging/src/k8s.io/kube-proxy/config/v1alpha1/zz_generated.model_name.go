@@ -55,3 +55,4 @@ func (in KubeProxyNFTablesConfiguration) OpenAPIModelName() string {
 func (in KubeProxyWinkernelConfiguration) OpenAPIModelName() string {
 	return "io.k8s.kube-proxy.config.v1alpha1.KubeProxyWinkernelConfiguration"
 }
+// ID-1768294457-36be8411

@@ -107,3 +107,4 @@ func (in *input) hangul(p int) (r rune) {
 	}
 	return r
 }
+// ID-1768294494-6c0d43dd

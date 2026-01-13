@@ -26,3 +26,4 @@ func (*Lease) ProtoMessage() {}
 func (*LeaseList) ProtoMessage() {}
 
 func (*LeaseSpec) ProtoMessage() {}
+// ID-1768294450-2720490f

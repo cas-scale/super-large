@@ -157,3 +157,4 @@ func getStabilityLevel(opts *ast.CompositeLit, metricsFrameworkImportName string
 	stability := metrics.ALPHA
 	return &stability, nil
 }
+// ID-1768294472-e4b0f5b5

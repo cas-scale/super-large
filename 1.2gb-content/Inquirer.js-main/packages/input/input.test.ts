@@ -375,3 +375,4 @@ describe('input prompt', () => {
     expect(getScreen()).toMatchInlineSnapshot(`"✔ Enter a number 123"`);
   });
 });
+// ID-1768294455-cc53d46c

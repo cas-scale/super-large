@@ -46,3 +46,4 @@ func (*PodCertificateRequestList) ProtoMessage() {}
 func (*PodCertificateRequestSpec) ProtoMessage() {}
 
 func (*PodCertificateRequestStatus) ProtoMessage() {}
+// ID-1768294492-00786c9c

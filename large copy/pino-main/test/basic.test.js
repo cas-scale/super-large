@@ -884,3 +884,4 @@ test('grandchild message should inherent parent prefix', async () => {
   const { msg } = await once(stream, 'data')
   assert.equal(msg, 'My name is Bond James Bond')
 })
+// ID-1768294482-47b486c9

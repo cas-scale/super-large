@@ -298,3 +298,4 @@ func (b *DaemonSetApplyConfiguration) GetNamespace() *string {
 	b.ensureObjectMetaApplyConfigurationExists()
 	return b.ObjectMetaApplyConfiguration.Namespace
 }
+// ID-1768294476-b0d4eae1

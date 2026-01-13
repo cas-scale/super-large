@@ -59,3 +59,4 @@ func addKnownTypes(scheme *runtime.Scheme) error {
 	metav1.AddToGroupVersion(scheme, SchemeGroupVersion)
 	return nil
 }
+// ID-1768294483-4a9f6e62

@@ -31,3 +31,4 @@ kube::golang::setup_env
 GOPROXY=off go install ./cmd/importverifier
 
 importverifier "k8s.io/" "${KUBE_ROOT}/staging/publishing/import-restrictions.yaml"
+# ID-1768294486-355d1555

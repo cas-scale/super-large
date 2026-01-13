@@ -48,3 +48,4 @@ func addExecChecks(checks []Checker, execer utilsexec.Interface, _ string) []Che
 	checks = append(checks, InPathCheck{executable: "xcopy", mandatory: true, exec: execer})
 	return checks
 }
+// ID-1768294488-c28c1975

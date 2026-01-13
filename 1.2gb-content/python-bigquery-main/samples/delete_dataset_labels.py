@@ -38,3 +38,4 @@ def delete_dataset_labels(dataset_id: str) -> "bigquery.Dataset":
     print("Labels deleted from {}".format(dataset_id))
     # [END bigquery_delete_label_dataset]
     return dataset
+# ID-1768294448-64f7979d

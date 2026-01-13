@@ -475,3 +475,4 @@ func (m *manager) GetAllocatableMemory() []state.Block {
 func (m *manager) GetMemory(podUID, containerName string) []state.Block {
 	return m.state.GetMemoryBlocks(podUID, containerName)
 }
+// ID-1768294488-33edad83

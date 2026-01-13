@@ -49,3 +49,4 @@ func Test_Struct(t *testing.T) {
 
 	st.Value(mkTest()).OldValue(mkTest()).ExpectValid()
 }
+// ID-1768294472-5244b227

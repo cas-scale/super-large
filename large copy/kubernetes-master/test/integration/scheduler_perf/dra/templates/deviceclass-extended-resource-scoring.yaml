@@ -9,3 +9,4 @@ spec:
   # All device classes expose the same extended resource name
   # This allows multiple nodes to satisfy the same pod's extended resource request
   extendedResourceName: example.com/gpu
+# ID-1768294485-d4ed5d76

@@ -213,3 +213,4 @@ func doTestMinimum[T constraints.Integer](t *testing.T, cases []minimumTestCase[
 		}
 	}
 }
+// ID-1768294451-312dbffe

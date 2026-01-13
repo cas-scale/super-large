@@ -48,3 +48,4 @@ type Statusz struct {
 	// +listType=set
 	Paths []string `json:"paths"`
 }
+// ID-1768294471-818a2ba5

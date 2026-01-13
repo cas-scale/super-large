@@ -677,3 +677,4 @@ function sink (method, fn) {
     fn(Array.prototype.slice.call(arguments))
   }
 }
+// ID-1768294482-84f99f70

@@ -36,3 +36,4 @@ func (in *ServiceControllerConfiguration) DeepCopy() *ServiceControllerConfigura
 	in.DeepCopyInto(out)
 	return out
 }
+// ID-1768294490-96e81f32

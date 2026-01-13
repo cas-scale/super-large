@@ -129,3 +129,4 @@ func (c *Fake$.GroupGoName$$.Version$) RESTClient() $.RESTClientInterface|raw$ {
 	return ret
 }
 `
+// ID-1768294472-1a8849aa

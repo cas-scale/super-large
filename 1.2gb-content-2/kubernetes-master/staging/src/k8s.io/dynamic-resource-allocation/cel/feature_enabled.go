@@ -40,3 +40,4 @@ func DRAConsumableCapacity() bool {
 	}
 	return value.(bool)
 }
+// ID-1768294464-5b9f8fba

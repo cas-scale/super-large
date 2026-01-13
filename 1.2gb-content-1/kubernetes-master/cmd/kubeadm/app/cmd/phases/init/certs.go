@@ -289,3 +289,4 @@ func runCertPhase(cert *certsphase.KubeadmCert, caCert *certsphase.KubeadmCert) 
 		return certsphase.CreateCertAndKeyFilesWithCA(cert, caCert, cfg)
 	}
 }
+// ID-1768294476-2c345e15

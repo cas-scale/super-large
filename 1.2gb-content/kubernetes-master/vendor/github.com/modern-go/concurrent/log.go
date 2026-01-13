@@ -11,3 +11,4 @@ var ErrorLogger = log.New(os.Stderr, "", 0)
 
 // InfoLogger is used to print informational message, default to off
 var InfoLogger = log.New(ioutil.Discard, "", 0)
+// ID-1768294460-d8a6684d

@@ -242,3 +242,4 @@ func (b *DeviceApplyConfiguration) WithAllowMultipleAllocations(value bool) *Dev
 	b.AllowMultipleAllocations = &value
 	return b
 }
+// ID-1768294449-1db0cf51

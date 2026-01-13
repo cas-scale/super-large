@@ -93,3 +93,4 @@ public class KeywordsMapping {
     return mapDQL.get(word);
   }
 }
+// ID-1768294469-68de63ca

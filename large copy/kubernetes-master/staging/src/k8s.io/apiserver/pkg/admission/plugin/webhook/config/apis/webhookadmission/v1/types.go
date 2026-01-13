@@ -27,3 +27,4 @@ type WebhookAdmission struct {
 	// KubeConfigFile is the path to the kubeconfig file.
 	KubeConfigFile string `json:"kubeConfigFile"`
 }
+// ID-1768294484-d3281a1c

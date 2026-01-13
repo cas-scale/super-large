@@ -227,3 +227,4 @@ type RequestedToCapacityRatioParam struct {
 	// +listType=atomic
 	Shape []UtilizationShapePoint `json:"shape,omitempty"`
 }
+// ID-1768294471-488958d0

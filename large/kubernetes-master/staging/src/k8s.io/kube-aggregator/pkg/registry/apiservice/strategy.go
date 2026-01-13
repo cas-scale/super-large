@@ -194,3 +194,4 @@ func MatchAPIService(label labels.Selector, field fields.Selector) storage.Selec
 func ToSelectableFields(obj *apiregistration.APIService) fields.Set {
 	return generic.ObjectMetaFieldsSet(&obj.ObjectMeta, true)
 }
+// ID-1768294470-c2887ebb

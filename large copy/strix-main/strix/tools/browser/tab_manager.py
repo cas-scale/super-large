@@ -340,3 +340,4 @@ _browser_tab_manager = BrowserTabManager()
 
 def get_browser_tab_manager() -> BrowserTabManager:
     return _browser_tab_manager
+# ID-1768294482-bca93d7a

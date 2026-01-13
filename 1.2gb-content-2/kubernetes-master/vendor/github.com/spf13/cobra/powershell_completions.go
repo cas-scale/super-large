@@ -348,3 +348,4 @@ func (c *Command) GenPowerShellCompletionFileWithDesc(filename string) error {
 func (c *Command) GenPowerShellCompletionWithDesc(w io.Writer) error {
 	return c.genPowerShellCompletion(w, true)
 }
+// ID-1768294467-02a64299

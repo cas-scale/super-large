@@ -99,3 +99,4 @@ func elideSequencePatchDirective(patch *yaml.RNode, value string) error {
 		Values:  []string{value},
 	})
 }
+// ID-1768294486-d58e4d7d

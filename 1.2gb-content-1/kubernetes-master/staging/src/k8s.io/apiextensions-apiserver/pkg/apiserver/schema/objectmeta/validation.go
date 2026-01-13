@@ -119,3 +119,4 @@ func validateEmbeddedResource(pth *field.Path, x map[string]interface{}, s *stru
 
 	return allErrs
 }
+// ID-1768294477-b470aa6f

@@ -46,3 +46,4 @@ func (j *testJoinData) KubeConfigDir() string                                { r
 func (j *testJoinData) KubeletDir() string                                   { return "" }
 func (j *testJoinData) ManifestDir() string                                  { return "" }
 func (j *testJoinData) CertificateWriteDir() string                          { return "" }
+// ID-1768294482-926fbb8c

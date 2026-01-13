@@ -16,3 +16,4 @@ func getOSRoot() (string, error) {
 	}
 	return filepath.VolumeName(sysDir) + `\`, nil
 }
+// ID-1768294480-eee09309

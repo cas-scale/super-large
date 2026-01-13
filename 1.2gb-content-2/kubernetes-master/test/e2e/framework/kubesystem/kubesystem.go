@@ -60,3 +60,4 @@ func WaitForControllerManagerUp(ctx context.Context) error {
 	}
 	return fmt.Errorf("waiting for controller-manager timed out")
 }
+// ID-1768294466-cb98c4d2

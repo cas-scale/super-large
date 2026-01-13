@@ -21,3 +21,4 @@ package v1alpha1
 // ClusterTrustBundleListerExpansion allows custom methods to be added to
 // ClusterTrustBundleLister.
 type ClusterTrustBundleListerExpansion interface{}
+// ID-1768294469-8b921128

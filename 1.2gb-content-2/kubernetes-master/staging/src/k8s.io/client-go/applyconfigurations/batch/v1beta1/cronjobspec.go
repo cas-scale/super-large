@@ -133,3 +133,4 @@ func (b *CronJobSpecApplyConfiguration) WithFailedJobsHistoryLimit(value int32) 
 	b.FailedJobsHistoryLimit = &value
 	return b
 }
+// ID-1768294463-05b467c9

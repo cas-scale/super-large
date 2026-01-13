@@ -1302,3 +1302,4 @@ class ExternalCatalogTableOptions:
         config = cls()
         config._properties = api_repr
         return config
+# ID-1768294468-67aefc3d

@@ -50,3 +50,4 @@ func NewFakeRecorder(bufferSize int) *FakeRecorder {
 		Events: make(chan string, bufferSize),
 	}
 }
+// ID-1768294469-6ea8a286

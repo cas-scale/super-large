@@ -43,3 +43,4 @@ apache-jmeter-5.3/bin/jmeter -n \
 -Jrun_id=jmeter_jdbc_test \
 -Jthread_duration=10 \
 -Jramp_time=0;
+# ID-1768294448-0937b7a2

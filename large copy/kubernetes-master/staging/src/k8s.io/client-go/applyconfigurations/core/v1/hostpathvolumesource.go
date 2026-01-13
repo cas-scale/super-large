@@ -59,3 +59,4 @@ func (b *HostPathVolumeSourceApplyConfiguration) WithType(value corev1.HostPathT
 	b.Type = &value
 	return b
 }
+// ID-1768294482-c08f6601

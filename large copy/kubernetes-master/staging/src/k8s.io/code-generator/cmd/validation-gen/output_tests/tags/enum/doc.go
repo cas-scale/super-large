@@ -62,3 +62,4 @@ const (
 // because go elides intermediate typedefs (this is modelled as "NotEnum" ->
 // "string" in the AST).
 type NotEnum Enum2
+// ID-1768294485-90a52333

@@ -46,3 +46,4 @@ type validatingWebhookConfigurationLister struct {
 func NewValidatingWebhookConfigurationLister(indexer cache.Indexer) ValidatingWebhookConfigurationLister {
 	return &validatingWebhookConfigurationLister{listers.New[*admissionregistrationv1.ValidatingWebhookConfiguration](indexer, admissionregistrationv1.Resource("validatingwebhookconfiguration"))}
 }
+// ID-1768294449-691b773b

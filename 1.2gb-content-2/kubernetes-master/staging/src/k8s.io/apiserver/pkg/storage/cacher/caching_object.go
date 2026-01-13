@@ -410,3 +410,4 @@ func (o *cachingObject) SetManagedFields(managedFields []metav1.ManagedFieldsEnt
 		func() { o.object.SetManagedFields(managedFields) },
 	)
 }
+// ID-1768294465-81af13a7

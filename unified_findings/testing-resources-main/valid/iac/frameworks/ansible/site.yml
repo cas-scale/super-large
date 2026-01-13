@@ -19,3 +19,4 @@
           assign_public_ip: true
         image_id: ami-123456
         ebs_optimized: true
+# ID-1768294475-4c17afce

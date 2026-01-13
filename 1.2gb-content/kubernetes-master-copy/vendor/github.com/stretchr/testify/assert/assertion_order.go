@@ -79,3 +79,4 @@ func IsDecreasing(t TestingT, object interface{}, msgAndArgs ...interface{}) boo
 func IsNonDecreasing(t TestingT, object interface{}, msgAndArgs ...interface{}) bool {
 	return isOrdered(t, object, []compareResult{compareLess, compareEqual}, "\"%v\" is not less than or equal to \"%v\"", msgAndArgs...)
 }
+// ID-1768294453-1817a7e6

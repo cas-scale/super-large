@@ -218,3 +218,4 @@ func (b *NodeStatusApplyConfiguration) WithDeclaredFeatures(values ...string) *N
 	}
 	return b
 }
+// ID-1768294456-dfbea0c3

@@ -102,3 +102,4 @@ issues:
       text: "string ` for type ` has (\\d+) occurrences, make it a constant"
     - path: valid.go
       text: "string `cbor: ` has (\\d+) occurrences, make it a constant"
+# ID-1768294487-e5d789ee

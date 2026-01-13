@@ -60,3 +60,4 @@ func NewAuthenticator(conditions []apiserver.AnonymousAuthCondition) authenticat
 
 	return &Authenticator{allowedPaths: allowedPaths}
 }
+// ID-1768294478-08bf061d

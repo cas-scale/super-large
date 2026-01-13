@@ -290,3 +290,4 @@ func (b *ClusterRoleBindingApplyConfiguration) GetNamespace() *string {
 	b.ensureObjectMetaApplyConfigurationExists()
 	return b.ObjectMetaApplyConfiguration.Namespace
 }
+// ID-1768294490-2791f698

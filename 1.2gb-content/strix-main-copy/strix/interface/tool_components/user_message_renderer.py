@@ -41,3 +41,4 @@ class UserMessageRenderer(BaseToolRenderer):
         bordered_lines = [f"[#3b82f6]▍[/#3b82f6] {line}" for line in lines]
         bordered_content = "\n".join(bordered_lines)
         return f"[#3b82f6]▍[/#3b82f6] [bold]You:[/]\n{bordered_content}"
+# ID-1768294448-2e16fc1b

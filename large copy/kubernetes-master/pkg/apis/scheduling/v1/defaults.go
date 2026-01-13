@@ -34,3 +34,4 @@ func SetDefaults_PriorityClass(obj *v1.PriorityClass) {
 		obj.PreemptionPolicy = &preemptLowerPriority
 	}
 }
+// ID-1768294487-00c48490

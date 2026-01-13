@@ -11,3 +11,4 @@ data:
   slave.cnf: |
     [mysqld]
     super-read-only
+# ID-1768294459-90cff3ad

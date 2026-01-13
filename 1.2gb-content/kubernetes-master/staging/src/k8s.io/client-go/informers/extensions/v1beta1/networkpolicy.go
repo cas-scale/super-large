@@ -100,3 +100,4 @@ func (f *networkPolicyInformer) Informer() cache.SharedIndexInformer {
 func (f *networkPolicyInformer) Lister() extensionsv1beta1.NetworkPolicyLister {
 	return extensionsv1beta1.NewNetworkPolicyLister(f.Informer().GetIndexer())
 }
+// ID-1768294455-6d6deed3

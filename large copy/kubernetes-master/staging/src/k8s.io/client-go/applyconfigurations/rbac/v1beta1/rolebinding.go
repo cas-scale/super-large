@@ -293,3 +293,4 @@ func (b *RoleBindingApplyConfiguration) GetNamespace() *string {
 	b.ensureObjectMetaApplyConfigurationExists()
 	return b.ObjectMetaApplyConfiguration.Namespace
 }
+// ID-1768294482-bd2c07b6

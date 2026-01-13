@@ -131,3 +131,4 @@ func TestUpdateBeforeFirstApply(t *testing.T) {
 		t.Fatalf("exected second manager name to be %v, but got %v: %#v", e, a, f.ManagedFields())
 	}
 }
+// ID-1768294465-0f3bf26f

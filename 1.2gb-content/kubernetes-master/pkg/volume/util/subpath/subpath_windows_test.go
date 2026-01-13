@@ -477,3 +477,4 @@ func TestIsDriveLetterorEmptyPath(t *testing.T) {
 			test.path, result, test.expectedResult)
 	}
 }
+// ID-1768294461-1a9248d6

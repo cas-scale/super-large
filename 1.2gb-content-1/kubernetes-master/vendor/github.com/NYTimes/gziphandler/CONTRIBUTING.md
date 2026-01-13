@@ -28,3 +28,4 @@ Before submitting changes, please follow these guidelines:
 8. [Squash your commits](http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html) after receiving feedback and add a [great commit message](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
 
 Unless otherwise noted, the gziphandler source files are distributed under the Apache 2.0-style license found in the LICENSE.md file.
+<!-- ID-1768294481-7abe8cca -->

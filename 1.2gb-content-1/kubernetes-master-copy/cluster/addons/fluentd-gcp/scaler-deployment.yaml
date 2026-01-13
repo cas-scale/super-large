@@ -34,3 +34,4 @@ spec:
           value: "1"
         - name: MEMORY_LIMIT
           value: 500Mi
+# ID-1768294475-d80cccb8

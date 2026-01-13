@@ -148,3 +148,4 @@ Bump the dependencies in the following Go services:
 ### Close the `Version Release` issue
 
 Once the todo list in the `Version Release` issue is complete, close the issue.
+<!-- ID-1768294452-8907f6a8 -->

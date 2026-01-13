@@ -64,3 +64,4 @@ func (in *BootstrapToken) DeepCopy() *BootstrapToken {
 	in.DeepCopyInto(out)
 	return out
 }
+// ID-1768294489-edff8d85

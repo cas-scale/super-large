@@ -268,3 +268,4 @@ func TestAbsWithSlash(t *testing.T) {
 	assert.False(t, IsAbs("./local"))
 	assert.False(t, IsAbs("local"))
 }
+// ID-1768294495-a5f68b07

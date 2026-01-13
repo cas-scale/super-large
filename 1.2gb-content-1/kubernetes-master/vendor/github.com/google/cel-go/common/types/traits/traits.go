@@ -77,3 +77,4 @@ const (
 	// The MapperType is syntactic sugar and not intended to be a perfect reflection of all Map operators.
 	MapperType = ContainerType | IndexerType | IterableType | SizerType
 )
+// ID-1768294480-afd3a020

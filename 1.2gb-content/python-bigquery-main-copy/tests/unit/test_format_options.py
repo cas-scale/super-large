@@ -68,3 +68,4 @@ class TestParquetOptions:
             "enableListInference": False,
             "mapTargetType": "ARRAY_OF_STRUCT",
         }
+# ID-1768294461-a9043a97

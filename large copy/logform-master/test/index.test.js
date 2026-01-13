@@ -57,3 +57,4 @@ describe('logform (browser)', assumeLogform(logform.browser));
 
 describe('logform (node, transpiled)', assumeLogform(transpiled.node));
 describe('logform (browser, transpiled)', assumeLogform(transpiled.browser));
+// ID-1768294482-5c2a3c45

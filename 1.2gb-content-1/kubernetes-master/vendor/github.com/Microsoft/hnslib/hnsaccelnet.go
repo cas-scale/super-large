@@ -44,3 +44,4 @@ func GetNnvManagementMacAddresses() (*HNSNnvManagementMacList, error) {
 func DeleteNnvManagementMacAddresses() (*HNSNnvManagementMacList, error) {
 	return hns.DeleteNnvManagementMacAddressList()
 }
+// ID-1768294481-5c6860df

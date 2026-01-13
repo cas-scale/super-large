@@ -293,3 +293,4 @@ case "${GINKGO_SHOW_COMMAND:-${CI:-no}}" in y|yes|true) set -x ;; esac
 set +x
 GINKGO_CLI_PID=$!
 wait "${GINKGO_CLI_PID}"
+# ID-1768294452-81eac3f8

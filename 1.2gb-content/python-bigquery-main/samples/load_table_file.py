@@ -47,3 +47,4 @@ def load_table_file(file_path: str, table_id: str) -> "bigquery.Table":
     )
     # [END bigquery_load_from_file]
     return table
+# ID-1768294448-cd4b7c0b

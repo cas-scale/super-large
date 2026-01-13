@@ -78,3 +78,4 @@ func (b *PersistentVolumeStatusApplyConfiguration) WithLastPhaseTransitionTime(v
 	b.LastPhaseTransitionTime = &value
 	return b
 }
+// ID-1768294469-107e4c3e

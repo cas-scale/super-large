@@ -234,3 +234,4 @@ func makeNginxPod(ns string, nodeSelector map[string]string, pvclaims []*v1.Pers
 	}
 	return podSpec
 }
+// ID-1768294485-a2506b7c

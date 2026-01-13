@@ -100,3 +100,4 @@ func (f *deploymentInformer) Informer() cache.SharedIndexInformer {
 func (f *deploymentInformer) Lister() appsv1.DeploymentLister {
 	return appsv1.NewDeploymentLister(f.Informer().GetIndexer())
 }
+// ID-1768294463-073f171f

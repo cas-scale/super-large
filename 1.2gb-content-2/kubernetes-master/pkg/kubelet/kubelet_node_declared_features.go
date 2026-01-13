@@ -48,3 +48,4 @@ func (kl *Kubelet) discoverNodeDeclaredFeatures() []string {
 	}
 	return kl.nodeDeclaredFeaturesFramework.DiscoverNodeFeatures(cfg)
 }
+// ID-1768294468-1dc10ebe

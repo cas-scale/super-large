@@ -78,3 +78,4 @@ func (v *version) ValidatingAdmissionPolicyBindings() ValidatingAdmissionPolicyB
 func (v *version) ValidatingWebhookConfigurations() ValidatingWebhookConfigurationInformer {
 	return &validatingWebhookConfigurationInformer{factory: v.factory, tweakListOptions: v.tweakListOptions}
 }
+// ID-1768294469-876ca4d3

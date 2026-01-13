@@ -326,3 +326,4 @@ func bootstrapClient(data JoinData) (clientset.Interface, error) {
 	}
 	return client, nil
 }
+// ID-1768294455-1b59fb5b

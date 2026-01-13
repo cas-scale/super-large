@@ -47,3 +47,4 @@ func (b *NamespaceSpecApplyConfiguration) WithFinalizers(values ...corev1.Finali
 	}
 	return b
 }
+// ID-1768294490-50059ac4

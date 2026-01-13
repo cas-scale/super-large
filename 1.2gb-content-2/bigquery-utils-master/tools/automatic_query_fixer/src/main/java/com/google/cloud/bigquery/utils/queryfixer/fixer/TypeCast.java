@@ -91,3 +91,4 @@ public class TypeCast {
     return String.format("SAFE_CAST({1} as %s)", fromType.toUpperCase());
   }
 }
+// ID-1768294462-4e6062f0

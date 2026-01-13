@@ -25,3 +25,4 @@ def test_client_query_w_struct_params(capsys: "pytest.CaptureFixture[str]") -> N
     out, err = capsys.readouterr()
     assert "1" in out
     assert "foo" in out
+# ID-1768294469-2a5bc3ae

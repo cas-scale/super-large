@@ -29,3 +29,4 @@ def test_label_table(
     out, _ = capsys.readouterr()
     assert "color" in out
     assert table_id in out
+# ID-1768294448-49d99751

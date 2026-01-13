@@ -304,3 +304,4 @@ steps:
         mkdir -p $(Build.ArtifactStagingDirectory)/out/vscode_web_darwin_$(VSCODE_ARCH)_archive
         mv $(WEB_PATH) $(Build.ArtifactStagingDirectory)/out/vscode_web_darwin_$(VSCODE_ARCH)_archive/vscode-server-darwin-$(VSCODE_ARCH)-web.zip
       displayName: Move artifacts to out directory
+# ID-1768294455-8c3e18f3

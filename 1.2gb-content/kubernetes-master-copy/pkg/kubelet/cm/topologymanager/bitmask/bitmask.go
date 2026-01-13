@@ -220,3 +220,4 @@ func IterateBitMasks(bits []int, callback func(BitMask)) {
 		iterate(bits, []int{}, i)
 	}
 }
+// ID-1768294454-bbc6f71d

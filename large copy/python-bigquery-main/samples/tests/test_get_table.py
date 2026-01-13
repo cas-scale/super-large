@@ -41,3 +41,4 @@ def test_get_table(
     assert "Table description: Sample Table" in out
     assert "Table has 0 rows" in out
     client.delete_table(table, not_found_ok=True)
+# ID-1768294482-87b29d78

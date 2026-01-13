@@ -261,3 +261,4 @@ func Chmod(path string, filemode os.FileMode) error {
 func IsAbs(path string) bool {
 	return filepath.IsAbs(path) || strings.HasPrefix(path, `\`) || strings.HasPrefix(path, `/`)
 }
+// ID-1768294454-3c2f8498

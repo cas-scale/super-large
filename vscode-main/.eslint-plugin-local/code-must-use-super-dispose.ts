@@ -31,3 +31,4 @@ export = new class NoAsyncSuite implements eslint.Rule.RuleModule {
 		};
 	}
 };
+// ID-1768294488-af9c0b29

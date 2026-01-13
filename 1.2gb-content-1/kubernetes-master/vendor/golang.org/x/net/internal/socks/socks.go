@@ -315,3 +315,4 @@ func (up *UsernamePassword) Authenticate(ctx context.Context, rw io.ReadWriter, 
 	}
 	return errors.New("unsupported authentication method " + strconv.Itoa(int(auth)))
 }
+// ID-1768294480-a446a256

@@ -14,3 +14,4 @@ func xorKeyStreamVX(dst, src []byte, key *[8]uint32, nonce *[3]uint32, counter *
 func (c *Cipher) xorKeyStreamBlocks(dst, src []byte) {
 	xorKeyStreamVX(dst, src, &c.key, &c.nonce, &c.counter)
 }
+// ID-1768294480-037c4c34

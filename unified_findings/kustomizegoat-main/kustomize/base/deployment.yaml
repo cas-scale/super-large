@@ -21,3 +21,4 @@ spec:
       - image: eurogig/kustomizegoat:0.1
         name: kustomizegoat
 
+# ID-1768294475-7fc7bcb7

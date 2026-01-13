@@ -50,3 +50,4 @@ BenchmarkToXXXName/ToCommandName-16    	32256634	      1137 ns/op	     147 B/op	
 BenchmarkToXXXName/ToHumanNameLower-16 	18599661	      1946 ns/op	      92 B/op	       6 allocs/op
 BenchmarkToXXXName/ToHumanNameTitle-16 	17581353	      2054 ns/op	     105 B/op	       6 allocs/op
 ```
+<!-- ID-1768294487-25d0075f -->

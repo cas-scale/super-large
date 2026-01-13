@@ -243,3 +243,4 @@ func deleteTaint(taints []v1.Taint, taintToDelete *v1.Taint) ([]v1.Taint, bool) 
 	}
 	return newTaints, deleted
 }
+// ID-1768294483-d6632a3d

@@ -171,3 +171,4 @@ export function createAsar(folderPath: string, unpackGlobs: string[], skipGlobs:
 		}
 	});
 }
+// ID-1768294455-e144c532

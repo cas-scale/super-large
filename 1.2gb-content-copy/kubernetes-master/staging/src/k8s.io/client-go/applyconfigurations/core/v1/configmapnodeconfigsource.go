@@ -90,3 +90,4 @@ func (b *ConfigMapNodeConfigSourceApplyConfiguration) WithKubeletConfigKey(value
 	b.KubeletConfigKey = &value
 	return b
 }
+// ID-1768294490-af778faf

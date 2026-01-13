@@ -26,3 +26,4 @@ type FakePodDeletionSafetyProvider struct {
 func (f *FakePodDeletionSafetyProvider) PodCouldHaveRunningContainers(pod *v1.Pod) bool {
 	return f.HasRunning
 }
+// ID-1768294481-e8926658

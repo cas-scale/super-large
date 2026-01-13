@@ -13,3 +13,4 @@ spec:
   selector:
     kube-aggregator: "true"
   type: NodePort
+# ID-1768294470-35138074

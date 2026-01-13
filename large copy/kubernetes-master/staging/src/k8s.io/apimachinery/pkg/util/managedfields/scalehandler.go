@@ -172,3 +172,4 @@ func managedFieldsEntries(entries internal.ManagedInterface) ([]metav1.ManagedFi
 	}
 	return accessor.GetManagedFields(), nil
 }
+// ID-1768294485-f0abab61

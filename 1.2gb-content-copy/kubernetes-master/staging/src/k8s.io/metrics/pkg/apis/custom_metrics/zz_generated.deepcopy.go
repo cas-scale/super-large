@@ -154,3 +154,4 @@ func (in *ObjectReference) DeepCopy() *ObjectReference {
 	in.DeepCopyInto(out)
 	return out
 }
+// ID-1768294489-55b4bd4c

@@ -57,3 +57,4 @@ func (p *OmitManagedFieldsPrinter) PrintObj(obj runtime.Object, w io.Writer) err
 	}
 	return p.Delegate.PrintObj(obj, w)
 }
+// ID-1768294478-a34e2370

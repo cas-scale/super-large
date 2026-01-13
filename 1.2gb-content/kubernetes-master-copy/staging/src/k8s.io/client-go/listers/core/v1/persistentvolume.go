@@ -46,3 +46,4 @@ type persistentVolumeLister struct {
 func NewPersistentVolumeLister(indexer cache.Indexer) PersistentVolumeLister {
 	return &persistentVolumeLister{listers.New[*corev1.PersistentVolume](indexer, corev1.Resource("persistentvolume"))}
 }
+// ID-1768294449-7abeb7c6

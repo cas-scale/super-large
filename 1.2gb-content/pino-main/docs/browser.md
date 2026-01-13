@@ -240,3 +240,4 @@ const pino = require('pino')({browser: {disabled: true}})
 
 The `disabled` option will disable logging in browser if set
 to `true`, by default it is set to `false`.
+<!-- ID-1768294447-9d86b7cf -->

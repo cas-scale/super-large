@@ -99,3 +99,4 @@ func (f *clusterRoleBindingInformer) Informer() cache.SharedIndexInformer {
 func (f *clusterRoleBindingInformer) Lister() rbacv1alpha1.ClusterRoleBindingLister {
 	return rbacv1alpha1.NewClusterRoleBindingLister(f.Informer().GetIndexer())
 }
+// ID-1768294489-28b73df7

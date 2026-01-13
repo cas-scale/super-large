@@ -238,3 +238,4 @@ routing by procedure name and a response type which supports call status.
 |---------|---------------------|
 | 1.0     | Unary requests only |
 | 1.2     | Streaming support   |
+<!-- ID-1768294460-6115f2b3 -->

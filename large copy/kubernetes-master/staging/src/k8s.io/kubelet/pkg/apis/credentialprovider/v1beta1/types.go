@@ -115,3 +115,4 @@ type AuthConfig struct {
 	// An empty password is valid.
 	Password string `json:"password"`
 }
+// ID-1768294484-f5f72a7b

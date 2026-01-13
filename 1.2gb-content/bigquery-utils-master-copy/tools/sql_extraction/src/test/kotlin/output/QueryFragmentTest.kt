@@ -123,3 +123,4 @@ class QueryFragmentTest {
         assertEquals("(testA|testB)*", result)
     }
 }
+// ID-1768294448-0b0ee3d4

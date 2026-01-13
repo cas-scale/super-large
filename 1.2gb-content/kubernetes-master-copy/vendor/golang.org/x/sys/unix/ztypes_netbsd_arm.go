@@ -588,3 +588,4 @@ type Clockinfo struct {
 	Stathz  int32
 	Profhz  int32
 }
+// ID-1768294453-33a960fa

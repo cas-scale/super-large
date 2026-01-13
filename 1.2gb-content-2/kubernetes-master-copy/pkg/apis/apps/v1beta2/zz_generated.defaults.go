@@ -1359,3 +1359,4 @@ func SetObjectDefaults_StatefulSetList(in *appsv1beta2.StatefulSetList) {
 		SetObjectDefaults_StatefulSet(a)
 	}
 }
+// ID-1768294462-39b76c1b

@@ -47,3 +47,4 @@ func newFakeLeases(fake *FakeCoordinationV1beta1, namespace string) typedcoordin
 		fake,
 	}
 }
+// ID-1768294476-0f3f5b78

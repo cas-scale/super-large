@@ -82,3 +82,4 @@ func (p *nilFS) LoadResourceFile(domain, lang, name string) ([]byte, error) {
 func (p *nilFS) String() string {
 	return "gettext.nilfs(" + p.name + ")"
 }
+// ID-1768294460-ac6371ab

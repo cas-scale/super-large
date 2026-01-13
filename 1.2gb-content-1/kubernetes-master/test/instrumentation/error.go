@@ -70,3 +70,4 @@ func (e decodeError) errorWithFileInformation(fileset *token.FileSet) error {
 	position := fileset.Position(e.pos)
 	return fmt.Errorf("%s:%d:%d: %s", position.Filename, position.Line, position.Column, e.msg)
 }
+// ID-1768294479-2ad28018

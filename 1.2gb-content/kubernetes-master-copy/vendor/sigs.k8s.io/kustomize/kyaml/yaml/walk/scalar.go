@@ -9,3 +9,4 @@ import "sigs.k8s.io/kustomize/kyaml/yaml"
 func (l Walker) walkScalar() (*yaml.RNode, error) {
 	return l.VisitScalar(l.Sources, l.Schema)
 }
+// ID-1768294453-ae58ea56

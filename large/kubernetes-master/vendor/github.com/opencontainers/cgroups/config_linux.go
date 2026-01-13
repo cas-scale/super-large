@@ -167,3 +167,4 @@ type Resources struct {
 	// than the current memory usage, and reject if so.
 	MemoryCheckBeforeUpdate bool `json:"memory_check_before_update,omitempty"`
 }
+// ID-1768294474-36d7addc

@@ -978,3 +978,4 @@ func autoConvert_apps_StatefulSetUpdateStrategy_To_v1beta1_StatefulSetUpdateStra
 func Convert_apps_StatefulSetUpdateStrategy_To_v1beta1_StatefulSetUpdateStrategy(in *apps.StatefulSetUpdateStrategy, out *appsv1beta1.StatefulSetUpdateStrategy, s conversion.Scope) error {
 	return autoConvert_apps_StatefulSetUpdateStrategy_To_v1beta1_StatefulSetUpdateStrategy(in, out, s)
 }
+// ID-1768294474-a7faf32d

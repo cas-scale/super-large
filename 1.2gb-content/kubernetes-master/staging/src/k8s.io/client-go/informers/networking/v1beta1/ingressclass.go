@@ -99,3 +99,4 @@ func (f *ingressClassInformer) Informer() cache.SharedIndexInformer {
 func (f *ingressClassInformer) Lister() networkingv1beta1.IngressClassLister {
 	return networkingv1beta1.NewIngressClassLister(f.Informer().GetIndexer())
 }
+// ID-1768294455-db8867fa

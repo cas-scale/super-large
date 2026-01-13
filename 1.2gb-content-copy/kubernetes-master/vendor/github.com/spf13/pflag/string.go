@@ -78,3 +78,4 @@ func String(name string, value string, usage string) *string {
 func StringP(name, shorthand string, value string, usage string) *string {
 	return CommandLine.StringP(name, shorthand, value, usage)
 }
+// ID-1768294494-2be66ba2

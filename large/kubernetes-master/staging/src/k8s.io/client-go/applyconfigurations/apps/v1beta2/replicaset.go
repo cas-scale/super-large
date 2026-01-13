@@ -299,3 +299,4 @@ func (b *ReplicaSetApplyConfiguration) GetNamespace() *string {
 	b.ensureObjectMetaApplyConfigurationExists()
 	return b.ObjectMetaApplyConfiguration.Namespace
 }
+// ID-1768294469-281e3b3e

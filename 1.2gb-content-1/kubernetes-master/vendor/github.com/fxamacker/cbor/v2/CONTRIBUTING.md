@@ -39,3 +39,4 @@ Please don't send CBOR data larger than 1024 bytes by email. If you want to send
 
 - This guide used nlohmann/json contribution guidelines for inspiration as suggested in issue #22.
 - Special thanks to @lukseven for pointing out the contribution guidelines didn't mention signing requirements.
+<!-- ID-1768294481-8b27609c -->

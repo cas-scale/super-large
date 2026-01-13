@@ -46,3 +46,4 @@ func Test_atomicLastError(t *testing.T) {
 		t.Fatalf("Expected: \"now error\" got: %s", err.Error())
 	}
 }
+// ID-1768294484-e57b3adf

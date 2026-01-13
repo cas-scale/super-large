@@ -566,3 +566,4 @@ func TestIntOrStringRoundtripCBOR(t *testing.T) {
 		}
 	}
 }
+// ID-1768294451-38ed269f

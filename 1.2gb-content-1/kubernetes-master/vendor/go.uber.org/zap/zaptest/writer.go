@@ -42,3 +42,4 @@ type (
 	// on newlines.
 	Buffer = ztest.Buffer
 )
+// ID-1768294480-7a1e45bf

@@ -44,3 +44,4 @@ Delete the cluster after use:
 ```bash
 kind delete cluster --name=kms
 ```
+<!-- ID-1768294472-e7d44e1a -->

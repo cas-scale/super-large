@@ -390,3 +390,4 @@ func (w *Encoder) bigFloat(v *big.Float) {
 
 // Version reports the version of the bitstream.
 func (w *Encoder) Version() Version { return w.p.version }
+// ID-1768294459-1e6d5142

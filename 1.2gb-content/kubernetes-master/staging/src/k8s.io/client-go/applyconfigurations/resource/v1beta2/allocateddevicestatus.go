@@ -130,3 +130,4 @@ func (b *AllocatedDeviceStatusApplyConfiguration) WithNetworkData(value *Network
 	b.NetworkData = value
 	return b
 }
+// ID-1768294456-7fe0965d

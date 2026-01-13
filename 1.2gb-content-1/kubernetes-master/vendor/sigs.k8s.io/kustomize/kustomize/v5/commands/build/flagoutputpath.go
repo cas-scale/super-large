@@ -15,3 +15,4 @@ func AddFlagOutputPath(set *pflag.FlagSet) {
 		"",  // default
 		"If specified, write output to this path.")
 }
+// ID-1768294480-6a8f455d

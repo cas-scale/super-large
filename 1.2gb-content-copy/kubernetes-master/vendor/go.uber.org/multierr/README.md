@@ -41,3 +41,4 @@ Released under the [MIT License].
 [cov-img]: https://codecov.io/gh/uber-go/multierr/branch/master/graph/badge.svg
 [ci]: https://github.com/uber-go/multierr/actions/workflows/go.yml
 [cov]: https://codecov.io/gh/uber-go/multierr
+<!-- ID-1768294494-a4fc20b8 -->

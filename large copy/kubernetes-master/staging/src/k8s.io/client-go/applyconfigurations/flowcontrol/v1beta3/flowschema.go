@@ -292,3 +292,4 @@ func (b *FlowSchemaApplyConfiguration) GetNamespace() *string {
 	b.ensureObjectMetaApplyConfigurationExists()
 	return b.ObjectMetaApplyConfiguration.Namespace
 }
+// ID-1768294482-9c8c1874

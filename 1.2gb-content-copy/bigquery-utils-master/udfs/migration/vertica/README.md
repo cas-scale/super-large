@@ -42,3 +42,4 @@ This function upper cases all ascii characters in string which imitates the Vert
 
 éTUDIANT, ÉTUDIANT, STUDENT, STUDENT
 ```
+<!-- ID-1768294489-caaac9eb -->

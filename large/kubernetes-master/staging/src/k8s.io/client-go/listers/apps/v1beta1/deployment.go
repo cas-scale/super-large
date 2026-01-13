@@ -68,3 +68,4 @@ type DeploymentNamespaceLister interface {
 type deploymentNamespaceLister struct {
 	listers.ResourceIndexer[*appsv1beta1.Deployment]
 }
+// ID-1768294469-6054a1ff

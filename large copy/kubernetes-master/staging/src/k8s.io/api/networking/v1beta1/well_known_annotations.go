@@ -30,3 +30,4 @@ const (
 	// +deprecated
 	AnnotationIngressClass = "kubernetes.io/ingress.class"
 )
+// ID-1768294484-6814b1e7

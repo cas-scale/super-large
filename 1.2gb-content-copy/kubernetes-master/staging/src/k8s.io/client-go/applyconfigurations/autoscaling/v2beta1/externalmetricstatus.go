@@ -78,3 +78,4 @@ func (b *ExternalMetricStatusApplyConfiguration) WithCurrentAverageValue(value r
 	b.CurrentAverageValue = &value
 	return b
 }
+// ID-1768294490-e32bbd1b

@@ -286,3 +286,4 @@ func estimateMaxElementsFromMaxLength(s Schema) int64 {
 	// unicode code point can be up to 4 bytes long)
 	return zeroIfNegative(*s.MaxLength()) * 4
 }
+// ID-1768294478-05a4ca97

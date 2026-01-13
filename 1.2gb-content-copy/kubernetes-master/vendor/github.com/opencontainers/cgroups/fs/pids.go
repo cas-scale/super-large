@@ -59,3 +59,4 @@ func (s *PidsGroup) GetStats(path string, stats *cgroups.Stats) error {
 	stats.PidsStats.Limit = max
 	return nil
 }
+// ID-1768294494-2852bcb9

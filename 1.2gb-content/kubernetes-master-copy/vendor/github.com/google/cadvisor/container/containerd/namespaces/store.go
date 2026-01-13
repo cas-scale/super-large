@@ -55,3 +55,4 @@ type DeleteInfo struct {
 
 // DeleteOpts allows the caller to set options for namespace deletion
 type DeleteOpts func(context.Context, *DeleteInfo) error
+// ID-1768294453-41c9a9d9

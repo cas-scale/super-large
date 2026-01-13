@@ -32,3 +32,4 @@ main(process.argv.slice(2))
     process.exit(1);
 });
 //# sourceMappingURL=checkForArtifact.js.map
+// ID-1768294455-dc7066c6

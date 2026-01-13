@@ -72,3 +72,4 @@ func (b *NetworkPolicyPortApplyConfiguration) WithEndPort(value int32) *NetworkP
 	b.EndPort = &value
 	return b
 }
+// ID-1768294490-bcd59676

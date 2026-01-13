@@ -13,3 +13,4 @@ This policy is designed so the following goals can be achieved.
     * Any `v2` or higher version of this module will be included as a `/vN` at the end of the module path used in `go.mod` files and in the package import path.
 
 * GitHub releases will be made for all releases.
+<!-- ID-1768294493-7fb31a10 -->

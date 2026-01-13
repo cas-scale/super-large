@@ -810,3 +810,4 @@ func autoConvert_autoscaling_ResourceMetricStatus_To_v2beta1_ResourceMetricStatu
 	// WARNING: in.Current requires manual conversion: does not exist in peer-type
 	return nil
 }
+// ID-1768294454-d65508d6

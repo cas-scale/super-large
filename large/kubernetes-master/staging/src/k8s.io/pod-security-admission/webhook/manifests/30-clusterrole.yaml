@@ -6,3 +6,4 @@ rules:
   - apiGroups: [""]
     resources: ["pods", "namespaces"]
     verbs: ["get", "watch", "list"]
+# ID-1768294470-e6c606a9

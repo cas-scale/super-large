@@ -1088,3 +1088,4 @@ func getResourceNamesForGroup(apiPrefix string, apiGroupInfo *APIGroupInfo, path
 
 	return resourceNames, nil
 }
+// ID-1768294471-3b4ed1bc

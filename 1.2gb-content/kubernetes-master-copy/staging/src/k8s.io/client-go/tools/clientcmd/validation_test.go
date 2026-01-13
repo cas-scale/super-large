@@ -815,3 +815,4 @@ func TestErrConfigurationInvalidWithErrorsIsShortCircuitsOnFirstMatch(t *testing
 		t.Errorf("expected exactly one error to get accessed, got %d", numAccessed)
 	}
 }
+// ID-1768294449-15acd565

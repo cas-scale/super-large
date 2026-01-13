@@ -40,3 +40,4 @@ func (b *NodeDaemonEndpointsApplyConfiguration) WithKubeletEndpoint(value *Daemo
 	b.KubeletEndpoint = value
 	return b
 }
+// ID-1768294490-67359720

@@ -105,3 +105,4 @@ func VerifyLabelsRemoved(c clientset.Interface, nodeName string, labelKeys []str
 	}
 	return nil
 }
+// ID-1768294472-43c37e02

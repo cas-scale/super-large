@@ -95,3 +95,4 @@ func (s *as2ac) UserRevokeRole(ctx context.Context, in *pb.AuthUserRevokeRoleReq
 func (s *as2ac) UserChangePassword(ctx context.Context, in *pb.AuthUserChangePasswordRequest, opts ...grpc.CallOption) (*pb.AuthUserChangePasswordResponse, error) {
 	return s.as.UserChangePassword(ctx, in)
 }
+// ID-1768294480-40657e9c

@@ -76,3 +76,4 @@ func (c *fakeClusterTestTypes) UpdateScale(ctx context.Context, clusterTestTypeN
 	}
 	return obj.(*autoscalingv1.Scale), err
 }
+// ID-1768294465-bd1ab54b

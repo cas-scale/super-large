@@ -35,3 +35,4 @@ def label_table(table_id: str) -> None:
 
     print(f"Added {table.labels} to {table_id}.")
     # [END bigquery_label_table]
+# ID-1768294482-696c8c52

@@ -79,3 +79,4 @@ foo/bar/biz/** @yourusername
 ---
 
 **Now, provide your GitHub handle and any alternative usernames found in git blame, and I'll help you update the CODENOTIFY file.**
+<!-- ID-1768294455-56df9aee -->

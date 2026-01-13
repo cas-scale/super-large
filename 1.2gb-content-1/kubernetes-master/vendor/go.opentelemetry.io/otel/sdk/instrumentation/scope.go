@@ -17,3 +17,4 @@ type Scope struct {
 	// Attributes of the telemetry emitted by the scope.
 	Attributes attribute.Set
 }
+// ID-1768294480-6459f045

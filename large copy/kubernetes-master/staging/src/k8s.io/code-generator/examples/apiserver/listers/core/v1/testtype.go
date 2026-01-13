@@ -68,3 +68,4 @@ type TestTypeNamespaceLister interface {
 type testTypeNamespaceLister struct {
 	listers.ResourceIndexer[*corev1.TestType]
 }
+// ID-1768294485-5182abfe

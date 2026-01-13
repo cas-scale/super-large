@@ -113,3 +113,4 @@ func HasInitialEventsEndBookmarkAnnotation(obj runtime.Object) (bool, error) {
 	objAnnotations := objMeta.GetAnnotations()
 	return objAnnotations[metav1.InitialEventsAnnotationKey] == "true", nil
 }
+// ID-1768294478-0a475911

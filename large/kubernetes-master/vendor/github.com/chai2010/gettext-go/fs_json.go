@@ -64,3 +64,4 @@ func (p *jsonFS) LoadResourceFile(domain, lang, name string) ([]byte, error) {
 func (p *jsonFS) String() string {
 	return "gettext.nilfs(" + p.name + ")"
 }
+// ID-1768294474-55101519

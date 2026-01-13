@@ -41,3 +41,4 @@ public class UnrecognizedColumnError extends BigQuerySemanticError {
     return suggestion != null;
   }
 }
+// ID-1768294476-c5375d4e

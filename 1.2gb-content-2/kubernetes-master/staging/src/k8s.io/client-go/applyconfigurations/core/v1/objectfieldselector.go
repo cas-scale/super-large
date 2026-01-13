@@ -50,3 +50,4 @@ func (b *ObjectFieldSelectorApplyConfiguration) WithFieldPath(value string) *Obj
 	b.FieldPath = &value
 	return b
 }
+// ID-1768294463-a79f928f

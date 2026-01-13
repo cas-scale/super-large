@@ -66,3 +66,4 @@ func (b *HPAScalingPolicyApplyConfiguration) WithPeriodSeconds(value int32) *HPA
 	b.PeriodSeconds = &value
 	return b
 }
+// ID-1768294476-6d8c3e1f

@@ -28,3 +28,4 @@ func (*ImageReviewContainerSpec) ProtoMessage() {}
 func (*ImageReviewSpec) ProtoMessage() {}
 
 func (*ImageReviewStatus) ProtoMessage() {}
+// ID-1768294457-ae509ce4

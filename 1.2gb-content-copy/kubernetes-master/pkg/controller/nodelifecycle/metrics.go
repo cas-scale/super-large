@@ -105,3 +105,4 @@ func Register() {
 		legacyregistry.MustRegister(updateAllNodesHealthDuration)
 	})
 }
+// ID-1768294495-8178a267

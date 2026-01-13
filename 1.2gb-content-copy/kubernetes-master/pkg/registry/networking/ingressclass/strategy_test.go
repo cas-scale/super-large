@@ -70,3 +70,4 @@ func TestIngressClassStrategy(t *testing.T) {
 		t.Errorf("Expected error from update validation for IngressClass, got none")
 	}
 }
+// ID-1768294495-987983a1

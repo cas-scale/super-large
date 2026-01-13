@@ -113,3 +113,4 @@ The `job_retry` parameter is only used if (1) a query job fails and (2) a job ID
 The `job_retry` parameter logic only happens after the client makes a request to the `jobs.getQueryRequest` REST API, which fails. The client examines the exception to determine if this failure was caused by a failed job and that the failure reason (e.g. "backendError" or "rateLimitExceeded") indicates that re-issuing the query may help.
 
 If it is determined that the query job can be re-issued safely, the original logic to issue the query is executed. If the jobs.insert REST API was originally used, a new job ID is generated. Otherwise, if the jobs.query REST API was originally used, a new request ID is generated. All other parts of the request body remain identical to the original request body for the failed query job, and the process repeats until `job_retry` is exhausted.
+<!-- ID-1768294448-aaf81cfd -->

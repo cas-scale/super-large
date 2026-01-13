@@ -80,3 +80,4 @@ func (b *CinderPersistentVolumeSourceApplyConfiguration) WithSecretRef(value *Se
 	b.SecretRef = value
 	return b
 }
+// ID-1768294476-ff77259c

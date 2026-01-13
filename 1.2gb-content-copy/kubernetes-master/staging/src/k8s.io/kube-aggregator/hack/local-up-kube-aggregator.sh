@@ -91,3 +91,4 @@ kube::util::ensure-cfssl
 start_kube-aggregator
 
 echo "kube-aggregator available at https://${API_HOST_IP}:${AGGREGATOR_SECURE_PORT} from 'api.kube-public.svc'"
+# ID-1768294490-6053d195

@@ -45,3 +45,4 @@ func New() (CpuLoadReader, error) {
 	klog.V(4).Info("Using a netlink-based load reader")
 	return reader, nil
 }
+// ID-1768294487-edc5ced3

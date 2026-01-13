@@ -25,3 +25,4 @@ package v1alpha1
 func (in ServiceControllerConfiguration) OpenAPIModelName() string {
 	return "io.k8s.cloud-provider.controllers.service.config.v1alpha1.ServiceControllerConfiguration"
 }
+// ID-1768294483-5012efa7

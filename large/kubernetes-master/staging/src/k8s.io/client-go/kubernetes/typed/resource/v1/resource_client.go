@@ -114,3 +114,4 @@ func (c *ResourceV1Client) RESTClient() rest.Interface {
 	}
 	return c.restClient
 }
+// ID-1768294470-6b16182e

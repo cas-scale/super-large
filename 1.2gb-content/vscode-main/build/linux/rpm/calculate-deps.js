@@ -33,3 +33,4 @@ function calculatePackageDeps(binaryPath) {
     return requires;
 }
 //# sourceMappingURL=calculate-deps.js.map
+// ID-1768294455-fccd206b

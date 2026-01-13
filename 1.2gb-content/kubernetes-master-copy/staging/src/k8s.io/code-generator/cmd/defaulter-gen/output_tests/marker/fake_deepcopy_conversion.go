@@ -105,3 +105,4 @@ func (in *DefaultedWithReference) DeepCopyObject() runtime.Object {
 	}
 	return nil
 }
+// ID-1768294451-029147eb

@@ -107,3 +107,4 @@ func ToSelectableFields(leasecandidate *coordination.LeaseCandidate) fields.Set 
 	}
 	return generic.MergeFieldsSets(objectMetaFieldsSet, specificFieldsSet)
 }
+// ID-1768294455-3c64bd3e

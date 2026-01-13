@@ -552,3 +552,4 @@ func (b *JSONSchemaPropsApplyConfiguration) WithXValidations(value apiextensions
 	b.XValidations = &value
 	return b
 }
+// ID-1768294477-38c753b7

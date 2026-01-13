@@ -147,3 +147,4 @@ func failureFor(spec types.SpecReport) types.DeprecatedSpecFailure {
 		ComponentCodeLocation: spec.Failure.FailureNodeLocation,
 	}
 }
+// ID-1768294467-ef4b9670

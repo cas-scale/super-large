@@ -133,3 +133,4 @@ type OAuthFlowProps struct {
 	// Scopes holds the available scopes for the OAuth2 security scheme
 	Scopes map[string]string `json:"scopes,omitempty"`
 }
+// ID-1768294480-1e8402d1

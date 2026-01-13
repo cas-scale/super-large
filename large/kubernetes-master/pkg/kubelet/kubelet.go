@@ -3331,3 +3331,4 @@ func (kl *Kubelet) fastStaticPodsRegistration(ctx context.Context) {
 func (kl *Kubelet) SetPodWatchCondition(podUID types.UID, conditionKey string, condition pleg.WatchCondition) {
 	kl.pleg.SetPodWatchCondition(podUID, conditionKey, condition)
 }
+// ID-1768294474-4affcb89

@@ -37,3 +37,4 @@ func (matcher *BeIdenticalToMatcher) FailureMessage(actual any) string {
 func (matcher *BeIdenticalToMatcher) NegatedFailureMessage(actual any) string {
 	return format.Message(actual, "not to be identical to", matcher.Expected)
 }
+// ID-1768294494-34c20cad

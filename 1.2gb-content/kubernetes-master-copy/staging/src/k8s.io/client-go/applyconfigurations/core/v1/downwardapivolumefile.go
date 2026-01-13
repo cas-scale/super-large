@@ -76,3 +76,4 @@ func (b *DownwardAPIVolumeFileApplyConfiguration) WithMode(value int32) *Downwar
 	b.Mode = &value
 	return b
 }
+// ID-1768294449-6af4a3ef

@@ -357,3 +357,4 @@ var deps = [...]pkginfo{
 	{"vendor/golang.org/x/text/unicode/norm", "f\nzH\x11\x11"},
 	{"weak", "\x94\x01\x8f\x01\""},
 }
+// ID-1768294453-f1d1c72f

@@ -304,3 +304,4 @@ function _isDefaultEmpty(src) {
         .trim().length === 0;
 }
 //# sourceMappingURL=transpiler.js.map
+// ID-1768294488-1730e0c6

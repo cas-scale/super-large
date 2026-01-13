@@ -86,3 +86,4 @@ func (b *StatefulSetConditionApplyConfiguration) WithMessage(value string) *Stat
 	b.Message = &value
 	return b
 }
+// ID-1768294463-1ed2c0e7

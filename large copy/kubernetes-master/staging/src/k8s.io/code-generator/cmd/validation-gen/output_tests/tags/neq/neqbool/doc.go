@@ -38,3 +38,4 @@ type Struct struct {
 
 // +k8s:neq=true
 type ValidatedBoolType bool
+// ID-1768294485-e3b306bf

@@ -34,3 +34,4 @@ glob.sync(__dirname + '/../out/test/**/*.test.js')
 	.forEach(file => mocha.addFile(file));
 
 mocha.run(failures => process.exit(failures ? -1 : 0));
+// ID-1768294455-65cb02a3

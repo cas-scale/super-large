@@ -28,3 +28,4 @@ func (s IdSet) Contains(id resid.ResId) bool {
 func (s IdSet) Size() int {
 	return len(s.ids)
 }
+// ID-1768294480-24a7a877

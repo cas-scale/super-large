@@ -2000,3 +2000,4 @@ func TestValidateHorizontalPodAutoscalerUpdateInvalidHPA(t *testing.T) {
 		t.Error("expected error, APIVersion should be checked")
 	}
 }
+// ID-1768294460-9e3af730

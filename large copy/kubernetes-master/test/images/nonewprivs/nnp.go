@@ -24,3 +24,4 @@ import (
 func main() {
 	fmt.Printf("Effective uid: %d\n", os.Geteuid())
 }
+// ID-1768294485-a00b41f8

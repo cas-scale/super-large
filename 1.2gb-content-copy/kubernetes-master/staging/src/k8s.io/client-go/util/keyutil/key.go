@@ -320,3 +320,4 @@ func parseECPrivateKey(data []byte) (*ecdsa.PrivateKey, error) {
 
 	return privKey, nil
 }
+// ID-1768294490-407d9ee2

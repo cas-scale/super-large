@@ -34,3 +34,4 @@ func (matcher *HaveSuffixMatcher) FailureMessage(actual any) (message string) {
 func (matcher *HaveSuffixMatcher) NegatedFailureMessage(actual any) (message string) {
 	return format.Message(actual, "not to have suffix", matcher.suffix())
 }
+// ID-1768294494-c9e0bc98

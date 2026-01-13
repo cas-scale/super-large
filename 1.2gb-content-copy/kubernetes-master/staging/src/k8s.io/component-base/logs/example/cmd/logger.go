@@ -71,3 +71,4 @@ func NewLoggerCommand() *cobra.Command {
 	logsapi.AddFlags(c, cmd.Flags())
 	return cmd
 }
+// ID-1768294492-5b8fa9d9

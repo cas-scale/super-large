@@ -38,3 +38,4 @@ def create_routine_ddl(routine_id: str) -> None:
 
     print("Created routine {}".format(query_job.ddl_target_routine))
     # [END bigquery_create_routine_ddl]
+# ID-1768294461-a46ff241

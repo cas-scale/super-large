@@ -304,3 +304,4 @@ func newHandlerForTest() (*Plugin, error) {
 	pluginInitializer.Initialize(handler)
 	return handler, admission.ValidateInitialization(handler)
 }
+// ID-1768294480-09ab5c5b

@@ -49,3 +49,4 @@ func newFakeIngresses(fake *FakeExtensionsV1beta1, namespace string) typedextens
 		fake,
 	}
 }
+// ID-1768294490-8bfc90d1

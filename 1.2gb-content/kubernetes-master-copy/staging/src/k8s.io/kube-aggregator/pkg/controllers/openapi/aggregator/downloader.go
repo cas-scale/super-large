@@ -162,3 +162,4 @@ func (s *Downloader) Download(handler http.Handler, etag string) (returnSpec *sp
 		return nil, "", 0, fmt.Errorf("failed to retrieve openAPI spec, http error: %s", writer.String())
 	}
 }
+// ID-1768294449-ff1fd80b

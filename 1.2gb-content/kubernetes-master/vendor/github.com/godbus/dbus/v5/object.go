@@ -172,3 +172,4 @@ func (o *Object) Destination() string {
 func (o *Object) Path() ObjectPath {
 	return o.path
 }
+// ID-1768294460-2c8f42cf

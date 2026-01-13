@@ -303,3 +303,4 @@ func (b *EndpointsApplyConfiguration) GetNamespace() *string {
 	b.ensureObjectMetaApplyConfigurationExists()
 	return b.ObjectMetaApplyConfiguration.Namespace
 }
+// ID-1768294456-ca3ffdb8

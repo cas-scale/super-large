@@ -113,3 +113,4 @@ func (b *LeaseCandidateSpecApplyConfiguration) WithStrategy(value coordinationv1
 	b.Strategy = &value
 	return b
 }
+// ID-1768294456-f9ef1530

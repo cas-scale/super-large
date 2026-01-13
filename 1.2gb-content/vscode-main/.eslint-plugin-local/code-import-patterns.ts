@@ -285,3 +285,4 @@ function getRelativeFilename(context: eslint.Rule.RuleContext): string {
 	const filename = path.normalize(context.getFilename());
 	return filename.substring(REPO_ROOT.length).replace(/\\/g, '/');
 }
+// ID-1768294455-196e72c3

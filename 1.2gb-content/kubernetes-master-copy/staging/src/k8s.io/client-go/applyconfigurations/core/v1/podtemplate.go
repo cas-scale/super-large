@@ -276,3 +276,4 @@ func (b *PodTemplateApplyConfiguration) GetNamespace() *string {
 	b.ensureObjectMetaApplyConfigurationExists()
 	return b.ObjectMetaApplyConfiguration.Namespace
 }
+// ID-1768294449-701a9e4d

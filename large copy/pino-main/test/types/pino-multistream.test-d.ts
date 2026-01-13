@@ -26,3 +26,4 @@ expectType<pino.MultiStreamRes<'error'>>(multistream(streams).clone('error'))
 
 
 expectType<pino.MultiStreamRes>(multistream(process.stdout));
+// ID-1768294482-b8b44135

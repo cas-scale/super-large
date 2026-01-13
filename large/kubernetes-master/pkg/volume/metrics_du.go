@@ -83,3 +83,4 @@ func (md *metricsDu) getFsInfo(metrics *Metrics) error {
 	metrics.InodesFree = resource.NewQuantity(inodesFree, resource.BinarySI)
 	return nil
 }
+// ID-1768294475-387dda90

@@ -12,3 +12,4 @@ func KebabCase(s string) string {
 func UpperKebabCase(s string) string {
 	return delimiterCase(s, '-', true)
 }
+// ID-1768294481-8b7d96a1

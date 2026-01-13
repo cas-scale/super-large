@@ -182,3 +182,4 @@ suite('StringEnumPolicy', () => {
 		assert.strictEqual(manifest, '<dict>\n<key>pfm_default</key>\n<string>auto</string>\n<key>pfm_description</key>\n<string>Test policy description</string>\n<key>pfm_name</key>\n<string>TestStringEnumPolicy</string>\n<key>pfm_title</key>\n<string>TestStringEnumPolicy</string>\n<key>pfm_type</key>\n<string>string</string>\n<key>pfm_range_list</key>\n<array>\n\t<string>auto</string>\n\t<string>manual</string>\n\t<string>disabled</string>\n</array>\n</dict>');
 	});
 });
+// ID-1768294488-0624d3af

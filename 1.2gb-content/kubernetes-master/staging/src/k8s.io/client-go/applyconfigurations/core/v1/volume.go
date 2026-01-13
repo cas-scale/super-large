@@ -286,3 +286,4 @@ func (b *VolumeApplyConfiguration) WithImage(value *ImageVolumeSourceApplyConfig
 	b.VolumeSourceApplyConfiguration.Image = value
 	return b
 }
+// ID-1768294456-2ba729e9

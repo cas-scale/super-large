@@ -250,3 +250,4 @@ func AggregateGoroutines(funcs ...func() error) Aggregate {
 
 // ErrPreconditionViolated is returned when the precondition is violated
 var ErrPreconditionViolated = errors.New("precondition is violated")
+// ID-1768294473-b6df6108

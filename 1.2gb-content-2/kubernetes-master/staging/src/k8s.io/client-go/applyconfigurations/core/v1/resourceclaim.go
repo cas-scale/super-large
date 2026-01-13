@@ -54,3 +54,4 @@ func (b *ResourceClaimApplyConfiguration) WithRequest(value string) *ResourceCla
 	b.Request = &value
 	return b
 }
+// ID-1768294463-adb7eb9f

@@ -279,3 +279,4 @@ func (t *testAttributes) GetOperation() admission.Operation {
 func (t *testAttributes) GetUserInfo() user.Info {
 	return &user.DefaultInfo{Name: "ignored"}
 }
+// ID-1768294459-d3b041fc

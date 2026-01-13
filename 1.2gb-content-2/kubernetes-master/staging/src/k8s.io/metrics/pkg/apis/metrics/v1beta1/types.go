@@ -100,3 +100,4 @@ type ContainerMetrics struct {
 	// The memory usage is the memory working set.
 	Usage v1.ResourceList `json:"usage" protobuf:"bytes,2,rep,name=usage,casttype=k8s.io/api/core/v1.ResourceList,castkey=k8s.io/api/core/v1.ResourceName,castvalue=k8s.io/apimachinery/pkg/api/resource.Quantity"`
 }
+// ID-1768294463-aa0bd31e

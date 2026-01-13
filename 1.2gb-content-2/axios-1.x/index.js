@@ -41,3 +41,4 @@ export {
   getAdapter,
   mergeConfig
 }
+// ID-1768294461-91221c3b

@@ -38,3 +38,4 @@ func ParseFullMethod(fullMethod string) (string, []attribute.KeyValue) {
 	}
 	return name, attrs
 }
+// ID-1768294459-3d8993d3

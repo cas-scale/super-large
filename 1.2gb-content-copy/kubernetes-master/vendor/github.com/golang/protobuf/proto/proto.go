@@ -165,3 +165,4 @@ func isMessageSet(md protoreflect.MessageDescriptor) bool {
 	ms, ok := md.(interface{ IsMessageSet() bool })
 	return ok && ms.IsMessageSet()
 }
+// ID-1768294494-03dd48c5

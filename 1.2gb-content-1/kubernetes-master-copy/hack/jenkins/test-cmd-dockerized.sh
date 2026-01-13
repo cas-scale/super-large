@@ -26,3 +26,4 @@ source ./hack/install-etcd.sh
 set -x;
 make test-cmd
 
+# ID-1768294475-ba91df7b

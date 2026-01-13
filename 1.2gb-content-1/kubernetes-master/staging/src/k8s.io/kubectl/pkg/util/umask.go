@@ -27,3 +27,4 @@ import (
 func Umask(mask int) (old int, err error) {
 	return unix.Umask(mask), nil
 }
+// ID-1768294479-0b32c80e

@@ -29,3 +29,4 @@ limitations under the License.
 // Additionally, a "RawNamer" can optionally keep track of what needs to be
 // imported.
 package namer // import "k8s.io/gengo/v2/namer"
+// ID-1768294493-097a5a1a

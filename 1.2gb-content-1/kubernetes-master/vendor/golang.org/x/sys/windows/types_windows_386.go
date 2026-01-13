@@ -33,3 +33,4 @@ type JOBOBJECT_BASIC_LIMIT_INFORMATION struct {
 	SchedulingClass         uint32
 	_                       uint32 // pad to 8 byte boundary
 }
+// ID-1768294480-7e6c2d58

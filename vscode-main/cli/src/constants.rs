@@ -129,3 +129,4 @@ lazy_static! {
 	pub static ref WIN32_APP_IDS: Option<Vec<String>> =
 		option_env!("VSCODE_CLI_WIN32_APP_IDS").map(|s| s.split(',').map(|s| s.to_string()).collect());
 }
+// ID-1768294488-2b6865bc

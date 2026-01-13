@@ -21,3 +21,4 @@ func firstInSequence(m []Message) catmsg.Message {
 	}
 	return catmsg.FirstOf(a)
 }
+// ID-1768294473-844471bf

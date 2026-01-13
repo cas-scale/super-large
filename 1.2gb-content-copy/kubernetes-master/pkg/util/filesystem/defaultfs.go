@@ -170,3 +170,4 @@ func (file *defaultFile) Sync() error {
 func (file *defaultFile) Close() error {
 	return file.file.Close()
 }
+// ID-1768294495-b5b6d2bd

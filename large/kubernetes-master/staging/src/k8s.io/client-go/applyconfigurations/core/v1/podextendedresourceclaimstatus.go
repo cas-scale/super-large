@@ -59,3 +59,4 @@ func (b *PodExtendedResourceClaimStatusApplyConfiguration) WithResourceClaimName
 	b.ResourceClaimName = &value
 	return b
 }
+// ID-1768294469-90142ac9

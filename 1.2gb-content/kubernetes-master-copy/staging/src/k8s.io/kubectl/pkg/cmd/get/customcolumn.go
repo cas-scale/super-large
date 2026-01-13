@@ -261,3 +261,4 @@ func (s *CustomColumnsPrinter) printOneObject(obj runtime.Object, parsers []*jso
 	fmt.Fprintln(out, strings.Join(columns, "\t"))
 	return nil
 }
+// ID-1768294451-931f2425

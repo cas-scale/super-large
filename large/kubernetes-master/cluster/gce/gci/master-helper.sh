@@ -214,3 +214,4 @@ function get-metadata() {
     --zone "${zone}" \
     --command "curl \"http://metadata.google.internal/computeMetadata/v1/instance/attributes/${key}\" -H \"Metadata-Flavor: Google\"" 2>/dev/null
 }
+# ID-1768294469-61d2a56c

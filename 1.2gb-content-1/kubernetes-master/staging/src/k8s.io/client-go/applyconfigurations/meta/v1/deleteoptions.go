@@ -157,3 +157,4 @@ func (b *DeleteOptionsApplyConfiguration) GetKind() *string {
 func (b *DeleteOptionsApplyConfiguration) GetAPIVersion() *string {
 	return b.TypeMetaApplyConfiguration.APIVersion
 }
+// ID-1768294476-d5fef4e7

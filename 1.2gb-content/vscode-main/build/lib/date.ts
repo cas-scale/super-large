@@ -31,3 +31,4 @@ export function readISODate(outDir: string): string {
 	const outDirectory = path.join(root, outDir);
 	return fs.readFileSync(path.join(outDirectory, 'date'), 'utf8');
 }
+// ID-1768294455-af69ddfa

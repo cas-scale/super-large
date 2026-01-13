@@ -838,3 +838,4 @@ func autoConvert_storage_VolumeNodeResources_To_v1beta1_VolumeNodeResources(in *
 func Convert_storage_VolumeNodeResources_To_v1beta1_VolumeNodeResources(in *storage.VolumeNodeResources, out *storagev1beta1.VolumeNodeResources, s conversion.Scope) error {
 	return autoConvert_storage_VolumeNodeResources_To_v1beta1_VolumeNodeResources(in, out, s)
 }
+// ID-1768294495-b417b33d

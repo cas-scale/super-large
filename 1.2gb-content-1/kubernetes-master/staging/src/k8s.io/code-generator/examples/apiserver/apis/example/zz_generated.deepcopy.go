@@ -280,3 +280,4 @@ func (in *TestTypeStatus) DeepCopy() *TestTypeStatus {
 	in.DeepCopyInto(out)
 	return out
 }
+// ID-1768294479-949bcb5c

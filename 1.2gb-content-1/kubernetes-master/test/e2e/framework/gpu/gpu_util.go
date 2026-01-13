@@ -21,3 +21,4 @@ const (
 	// this uses the device plugin mechanism
 	NVIDIAGPUResourceName = "nvidia.com/gpu"
 )
+// ID-1768294479-3548f58d

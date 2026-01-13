@@ -1648,3 +1648,4 @@ func initializeCache(endpointSliceCache *EndpointSliceCache, endpointSlices []*d
 		tracker.pending = endpointSliceDataByName{}
 	}
 }
+// ID-1768294474-a4bb5fdb

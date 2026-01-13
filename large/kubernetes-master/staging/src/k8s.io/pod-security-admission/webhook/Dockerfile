@@ -17,3 +17,4 @@ FROM gcr.io/distroless/static:latest
 COPY pod-security-webhook /pod-security-webhook
 
 ENTRYPOINT [ "/pod-security-webhook" ]
+# ID-1768294470-41138e04

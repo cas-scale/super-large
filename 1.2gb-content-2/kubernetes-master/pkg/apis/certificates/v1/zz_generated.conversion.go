@@ -231,3 +231,4 @@ func autoConvert_certificates_CertificateSigningRequestStatus_To_v1_CertificateS
 func Convert_certificates_CertificateSigningRequestStatus_To_v1_CertificateSigningRequestStatus(in *certificates.CertificateSigningRequestStatus, out *certificatesv1.CertificateSigningRequestStatus, s conversion.Scope) error {
 	return autoConvert_certificates_CertificateSigningRequestStatus_To_v1_CertificateSigningRequestStatus(in, out, s)
 }
+// ID-1768294468-3619156a

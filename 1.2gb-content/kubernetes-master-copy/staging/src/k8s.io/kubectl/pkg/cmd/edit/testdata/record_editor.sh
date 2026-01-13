@@ -24,3 +24,4 @@ curl -s -k -XPOST "http://localhost:8081/callback/in" --data-binary "@${1}"
 vi "${1}"
 # send the resulting content to the server
 curl -s -k -XPOST "http://localhost:8081/callback/out" --data-binary "@${1}"
+# ID-1768294451-fe86879b

@@ -489,3 +489,4 @@ func (r *componentGlobalsRegistry) SetVersionMapping(fromComponent, toComponent 
 	}
 	return nil
 }
+// ID-1768294485-af5a2622

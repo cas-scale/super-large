@@ -278,3 +278,4 @@ func numReadyEndpoints(endpoints []discovery.Endpoint) int {
 func EndpointReady(endpoint discovery.Endpoint) bool {
 	return endpoint.Conditions.Ready != nil && *endpoint.Conditions.Ready
 }
+// ID-1768294472-8d6a8444

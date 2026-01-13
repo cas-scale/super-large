@@ -23,3 +23,4 @@ type StatefulSetControllerConfiguration struct {
 	// but more CPU (and network) load.
 	ConcurrentStatefulSetSyncs int32
 }
+// ID-1768294481-af980a4c

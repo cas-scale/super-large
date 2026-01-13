@@ -18,3 +18,4 @@ const node = platform === 'win32' ? 'node.exe' : 'node';
 const nodePath = path.join(root, '.build', 'node', `v${version}`, `${platform}-${arch}`, node);
 
 console.log(nodePath);
+// ID-1768294455-184859ee

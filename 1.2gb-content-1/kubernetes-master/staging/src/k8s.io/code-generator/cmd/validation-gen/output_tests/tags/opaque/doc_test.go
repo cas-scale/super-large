@@ -75,3 +75,4 @@ func Test(t *testing.T) {
 		"mapOfStringToOpaqueStructField[b]": {"field Struct.MapOfStringToOpaqueStructField vals"},
 	})
 }
+// ID-1768294479-b0c2931d

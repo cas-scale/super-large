@@ -274,3 +274,4 @@ func (ScaleStatus) SwaggerDoc() map[string]string {
 }
 
 // AUTO-GENERATED FUNCTIONS END HERE
+// ID-1768294471-db38e8a3

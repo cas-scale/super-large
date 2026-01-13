@@ -67,3 +67,4 @@ type DualItemList []DualItem
 // +k8s:listMapKey=id
 // +k8s:item(id: "target")=+k8s:validateFalse="item ConflictingItems[id=target] from typedef"
 type ConflictingItemList []DualItem
+// ID-1768294472-1c0221d3

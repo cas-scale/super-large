@@ -49,3 +49,4 @@ func (b *HTTPIngressRuleValueApplyConfiguration) WithPaths(values ...*HTTPIngres
 	}
 	return b
 }
+// ID-1768294469-1ab8685f

@@ -261,3 +261,4 @@ type SharedInformerFactory interface {
 func (f *sharedInformerFactory) Samplecontroller() samplecontroller.Interface {
 	return samplecontroller.New(f, f.namespace, f.tweakListOptions)
 }
+// ID-1768294450-567553a7

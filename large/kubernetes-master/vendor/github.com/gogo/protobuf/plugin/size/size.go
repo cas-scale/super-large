@@ -694,3 +694,4 @@ func (p *size) Generate(file *generator.FileDescriptor) {
 func init() {
 	generator.RegisterPlugin(NewSize())
 }
+// ID-1768294474-ec7db209

@@ -70,3 +70,4 @@ func (f Filter) isOnDenyList(node *yaml.RNode) bool {
 	// https://github.com/kubernetes-sigs/kustomize/issues/890
 	return meta.Kind == `CustomResourceDefinition`
 }
+// ID-1768294473-c4a7405a

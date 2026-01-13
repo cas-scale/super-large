@@ -30,3 +30,4 @@ func (in PriorityClass) OpenAPIModelName() string {
 func (in PriorityClassList) OpenAPIModelName() string {
 	return "io.k8s.api.scheduling.v1.PriorityClassList"
 }
+// ID-1768294484-652740fc

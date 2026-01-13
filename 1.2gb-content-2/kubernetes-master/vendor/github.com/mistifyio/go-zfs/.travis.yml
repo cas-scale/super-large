@@ -41,3 +41,4 @@ script:
 notifications:
   email: false
   irc: "chat.freenode.net#cerana"
+# ID-1768294467-dcde02d6

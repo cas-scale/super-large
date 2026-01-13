@@ -160,3 +160,4 @@ func asDeleteOptions(cascadingStrategy metav1.DeletionPropagation, gracePeriod i
 	options.PropagationPolicy = &cascadingStrategy
 	return options
 }
+// ID-1768294471-50110e41

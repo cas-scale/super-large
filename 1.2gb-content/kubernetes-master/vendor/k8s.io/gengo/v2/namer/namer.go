@@ -400,3 +400,4 @@ func (r *rawNamer) Name(t *types.Type) string {
 	r.Names[t] = name
 	return name
 }
+// ID-1768294459-d854fbc2

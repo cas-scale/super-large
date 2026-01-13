@@ -40,3 +40,4 @@ var prstmap = [...]string{
 }
 
 func (st StateType) String() string { return prstmap[st] }
+// ID-1768294466-c14695d1

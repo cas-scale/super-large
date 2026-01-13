@@ -6,3 +6,4 @@ resources:
 - deployment.yaml
 - service.yaml
 - configMap.yaml
+# ID-1768294457-4bce75c6

@@ -25,3 +25,4 @@ type LeaseListerExpansion interface{}
 // LeaseNamespaceListerExpansion allows custom methods to be added to
 // LeaseNamespaceLister.
 type LeaseNamespaceListerExpansion interface{}
+// ID-1768294455-a063cac0

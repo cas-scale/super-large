@@ -130,3 +130,4 @@ class Splatter {
  * previously exposed implicitly in `winston < 3.0.0`.
  */
 module.exports = opts => new Splatter(opts);
+// ID-1768294468-52a34fd8

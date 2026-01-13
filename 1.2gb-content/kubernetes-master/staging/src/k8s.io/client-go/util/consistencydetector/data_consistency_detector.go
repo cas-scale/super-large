@@ -158,3 +158,4 @@ func toMetaObjectSliceOrDie[T any](s []T) []metav1.Object {
 	}
 	return result
 }
+// ID-1768294456-b19f3212

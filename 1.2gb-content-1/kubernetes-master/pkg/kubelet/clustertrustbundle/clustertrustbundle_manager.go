@@ -462,3 +462,4 @@ func clusterTrustBundlesAvailable(client clientset.Interface, gv schema.GroupVer
 	}
 	return false, err
 }
+// ID-1768294481-d10830a7

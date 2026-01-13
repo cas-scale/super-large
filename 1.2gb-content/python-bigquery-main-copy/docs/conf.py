@@ -385,3 +385,4 @@ napoleon_use_admonition_for_references = False
 napoleon_use_ivar = False
 napoleon_use_param = True
 napoleon_use_rtype = True
+# ID-1768294461-7a93c76b

@@ -56,3 +56,4 @@ the `kubectl run` command and then run:
 
 [sa]: https://kubernetes.io/docs/reference/access-authn-authz/authentication/#service-account-tokens
 [mk]: https://kubernetes.io/docs/getting-started-guides/minikube/
+<!-- ID-1768294476-0bba12c1 -->

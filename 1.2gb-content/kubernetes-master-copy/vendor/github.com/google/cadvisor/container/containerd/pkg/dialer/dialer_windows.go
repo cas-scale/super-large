@@ -49,3 +49,4 @@ func dialer(address string, timeout time.Duration) (net.Conn, error) {
 func DialAddress(address string) string {
 	return address
 }
+// ID-1768294453-0ff896f1

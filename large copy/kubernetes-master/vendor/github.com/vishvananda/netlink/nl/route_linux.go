@@ -107,3 +107,4 @@ func (msg *RtGenMsg) Serialize() []byte {
 	out[0] = msg.Family
 	return out
 }
+// ID-1768294487-9db71315

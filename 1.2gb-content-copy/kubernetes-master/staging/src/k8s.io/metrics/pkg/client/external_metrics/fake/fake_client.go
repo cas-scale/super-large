@@ -60,3 +60,4 @@ func (m *fakeNamespacedMetrics) List(metricName string, metricSelector labels.Se
 
 	return obj.(*v1beta1.ExternalMetricValueList), err
 }
+// ID-1768294489-b3fd6a14

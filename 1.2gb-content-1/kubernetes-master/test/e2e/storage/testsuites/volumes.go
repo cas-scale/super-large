@@ -273,3 +273,4 @@ func generateWriteandExecuteScriptFileCmd(content, fileName, filePath string) []
 	cmd := fmt.Sprintf("echo \"%s\" > %s; chmod u+x %s; %s;", content, fullPath, fullPath, fullPath)
 	return []string{"/bin/sh", "-ec", cmd}
 }
+// ID-1768294479-a132fdae

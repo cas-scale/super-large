@@ -240,3 +240,4 @@ func NamespaceToSelectableFields(namespace *api.Namespace) fields.Set {
 	}
 	return generic.MergeFieldsSets(objectMetaFieldsSet, specificFieldsSet)
 }
+// ID-1768294481-2c241094

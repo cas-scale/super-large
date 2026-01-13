@@ -692,3 +692,4 @@ func (p *plugin) generateMessage(file *generator.FileDescriptor, message *genera
 func init() {
 	generator.RegisterPlugin(NewPlugin())
 }
+// ID-1768294474-d5dbb9e8

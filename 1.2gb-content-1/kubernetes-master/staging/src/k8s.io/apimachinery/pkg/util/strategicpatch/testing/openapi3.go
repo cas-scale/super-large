@@ -63,3 +63,4 @@ func (f *OpenAPIV3Getter) SchemaOrDie() *spec3.OpenAPI {
 	})
 	return &f.openapiv3
 }
+// ID-1768294479-66d7169a

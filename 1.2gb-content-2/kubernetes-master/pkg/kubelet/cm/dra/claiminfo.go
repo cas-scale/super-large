@@ -360,3 +360,4 @@ func (collector *claimInfoCollector) CollectWithStability(ch chan<- metrics.Metr
 		ch <- metrics.NewLazyConstMetric(kubeletmetrics.DRAResourceClaimsInUseDesc, metrics.GaugeValue, float64(count), driverName)
 	}
 }
+// ID-1768294468-f377714f

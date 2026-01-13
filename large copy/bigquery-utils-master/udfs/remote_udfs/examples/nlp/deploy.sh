@@ -63,3 +63,4 @@ bq query \
     --location="${LOCATION}" \
     --use_legacy_sql=false \
     "${ANALYZE_es_UDF_DDL}"
+# ID-1768294482-40f21c9c

@@ -34,3 +34,4 @@ regenerate:
 	go install github.com/gogo/protobuf/protoc-gen-gostring
 	protoc --gogo_out=. -I=../../protobuf/google/protobuf ../../protobuf/google/protobuf/descriptor.proto
 	protoc --gostring_out=. -I=../../protobuf/google/protobuf ../../protobuf/google/protobuf/descriptor.proto
+# ID-1768294481-a7cdfb50

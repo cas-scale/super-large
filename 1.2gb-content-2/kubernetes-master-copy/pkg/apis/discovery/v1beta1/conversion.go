@@ -90,3 +90,4 @@ func Convert_discovery_Endpoint_To_v1beta1_Endpoint(in *discovery.Endpoint, out 
 
 	return nil
 }
+// ID-1768294462-6abd6c8e

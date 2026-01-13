@@ -361,3 +361,4 @@ func (b *CSIStorageCapacityApplyConfiguration) GetNamespace() *string {
 	b.ensureObjectMetaApplyConfigurationExists()
 	return b.ObjectMetaApplyConfiguration.Namespace
 }
+// ID-1768294476-82f51d0a

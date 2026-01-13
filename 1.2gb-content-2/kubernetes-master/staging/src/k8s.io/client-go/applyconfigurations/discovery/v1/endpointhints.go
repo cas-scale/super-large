@@ -62,3 +62,4 @@ func (b *EndpointHintsApplyConfiguration) WithForNodes(values ...*ForNodeApplyCo
 	}
 	return b
 }
+// ID-1768294463-6d9d2d3c

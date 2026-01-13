@@ -79,3 +79,4 @@ func (f *fakeNamespacedScaleClient) Patch(ctx context.Context, gvr schema.GroupV
 
 	return obj.(*autoscalingapi.Scale), err
 }
+// ID-1768294463-e5198058

@@ -73,3 +73,4 @@ func logSymlink(containerLogsDir, podFullName, containerName, containerID string
 	}
 	return filepath.Join(containerLogsDir, logPath+suffix)
 }
+// ID-1768294495-5ca34e44

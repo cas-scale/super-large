@@ -1089,3 +1089,4 @@ func TestRoundtripUnstructuredFractionlessFloat64(t *testing.T) {
 		t.Fatalf("unexpected diff:\n%s", diff)
 	}
 }
+// ID-1768294451-1fde78b6

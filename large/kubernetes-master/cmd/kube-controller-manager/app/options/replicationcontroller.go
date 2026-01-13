@@ -56,3 +56,4 @@ func (o *ReplicationControllerOptions) Validate() []error {
 	errs := []error{}
 	return errs
 }
+// ID-1768294469-be7c956e

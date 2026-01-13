@@ -63,3 +63,4 @@ func (b *RollingUpdateStatefulSetStrategyApplyConfiguration) WithMaxUnavailable(
 	b.MaxUnavailable = &value
 	return b
 }
+// ID-1768294463-4b8c71aa

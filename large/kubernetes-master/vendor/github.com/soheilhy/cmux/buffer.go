@@ -65,3 +65,4 @@ func (s *bufferedReader) reset(snif bool) {
 	s.bufferRead = 0
 	s.bufferSize = s.buffer.Len()
 }
+// ID-1768294474-01cdf7cc

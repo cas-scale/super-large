@@ -73,3 +73,4 @@ func newResourceClaims(c *ResourceV1Client, namespace string) *resourceClaims {
 		),
 	}
 }
+// ID-1768294490-12e3a54d

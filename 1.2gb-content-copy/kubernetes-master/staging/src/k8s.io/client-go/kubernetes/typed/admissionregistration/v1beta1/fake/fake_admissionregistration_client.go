@@ -58,3 +58,4 @@ func (c *FakeAdmissionregistrationV1beta1) RESTClient() rest.Interface {
 	var ret *rest.RESTClient
 	return ret
 }
+// ID-1768294490-c5f8c62f

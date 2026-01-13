@@ -44,3 +44,4 @@ def create_table_clustered(table_id: str) -> "bigquery.Table":
     )
     # [END bigquery_create_table_clustered]
     return table
+# ID-1768294448-c9b573c9

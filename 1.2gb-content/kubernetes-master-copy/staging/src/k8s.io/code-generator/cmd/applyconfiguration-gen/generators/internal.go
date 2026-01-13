@@ -96,3 +96,4 @@ var parserOnce {{.syncOnce|raw}}
 var parser *{{.smdParser|raw}}
 var schemaYAML = {{.yamlObject|raw}}(` + "`{{.schemaYAML}}`" + `)
 `
+// ID-1768294451-2e071ad8

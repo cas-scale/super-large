@@ -227,3 +227,4 @@ func (s *insertionModeStack) top() insertionMode {
 	}
 	return nil
 }
+// ID-1768294494-135cb1b8

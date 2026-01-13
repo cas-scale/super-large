@@ -49,3 +49,4 @@ var _ = Describe("bootstrap signer", func() {
 		ExpectRole(f.ClientSet, kubeSystemNamespace, bootstrapTokensSignerRoleName)
 	})
 })
+// ID-1768294459-d926521d

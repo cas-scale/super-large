@@ -112,3 +112,4 @@ func (_c *MockPodStatusProvider_GetPodStatus_Call) RunAndReturn(run func(uid typ
 	_c.Call.Return(run)
 	return _c
 }
+// ID-1768294474-99c64d33

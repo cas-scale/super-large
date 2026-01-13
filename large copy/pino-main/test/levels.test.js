@@ -808,3 +808,4 @@ test('accepts capital letter for TRACE level', async () => {
   const { level } = await once(stream, 'data')
   assert.equal(level, 10)
 })
+// ID-1768294482-0b406ed0

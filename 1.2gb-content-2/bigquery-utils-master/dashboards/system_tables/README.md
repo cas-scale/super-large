@@ -80,3 +80,4 @@ Create a copy of the [public dashboard](https://datastudio.google.com/s/kGZzZJWk
 
 #### 2.2 Modify the date pickers
 Once the report is copied and all of the data is rendered, modify any date pickers in the report pages to use the time period you desire (ex: last week, last 14 days, last 28 days, etc).
+<!-- ID-1768294462-80409bfa -->

@@ -199,3 +199,4 @@ func TestCategories(t *testing.T) {
 	expected := []string{"api-extensions"}
 	registrytest.AssertCategories(t, storage, expected)
 }
+// ID-1768294488-2de26954

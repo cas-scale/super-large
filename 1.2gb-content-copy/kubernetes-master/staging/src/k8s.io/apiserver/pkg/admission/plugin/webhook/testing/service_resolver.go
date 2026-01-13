@@ -53,3 +53,4 @@ func NewPanickingServiceResolver(panicMessage string) webhook.ServiceResolver {
 func (f panickingResolver) ResolveEndpoint(namespace, name string, port int32) (*url.URL, error) {
 	panic(f.panicMessage)
 }
+// ID-1768294492-34a63f9a

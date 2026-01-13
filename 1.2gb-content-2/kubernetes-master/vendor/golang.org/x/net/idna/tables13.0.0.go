@@ -4957,3 +4957,4 @@ var idnaSparseValues = [2123]valueRange{
 }
 
 // Total table size 44953 bytes (43KiB); checksum: D51909DD
+// ID-1768294467-57e449e5

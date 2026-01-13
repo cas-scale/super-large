@@ -275,3 +275,4 @@ describe('editor prompt', () => {
     expect(getScreen()).toMatchInlineSnapshot(`"✔ Add a description"`);
   });
 });
+// ID-1768294489-2d0f86c4

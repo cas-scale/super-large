@@ -134,3 +134,4 @@ func (p *perfCounterImpl) getQueriedData() ([]win_pdh.PDH_FMT_COUNTERVALUE_ITEM_
 
 	return filledBuf, bufCount, nil
 }
+// ID-1768294474-825098f0

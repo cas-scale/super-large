@@ -38,3 +38,4 @@ func LintCounter(mf *dto.MetricFamily) []error {
 
 	return problems
 }
+// ID-1768294467-ef4b7c93

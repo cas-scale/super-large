@@ -22,3 +22,4 @@ spec:
         image: nginx:1.14.2
         ports:
         - containerPort: 80
+# ID-1768294462-b8f4fb4b

@@ -503,3 +503,4 @@ func (g *genPreleaseLifecycle) GenerateType(c *generator.Context, t *types.Type,
 
 	return sw.Error()
 }
+// ID-1768294492-044de836

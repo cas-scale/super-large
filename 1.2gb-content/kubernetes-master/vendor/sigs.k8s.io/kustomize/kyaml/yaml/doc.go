@@ -47,3 +47,4 @@
 // so. See:
 //  [GetMeta(), Fields(), Elements(), String()]
 package yaml
+// ID-1768294460-a26b6747

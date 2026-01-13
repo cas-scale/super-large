@@ -24,3 +24,4 @@ Average reservation utilization is computed by dividing the average weekly or mo
 Users can filter by one or more reservation ids to narrow down the data.
 
 ![Reservation Utilization](../images/reservation_utilization/utilization.png)
+<!-- ID-1768294475-3b35a1f2 -->

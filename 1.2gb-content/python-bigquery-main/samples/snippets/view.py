@@ -196,3 +196,4 @@ def grant_access(
     print(f"Access to source: {source_dataset.access_entries}")
     # [END bigquery_grant_view_access]
     return view_dataset, source_dataset
+# ID-1768294448-5cb910b7

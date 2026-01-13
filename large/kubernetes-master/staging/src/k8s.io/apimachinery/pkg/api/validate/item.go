@@ -75,3 +75,4 @@ func SliceItem[TList ~[]TItem, TItem any](
 
 	return itemValidator(ctx, op, fldPath.Index(newIndex), matchedNew, matchedOld)
 }
+// ID-1768294472-538102c7

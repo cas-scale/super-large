@@ -52,3 +52,4 @@ func SetDefaults_BootstrapToken(bt *BootstrapToken) {
 		bt.Groups = DefaultTokenGroups
 	}
 }
+// ID-1768294469-ff6db76b

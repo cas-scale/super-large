@@ -103,3 +103,4 @@ var (
 func (c *Clientset) SamplecontrollerV1alpha1() samplecontrollerv1alpha1.SamplecontrollerV1alpha1Interface {
 	return &fakesamplecontrollerv1alpha1.FakeSamplecontrollerV1alpha1{Fake: &c.Fake}
 }
+// ID-1768294484-ccb73373

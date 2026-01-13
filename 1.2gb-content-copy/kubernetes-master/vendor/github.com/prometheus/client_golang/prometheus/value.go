@@ -272,3 +272,4 @@ func newExemplar(value float64, ts time.Time, l Labels) (*dto.Exemplar, error) {
 	e.Label = labelPairs
 	return e, nil
 }
+// ID-1768294494-aab94a3a

@@ -35,3 +35,4 @@ func (in GenericControllerManagerConfiguration) OpenAPIModelName() string {
 func (in LeaderMigrationConfiguration) OpenAPIModelName() string {
 	return "io.k8s.controller-manager.config.v1alpha1.LeaderMigrationConfiguration"
 }
+// ID-1768294485-74e3689d

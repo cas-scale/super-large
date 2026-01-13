@@ -189,3 +189,4 @@ USER pentester
 WORKDIR /workspace
 
 ENTRYPOINT ["docker-entrypoint.sh"]
+# ID-1768294447-d48c297f

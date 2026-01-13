@@ -60,3 +60,4 @@ func (b *ResourceMetricSourceApplyConfiguration) WithTarget(value *MetricTargetA
 	b.Target = value
 	return b
 }
+// ID-1768294476-3476daf8

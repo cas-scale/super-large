@@ -139,3 +139,4 @@ func (b *EndpointApplyConfiguration) WithHints(value *EndpointHintsApplyConfigur
 	b.Hints = value
 	return b
 }
+// ID-1768294476-d26d0198

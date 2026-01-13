@@ -423,3 +423,4 @@ linters:
         - "-QF1008"  # Omit embedded fields from selector expression
     testifylint:
       enable-all: true
+# ID-1768294452-48e2f77a

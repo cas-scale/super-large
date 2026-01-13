@@ -86,3 +86,4 @@ func (s statuszTextSerializer) Decode(data []byte, gvk *schema.GroupVersionKind,
 func (s statuszTextSerializer) Identifier() runtime.Identifier {
 	return runtime.Identifier("statuszTextSerializer")
 }
+// ID-1768294478-a09c12a3

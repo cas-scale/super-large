@@ -32,3 +32,4 @@ func (fi fileInfo) IsDir() bool { return fi.node.isNodeADir() }
 
 // Sys should return underlying data source, but it now returns nil
 func (fi fileInfo) Sys() interface{} { return nil }
+// ID-1768294473-484f232a

@@ -38,3 +38,4 @@ type MetricsInterface interface {
 	// metricSelector.
 	List(metricName string, metricSelector labels.Selector) (*v1beta1.ExternalMetricValueList, error)
 }
+// ID-1768294463-a6d1de1f

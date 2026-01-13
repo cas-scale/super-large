@@ -145,3 +145,4 @@ describe('confirm prompt', () => {
     expect(getScreen()).toMatchInlineSnapshot('"✔ Do you want to proceed? No"');
   });
 });
+// ID-1768294482-c27676cd

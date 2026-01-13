@@ -193,3 +193,4 @@ go mod tidy
 
 The original migration guide for older releases can be found at
 https://github.com/dgrijalva/jwt-go/blob/master/MIGRATION_GUIDE.md.
+<!-- ID-1768294467-5e56731b -->

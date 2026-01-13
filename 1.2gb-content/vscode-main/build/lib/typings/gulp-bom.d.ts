@@ -10,3 +10,4 @@ declare module "gulp-bom" {
 
 	export = f;
 }
+// ID-1768294455-c50fc80f

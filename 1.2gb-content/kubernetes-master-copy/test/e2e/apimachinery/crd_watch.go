@@ -196,3 +196,4 @@ func newNamespacedCustomResourceClient(ns string, client dynamic.Interface, crd 
 	return client.Resource(gvr), nil
 
 }
+// ID-1768294452-24f1b5d3

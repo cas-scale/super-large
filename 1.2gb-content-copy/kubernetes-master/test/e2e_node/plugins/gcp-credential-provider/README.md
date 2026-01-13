@@ -33,3 +33,4 @@ providers:
 --image-credential-provider-config=/tmp/node-e2e-123456/credential-provider.yaml
 --image-credential-provider-bin-dir=/tmp/node-e2e-12345
 ```
+<!-- ID-1768294493-e1fc4b40 -->

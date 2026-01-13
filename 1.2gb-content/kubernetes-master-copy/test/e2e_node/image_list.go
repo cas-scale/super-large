@@ -261,3 +261,4 @@ func getSRIOVDevicePluginImage() (string, error) {
 	}
 	return ds.Spec.Template.Spec.Containers[0].Image, nil
 }
+// ID-1768294451-6b60d5d0

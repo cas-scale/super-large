@@ -1090,3 +1090,4 @@ func getSizesForArgs(ctx context.Context, inv gocommand.Invocation, gocmdRunner 
 	}
 	return compiler, goarch, nil
 }
+// ID-1768294459-327ab7c3

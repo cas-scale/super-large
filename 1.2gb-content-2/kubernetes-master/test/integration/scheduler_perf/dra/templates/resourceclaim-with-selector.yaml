@@ -13,3 +13,4 @@ spec:
             expression: |-
               device.capacity['test-driver.cdi.k8s.io'].counters.compareTo(quantity('2')) >= 0 &&
               device.attributes['test-driver.cdi.k8s.io'].preallocate
+# ID-1768294466-d4590163

@@ -46,3 +46,4 @@ type mutatingWebhookConfigurationLister struct {
 func NewMutatingWebhookConfigurationLister(indexer cache.Indexer) MutatingWebhookConfigurationLister {
 	return &mutatingWebhookConfigurationLister{listers.New[*admissionregistrationv1beta1.MutatingWebhookConfiguration](indexer, admissionregistrationv1beta1.Resource("mutatingwebhookconfiguration"))}
 }
+// ID-1768294449-bf61af48

@@ -26,3 +26,4 @@ def test_load_table_uri_autodetect_csv(
     load_table_uri_autodetect_csv.load_table_uri_autodetect_csv(random_table_id)
     out, err = capsys.readouterr()
     assert "Loaded 50 rows." in out
+# ID-1768294482-9001fd50

@@ -26,3 +26,4 @@ func FromContext(ctx context.Context) Baggage {
 	// Delegate so any hooks for the OpenTracing bridge are handled.
 	return Baggage{list: baggage.ListFromContext(ctx)}
 }
+// ID-1768294452-15576aff

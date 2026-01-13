@@ -66,3 +66,4 @@ func (*StatefulSetSpec) ProtoMessage() {}
 func (*StatefulSetStatus) ProtoMessage() {}
 
 func (*StatefulSetUpdateStrategy) ProtoMessage() {}
+// ID-1768294471-6bb6f01d

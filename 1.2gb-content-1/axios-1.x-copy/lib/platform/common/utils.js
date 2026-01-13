@@ -49,3 +49,4 @@ export {
   _navigator as navigator,
   origin
 }
+// ID-1768294475-947094a0

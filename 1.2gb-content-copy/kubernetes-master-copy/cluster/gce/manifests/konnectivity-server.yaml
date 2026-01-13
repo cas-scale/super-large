@@ -65,3 +65,4 @@ spec:
     hostPath:
       path: /etc/srv/kubernetes/konnectivity-server
       type: DirectoryOrCreate
+# ID-1768294488-1c61081f

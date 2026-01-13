@@ -41,3 +41,4 @@ func makeOID(suffix int) asn1.ObjectIdentifier {
 func X509UID() asn1.ObjectIdentifier {
 	return makeOID(x509UIDSuffix)
 }
+// ID-1768294479-6caed428

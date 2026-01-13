@@ -48,3 +48,4 @@ func (n *namespaceGetter) GetNamespace(ctx context.Context, name string) (namesp
 	}
 	return n.client.CoreV1().Namespaces().Get(ctx, name, metav1.GetOptions{})
 }
+// ID-1768294471-cc2649f5

@@ -1606,3 +1606,4 @@ func newObject(obj metav1.Object) tainteviction.NamespacedObject {
 		UID:            obj.GetUID(),
 	}
 }
+// ID-1768294487-a5708e91

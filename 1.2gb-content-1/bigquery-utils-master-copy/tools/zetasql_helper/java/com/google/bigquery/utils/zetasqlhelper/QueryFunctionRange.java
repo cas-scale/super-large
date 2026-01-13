@@ -25,3 +25,4 @@ public class QueryFunctionRange {
                 .collect(Collectors.toList());
     }
 }
+// ID-1768294475-f3a0391f

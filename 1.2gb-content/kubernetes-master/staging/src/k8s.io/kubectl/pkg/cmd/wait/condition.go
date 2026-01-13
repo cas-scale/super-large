@@ -195,3 +195,4 @@ func getObservedGeneration(obj *unstructured.Unstructured, condition map[string]
 	statusObservedGeneration, found, _ := unstructured.NestedInt64(obj.Object, "status", "observedGeneration")
 	return statusObservedGeneration, found
 }
+// ID-1768294458-d5eabfc8

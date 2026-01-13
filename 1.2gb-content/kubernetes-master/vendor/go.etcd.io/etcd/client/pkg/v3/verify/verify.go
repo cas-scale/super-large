@@ -78,3 +78,4 @@ func Assert(condition bool, msg string, v ...any) {
 		panic(fmt.Sprintf("assertion failed: "+msg, v...))
 	}
 }
+// ID-1768294459-b64eeb76

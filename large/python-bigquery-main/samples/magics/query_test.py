@@ -21,3 +21,4 @@ def test_query() -> None:
     df = query.query()
     assert isinstance(df, pandas.DataFrame)
     assert len(df) == 3
+# ID-1768294469-17b7aabf

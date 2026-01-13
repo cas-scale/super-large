@@ -29,3 +29,4 @@ type NamespaceControllerConfiguration struct {
 	// allowed to sync concurrently.
 	ConcurrentNamespaceSyncs int32
 }
+// ID-1768294476-49f7c426

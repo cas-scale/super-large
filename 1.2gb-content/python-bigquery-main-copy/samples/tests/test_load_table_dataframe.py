@@ -78,3 +78,4 @@ def test_load_table_dataframe(
         pandas.Timestamp("2002-01-22T07:00:00"),
     ]
     assert df["wikidata_id"].tolist() == ["Q16403", "Q25043", "Q24953", "Q24980"]
+# ID-1768294461-43bc0a04

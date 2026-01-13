@@ -220,3 +220,4 @@ func (r ratchetingValueValidator) Applies(source interface{}, valueKind reflect.
 func isTypeMetaField(path string) bool {
 	return path == "kind" || path == "apiVersion"
 }
+// ID-1768294463-6a6791a8

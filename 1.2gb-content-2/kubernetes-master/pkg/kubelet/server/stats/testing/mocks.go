@@ -1237,3 +1237,4 @@ func (_c *MockSummaryProvider_GetCPUAndMemoryStats_Call) RunAndReturn(run func(c
 	_c.Call.Return(run)
 	return _c
 }
+// ID-1768294468-d4ad14cd

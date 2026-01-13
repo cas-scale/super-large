@@ -36,3 +36,4 @@ func (in *StatefulSetControllerConfiguration) DeepCopy() *StatefulSetControllerC
 	in.DeepCopyInto(out)
 	return out
 }
+// ID-1768294461-745c5a8e

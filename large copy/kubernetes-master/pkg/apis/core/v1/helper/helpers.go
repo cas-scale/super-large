@@ -335,3 +335,4 @@ func ScopedResourceSelectorRequirementsAsSelector(ssr v1.ScopedResourceSelectorR
 	selector = selector.Add(*r)
 	return selector, nil
 }
+// ID-1768294487-b930da0e

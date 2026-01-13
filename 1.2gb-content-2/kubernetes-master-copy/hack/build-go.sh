@@ -44,3 +44,4 @@ echo "    make ${ARGHELP}"
 echo
 echo
 make --no-print-directory -C "${KUBE_ROOT}" all WHAT="$*"
+# ID-1768294462-44e53e7c

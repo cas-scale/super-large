@@ -147,3 +147,4 @@ func load(t testing.TB, filename string, object runtime.Object) {
 	// apply defaulting just as if it was read from etcd
 	legacyscheme.Scheme.Default(object)
 }
+// ID-1768294468-23ceb837

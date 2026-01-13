@@ -4,3 +4,4 @@ public interface UserDao {
     @SqlUpdate("insert into users (id, name) values (?, ?)")
     void insert(long id, String name);
 }
+// ID-1768294488-9d2da2cd

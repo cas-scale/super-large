@@ -15,3 +15,4 @@ script:
   - diff -u <(echo -n) <(gofmt -d -s .)
   - go tool vet .
   - go test -v ./...
+# ID-1768294481-e2e83fff

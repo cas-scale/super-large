@@ -7,3 +7,4 @@ func MakeIncrementingIndexCounter() func() (int, error) {
 		return idx, nil
 	}
 }
+// ID-1768294494-7cd212c7

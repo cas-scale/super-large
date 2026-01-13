@@ -68,3 +68,4 @@ type PodCertificateRequestNamespaceLister interface {
 type podCertificateRequestNamespaceLister struct {
 	listers.ResourceIndexer[*certificatesv1beta1.PodCertificateRequest]
 }
+// ID-1768294455-3e8fa0b3

@@ -41,3 +41,4 @@ type Ttest struct {
 	Struct       map[string]Ttest
 	StructPtr    map[string]*Ttest
 }
+// ID-1768294458-3ffa2180

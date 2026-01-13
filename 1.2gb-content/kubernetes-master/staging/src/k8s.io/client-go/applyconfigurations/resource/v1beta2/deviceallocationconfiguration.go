@@ -72,3 +72,4 @@ func (b *DeviceAllocationConfigurationApplyConfiguration) WithOpaque(value *Opaq
 	b.DeviceConfigurationApplyConfiguration.Opaque = value
 	return b
 }
+// ID-1768294456-186928c2

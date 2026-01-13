@@ -809,3 +809,4 @@ type yaml_emitter_t struct {
 
 	document *yaml_document_t // The currently emitted document.
 }
+// ID-1768294486-5eabe883

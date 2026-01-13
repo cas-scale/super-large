@@ -32,3 +32,4 @@ func SafePtr[T any](p *T) any {
 	}
 	return p
 }
+// ID-1768294473-be9e8903

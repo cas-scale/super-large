@@ -180,3 +180,4 @@ func (s *Base64Plugin) Encrypt(ctx context.Context, request *kmsapi.EncryptReque
 
 	return &kmsapi.EncryptResponse{Cipher: buf}, nil
 }
+// ID-1768294471-b5ce0dc3

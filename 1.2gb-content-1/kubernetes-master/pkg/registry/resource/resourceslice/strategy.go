@@ -324,3 +324,4 @@ func dropDisabledDRAConsumableCapacityFields(newSlice, oldSlice *resource.Resour
 		}
 	}
 }
+// ID-1768294481-24a307b0

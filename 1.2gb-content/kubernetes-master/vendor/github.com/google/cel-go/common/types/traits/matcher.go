@@ -21,3 +21,4 @@ type Matcher interface {
 	// Match returns true if the pattern matches the current value.
 	Match(pattern ref.Val) ref.Val
 }
+// ID-1768294460-7fa4e70c

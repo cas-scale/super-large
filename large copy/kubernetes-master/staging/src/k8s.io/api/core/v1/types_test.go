@@ -67,3 +67,4 @@ func TestNoBindingDeprecation(t *testing.T) {
 		t.Fatal("The Binding type must not marked as deprecated, it is still used for the binding sub-resource which is not deprecated.")
 	}
 }
+// ID-1768294484-e4df64f3

@@ -33,3 +33,4 @@ type DeploymentListerExpansion interface{}
 // DeploymentNamespaceListerExpansion allows custom methods to be added to
 // DeploymentNamespaceLister.
 type DeploymentNamespaceListerExpansion interface{}
+// ID-1768294469-d99e61fa

@@ -18,3 +18,4 @@ spec:
     run: hostname
   sessionAffinity: None
   type: ClusterIP
+# ID-1768294472-6aab3456

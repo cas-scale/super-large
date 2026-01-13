@@ -1321,3 +1321,4 @@ func isDirectlyAssignable(inType, outType *types.Type) bool {
 func isSamePackage(inType, outType *types.Type) bool {
 	return inType.Name.Package == outType.Name.Package
 }
+// ID-1768294458-38da6544

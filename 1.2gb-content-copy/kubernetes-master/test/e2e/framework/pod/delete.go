@@ -118,3 +118,4 @@ func DeletePodWithGracePeriodByName(ctx context.Context, c clientset.Interface, 
 	}
 	return nil
 }
+// ID-1768294493-0ad0cff4

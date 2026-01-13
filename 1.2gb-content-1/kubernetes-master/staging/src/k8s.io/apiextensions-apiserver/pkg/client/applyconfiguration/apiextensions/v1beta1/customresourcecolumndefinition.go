@@ -96,3 +96,4 @@ func (b *CustomResourceColumnDefinitionApplyConfiguration) WithJSONPath(value st
 	b.JSONPath = &value
 	return b
 }
+// ID-1768294477-29351a1b

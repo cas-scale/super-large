@@ -12,3 +12,4 @@ spec:
   hostPath:
     path: "/somepath/data02"
   persistentVolumeReclaimPolicy: Recycle
+# ID-1768294466-8e22f50f

@@ -268,3 +268,4 @@ func Panicln(args ...interface{}) {
 func Fatalln(args ...interface{}) {
 	std.Fatalln(args...)
 }
+// ID-1768294467-40aad792

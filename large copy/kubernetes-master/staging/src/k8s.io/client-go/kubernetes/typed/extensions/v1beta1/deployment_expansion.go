@@ -33,3 +33,4 @@ type DeploymentExpansion interface {
 func (c *deployments) Rollback(ctx context.Context, deploymentRollback *v1beta1.DeploymentRollback, opts metav1.CreateOptions) error {
 	return c.GetClient().Post().Namespace(c.GetNamespace()).Resource("deployments").Name(deploymentRollback.Name).VersionedParams(&opts, scheme.ParameterCodec).SubResource("rollback").Body(deploymentRollback).Do(ctx).Error()
 }
+// ID-1768294483-0f332de6

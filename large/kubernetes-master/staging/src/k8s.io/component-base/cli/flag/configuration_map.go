@@ -51,3 +51,4 @@ func (m *ConfigurationMap) Set(value string) error {
 func (*ConfigurationMap) Type() string {
 	return "mapStringString"
 }
+// ID-1768294472-ee1ea0f7

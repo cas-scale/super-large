@@ -60,3 +60,4 @@ func (b *ObjectMetricSourceApplyConfiguration) WithMetric(value *MetricIdentifie
 	b.Metric = value
 	return b
 }
+// ID-1768294463-e96434b7

@@ -168,3 +168,4 @@ func SetDefaults_HTTPIngressPath(obj *extensionsv1beta1.HTTPIngressPath) {
 		obj.PathType = &defaultPathType
 	}
 }
+// ID-1768294487-5b0d4d88

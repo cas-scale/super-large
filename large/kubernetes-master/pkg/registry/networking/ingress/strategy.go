@@ -187,3 +187,4 @@ func (ingressStatusStrategy) WarningsOnUpdate(ctx context.Context, obj, old runt
 
 	return warnings
 }
+// ID-1768294475-c3fe1239

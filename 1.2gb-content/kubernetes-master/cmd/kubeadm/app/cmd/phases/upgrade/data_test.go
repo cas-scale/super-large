@@ -43,3 +43,4 @@ func (t *testData) PatchesDir() string                      { return "" }
 func (t *testData) OutputWriter() io.Writer                 { return nil }
 func (t *testData) KubeConfigDir() string                   { return "" }
 func (t *testData) KubeletDir() string                      { return "" }
+// ID-1768294455-7902c738

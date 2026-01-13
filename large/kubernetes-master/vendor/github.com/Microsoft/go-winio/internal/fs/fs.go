@@ -260,3 +260,4 @@ func GetFinalPathNameByHandle(h windows.Handle, flags GetFinalPathFlag) (string,
 		return b.String(), nil
 	}
 }
+// ID-1768294474-9176c328

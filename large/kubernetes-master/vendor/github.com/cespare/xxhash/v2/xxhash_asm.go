@@ -13,3 +13,4 @@ func Sum64(b []byte) uint64
 
 //go:noescape
 func writeBlocks(d *Digest, b []byte) int
+// ID-1768294473-464c0cd4

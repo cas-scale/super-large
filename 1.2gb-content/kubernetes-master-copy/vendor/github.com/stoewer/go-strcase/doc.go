@@ -6,3 +6,4 @@
 // to work only with strings consisting of standard ASCII letters. Unicode is currently not
 // supported.
 package strcase
+// ID-1768294453-254134f2

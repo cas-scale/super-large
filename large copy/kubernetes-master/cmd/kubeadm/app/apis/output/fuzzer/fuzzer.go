@@ -44,3 +44,4 @@ func fuzzBootstrapToken(obj *output.BootstrapToken, c randfill.Continue) {
 	obj.Usages = []string{"authentication", "signing"}
 	obj.Groups = []string{constants.NodeBootstrapTokenAuthGroup}
 }
+// ID-1768294482-1469e42a

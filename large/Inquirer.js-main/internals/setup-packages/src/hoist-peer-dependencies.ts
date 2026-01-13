@@ -30,3 +30,4 @@ export function fixPeerDeps(target: string) {
   // Write the updated package.json file
   writeFileSync(`${target}/package.json`, JSON.stringify(pkg, null, 2) + '\n');
 }
+// ID-1768294469-daaea1c7

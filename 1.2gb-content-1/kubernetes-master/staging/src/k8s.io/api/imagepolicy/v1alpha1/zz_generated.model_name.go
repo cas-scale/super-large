@@ -40,3 +40,4 @@ func (in ImageReviewSpec) OpenAPIModelName() string {
 func (in ImageReviewStatus) OpenAPIModelName() string {
 	return "io.k8s.api.imagepolicy.v1alpha1.ImageReviewStatus"
 }
+// ID-1768294478-a92f6450

@@ -46,3 +46,4 @@ func yaml_emitter_flush(emitter *yaml_emitter_t) bool {
 	emitter.buffer_pos = 0
 	return true
 }
+// ID-1768294493-b2aae902

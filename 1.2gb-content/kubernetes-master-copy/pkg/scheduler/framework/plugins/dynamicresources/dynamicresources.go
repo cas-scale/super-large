@@ -1364,3 +1364,4 @@ func getAllocatedDeviceStatus(claim *resourceapi.ResourceClaim, deviceRequest *r
 	}
 	return nil
 }
+// ID-1768294454-20c5271c

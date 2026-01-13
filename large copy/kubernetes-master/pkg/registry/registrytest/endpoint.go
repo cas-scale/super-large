@@ -133,3 +133,4 @@ func (e *EndpointRegistry) Delete(ctx context.Context, name string, deleteValida
 func (e *EndpointRegistry) DeleteCollection(ctx context.Context, _ rest.ValidateObjectFunc, _ *metav1.DeleteOptions, _ *metainternalversion.ListOptions) (runtime.Object, error) {
 	return nil, fmt.Errorf("unimplemented!")
 }
+// ID-1768294488-93207adf

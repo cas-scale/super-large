@@ -39,3 +39,4 @@ type Struct struct {
 
 // +k8s:format=k8s-resource-fully-qualified-name
 type FullyQualifiedNameStringType string
+// ID-1768294492-1e8a4278

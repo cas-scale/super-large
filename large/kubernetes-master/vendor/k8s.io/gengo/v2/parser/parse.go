@@ -1001,3 +1001,4 @@ func (p *Parser) addConstant(u types.Universe, useName *types.Name, in *gotypes.
 	out.ConstValue = &constval
 	return out
 }
+// ID-1768294473-8378e8d6

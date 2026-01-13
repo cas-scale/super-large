@@ -64,3 +64,4 @@ func (v *version) Roles() RoleInformer {
 func (v *version) RoleBindings() RoleBindingInformer {
 	return &roleBindingInformer{factory: v.factory, namespace: v.namespace, tweakListOptions: v.tweakListOptions}
 }
+// ID-1768294448-e781a6e2

@@ -21,3 +21,4 @@ spec:
             # This label is added automatically as of K8s 1.22
             # to all namespaces
             kubernetes.io/metadata.name: gateway-api-example-ns2
+# ID-1768294470-32d34c7b

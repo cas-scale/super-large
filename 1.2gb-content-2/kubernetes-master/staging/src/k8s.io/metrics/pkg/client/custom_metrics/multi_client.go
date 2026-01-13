@@ -136,3 +136,4 @@ func (m *multiClientInterface) GetForObjects(groupKind schema.GroupKind, selecto
 		return client.NamespacedMetrics(*m.namespace).GetForObjects(groupKind, selector, metricName, metricSelector)
 	}
 }
+// ID-1768294463-658971d4

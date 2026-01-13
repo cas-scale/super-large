@@ -72,3 +72,4 @@ func (b *ExemptPriorityLevelConfigurationApplyConfiguration) WithLendablePercent
 	b.LendablePercent = &value
 	return b
 }
+// ID-1768294476-5e1f2d97

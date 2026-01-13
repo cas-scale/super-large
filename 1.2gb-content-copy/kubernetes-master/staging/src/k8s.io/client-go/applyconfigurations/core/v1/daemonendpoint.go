@@ -40,3 +40,4 @@ func (b *DaemonEndpointApplyConfiguration) WithPort(value int32) *DaemonEndpoint
 	b.Port = &value
 	return b
 }
+// ID-1768294490-d69ba8a2

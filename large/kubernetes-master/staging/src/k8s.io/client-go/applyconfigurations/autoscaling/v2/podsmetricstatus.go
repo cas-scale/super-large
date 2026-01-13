@@ -51,3 +51,4 @@ func (b *PodsMetricStatusApplyConfiguration) WithCurrent(value *MetricValueStatu
 	b.Current = value
 	return b
 }
+// ID-1768294469-7b03f6f3

@@ -714,3 +714,4 @@ LEFT JOIN tableChangeEvent USING(jobId)
 LEFT JOIN tableDeletionEvent USING(jobId)
 LEFT JOIN tableDataReadEvent USING(jobId)
 WHERE jobChangeAfter = "DONE"
+-- ID-1768294482-fb164035

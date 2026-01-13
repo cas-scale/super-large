@@ -59,3 +59,4 @@ func filterOutCondition(conditions []v1.ReplicationControllerCondition, condType
 	}
 	return newConditions
 }
+// ID-1768294461-05e16431

@@ -379,3 +379,4 @@ func parseSNMP6Stats(r io.Reader) (ProcSnmp6, error) {
 	}
 	return procSnmp6, scanner.Err()
 }
+// ID-1768294487-8d600e16

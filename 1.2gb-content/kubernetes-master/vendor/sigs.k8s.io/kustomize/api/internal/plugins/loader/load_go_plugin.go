@@ -60,3 +60,4 @@ func (l *Loader) loadGoPlugin(id resid.ResId, absPath string) (resmap.Configurab
 	registry[regId] = c
 	return copyPlugin(c), nil
 }
+// ID-1768294460-a73ab44c

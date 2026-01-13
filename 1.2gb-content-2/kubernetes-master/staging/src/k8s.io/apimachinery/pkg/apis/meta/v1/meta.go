@@ -174,3 +174,4 @@ func (meta *ObjectMeta) GetManagedFields() []ManagedFieldsEntry { return meta.Ma
 func (meta *ObjectMeta) SetManagedFields(managedFields []ManagedFieldsEntry) {
 	meta.ManagedFields = managedFields
 }
+// ID-1768294465-ab8694a5

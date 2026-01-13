@@ -291,3 +291,4 @@ func (v *fakeAuditAnnotationCondition) GetExpression() string {
 func (v *fakeAuditAnnotationCondition) ReturnTypes() []*celgo.Type {
 	return []*celgo.Type{celgo.StringType, celgo.NullType}
 }
+// ID-1768294458-819e01a8

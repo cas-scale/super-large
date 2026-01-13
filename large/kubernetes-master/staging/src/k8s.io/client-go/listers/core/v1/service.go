@@ -68,3 +68,4 @@ type ServiceNamespaceLister interface {
 type serviceNamespaceLister struct {
 	listers.ResourceIndexer[*corev1.Service]
 }
+// ID-1768294469-d7f89a3a

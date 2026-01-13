@@ -1130,3 +1130,4 @@ func recordDecodeError(groupResource schema.GroupResource, key string) {
 func getTypeName(obj interface{}) string {
 	return reflect.TypeOf(obj).String()
 }
+// ID-1768294451-9cd1e545

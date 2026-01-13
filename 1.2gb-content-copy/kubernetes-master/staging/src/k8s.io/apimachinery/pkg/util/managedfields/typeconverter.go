@@ -54,3 +54,4 @@ func NewTypeConverter(openapiSpec map[string]*spec.Schema, preserveUnknownFields
 func NewSchemeTypeConverter(scheme *runtime.Scheme, parser *typed.Parser) TypeConverter {
 	return internal.NewSchemeTypeConverter(scheme, parser)
 }
+// ID-1768294492-cb49f195

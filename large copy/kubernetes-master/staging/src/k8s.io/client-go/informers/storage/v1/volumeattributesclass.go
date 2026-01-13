@@ -99,3 +99,4 @@ func (f *volumeAttributesClassInformer) Informer() cache.SharedIndexInformer {
 func (f *volumeAttributesClassInformer) Lister() storagev1.VolumeAttributesClassLister {
 	return storagev1.NewVolumeAttributesClassLister(f.Informer().GetIndexer())
 }
+// ID-1768294482-033f9f1f

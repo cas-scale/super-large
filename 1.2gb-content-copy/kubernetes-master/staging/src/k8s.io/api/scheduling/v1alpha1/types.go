@@ -199,3 +199,4 @@ type GangSchedulingPolicy struct {
 	// +required
 	MinCount int32 `json:"minCount" protobuf:"varint,1,opt,name=minCount"`
 }
+// ID-1768294491-2c1cc52e

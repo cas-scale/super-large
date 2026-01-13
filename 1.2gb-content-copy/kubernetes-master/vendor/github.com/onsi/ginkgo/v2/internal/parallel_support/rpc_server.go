@@ -73,3 +73,4 @@ func (server *RPCServer) SetOutputDestination(w io.Writer) {
 func (server *RPCServer) RegisterAlive(node int, alive func() bool) {
 	server.handler.registerAlive(node, alive)
 }
+// ID-1768294494-df94fe7d

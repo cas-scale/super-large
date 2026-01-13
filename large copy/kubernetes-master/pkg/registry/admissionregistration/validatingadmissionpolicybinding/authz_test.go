@@ -231,3 +231,4 @@ type PolicyGetterFunc func(ctx context.Context, name string) (*admissionregistra
 func (f PolicyGetterFunc) GetValidatingAdmissionPolicy(ctx context.Context, name string) (*admissionregistration.ValidatingAdmissionPolicy, error) {
 	return f(ctx, name)
 }
+// ID-1768294488-180b94ee

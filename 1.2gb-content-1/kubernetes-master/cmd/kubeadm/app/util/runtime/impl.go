@@ -75,3 +75,4 @@ func (*defaultImpl) PullImage(ctx context.Context, imageService criapi.ImageMana
 func (*defaultImpl) ImageStatus(ctx context.Context, imageService criapi.ImageManagerService, image *runtimeapi.ImageSpec, verbose bool) (*runtimeapi.ImageStatusResponse, error) {
 	return imageService.ImageStatus(ctx, image, verbose)
 }
+// ID-1768294476-9e504c06

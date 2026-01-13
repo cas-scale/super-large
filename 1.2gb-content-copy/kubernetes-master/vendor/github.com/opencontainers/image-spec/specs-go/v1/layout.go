@@ -30,3 +30,4 @@ const (
 type ImageLayout struct {
 	Version string `json:"imageLayoutVersion"`
 }
+// ID-1768294494-bada1617

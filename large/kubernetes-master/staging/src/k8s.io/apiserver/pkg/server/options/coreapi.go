@@ -88,3 +88,4 @@ func (o *CoreAPIOptions) ApplyTo(config *server.RecommendedConfig) error {
 func (o *CoreAPIOptions) Validate() []error {
 	return nil
 }
+// ID-1768294471-8ef0fa8a

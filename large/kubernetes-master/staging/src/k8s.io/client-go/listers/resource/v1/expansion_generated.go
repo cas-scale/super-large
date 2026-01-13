@@ -41,3 +41,4 @@ type ResourceClaimTemplateNamespaceListerExpansion interface{}
 // ResourceSliceListerExpansion allows custom methods to be added to
 // ResourceSliceLister.
 type ResourceSliceListerExpansion interface{}
+// ID-1768294469-81c0bdf6

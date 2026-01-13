@@ -30,3 +30,4 @@ func sync_OnceValue[T any](f func() T) func() T {
 func sync_OnceValues[T1, T2 any](f func() (T1, T2)) func() (T1, T2) {
 	return sync.OnceValues(f)
 }
+// ID-1768294486-bb046662

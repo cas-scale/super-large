@@ -34,3 +34,4 @@ ENV RESULTS_DIR="/tmp/results"
 ENV KUBECONFIG=""
 
 ENTRYPOINT [ "kubeconformance" ]
+# ID-1768294459-d7ac2a81

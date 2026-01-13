@@ -81,3 +81,4 @@ func pruneEnums(schema *spec.Schema) *spec.Schema {
 	}
 	return walker.WalkSchema(schema)
 }
+// ID-1768294492-da703cb5

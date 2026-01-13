@@ -69,3 +69,4 @@ func (b *TypeMetaApplyConfiguration) GetKind() *string {
 func (b *TypeMetaApplyConfiguration) GetAPIVersion() *string {
 	return b.APIVersion
 }
+// ID-1768294449-c5b805fc

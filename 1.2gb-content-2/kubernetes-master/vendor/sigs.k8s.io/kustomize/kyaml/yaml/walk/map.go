@@ -182,3 +182,4 @@ func (l Walker) fieldValue(fieldName string) ([]*yaml.RNode, *openapi.ResourceSc
 	}
 	return fields, sch, keyStyles
 }
+// ID-1768294467-6cfc4d74

@@ -26,3 +26,4 @@ cd "${KUBE_ROOT}"
 test/conformance/gen-specsummaries.sh
 # specsummaries.json -> conformance.md
 test/conformance/spec-to-docs.sh
+# ID-1768294486-4d6c342b

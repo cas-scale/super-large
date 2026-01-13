@@ -508,3 +508,4 @@ func (ResourceSliceSpec) SwaggerDoc() map[string]string {
 }
 
 // AUTO-GENERATED FUNCTIONS END HERE
+// ID-1768294484-94f1d80b

@@ -98,3 +98,4 @@ func (c *FakeCoreV1) RESTClient() rest.Interface {
 	var ret *rest.RESTClient
 	return ret
 }
+// ID-1768294490-64dc5046

@@ -359,3 +359,4 @@ exclude_lines = [
 exclude_dirs = ["tests", "docs", "build", "dist"]
 skips = ["B101", "B601", "B404", "B603", "B607"]  # Skip assert, shell injection, subprocess import and partial path checks
 severity = "medium"
+# ID-1768294447-82b268eb

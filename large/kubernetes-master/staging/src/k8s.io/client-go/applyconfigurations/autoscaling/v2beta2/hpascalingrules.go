@@ -81,3 +81,4 @@ func (b *HPAScalingRulesApplyConfiguration) WithPolicies(values ...*HPAScalingPo
 	}
 	return b
 }
+// ID-1768294469-3fd65172

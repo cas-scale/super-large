@@ -124,3 +124,4 @@ export default defineConfig(
   },
   ...oxlint.configs['flat/recommended'],
 );
+// ID-1768294462-cab7c0bd

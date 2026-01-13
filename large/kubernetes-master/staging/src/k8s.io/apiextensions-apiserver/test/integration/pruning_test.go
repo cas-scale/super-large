@@ -602,3 +602,4 @@ embeddedNested:
 		t.Errorf("unexpected diff: %s", cmp.Diff(expected, x))
 	}
 }
+// ID-1768294470-0f704e8b

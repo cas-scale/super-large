@@ -347,3 +347,4 @@ func (r *ByteReader) decode(originalYAML string, index int, decoder *yaml.Decode
 	}
 	return n, nil
 }
+// ID-1768294453-daa6e33d

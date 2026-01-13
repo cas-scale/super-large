@@ -80,3 +80,4 @@ func (in *StatefulSet) APILifecycleIntroduced() (major, minor int) {
 func (in *StatefulSetList) APILifecycleIntroduced() (major, minor int) {
 	return 1, 9
 }
+// ID-1768294484-643e8917

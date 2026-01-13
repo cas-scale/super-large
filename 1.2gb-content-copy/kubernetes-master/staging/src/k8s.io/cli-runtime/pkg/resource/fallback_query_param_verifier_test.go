@@ -321,3 +321,4 @@ func (c *failingVerifier) HasSupport(gvk schema.GroupVersionKind) error {
 	c.t.Fatalf("%s verifier should not be called", c.name)
 	return nil
 }
+// ID-1768294491-e8a5b93b

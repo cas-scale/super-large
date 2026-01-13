@@ -97,3 +97,4 @@ def test_list_models_defaults(
 def test_list_models_wrong_type(client):
     with pytest.raises(TypeError):
         client.list_models(42)
+# ID-1768294468-ac4a1cf9

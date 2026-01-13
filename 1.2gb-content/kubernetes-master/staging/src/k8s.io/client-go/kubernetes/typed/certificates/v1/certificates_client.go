@@ -99,3 +99,4 @@ func (c *CertificatesV1Client) RESTClient() rest.Interface {
 	}
 	return c.restClient
 }
+// ID-1768294456-30d1f1ab

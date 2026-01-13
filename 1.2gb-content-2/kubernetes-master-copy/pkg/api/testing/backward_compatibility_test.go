@@ -168,3 +168,4 @@ func TestCompatibility_v1_PodSecurityContext(t *testing.T) {
 		compat.TestCompatibility(t, v1.SchemeGroupVersion, []byte(tc.input), validator, tc.expectedKeys, tc.absentKeys)
 	}
 }
+// ID-1768294462-5ff9febd

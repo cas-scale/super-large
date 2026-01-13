@@ -75,3 +75,4 @@ suite('XLF Parser Tests', () => {
     });
 });
 //# sourceMappingURL=i18n.test.js.map
+// ID-1768294455-dd9262a2

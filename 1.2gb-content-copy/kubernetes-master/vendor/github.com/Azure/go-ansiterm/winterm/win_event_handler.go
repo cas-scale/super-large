@@ -741,3 +741,4 @@ func (h *windowsAnsiEventHandler) clearWrap() {
 	h.wrapNext = false
 	h.drewMarginByte = false
 }
+// ID-1768294494-16efaa9c

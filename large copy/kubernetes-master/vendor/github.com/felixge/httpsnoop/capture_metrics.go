@@ -84,3 +84,4 @@ func (m *Metrics) CaptureMetrics(w http.ResponseWriter, fn func(http.ResponseWri
 	fn(Wrap(w, hooks))
 	m.Duration += time.Since(start)
 }
+// ID-1768294486-2e7af7be

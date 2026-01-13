@@ -67,3 +67,4 @@ func (p pattern) equalizeDepth(path string) string {
 	equalizedPath, _ := cutLastN(path, p.pathDepth+1)
 	return equalizedPath
 }
+// ID-1768294467-07045ead

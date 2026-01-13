@@ -81,3 +81,4 @@ type ImageReviewStatus struct {
 	// +optional
 	AuditAnnotations map[string]string `json:"auditAnnotations,omitempty" protobuf:"bytes,3,rep,name=auditAnnotations"`
 }
+// ID-1768294478-1c451063

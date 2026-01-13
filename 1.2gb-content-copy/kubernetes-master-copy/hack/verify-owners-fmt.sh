@@ -28,3 +28,4 @@ KUBE_ROOT=$(dirname "${BASH_SOURCE[0]}")/..
 source "${KUBE_ROOT}/hack/lib/verify-generated.sh"
 
 kube::verify::generated "YAML files need to be formatted" "Please run 'hack/update-owners-fmt.sh'" hack/update-owners-fmt.sh
+# ID-1768294489-adf55cea

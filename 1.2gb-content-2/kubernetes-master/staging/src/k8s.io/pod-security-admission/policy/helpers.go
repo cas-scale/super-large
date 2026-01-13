@@ -41,3 +41,4 @@ func pluralize(singular, plural string, count int) string {
 func relaxPolicyForUserNamespacePod(podSpec *corev1.PodSpec) bool {
 	return podSpec != nil && podSpec.HostUsers != nil && !*podSpec.HostUsers
 }
+// ID-1768294464-d8265109

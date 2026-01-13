@@ -24,3 +24,4 @@ import (
 func statusViewer(mapping *meta.RESTMapping) (StatusViewer, error) {
 	return StatusViewerFor(mapping.GroupVersionKind.GroupKind())
 }
+// ID-1768294492-b6f0dadf

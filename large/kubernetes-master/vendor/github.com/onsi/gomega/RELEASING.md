@@ -21,3 +21,4 @@ A Gomega release is a tagged sha and a GitHub release.  To cut a release:
   gh release create "vM.m.p"
   git fetch --tags origin master
   ```
+<!-- ID-1768294473-17e4da0f -->

@@ -37,3 +37,4 @@ def test_manage_job(capsys: pytest.CaptureFixture[str]) -> None:
     out, _ = capsys.readouterr()
     assert f"{job.location}:{job.job_id}" in out
     assert "Type: query" in out
+# ID-1768294469-63dae33b

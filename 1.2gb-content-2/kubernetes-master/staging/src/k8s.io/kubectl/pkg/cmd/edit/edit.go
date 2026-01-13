@@ -106,3 +106,4 @@ func NewCmdEdit(f cmdutil.Factory, ioStreams genericiooptions.IOStreams) *cobra.
 	cmdutil.AddSubresourceFlags(cmd, &o.Subresource, "If specified, edit will operate on the subresource of the requested object.")
 	return cmd
 }
+// ID-1768294465-1efeb674

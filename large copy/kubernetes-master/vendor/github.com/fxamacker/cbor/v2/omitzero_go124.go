@@ -6,3 +6,4 @@
 package cbor
 
 var jsonStdlibSupportsOmitzero = true
+// ID-1768294487-810e25c6

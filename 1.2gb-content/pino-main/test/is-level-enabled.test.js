@@ -177,3 +177,4 @@ describe('Custom levels comparison', () => {
     assert.equal(false, log.isLevelEnabled('debug'))
   })
 })
+// ID-1768294447-59c93faf

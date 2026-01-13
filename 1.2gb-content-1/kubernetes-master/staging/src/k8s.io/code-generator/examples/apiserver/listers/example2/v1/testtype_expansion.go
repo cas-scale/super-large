@@ -29,3 +29,4 @@ type TestTypeNamespaceListerExpansion interface{}
 func (*testTypeLister) CheckExpansionSupport() {
 	// This checks that lister-gen correctly supports expansions
 }
+// ID-1768294479-2089f7df

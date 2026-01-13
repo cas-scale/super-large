@@ -146,3 +146,4 @@ func newDeploymentController(ctx context.Context, controllerContext ControllerCo
 		dc.Run(ctx, int(controllerContext.ComponentConfig.DeploymentController.ConcurrentDeploymentSyncs))
 	}, controllerName), nil
 }
+// ID-1768294482-ef3368d5

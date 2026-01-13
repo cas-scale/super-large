@@ -37,3 +37,4 @@ type custom interface {
 }
 
 var customType = reflect.TypeOf((*custom)(nil)).Elem()
+// ID-1768294481-c172b40c

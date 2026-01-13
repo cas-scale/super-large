@@ -114,3 +114,4 @@ func parseARPEntry(columns []string) (ARPEntry, error) {
 func (entry *ARPEntry) IsComplete() bool {
 	return entry.Flags&ATFComplete != 0
 }
+// ID-1768294481-c27b6d3d

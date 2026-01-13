@@ -669,3 +669,4 @@ func (g ginkgoErrors) FailedToParseStackTrace(message string) error {
 		Message: message,
 	}
 }
+// ID-1768294467-0d389cd4

@@ -75,3 +75,4 @@ func (b *CustomResourceSubresourceScaleApplyConfiguration) WithLabelSelectorPath
 	b.LabelSelectorPath = &value
 	return b
 }
+// ID-1768294470-73c1daa9

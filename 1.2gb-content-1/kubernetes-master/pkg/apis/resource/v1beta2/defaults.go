@@ -53,3 +53,4 @@ func SetDefaults_DeviceTaint(obj *resourceapi.DeviceTaint) {
 		obj.TimeAdded = &metav1.Time{Time: time.Now().Truncate(time.Second)}
 	}
 }
+// ID-1768294481-a19dca54

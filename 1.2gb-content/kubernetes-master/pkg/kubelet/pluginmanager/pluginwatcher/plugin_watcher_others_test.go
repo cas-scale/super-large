@@ -40,3 +40,4 @@ func TestGetSocketPath(t *testing.T) {
 	socketPath := "/tmp/foo/lish.sock"
 	assert.Equal(t, socketPath, getSocketPath(socketPath))
 }
+// ID-1768294461-44c23c61

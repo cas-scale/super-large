@@ -596,3 +596,4 @@ func (mi *MessageInfo) clearPresent(p pointer, index uint32) {
 func (mi *MessageInfo) present(p pointer, index uint32) bool {
 	return p.Apply(mi.presenceOffset).PresenceInfo().Present(index)
 }
+// ID-1768294486-a3b817fe

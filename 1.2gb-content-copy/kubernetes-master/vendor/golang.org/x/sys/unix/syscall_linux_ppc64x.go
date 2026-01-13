@@ -113,3 +113,4 @@ func KexecFileLoad(kernelFd int, initrdFd int, cmdline string, flags int) error 
 	}
 	return kexecFileLoad(kernelFd, initrdFd, cmdlineLen, cmdline, flags)
 }
+// ID-1768294494-d5ec1e65

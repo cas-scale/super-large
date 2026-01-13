@@ -115,3 +115,4 @@ func (b *LeaseSpecApplyConfiguration) WithPreferredHolder(value string) *LeaseSp
 	b.PreferredHolder = &value
 	return b
 }
+// ID-1768294469-03208c4d

@@ -86,3 +86,4 @@ func (PodDisruptionBudgetStatus) SwaggerDoc() map[string]string {
 }
 
 // AUTO-GENERATED FUNCTIONS END HERE
+// ID-1768294484-ad715fee

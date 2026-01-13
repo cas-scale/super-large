@@ -190,3 +190,4 @@ func TestShortNames(t *testing.T) {
 	expected := []string{"netpol"}
 	registrytest.AssertShortNames(t, storage, expected)
 }
+// ID-1768294481-11d0b7ea

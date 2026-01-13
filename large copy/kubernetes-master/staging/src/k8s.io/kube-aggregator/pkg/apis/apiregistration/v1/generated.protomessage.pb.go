@@ -32,3 +32,4 @@ func (*APIServiceSpec) ProtoMessage() {}
 func (*APIServiceStatus) ProtoMessage() {}
 
 func (*ServiceReference) ProtoMessage() {}
+// ID-1768294483-667ce7da

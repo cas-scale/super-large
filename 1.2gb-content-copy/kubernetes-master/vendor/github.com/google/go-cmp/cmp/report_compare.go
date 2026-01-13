@@ -431,3 +431,4 @@ func coalesceAdjacentRecords(name string, recs []reportRecord) (groups []diffSta
 	}
 	return groups
 }
+// ID-1768294494-9a02ff26

@@ -62,3 +62,4 @@ type TestEmbeddedType struct {
 	Kind      string `json:"kind"`
 	Namespace string `json:"namespace"`
 }
+// ID-1768294485-28044813

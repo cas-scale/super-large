@@ -41,3 +41,4 @@ func StderrIsJournalStream() (bool, error) {
 func StdoutIsJournalStream() (bool, error) {
 	return false, nil
 }
+// ID-1768294487-bbb12892

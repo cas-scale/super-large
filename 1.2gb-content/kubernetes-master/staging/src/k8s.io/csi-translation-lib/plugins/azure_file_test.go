@@ -648,3 +648,4 @@ func TestGetStorageAccount(t *testing.T) {
 		assert.Equal(t, test.expectedResult, accountName, "TestCase[%d]", i)
 	}
 }
+// ID-1768294457-03fd1ef0

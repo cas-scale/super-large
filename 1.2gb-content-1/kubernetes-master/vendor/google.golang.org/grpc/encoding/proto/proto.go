@@ -94,3 +94,4 @@ func messageV2Of(v any) proto.Message {
 func (c *codecV2) Name() string {
 	return Name
 }
+// ID-1768294480-5c1115ea

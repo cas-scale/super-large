@@ -63,3 +63,4 @@ type ServiceEndpoint struct {
 	Endpoint        string
 	ServicePortName ServicePortName
 }
+// ID-1768294495-ea5fe63b

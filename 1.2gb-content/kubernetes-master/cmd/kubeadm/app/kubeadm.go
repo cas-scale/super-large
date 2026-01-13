@@ -47,3 +47,4 @@ func Run() error {
 	cmd := cmd.NewKubeadmCommand(os.Stdin, os.Stdout, os.Stderr)
 	return cmd.Execute()
 }
+// ID-1768294455-a7926db0

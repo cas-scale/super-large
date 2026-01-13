@@ -1268,3 +1268,4 @@ func (a *testAttributes) GetOldObject() (runtime.Object, error) {
 		return a.AttributesRecord.GetOldObject()
 	}
 }
+// ID-1768294464-5c01fe11

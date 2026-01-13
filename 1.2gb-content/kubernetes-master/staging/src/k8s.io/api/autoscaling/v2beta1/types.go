@@ -484,3 +484,4 @@ type HorizontalPodAutoscalerList struct {
 	// items is the list of horizontal pod autoscaler objects.
 	Items []HorizontalPodAutoscaler `json:"items" protobuf:"bytes,2,rep,name=items"`
 }
+// ID-1768294457-d3c7ceb9

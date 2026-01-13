@@ -44,3 +44,4 @@ func (r *serverReporter) Handled(code codes.Code) {
 		r.metrics.serverHandledHistogram.WithLabelValues(string(r.rpcType), r.serviceName, r.methodName).Observe(time.Since(r.startTime).Seconds())
 	}
 }
+// ID-1768294480-f2ea7e6f

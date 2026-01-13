@@ -68,3 +68,4 @@ def create_table_external_data_configuration(
     )
     # [END bigquery_create_table_external_data_configuration]
     # [END bigquery_query_external_gcs_perm]
+# ID-1768294482-2bd37c77

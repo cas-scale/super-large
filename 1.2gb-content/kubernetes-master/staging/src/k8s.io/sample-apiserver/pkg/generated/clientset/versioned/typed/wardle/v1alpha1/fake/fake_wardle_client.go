@@ -42,3 +42,4 @@ func (c *FakeWardleV1alpha1) RESTClient() rest.Interface {
 	var ret *rest.RESTClient
 	return ret
 }
+// ID-1768294458-8d13c509

@@ -330,3 +330,4 @@ func (s *corruptStorage) Delete(ctx context.Context, key string, out runtime.Obj
 	}
 	return s.Interface.Delete(ctx, key, out, preconditions, deleteValidation, cachedExistingObject, opts)
 }
+// ID-1768294451-39c3230a

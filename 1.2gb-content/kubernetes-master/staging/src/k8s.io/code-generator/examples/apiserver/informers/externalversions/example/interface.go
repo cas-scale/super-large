@@ -44,3 +44,4 @@ func New(f internalinterfaces.SharedInformerFactory, namespace string, tweakList
 func (g *group) V1() v1.Interface {
 	return v1.New(g.factory, g.namespace, g.tweakListOptions)
 }
+// ID-1768294458-172db0c3

@@ -49,3 +49,4 @@ func addKnownTypes(scheme *runtime.Scheme) error {
 	scheme.AddKnownTypeWithName(SchemeGroupVersion.WithKind("ResourceQuotaConfiguration"), &Configuration{})
 	return nil
 }
+// ID-1768294465-8396e17b

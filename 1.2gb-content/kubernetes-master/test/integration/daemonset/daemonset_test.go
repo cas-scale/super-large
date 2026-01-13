@@ -1327,3 +1327,4 @@ func TestDaemonSetRollingUpdateWithTolerations(t *testing.T) {
 	validateDaemonSetStatus(dsClient, ds.Name, 0, t)
 	validateUpdatedNumberScheduled(ctx, dsClient, ds.Name, 0, t)
 }
+// ID-1768294458-0a379391

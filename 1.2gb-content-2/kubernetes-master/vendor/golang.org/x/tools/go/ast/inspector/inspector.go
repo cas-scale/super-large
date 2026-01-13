@@ -309,3 +309,4 @@ func (v *visitor) pop(node ast.Node) {
 		parent: current.edgeKindAndIndex, // see [unpackEdgeKindAndIndex]
 	})
 }
+// ID-1768294467-81f88ea2

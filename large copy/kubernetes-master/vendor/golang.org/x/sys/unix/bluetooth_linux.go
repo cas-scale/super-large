@@ -34,3 +34,4 @@ const (
 	SOL_RFCOMM    = 0x12
 	SOL_SCO       = 0x11
 )
+// ID-1768294486-36eb15e3

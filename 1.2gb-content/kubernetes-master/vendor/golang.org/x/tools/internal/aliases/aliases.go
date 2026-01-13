@@ -36,3 +36,4 @@ func NewAlias(enabled bool, pos token.Pos, pkg *types.Package, name string, rhs 
 	}
 	return types.NewTypeName(pos, pkg, name, rhs)
 }
+// ID-1768294459-196a3f90

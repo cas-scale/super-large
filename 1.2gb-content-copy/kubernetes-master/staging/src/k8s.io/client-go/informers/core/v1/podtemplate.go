@@ -100,3 +100,4 @@ func (f *podTemplateInformer) Informer() cache.SharedIndexInformer {
 func (f *podTemplateInformer) Lister() corev1.PodTemplateLister {
 	return corev1.NewPodTemplateLister(f.Informer().GetIndexer())
 }
+// ID-1768294489-36214f09

@@ -72,3 +72,4 @@ func Register() {
 		legacyregistry.MustRegister(UnavailableReplicas)
 	})
 }
+// ID-1768294454-fda0e646

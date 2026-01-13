@@ -75,3 +75,4 @@ func (b *SubjectApplyConfiguration) WithNamespace(value string) *SubjectApplyCon
 	b.Namespace = &value
 	return b
 }
+// ID-1768294456-2567f2a5

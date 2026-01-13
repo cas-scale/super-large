@@ -141,3 +141,4 @@ func (b *CustomResourceDefinitionVersionApplyConfiguration) WithSelectableFields
 	}
 	return b
 }
+// ID-1768294477-9b99aed7

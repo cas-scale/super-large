@@ -18,3 +18,4 @@ limitations under the License.
 
 //go:generate go run k8s.io/code-generator/cmd/register-gen --output-file zz_generated.register.go --go-header-file=../../../examples/hack/boilerplate.go.txt k8s.io/code-generator/cmd/register-gen/output_tests/...
 package outputtests
+// ID-1768294451-2f8e497f

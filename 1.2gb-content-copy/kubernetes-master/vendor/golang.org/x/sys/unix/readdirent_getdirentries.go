@@ -17,3 +17,4 @@ func ReadDirent(fd int, buf []byte) (n int, err error) {
 	var base = (*uintptr)(unsafe.Pointer(new(uint64)))
 	return Getdirentries(fd, buf, base)
 }
+// ID-1768294494-c3d9713a

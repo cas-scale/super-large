@@ -40,3 +40,4 @@ func (b *ResourceClaimSpecApplyConfiguration) WithDevices(value *DeviceClaimAppl
 	b.Devices = value
 	return b
 }
+// ID-1768294469-c264d5a5

@@ -60,3 +60,4 @@ func (b *ServiceStatusApplyConfiguration) WithConditions(values ...*metav1.Condi
 	}
 	return b
 }
+// ID-1768294476-445e5102

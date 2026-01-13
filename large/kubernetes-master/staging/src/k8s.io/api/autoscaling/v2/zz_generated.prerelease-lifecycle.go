@@ -32,3 +32,4 @@ func (in *HorizontalPodAutoscaler) APILifecycleIntroduced() (major, minor int) {
 func (in *HorizontalPodAutoscalerList) APILifecycleIntroduced() (major, minor int) {
 	return 1, 23
 }
+// ID-1768294471-8bd9fce8

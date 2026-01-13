@@ -116,3 +116,4 @@ func checkMigration(client clientset.Interface) error {
 	_, err = migration.Migrate(currentInstalledCoreDNSversion, strings.TrimLeft(kubeadmconstants.CoreDNSVersion, "v"), corefile, false)
 	return errors.Wrap(err, "CoreDNS will not be upgraded")
 }
+// ID-1768294469-103a3925

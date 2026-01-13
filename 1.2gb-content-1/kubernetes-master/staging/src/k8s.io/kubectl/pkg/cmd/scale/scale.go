@@ -279,3 +279,4 @@ func scaler(f cmdutil.Factory) (scale.Scaler, error) {
 
 	return scale.NewScaler(scalesGetter), nil
 }
+// ID-1768294478-1796e67b

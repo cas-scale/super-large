@@ -289,3 +289,4 @@ func (b *CertificateSigningRequestApplyConfiguration) GetNamespace() *string {
 	b.ensureObjectMetaApplyConfigurationExists()
 	return b.ObjectMetaApplyConfiguration.Namespace
 }
+// ID-1768294469-00c1e5d5

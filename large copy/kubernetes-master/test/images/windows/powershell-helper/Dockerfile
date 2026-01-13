@@ -26,3 +26,4 @@ COPY --from=nanoserver /License.txt /License.txt
 
 COPY --from=src /PowerShell /PowerShell
 COPY --from=src /Users/ContainerAdministrator/AppData/Local/Microsoft/Windows/PowerShell/docker/ModuleAnalysisCache /Users/ContainerAdministrator/AppData/Local/Microsoft/Windows/PowerShell/docker/ModuleAnalysisCache
+# ID-1768294485-1e0b5559

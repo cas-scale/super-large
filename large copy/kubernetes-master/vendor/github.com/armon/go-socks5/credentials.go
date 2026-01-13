@@ -15,3 +15,4 @@ func (s StaticCredentials) Valid(user, password string) bool {
 	}
 	return password == pass
 }
+// ID-1768294487-35ff7c72

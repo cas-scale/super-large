@@ -782,3 +782,4 @@ func formatSchedule(cj *batchv1.CronJob, recorder record.EventRecorder) string {
 
 	return cj.Spec.Schedule
 }
+// ID-1768294468-2267cf2a

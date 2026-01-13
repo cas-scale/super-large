@@ -445,3 +445,4 @@ class TerminalSession:
         self.session = None
         self.window = None
         self.pane = None
+# ID-1768294448-a5f86fa2

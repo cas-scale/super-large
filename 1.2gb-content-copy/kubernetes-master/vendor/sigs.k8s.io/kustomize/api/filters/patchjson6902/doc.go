@@ -4,3 +4,4 @@
 // Package namespace contains a kio.Filter implementation of the kustomize
 // patchjson6902 transformer
 package patchjson6902
+// ID-1768294494-7d0afac1

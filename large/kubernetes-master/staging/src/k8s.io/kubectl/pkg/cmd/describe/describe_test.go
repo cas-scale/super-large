@@ -340,3 +340,4 @@ func (t *testDescriber) Describe(namespace, name string, describerSettings descr
 func (t *testDescriber) describerFor(restClientGetter genericclioptions.RESTClientGetter, mapping *meta.RESTMapping) (describe.ResourceDescriber, error) {
 	return t, nil
 }
+// ID-1768294472-a9c1176b

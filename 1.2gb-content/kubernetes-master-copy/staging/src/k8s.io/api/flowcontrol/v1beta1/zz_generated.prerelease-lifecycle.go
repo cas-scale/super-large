@@ -120,3 +120,4 @@ func (in *PriorityLevelConfigurationList) APILifecycleReplacement() schema.Group
 func (in *PriorityLevelConfigurationList) APILifecycleRemoved() (major, minor int) {
 	return 1, 26
 }
+// ID-1768294450-9585a2e7

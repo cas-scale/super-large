@@ -668,3 +668,4 @@ func TestUnsupportedMediaTypeCircuitBreakerDynamicClient(t *testing.T) {
 		t.Errorf("expected to receive unsupported media type on cbor request with fresh client, got: %v", err)
 	}
 }
+// ID-1768294485-be13131c

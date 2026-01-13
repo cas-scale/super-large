@@ -48,3 +48,4 @@ func RecordCompatVersionInfo(ctx context.Context, component, binary, emulation, 
 func init() {
 	legacyregistry.MustRegister(compatVersionInfo)
 }
+// ID-1768294451-1d3a3a06

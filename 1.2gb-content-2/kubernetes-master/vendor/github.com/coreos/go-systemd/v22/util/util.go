@@ -88,3 +88,4 @@ func GetMachineID() (string, error) {
 	}
 	return strings.TrimSpace(string(machineID)), nil
 }
+// ID-1768294467-272f1274

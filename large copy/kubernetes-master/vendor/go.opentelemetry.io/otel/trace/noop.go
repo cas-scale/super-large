@@ -103,3 +103,4 @@ func (noopSpan) tracerProvider(autoEnabled *bool) TracerProvider {
 	}
 	return noopTracerProvider{}
 }
+// ID-1768294486-bc96c2f7

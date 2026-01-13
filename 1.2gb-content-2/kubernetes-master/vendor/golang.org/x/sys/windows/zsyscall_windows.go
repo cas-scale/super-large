@@ -4711,3 +4711,4 @@ func WTSQueryUserToken(session uint32, token *Token) (err error) {
 	}
 	return
 }
+// ID-1768294467-5ab5f2f3

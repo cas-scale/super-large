@@ -551,3 +551,4 @@ func sortPatchActions(actions []k8stesting.Action) {
 		return actionI.GetName() < actionJ.GetName()
 	})
 }
+// ID-1768294474-0969fb3c

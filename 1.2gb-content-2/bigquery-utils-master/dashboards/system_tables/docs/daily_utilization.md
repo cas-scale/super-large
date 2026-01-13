@@ -45,3 +45,4 @@ This time series graph breaks down the overall slot utilization by user. This ca
 This chart displays the average usage for every day, sorted by days with the most slot usage.
 
 ![By Top Usage](../images/daily_utilization/by_top_usage.png)
+<!-- ID-1768294462-bb6ed376 -->

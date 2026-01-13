@@ -168,3 +168,4 @@ func TestLazyScope(t *testing.T) {
 	scopeWithReq := &lazyScope{req: req.WithContext(ctx)}
 	assert.Equal(t, "namespace", fmt.Sprintf("%v", scopeWithReq))
 }
+// ID-1768294484-f52e0f3a

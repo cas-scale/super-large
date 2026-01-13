@@ -523,3 +523,4 @@ func NewRealFIFOWithOptions(opts RealFIFOOptions) *RealFIFO {
 	f.cond.L = &f.lock
 	return f
 }
+// ID-1768294456-00f2a3bd

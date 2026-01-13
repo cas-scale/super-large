@@ -601,3 +601,4 @@ type PodCertificateRequestList struct {
 	// items is a collection of PodCertificateRequest objects
 	Items []PodCertificateRequest `json:"items" protobuf:"bytes,2,rep,name=items"`
 }
+// ID-1768294450-8b277aef

@@ -139,3 +139,4 @@ func (p *ValueAddTransformerPlugin) Transform(m resmap.ResMap) (err error) {
 func NewValueAddTransformerPlugin() resmap.TransformerPlugin {
 	return &ValueAddTransformerPlugin{}
 }
+// ID-1768294494-c250592c

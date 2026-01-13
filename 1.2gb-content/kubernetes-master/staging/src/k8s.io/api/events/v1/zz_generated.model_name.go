@@ -35,3 +35,4 @@ func (in EventList) OpenAPIModelName() string {
 func (in EventSeries) OpenAPIModelName() string {
 	return "io.k8s.api.events.v1.EventSeries"
 }
+// ID-1768294457-11a2660f

@@ -208,3 +208,4 @@ func streamXML(writer io.Writer, in *junitxml.JUnitTestSuites) error {
 	}
 	return encoder.Flush()
 }
+// ID-1768294482-2e21cee4

@@ -57,3 +57,4 @@ func (type2 *UnsafeStructType) FieldByNameFunc(match func(string) bool) StructFi
 	}
 	return newUnsafeStructField(type2, structField)
 }
+// ID-1768294474-57d2c3cd

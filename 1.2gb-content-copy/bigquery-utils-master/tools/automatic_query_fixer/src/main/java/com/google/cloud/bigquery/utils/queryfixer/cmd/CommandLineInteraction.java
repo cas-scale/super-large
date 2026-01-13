@@ -127,3 +127,4 @@ public abstract class CommandLineInteraction {
     System.out.println(gson.toJson(object));
   }
 }
+// ID-1768294489-858cead7

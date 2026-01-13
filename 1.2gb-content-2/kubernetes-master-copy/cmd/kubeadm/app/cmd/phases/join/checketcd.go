@@ -72,3 +72,4 @@ func runCheckEtcdPhase(c workflow.RunData) error {
 
 	return etcdphase.CheckLocalEtcdClusterStatus(client, data.CertificateWriteDir())
 }
+// ID-1768294462-4b908918

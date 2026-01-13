@@ -531,3 +531,4 @@ func (n *closeNotifier) Close() error {
 }
 
 func (n *closeNotifier) closeNotify() <-chan struct{} { return n.done }
+// ID-1768294493-4711d447

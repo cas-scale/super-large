@@ -17,3 +17,4 @@ Note that you should add the function map before you parse any template files.
 See http://masterminds.github.io/sprig/ for more detailed documentation on each of the available functions.
 */
 package sprig
+// ID-1768294494-412e4972

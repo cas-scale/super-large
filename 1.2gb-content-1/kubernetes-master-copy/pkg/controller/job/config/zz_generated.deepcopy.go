@@ -36,3 +36,4 @@ func (in *JobControllerConfiguration) DeepCopy() *JobControllerConfiguration {
 	in.DeepCopyInto(out)
 	return out
 }
+// ID-1768294476-c81f31a1

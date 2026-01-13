@@ -32,3 +32,4 @@ all: transform
 transform: coredns.yaml.in coredns.yaml.sed
 
 .PHONY: transform
+# ID-1768294475-f4a49f0d

@@ -29,3 +29,4 @@ public class ColumnNotGroupedError extends BigQuerySemanticError {
     this.missingColumn = missingColumn;
   }
 }
+// ID-1768294488-65348e73

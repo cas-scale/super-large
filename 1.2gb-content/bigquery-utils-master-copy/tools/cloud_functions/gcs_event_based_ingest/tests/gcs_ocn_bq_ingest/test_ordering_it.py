@@ -710,3 +710,4 @@ def test_query_success_on_last_retry(gcs_client, bq_client,
     # The last retry succeeds so verify that query was
     # retried the max specified in MAX_RETRIES_ON_BIGQUERY_ERROR
     assert bq_client.query.call_count == gcs_ocn_bq_ingest.common.constants.MAX_RETRIES_ON_BIGQUERY_ERROR
+# ID-1768294448-a2de8a4f

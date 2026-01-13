@@ -31,3 +31,4 @@ func SetDefaults_ServiceReference(obj *ServiceReference) {
 		obj.Port = ptr.To[int32](443)
 	}
 }
+// ID-1768294456-b988f7a7

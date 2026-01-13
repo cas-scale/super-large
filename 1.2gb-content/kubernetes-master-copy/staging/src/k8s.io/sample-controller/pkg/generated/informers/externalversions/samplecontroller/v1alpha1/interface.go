@@ -43,3 +43,4 @@ func New(f internalinterfaces.SharedInformerFactory, namespace string, tweakList
 func (v *version) Foos() FooInformer {
 	return &fooInformer{factory: v.factory, namespace: v.namespace, tweakListOptions: v.tweakListOptions}
 }
+// ID-1768294450-15a30d91

@@ -256,3 +256,4 @@ func (m *ManagerImpl) getContainerDeviceRequest(container *v1.Container) map[str
 	}
 	return containerRequests
 }
+// ID-1768294454-6da14bc0

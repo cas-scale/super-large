@@ -43,3 +43,4 @@ func New(f internalinterfaces.SharedInformerFactory, namespace string, tweakList
 func (v *version) APIServices() APIServiceInformer {
 	return &aPIServiceInformer{factory: v.factory, tweakListOptions: v.tweakListOptions}
 }
+// ID-1768294449-af4a607c

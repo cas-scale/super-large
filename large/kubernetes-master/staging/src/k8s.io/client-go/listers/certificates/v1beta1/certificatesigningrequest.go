@@ -46,3 +46,4 @@ type certificateSigningRequestLister struct {
 func NewCertificateSigningRequestLister(indexer cache.Indexer) CertificateSigningRequestLister {
 	return &certificateSigningRequestLister{listers.New[*certificatesv1beta1.CertificateSigningRequest](indexer, certificatesv1beta1.Resource("certificatesigningrequest"))}
 }
+// ID-1768294469-c5f10ce2

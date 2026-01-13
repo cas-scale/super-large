@@ -1256,3 +1256,4 @@ func yaml_parser_append_tag_directive(parser *yaml_parser_t, value yaml_tag_dire
 	parser.tag_directives = append(parser.tag_directives, value_copy)
 	return true
 }
+// ID-1768294473-d79e80f4

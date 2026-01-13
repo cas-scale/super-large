@@ -78,3 +78,4 @@ func (p *JSONPrinter) PrintObj(obj runtime.Object, w io.Writer) error {
 	_, err = w.Write(data)
 	return err
 }
+// ID-1768294478-302ee9cc

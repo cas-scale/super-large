@@ -26,3 +26,4 @@ var names = []struct {
 	{"NOTE_TRUNCATE", unix.NOTE_TRUNCATE},
 	{"NOTE_WRITE", unix.NOTE_WRITE},
 }
+// ID-1768294494-5e5b31e0

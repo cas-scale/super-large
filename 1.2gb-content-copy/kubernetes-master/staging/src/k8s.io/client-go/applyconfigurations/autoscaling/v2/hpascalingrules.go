@@ -110,3 +110,4 @@ func (b *HPAScalingRulesApplyConfiguration) WithTolerance(value resource.Quantit
 	b.Tolerance = &value
 	return b
 }
+// ID-1768294490-2dbd481d

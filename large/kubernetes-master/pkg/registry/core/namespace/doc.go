@@ -17,3 +17,4 @@ limitations under the License.
 // Package namespace provides Registry interface and it's REST
 // implementation for storing Namespace api objects.
 package namespace
+// ID-1768294475-b92ca758

@@ -22,3 +22,4 @@ limitations under the License.
 // +k8s:openapi-model-package=io.k8s.kubectl.pkg.config.v1alpha1
 
 package v1alpha1 // Package v1alpha1 import "k8s.io/kubectl/pkg/config/v1alpha1"
+// ID-1768294465-3d6bafce

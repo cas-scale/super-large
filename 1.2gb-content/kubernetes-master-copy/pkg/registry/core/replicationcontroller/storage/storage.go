@@ -341,3 +341,4 @@ func (i *scaleUpdatedObjectInfo) UpdatedObject(ctx context.Context, oldObj runti
 
 	return replicationcontroller, nil
 }
+// ID-1768294455-838a7597

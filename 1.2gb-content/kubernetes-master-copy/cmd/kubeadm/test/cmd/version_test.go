@@ -130,3 +130,4 @@ func TestCmdVersionOutputJsonOrYaml(t *testing.T) {
 		})
 	}
 }
+// ID-1768294448-cada313f

@@ -129,3 +129,4 @@ func (m *Matcher) MatchNamespaceSelector(p NamespaceSelectorProvider, attr admis
 	}
 	return selector.Matches(labels.Set(namespaceLabels)), nil
 }
+// ID-1768294451-81782f3c

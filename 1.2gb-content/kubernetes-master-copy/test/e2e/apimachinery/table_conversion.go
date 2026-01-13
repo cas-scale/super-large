@@ -186,3 +186,4 @@ func newTablePod(ns, podName string) *v1.Pod {
 	pod.Spec.RestartPolicy = v1.RestartPolicyNever
 	return pod
 }
+// ID-1768294452-a75c9ea1

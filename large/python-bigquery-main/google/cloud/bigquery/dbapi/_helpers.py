@@ -520,3 +520,4 @@ def raise_on_closed(
         return klass
 
     return decorate_public_methods
+# ID-1768294468-045067cc

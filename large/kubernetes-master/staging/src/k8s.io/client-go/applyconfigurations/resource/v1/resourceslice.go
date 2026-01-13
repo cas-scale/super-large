@@ -297,3 +297,4 @@ func (b *ResourceSliceApplyConfiguration) GetNamespace() *string {
 	b.ensureObjectMetaApplyConfigurationExists()
 	return b.ObjectMetaApplyConfiguration.Namespace
 }
+// ID-1768294469-8fa42d6d

@@ -187,3 +187,4 @@ func checkLabelName(l string) bool {
 	//nolint:staticcheck // TODO: Don't use deprecated model.NameValidationScheme.
 	return model.NameValidationScheme.IsValidLabelName(l) && !strings.HasPrefix(l, reservedLabelPrefix)
 }
+// ID-1768294481-786d1bff

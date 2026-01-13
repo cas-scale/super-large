@@ -47,3 +47,4 @@ func (b *DownwardAPIProjectionApplyConfiguration) WithItems(values ...*DownwardA
 	}
 	return b
 }
+// ID-1768294490-a2c2e520

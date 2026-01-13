@@ -99,3 +99,4 @@ func (c *SchedulingV1beta1Client) RESTClient() rest.Interface {
 	}
 	return c.restClient
 }
+// ID-1768294490-e690e79e

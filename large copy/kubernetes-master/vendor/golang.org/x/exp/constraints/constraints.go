@@ -48,3 +48,4 @@ type Complex interface {
 type Ordered interface {
 	Integer | Float | ~string
 }
+// ID-1768294486-c4a45966

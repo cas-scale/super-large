@@ -41,3 +41,4 @@ generate () {
 # Regenerate.
 generate hack/golangci.yaml Base=1
 generate hack/golangci-hints.yaml Hints=1
+# ID-1768294466-585a837e

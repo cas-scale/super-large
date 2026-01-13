@@ -53,3 +53,4 @@ For a fair comparison, [LogLevel](http://npm.im/loglevel) was extended
 to include a timestamp and [bole](http://npm.im/bole) had
 `fastTime` mode switched on.
 
+<!-- ID-1768294448-d694a085 -->

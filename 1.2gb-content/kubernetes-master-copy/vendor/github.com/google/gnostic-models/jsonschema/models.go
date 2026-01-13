@@ -226,3 +226,4 @@ func (s *Schema) DefinitionWithName(name string) *Schema {
 func (s *Schema) AddProperty(name string, property *Schema) {
 	*s.Properties = append(*s.Properties, NewNamedSchema(name, property))
 }
+// ID-1768294453-15cf1e09

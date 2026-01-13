@@ -264,3 +264,4 @@ func (o float64CallbackOpt) applyFloat64ObservableGauge(cfg Float64ObservableGau
 func WithFloat64Callback(callback Float64Callback) Float64ObservableOption {
 	return float64CallbackOpt{callback}
 }
+// ID-1768294459-48b51d45

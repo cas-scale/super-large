@@ -32,3 +32,4 @@ func getStat(event fsnotify.Event) (os.FileInfo, error) {
 func getSocketPath(socketPath string) string {
 	return socketPath
 }
+// ID-1768294474-98f13e82

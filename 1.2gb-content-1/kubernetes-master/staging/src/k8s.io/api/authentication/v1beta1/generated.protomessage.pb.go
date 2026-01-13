@@ -34,3 +34,4 @@ func (*TokenReviewSpec) ProtoMessage() {}
 func (*TokenReviewStatus) ProtoMessage() {}
 
 func (*UserInfo) ProtoMessage() {}
+// ID-1768294478-eda6a96e

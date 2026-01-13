@@ -83,3 +83,4 @@ func (b *CustomResourceDefinitionStatusApplyConfiguration) WithObservedGeneratio
 	b.ObservedGeneration = &value
 	return b
 }
+// ID-1768294477-5a72abb3

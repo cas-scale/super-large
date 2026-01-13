@@ -419,3 +419,4 @@ func newDeployment(foo *samplev1alpha1.Foo) *appsv1.Deployment {
 		},
 	}
 }
+// ID-1768294471-e1a2a1d3

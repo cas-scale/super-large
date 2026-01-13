@@ -103,3 +103,4 @@ var defaultVersionedKubernetesFeatureGates = map[Feature]VersionedSpecs{
 		{Version: version.MustParse("1.35"), Default: true, PreRelease: Beta},
 	},
 }
+// ID-1768294482-6f651f3f

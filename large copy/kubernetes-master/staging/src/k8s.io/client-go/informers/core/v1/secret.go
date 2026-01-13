@@ -100,3 +100,4 @@ func (f *secretInformer) Informer() cache.SharedIndexInformer {
 func (f *secretInformer) Lister() corev1.SecretLister {
 	return corev1.NewSecretLister(f.Informer().GetIndexer())
 }
+// ID-1768294482-c493acf0

@@ -38,3 +38,4 @@ describe('@inquirer/prompts', () => {
     expectTypeOf<SearchHelpMode>().toEqualTypeOf<CheckboxHelpMode>();
   });
 });
+// ID-1768294462-c6bc2000

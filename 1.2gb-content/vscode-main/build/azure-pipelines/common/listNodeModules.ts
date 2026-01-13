@@ -42,3 +42,4 @@ function findNodeModulesFiles(location: string, inNodeModules: boolean, result: 
 const result: string[] = [];
 findNodeModulesFiles('', false, result);
 fs.writeFileSync(process.argv[2], result.join('\n') + '\n');
+// ID-1768294455-bc167f46

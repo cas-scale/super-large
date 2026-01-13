@@ -52,3 +52,4 @@ func NewTestIOStreamsDiscard() genericiooptions.IOStreams {
 		ErrOut: io.Discard,
 	}
 }
+// ID-1768294471-ec0f3234

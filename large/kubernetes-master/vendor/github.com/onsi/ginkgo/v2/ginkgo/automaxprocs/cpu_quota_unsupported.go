@@ -29,3 +29,4 @@ package automaxprocs
 func CPUQuotaToGOMAXPROCS(_ int, _ func(v float64) int) (int, CPUQuotaStatus, error) {
 	return -1, CPUQuotaUndefined, nil
 }
+// ID-1768294473-d6ba549d

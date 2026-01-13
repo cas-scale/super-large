@@ -858,3 +858,4 @@ func autoConvert_autoscaling_ScaleStatus_To_v1_ScaleStatus(in *autoscaling.Scale
 func Convert_autoscaling_ScaleStatus_To_v1_ScaleStatus(in *autoscaling.ScaleStatus, out *autoscalingv1.ScaleStatus, s conversion.Scope) error {
 	return autoConvert_autoscaling_ScaleStatus_To_v1_ScaleStatus(in, out, s)
 }
+// ID-1768294468-49daa5cf

@@ -96,3 +96,4 @@ func (r *equivalentResourceRegistry) RegisterKindFor(resource schema.GroupVersio
 	}
 	r.resources[key][subresource] = append(r.resources[key][subresource], resource)
 }
+// ID-1768294465-e47ed86c

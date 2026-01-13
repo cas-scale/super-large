@@ -262,3 +262,4 @@ var ExternalJWTSigner_ServiceDesc = grpc.ServiceDesc{
 	Streams:  []grpc.StreamDesc{},
 	Metadata: "staging/src/k8s.io/externaljwt/apis/v1alpha1/api.proto",
 }
+// ID-1768294471-a5a2a89e

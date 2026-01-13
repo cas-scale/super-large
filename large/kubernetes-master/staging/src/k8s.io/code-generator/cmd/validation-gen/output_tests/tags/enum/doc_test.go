@@ -66,3 +66,4 @@ func Test(t *testing.T) {
 		field.NotSupported(field.NewPath("enum2PtrField"), Enum2("x"), []Enum2{E2V1, E2V2}),
 	})
 }
+// ID-1768294472-88ca6304

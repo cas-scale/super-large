@@ -98,3 +98,4 @@ func IsWindowsService() (bool, error) {
 	}
 	return false, nil
 }
+// ID-1768294473-f9cfddcf

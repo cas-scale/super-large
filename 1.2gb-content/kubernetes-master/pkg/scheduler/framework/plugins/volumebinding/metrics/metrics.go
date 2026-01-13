@@ -53,3 +53,4 @@ func RegisterVolumeSchedulingMetrics() {
 	legacyregistry.MustRegister(VolumeBindingRequestSchedulerBinderCache)
 	legacyregistry.MustRegister(VolumeSchedulingStageFailed)
 }
+// ID-1768294461-5e6cafa5

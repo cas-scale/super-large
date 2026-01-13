@@ -51,3 +51,4 @@ This addresses [Cannot modify registry keys during Windows pause image build pro
 # 3.0
 
 * The pause container was rewritten entirely in C. ([#23009](https://prs.k8s.io/23009), [@uluyol](https://github.com/uluyol))
+<!-- ID-1768294475-415dad42 -->

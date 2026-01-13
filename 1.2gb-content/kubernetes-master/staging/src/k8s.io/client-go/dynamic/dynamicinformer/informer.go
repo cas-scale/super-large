@@ -198,3 +198,4 @@ func (d *dynamicInformer) Informer() cache.SharedIndexInformer {
 func (d *dynamicInformer) Lister() cache.GenericLister {
 	return dynamiclister.NewRuntimeObjectShim(dynamiclister.New(d.informer.GetIndexer(), d.gvr))
 }
+// ID-1768294456-32d387fc

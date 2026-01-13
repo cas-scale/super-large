@@ -806,3 +806,4 @@ main(void)
 ) >_errors.c
 
 $CC $ccflags -o _errors _errors.c && $GORUN ./_errors && rm -f _errors.c _errors _const.go _error.grep _signal.grep _error.out
+# ID-1768294453-517e88f7

@@ -48,3 +48,4 @@ import _ "k8s.io/client-go/plugin/pkg/client/auth/oidc"
 ### Testing
 
 - [**Fake Client**](./fake-client): Use a fake client in tests.
+<!-- ID-1768294449-e81e6e3b -->

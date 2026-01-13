@@ -218,3 +218,4 @@ func mustMakeEd25519KeyAndProof(t *testing.T, toBeSigned []byte) (ed25519.Privat
 	sig := ed25519.Sign(priv, toBeSigned)
 	return priv, pub, pubPKIX, sig
 }
+// ID-1768294461-6c50ed96

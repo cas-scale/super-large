@@ -475,3 +475,4 @@ func (kl *Kubelet) getLastObservedNodeAddresses() []v1.NodeAddress {
 	}
 	return node.Status.Addresses
 }
+// ID-1768294454-1c77a0a8

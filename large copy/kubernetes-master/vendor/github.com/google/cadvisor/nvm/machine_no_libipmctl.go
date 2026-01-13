@@ -34,3 +34,4 @@ func GetInfo() (info.NVMInfo, error) {
 func Finalize() {
 	klog.V(4).Info("libipmctl not available, doing nothing.")
 }
+// ID-1768294487-5a05ebd7

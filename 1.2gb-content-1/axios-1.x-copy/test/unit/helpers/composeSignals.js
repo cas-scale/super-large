@@ -41,3 +41,4 @@ describe('helpers::composeSignals', () => {
     assert.strictEqual(signal, undefined);
   });
 });
+// ID-1768294475-c8b37046

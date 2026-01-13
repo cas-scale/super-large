@@ -53,3 +53,4 @@ func (s *StandardLogger) Errorf(fmt string, args ...interface{}) {
 	}
 	s.Logger.Printf("[INFO] "+fmt, args)
 }
+// ID-1768294467-f5d892a9

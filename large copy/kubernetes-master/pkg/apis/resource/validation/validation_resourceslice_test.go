@@ -1146,3 +1146,4 @@ func createConsumesCounters(count int) []resourceapi.DeviceCounterConsumption {
 	}
 	return consumeCapacity
 }
+// ID-1768294487-b40f0b00

@@ -770,3 +770,4 @@ func createFakeScaleClient(resource string, resourceName string, replicas int, e
 	})
 	return scaleClient
 }
+// ID-1768294492-1a57a934

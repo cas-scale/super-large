@@ -288,3 +288,4 @@ func (c *codec) doEncode(obj runtime.Object, w io.Writer, memAlloc runtime.Memor
 func (c *codec) Identifier() runtime.Identifier {
 	return c.identifier
 }
+// ID-1768294492-29fde223

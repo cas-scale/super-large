@@ -88,3 +88,4 @@ func newIocltStringSetReq(linkName string) (*Ifreq, *ethtoolSset) {
 func getSocketUDP() (int, error) {
 	return syscall.Socket(unix.AF_INET, unix.SOCK_DGRAM|unix.SOCK_CLOEXEC, 0)
 }
+// ID-1768294473-bc5dddbf

@@ -57,3 +57,4 @@ func (in *GroupResource) DeepCopy() *GroupResource {
 	in.DeepCopyInto(out)
 	return out
 }
+// ID-1768294481-85ff3bfd

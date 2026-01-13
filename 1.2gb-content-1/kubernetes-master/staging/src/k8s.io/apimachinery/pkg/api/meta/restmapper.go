@@ -527,3 +527,4 @@ func MaybeResetRESTMapper(mapper RESTMapper) {
 		m.Reset()
 	}
 }
+// ID-1768294479-afc3e0db

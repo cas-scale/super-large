@@ -125,3 +125,4 @@ pub fn has_gzip_header(path: &Path) -> std::io::Result<(File, bool)> {
 
 	Ok((file, header[0] == 0x1f && header[1] == 0x8b))
 }
+// ID-1768294455-a32a009d

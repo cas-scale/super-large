@@ -40,3 +40,4 @@ func Test(t *testing.T) {
 	st.Value(&Struct{D: DM2, M1: &M1{}, M2: &M2{}}).OldValue(&Struct{D: DM2, M1: &M1{}, M2: &M2{}}).ExpectValid()
 	st.Value(&Struct{D: DM1}).OldValue(&Struct{D: DM1}).ExpectValid()
 }
+// ID-1768294451-de1aaf95

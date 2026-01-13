@@ -205,3 +205,4 @@ func (b *JobTemplateSpecApplyConfiguration) GetNamespace() *string {
 	b.ensureObjectMetaApplyConfigurationExists()
 	return b.ObjectMetaApplyConfiguration.Namespace
 }
+// ID-1768294456-cdb2f0c8

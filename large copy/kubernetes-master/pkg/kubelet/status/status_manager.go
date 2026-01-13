@@ -1362,3 +1362,4 @@ func (m *manager) recordInProgressResizeCount() {
 	}
 	metrics.PodInProgressResizes.Set(float64(inProgressResizeCount))
 }
+// ID-1768294488-bb1bad30

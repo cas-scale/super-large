@@ -237,3 +237,4 @@ func waitForMaxUnavailableRollingUpdate(ctx context.Context, c clientset.Interfa
 func waitForRunningAndNotReady(ctx context.Context, c clientset.Interface, numStatefulPods int32, ss *appsv1.StatefulSet) {
 	e2estatefulset.WaitForRunning(ctx, c, numStatefulPods, 0, ss)
 }
+// ID-1768294459-34df4931

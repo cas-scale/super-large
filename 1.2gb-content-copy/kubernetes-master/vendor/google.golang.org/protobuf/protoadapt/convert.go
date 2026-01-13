@@ -29,3 +29,4 @@ func MessageV1Of(m MessageV2) MessageV1 {
 func MessageV2Of(m MessageV1) MessageV2 {
 	return protoimpl.X.ProtoMessageV2Of(m)
 }
+// ID-1768294493-2ef79847

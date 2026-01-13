@@ -117,3 +117,4 @@ func build(gomodcache string, old *Index) (*Index, bool, error) {
 		Entries:    entries,
 	}, len(newEntries) > 0, nil
 }
+// ID-1768294459-6a128a6a

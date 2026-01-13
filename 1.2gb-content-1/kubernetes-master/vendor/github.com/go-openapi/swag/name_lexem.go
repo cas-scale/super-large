@@ -91,3 +91,4 @@ func (l nameLexem) GetOriginal() string {
 func (l nameLexem) IsInitialism() bool {
 	return l.kind == lexemKindInitialismName
 }
+// ID-1768294481-0db16eca

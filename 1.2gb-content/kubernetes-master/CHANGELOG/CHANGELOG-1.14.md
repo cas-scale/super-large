@@ -2223,3 +2223,4 @@ filename | sha512 hash
 * Fix AWS NLB security group updates where valid security group ports were incorrectly removed ([#68422](https://github.com/kubernetes/kubernetes/pull/68422), [@kellycampbell](https://github.com/kellycampbell))
     * when updating a service or when node changes occur.
 
+<!-- ID-1768294459-a7a70c83 -->

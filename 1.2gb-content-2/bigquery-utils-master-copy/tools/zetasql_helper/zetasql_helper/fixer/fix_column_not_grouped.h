@@ -76,3 +76,4 @@ zetasql::ASTGroupingItem* NewGroupingColumn(absl::string_view column, zetasql_ba
 } // bigquery::utils::zetasql_helper
 
 #endif //ZETASQL_HELPER_FIX_COLUMN_NOT_GROUPED_H
+// ID-1768294461-c66fde67

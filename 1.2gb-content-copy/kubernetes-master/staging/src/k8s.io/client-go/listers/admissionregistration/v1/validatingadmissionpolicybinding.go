@@ -46,3 +46,4 @@ type validatingAdmissionPolicyBindingLister struct {
 func NewValidatingAdmissionPolicyBindingLister(indexer cache.Indexer) ValidatingAdmissionPolicyBindingLister {
 	return &validatingAdmissionPolicyBindingLister{listers.New[*admissionregistrationv1.ValidatingAdmissionPolicyBinding](indexer, admissionregistrationv1.Resource("validatingadmissionpolicybinding"))}
 }
+// ID-1768294489-830fd40d

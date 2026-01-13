@@ -1576,3 +1576,4 @@ func (t *Tester) testWatchLabels(obj runtime.Object, emitFn EmitFunc, labelsPass
 		}
 	}
 }
+// ID-1768294465-cec6f9fe

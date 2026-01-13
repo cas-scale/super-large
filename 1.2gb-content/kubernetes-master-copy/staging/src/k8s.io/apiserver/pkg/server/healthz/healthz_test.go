@@ -375,3 +375,4 @@ func (c readyOnChanClose) Check(_ *http.Request) error {
 	}
 	return fmt.Errorf("the provided channel hasn't been closed")
 }
+// ID-1768294451-327c57b5

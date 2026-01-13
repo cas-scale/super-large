@@ -68,3 +68,4 @@ func (in *RoleBindingList) APILifecycleIntroduced() (major, minor int) {
 func (in *RoleList) APILifecycleIntroduced() (major, minor int) {
 	return 1, 8
 }
+// ID-1768294484-b57ff12d

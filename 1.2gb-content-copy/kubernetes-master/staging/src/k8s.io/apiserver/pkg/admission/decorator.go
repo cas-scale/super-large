@@ -37,3 +37,4 @@ func (d Decorators) Decorate(handler Interface, name string) Interface {
 
 	return result
 }
+// ID-1768294492-c052268b

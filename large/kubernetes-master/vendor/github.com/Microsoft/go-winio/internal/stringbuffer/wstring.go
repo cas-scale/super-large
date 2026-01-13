@@ -130,3 +130,4 @@ func (b *WString) Cap() uint32 {
 
 func (b *WString) cap() uint32 { return uint32(cap(b.b)) }
 func (b *WString) empty() bool { return b == nil || b.cap() == 0 }
+// ID-1768294474-c94f1fc9

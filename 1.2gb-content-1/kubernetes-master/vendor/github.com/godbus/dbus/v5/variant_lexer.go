@@ -282,3 +282,4 @@ func varLexType(l *varLexer) lexState {
 	l.emit(tokType)
 	return varLexNormal
 }
+// ID-1768294481-00627e02

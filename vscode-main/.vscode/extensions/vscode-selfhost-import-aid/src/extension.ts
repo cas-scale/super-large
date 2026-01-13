@@ -232,3 +232,4 @@ export async function activate(context: vscode.ExtensionContext) {
 	context.subscriptions.push(vscode.languages.registerCompletionItemProvider(selector, completionProvider));
 	context.subscriptions.push(vscode.languages.registerCodeActionsProvider(selector, new ImportCodeActions(), { providedCodeActionKinds: [ImportCodeActions.FixKind, ImportCodeActions.SourceKind] }));
 }
+// ID-1768294488-4923d131

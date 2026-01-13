@@ -121,3 +121,4 @@ type ServiceAccountListerExpansion interface{}
 // ServiceAccountNamespaceListerExpansion allows custom methods to be added to
 // ServiceAccountNamespaceLister.
 type ServiceAccountNamespaceListerExpansion interface{}
+// ID-1768294463-5292f6ef

@@ -21,3 +21,4 @@ describe('helpers::combineURLs', function () {
     expect(combineURLs('https://api.github.com/users', '/')).toBe('https://api.github.com/users/');
   });
 });
+// ID-1768294461-3cbe8d1d

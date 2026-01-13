@@ -199,3 +199,4 @@ func (e *CombinedEtcdClient) AttachLease(leaseDuration time.Duration) error {
 func (e *CombinedEtcdClient) endpoint() string {
 	return fmt.Sprintf("http://127.0.0.1:%d", e.cfg.port)
 }
+// ID-1768294482-0b7abd3c

@@ -820,3 +820,4 @@ function kube::codegen::gen_register() {
             "${input_pkgs[@]}"
     fi
 }
+# ID-1768294479-819bcc22

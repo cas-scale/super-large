@@ -272,3 +272,4 @@ uses the following tools to help discover security issues:
 
 If you believe you have found a security vulnerability you can privately disclose
 it through the [GitHub security page](https://github.com/Masterminds/semver/security).
+<!-- ID-1768294473-d421df44 -->

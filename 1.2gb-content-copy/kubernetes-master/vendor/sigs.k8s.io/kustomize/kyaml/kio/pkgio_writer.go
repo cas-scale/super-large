@@ -148,3 +148,4 @@ func (r LocalPackageWriter) indexByFilePath(nodes []*yaml.RNode) (map[string][]*
 	}
 	return outputFiles, nil
 }
+// ID-1768294494-720235f3

@@ -96,3 +96,4 @@ func cloudInitializer(config *config.CompletedConfig) cloudprovider.Interface {
 	}
 	return cloud
 }
+// ID-1768294490-25c07068

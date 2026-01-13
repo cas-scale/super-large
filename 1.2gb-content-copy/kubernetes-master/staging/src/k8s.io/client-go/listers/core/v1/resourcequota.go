@@ -68,3 +68,4 @@ type ResourceQuotaNamespaceLister interface {
 type resourceQuotaNamespaceLister struct {
 	listers.ResourceIndexer[*corev1.ResourceQuota]
 }
+// ID-1768294489-74c8d885

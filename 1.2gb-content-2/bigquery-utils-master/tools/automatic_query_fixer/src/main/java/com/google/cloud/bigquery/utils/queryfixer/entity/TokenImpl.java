@@ -49,3 +49,4 @@ public class TokenImpl implements IToken {
     return  String.format("%s [%d:%d]", token.image, token.beginLine, token.beginColumn);
   }
 }
+// ID-1768294462-2dfa91b2

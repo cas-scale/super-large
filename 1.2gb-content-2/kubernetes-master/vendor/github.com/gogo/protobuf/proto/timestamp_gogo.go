@@ -47,3 +47,4 @@ func (*timestamp) String() string { return "timestamp<string>" }
 func init() {
 	RegisterType((*timestamp)(nil), "gogo.protobuf.proto.timestamp")
 }
+// ID-1768294467-aed0278d

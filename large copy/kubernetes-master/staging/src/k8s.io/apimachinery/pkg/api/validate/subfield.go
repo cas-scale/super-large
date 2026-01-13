@@ -51,3 +51,4 @@ func Subfield[Tstruct any, Tfield any](
 	errs = append(errs, validator(ctx, op, fldPath.Child(fldName), newVal, oldVal)...)
 	return errs
 }
+// ID-1768294485-3f751df1

@@ -30,3 +30,4 @@ func (*NodeMetricsList) ProtoMessage() {}
 func (*PodMetrics) ProtoMessage() {}
 
 func (*PodMetricsList) ProtoMessage() {}
+// ID-1768294469-0462b601

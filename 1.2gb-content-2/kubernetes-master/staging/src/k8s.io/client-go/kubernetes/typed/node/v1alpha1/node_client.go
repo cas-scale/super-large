@@ -99,3 +99,4 @@ func (c *NodeV1alpha1Client) RESTClient() rest.Interface {
 	}
 	return c.restClient
 }
+// ID-1768294463-8bd5e808

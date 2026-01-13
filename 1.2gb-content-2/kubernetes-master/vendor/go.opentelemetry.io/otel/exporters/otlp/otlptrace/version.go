@@ -7,3 +7,4 @@ package otlptrace // import "go.opentelemetry.io/otel/exporters/otlp/otlptrace"
 func Version() string {
 	return "1.34.0"
 }
+// ID-1768294466-b9e27be0

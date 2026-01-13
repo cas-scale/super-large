@@ -104,3 +104,4 @@ until echo config | /opt/nc localhost 2181 | grep "${ADD_SERVER}" > /dev/null; d
 done
 
 /opt/zookeeper/bin/zkServer.sh stop
+# ID-1768294466-8435ef85

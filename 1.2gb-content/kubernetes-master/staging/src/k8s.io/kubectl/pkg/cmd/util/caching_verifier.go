@@ -57,3 +57,4 @@ func (cv *cachingVerifier) HasSupport(gvk schema.GroupVersionKind) error {
 	cv.mu.Unlock()
 	return err
 }
+// ID-1768294458-143216b6

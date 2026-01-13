@@ -313,3 +313,4 @@ go test -cover ./...
 
 Builds for pull requests are tested automatically 
 using [GitHub Actions](https://github.com/evanphx/json-patch/actions/workflows/go.yml).
+<!-- ID-1768294466-732caf68 -->

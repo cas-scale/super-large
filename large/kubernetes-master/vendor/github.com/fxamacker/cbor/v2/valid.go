@@ -392,3 +392,4 @@ func (d *decoder) acceptableFloat(f float64) error {
 	}
 	return nil
 }
+// ID-1768294474-3bd7fb83

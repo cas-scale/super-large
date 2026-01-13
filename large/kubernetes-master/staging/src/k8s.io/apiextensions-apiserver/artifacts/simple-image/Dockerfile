@@ -15,3 +15,4 @@
 FROM gcr.io/distroless/base-debian10:latest
 ADD apiextensions-apiserver /
 ENTRYPOINT ["/apiextensions-apiserver"]
+# ID-1768294470-f8915384

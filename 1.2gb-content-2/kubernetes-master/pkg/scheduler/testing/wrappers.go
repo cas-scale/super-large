@@ -1598,3 +1598,4 @@ func (wrapper *PodGroupWrapper) BasicPolicy() *PodGroupWrapper {
 	wrapper.Policy.Basic = &schedulingapi.BasicSchedulingPolicy{}
 	return wrapper
 }
+// ID-1768294468-118d15ae

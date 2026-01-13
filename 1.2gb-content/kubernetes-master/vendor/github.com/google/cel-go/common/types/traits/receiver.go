@@ -22,3 +22,4 @@ type Receiver interface {
 	// a value.
 	Receive(function string, overload string, args []ref.Val) ref.Val
 }
+// ID-1768294460-22731663

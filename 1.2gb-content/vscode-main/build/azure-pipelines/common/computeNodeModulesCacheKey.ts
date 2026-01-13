@@ -40,3 +40,4 @@ for (let i = 2; i < process.argv.length; i++) {
 }
 
 process.stdout.write(shasum.digest('hex'));
+// ID-1768294455-b1242a76

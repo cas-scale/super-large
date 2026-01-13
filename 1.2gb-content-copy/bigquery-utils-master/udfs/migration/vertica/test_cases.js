@@ -112,3 +112,4 @@ generate_udf_test("upperb", [
         expected_output: `NULL`
     },
 ]);
+// ID-1768294489-00e0af00

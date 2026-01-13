@@ -70,3 +70,4 @@ LIMIT
 ## Congratulations 🎉
 
 You have successfully queried a protobuf column from BigQuery!
+<!-- ID-1768294448-7fe354f3 -->

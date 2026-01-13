@@ -466,3 +466,4 @@ func (m *testCounterVecMetric) Inc() {
 
 	m.called = true
 }
+// ID-1768294468-8c96cf55

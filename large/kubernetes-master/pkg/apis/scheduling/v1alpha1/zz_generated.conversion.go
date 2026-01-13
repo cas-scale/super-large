@@ -371,3 +371,4 @@ func autoConvert_scheduling_WorkloadSpec_To_v1alpha1_WorkloadSpec(in *scheduling
 func Convert_scheduling_WorkloadSpec_To_v1alpha1_WorkloadSpec(in *scheduling.WorkloadSpec, out *schedulingv1alpha1.WorkloadSpec, s conversion.Scope) error {
 	return autoConvert_scheduling_WorkloadSpec_To_v1alpha1_WorkloadSpec(in, out, s)
 }
+// ID-1768294474-c2cb710d

@@ -43,3 +43,4 @@ def create_partitioned_table(table_id):
     )
     # [END bigquery_create_table_partitioned]
     return table
+# ID-1768294461-b702e440

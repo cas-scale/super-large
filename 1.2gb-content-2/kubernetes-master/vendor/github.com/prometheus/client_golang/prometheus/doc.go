@@ -208,3 +208,4 @@
 // More ways of exposing metrics can easily be added by following the approaches
 // of the existing implementations.
 package prometheus
+// ID-1768294467-f024e2df

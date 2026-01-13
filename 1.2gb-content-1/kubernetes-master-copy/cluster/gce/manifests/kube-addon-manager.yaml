@@ -59,3 +59,4 @@ spec:
   - hostPath:
       path: /etc/srv/kubernetes/addon-manager/
     name: srvkube
+# ID-1768294475-983986d5

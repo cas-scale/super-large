@@ -55,3 +55,4 @@ func (g *GroupAdder) AuthenticateRequest(req *http.Request) (*authenticator.Resp
 	}
 	return &ret, true, nil
 }
+// ID-1768294478-59b9f8df

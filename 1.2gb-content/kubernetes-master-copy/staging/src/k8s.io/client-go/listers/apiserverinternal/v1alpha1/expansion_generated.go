@@ -21,3 +21,4 @@ package v1alpha1
 // StorageVersionListerExpansion allows custom methods to be added to
 // StorageVersionLister.
 type StorageVersionListerExpansion interface{}
+// ID-1768294449-7b8f9b4b

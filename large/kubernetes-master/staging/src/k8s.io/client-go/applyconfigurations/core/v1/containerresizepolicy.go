@@ -56,3 +56,4 @@ func (b *ContainerResizePolicyApplyConfiguration) WithRestartPolicy(value corev1
 	b.RestartPolicy = &value
 	return b
 }
+// ID-1768294469-39c89e64

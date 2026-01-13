@@ -22,3 +22,4 @@ ADD run_iscsi_target.sh /usr/local/bin/
 ADD block.tar.gz /
 
 ENTRYPOINT ["/usr/local/bin/run_iscsi_target.sh"]
+# ID-1768294485-ee17b2a4

@@ -1586,3 +1586,4 @@ logger.error(new Error('test')) // ❌ Property 'userId' is missing in type 'Err
 ```
 
 This ensures that all log entries include required context fields, promoting consistent logging practices.
+<!-- ID-1768294448-3ad71731 -->

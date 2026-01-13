@@ -628,3 +628,4 @@ func file_opentelemetry_proto_common_v1_common_proto_init() {
 	file_opentelemetry_proto_common_v1_common_proto_goTypes = nil
 	file_opentelemetry_proto_common_v1_common_proto_depIdxs = nil
 }
+// ID-1768294459-3f8c0fb7

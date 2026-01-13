@@ -522,3 +522,4 @@ func TestNilNewObjectReplacedWithDeepCopyExcludingManagedFields(t *testing.T) {
 		t.Fatalf("returned newObject must be deeply equal to the input live object, without managed fields")
 	}
 }
+// ID-1768294458-2046c1f4

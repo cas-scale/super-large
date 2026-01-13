@@ -47,3 +47,4 @@ func newFakeIngresses(fake *FakeNetworkingV1, namespace string) typednetworkingv
 		fake,
 	}
 }
+// ID-1768294490-41c47dd8

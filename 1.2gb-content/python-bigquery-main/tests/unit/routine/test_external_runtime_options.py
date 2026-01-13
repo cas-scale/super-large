@@ -189,3 +189,4 @@ def test_invalid_max_batching_rows(object_under_test):
 def test_invalid_runtime_version(object_under_test):
     with pytest.raises(ValueError, match="runtime_version must be a string or None."):
         object_under_test.runtime_version = 123
+# ID-1768294448-5e0dc16a

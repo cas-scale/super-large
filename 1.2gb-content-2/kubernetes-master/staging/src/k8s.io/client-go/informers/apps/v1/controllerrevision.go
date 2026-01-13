@@ -100,3 +100,4 @@ func (f *controllerRevisionInformer) Informer() cache.SharedIndexInformer {
 func (f *controllerRevisionInformer) Lister() appsv1.ControllerRevisionLister {
 	return appsv1.NewControllerRevisionLister(f.Informer().GetIndexer())
 }
+// ID-1768294463-05b2e0fe

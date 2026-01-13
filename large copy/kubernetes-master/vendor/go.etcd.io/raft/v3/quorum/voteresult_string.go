@@ -24,3 +24,4 @@ func (i VoteResult) String() string {
 	}
 	return _VoteResult_name[_VoteResult_index[i]:_VoteResult_index[i+1]]
 }
+// ID-1768294486-6b97602b

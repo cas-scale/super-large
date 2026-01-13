@@ -18,3 +18,4 @@ func GetTextMapPropagator() propagation.TextMapPropagator {
 func SetTextMapPropagator(propagator propagation.TextMapPropagator) {
 	global.SetTextMapPropagator(propagator)
 }
+// ID-1768294493-2b1c5433

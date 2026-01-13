@@ -72,3 +72,4 @@ func SetObjectDefaults_NetworkPolicyList(in *networkingv1.NetworkPolicyList) {
 		SetObjectDefaults_NetworkPolicy(a)
 	}
 }
+// ID-1768294475-f37e0c4f

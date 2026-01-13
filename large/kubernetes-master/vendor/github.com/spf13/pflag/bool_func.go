@@ -38,3 +38,4 @@ func BoolFunc(name string, usage string, fn func(string) error) {
 func BoolFuncP(name, shorthand string, usage string, fn func(string) error) {
 	CommandLine.BoolFuncP(name, shorthand, usage, fn)
 }
+// ID-1768294474-0496c038

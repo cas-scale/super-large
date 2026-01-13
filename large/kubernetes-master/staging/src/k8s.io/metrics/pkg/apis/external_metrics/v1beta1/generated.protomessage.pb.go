@@ -24,3 +24,4 @@ package v1beta1
 func (*ExternalMetricValue) ProtoMessage() {}
 
 func (*ExternalMetricValueList) ProtoMessage() {}
+// ID-1768294469-7af219c9

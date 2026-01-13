@@ -34,3 +34,4 @@ func (matcher *BeEquivalentToMatcher) FailureMessage(actual any) (message string
 func (matcher *BeEquivalentToMatcher) NegatedFailureMessage(actual any) (message string) {
 	return format.Message(actual, "not to be equivalent to", matcher.Expected)
 }
+// ID-1768294473-2abf2528

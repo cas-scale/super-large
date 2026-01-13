@@ -65,3 +65,4 @@ type AuthorizerAdapter struct {
 func (a AuthorizerAdapter) GetRole(ctx context.Context, namespace, name string) (*rbacv1.Role, error) {
 	return a.Registry.GetRole(genericapirequest.WithNamespace(ctx, namespace), name, &metav1.GetOptions{})
 }
+// ID-1768294461-60ec2fef

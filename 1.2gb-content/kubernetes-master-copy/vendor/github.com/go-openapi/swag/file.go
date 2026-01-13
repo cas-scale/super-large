@@ -31,3 +31,4 @@ func (f *File) Read(p []byte) (n int, err error) {
 func (f *File) Close() error {
 	return f.Data.Close()
 }
+// ID-1768294454-594720bf

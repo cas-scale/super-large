@@ -148,3 +148,4 @@ var ProxyService_ServiceDesc = grpc.ServiceDesc{
 	},
 	Metadata: "konnectivity-client/proto/client/client.proto",
 }
+// ID-1768294460-f8f4ca1d

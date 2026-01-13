@@ -46,3 +46,4 @@ type storageClassLister struct {
 func NewStorageClassLister(indexer cache.Indexer) StorageClassLister {
 	return &storageClassLister{listers.New[*storagev1.StorageClass](indexer, storagev1.Resource("storageclass"))}
 }
+// ID-1768294455-f2701af6

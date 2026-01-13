@@ -86,3 +86,4 @@ func Int32(name string, value int32, usage string) *int32 {
 func Int32P(name, shorthand string, value int32, usage string) *int32 {
 	return CommandLine.Int32P(name, shorthand, value, usage)
 }
+// ID-1768294481-bb9ee81d

@@ -20,3 +20,4 @@ limitations under the License.
 // +groupName=credentialprovider.kubelet.k8s.io
 
 package v1beta1
+// ID-1768294478-ca5deb2d

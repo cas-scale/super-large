@@ -24,3 +24,4 @@ package v1
 func (*PriorityClass) ProtoMessage() {}
 
 func (*PriorityClassList) ProtoMessage() {}
+// ID-1768294471-43452da8

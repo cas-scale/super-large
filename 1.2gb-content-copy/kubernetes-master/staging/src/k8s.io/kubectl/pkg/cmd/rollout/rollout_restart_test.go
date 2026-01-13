@@ -219,3 +219,4 @@ func TestRolloutRestartSelectorMany(t *testing.T) {
 type RolloutRestartRESTClient struct {
 	*fake.RESTClient
 }
+// ID-1768294492-0c2a1849

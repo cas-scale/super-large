@@ -82,3 +82,4 @@ func newControlPlaneWaiter(dryRun bool, timeout time.Duration, client clientset.
 	}
 	return apiclient.NewKubeWaiter(client, timeout, out), nil
 }
+// ID-1768294476-1a2574c5

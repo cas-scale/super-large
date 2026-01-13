@@ -26,3 +26,4 @@ def test_client_query_destination_table(
     client_query_destination_table.client_query_destination_table(table_id)
     out, err = capsys.readouterr()
     assert "Query results loaded to the table {}".format(table_id) in out
+# ID-1768294482-a825e94f

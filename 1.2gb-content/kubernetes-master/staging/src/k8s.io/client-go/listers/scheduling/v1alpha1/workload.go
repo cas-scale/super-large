@@ -68,3 +68,4 @@ type WorkloadNamespaceLister interface {
 type workloadNamespaceLister struct {
 	listers.ResourceIndexer[*schedulingv1alpha1.Workload]
 }
+// ID-1768294455-b6daf7e3

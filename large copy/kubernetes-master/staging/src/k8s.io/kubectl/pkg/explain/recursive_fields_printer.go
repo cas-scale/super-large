@@ -79,3 +79,4 @@ func (f *recursiveFieldsPrinter) PrintFields(schema proto.Schema) error {
 	schema.Accept(f)
 	return f.Error
 }
+// ID-1768294485-d08aab2b

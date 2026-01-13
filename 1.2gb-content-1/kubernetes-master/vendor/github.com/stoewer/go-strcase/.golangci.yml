@@ -24,3 +24,4 @@ linters:
 
 issues:
   exclude-use-default: false
+# ID-1768294481-6926ba84

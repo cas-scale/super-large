@@ -236,3 +236,4 @@ func (x *GenericServerStream[Req, Res]) Recv() (*Req, error) {
 	}
 	return m, nil
 }
+// ID-1768294473-339c13b5

@@ -44,3 +44,4 @@ func SetObjectDefaults_Ttest(in *Ttest) {
 		SetObjectDefaults_Tpointer(in.Tp)
 	}
 }
+// ID-1768294492-4e7e3b5c

@@ -16,3 +16,4 @@ import (
 func wrapBaseError(baseErr, extraErr error) error {
 	return fmt.Errorf("%w: %w", extraErr, baseErr)
 }
+// ID-1768294494-2351ecc3

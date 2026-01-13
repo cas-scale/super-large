@@ -10,3 +10,4 @@ public abstract class BigQuerySemanticError extends BigQuerySqlError {
     super(errorPosition, errorSource);
   }
 }
+// ID-1768294488-3ce49854

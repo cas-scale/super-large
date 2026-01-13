@@ -49,3 +49,4 @@ func (in *ExternalSimple) DeepCopyObject() runtime.Object {
 	}
 	return nil
 }
+// ID-1768294492-7eb3ef72

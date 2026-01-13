@@ -261,3 +261,4 @@ type SharedInformerFactory interface {
 func (f *sharedInformerFactory) ExampleGroup() example.Interface {
 	return example.New(f, f.namespace, f.tweakListOptions)
 }
+// ID-1768294492-9e358a75

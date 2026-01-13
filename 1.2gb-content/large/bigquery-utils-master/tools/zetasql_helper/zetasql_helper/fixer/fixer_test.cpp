@@ -117,3 +117,4 @@ TEST_F(FixerTest, FixColumnNotGroupedTest4) {
             "GROUP BY bucket, mod(number, 10), `hash`\n"
             "LIMIT 1000\n", fixed_query);
 }
+// ID-1768294448-309830a7

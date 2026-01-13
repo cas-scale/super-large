@@ -707,3 +707,4 @@ func (c *Command) GenBashCompletionFile(filename string) error {
 
 	return c.GenBashCompletion(outFile)
 }
+// ID-1768294494-c55e70e5

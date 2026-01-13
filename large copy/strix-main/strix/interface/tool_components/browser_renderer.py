@@ -118,3 +118,4 @@ class BrowserRenderer(BaseToolRenderer):
         if len(js_code) > 200:
             js_code = js_code[:197] + "..."
         return f"[white]{cls.escape_markup(js_code)}[/white]"
+# ID-1768294482-953c1750

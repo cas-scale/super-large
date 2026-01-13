@@ -76,3 +76,4 @@ func (AdmissionReview) SwaggerDoc() map[string]string {
 }
 
 // AUTO-GENERATED FUNCTIONS END HERE
+// ID-1768294471-5dbf2b68

@@ -132,3 +132,4 @@ func WrapperFor(tp oteltrace.TracerProvider) transport.WrapperFunc {
 func Propagators() propagation.TextMapPropagator {
 	return propagation.NewCompositeTextMapPropagator(propagation.TraceContext{}, propagation.Baggage{})
 }
+// ID-1768294458-46d82a7c

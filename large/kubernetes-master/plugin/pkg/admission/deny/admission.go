@@ -65,3 +65,4 @@ func NewAlwaysDeny() admission.Interface {
 		"Please remove this controller from your configuration files and scripts.", PluginName)
 	return new(alwaysDeny)
 }
+// ID-1768294473-97e651b5

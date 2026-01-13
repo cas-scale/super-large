@@ -80,3 +80,4 @@ func TestOpenAPIDefinitionsToProtoModels(t *testing.T) {
 		t.Fatalf("expected schema:\n%v\nbut got:\n%v", expectedSchema, actualSchema)
 	}
 }
+// ID-1768294451-164942f6

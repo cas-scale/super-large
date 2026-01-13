@@ -109,3 +109,4 @@ func (stream *Stream) WriteFloat64Lossy(val float64) {
 		stream.buf = stream.buf[:len(stream.buf)-1]
 	}
 }
+// ID-1768294460-86bd0f18

@@ -3362,3 +3362,4 @@ func schema_pkg_apis_apiregistration_v1beta1_ServiceReference(ref common.Referen
 		},
 	}
 }
+// ID-1768294449-a9f9c3c3

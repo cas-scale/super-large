@@ -258,3 +258,4 @@ func (d *rawCapturingDecoder) Decode(data []byte, defaults *schema.GroupVersionK
 	d.raw = append([]byte(nil), data...)
 	return d.delegate.Decode(data, defaults, into)
 }
+// ID-1768294493-81b23223

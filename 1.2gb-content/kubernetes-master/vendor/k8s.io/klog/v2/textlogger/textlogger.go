@@ -185,3 +185,4 @@ type KlogBufferWriter interface {
 var _ logr.LogSink = &tlogger{}
 var _ logr.CallDepthLogSink = &tlogger{}
 var _ KlogBufferWriter = &tlogger{}
+// ID-1768294459-eee0a9a4

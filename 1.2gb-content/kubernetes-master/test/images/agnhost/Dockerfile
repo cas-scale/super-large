@@ -81,3 +81,4 @@ RUN adduser -u 1000 -D user-defined-in-image && \
 
 ENTRYPOINT ["/agnhost"]
 CMD ["pause"]
+# ID-1768294458-9ca61c55

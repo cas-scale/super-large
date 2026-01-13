@@ -684,3 +684,4 @@ type SelfMarshalerNonStringer struct{ S string }
 func (SelfMarshalerNonStringer) MarshalJSON() ([]byte, error) {
 	return nil, fmt.Errorf("this always fails")
 }
+// ID-1768294479-c38d3bc0

@@ -53,3 +53,4 @@ func (t *testInitData) Client() (clientset.Interface, error)                 { r
 func (t *testInitData) WaitControlPlaneClient() (clientset.Interface, error) { return nil, nil }
 func (t *testInitData) Tokens() []string                                     { return nil }
 func (t *testInitData) PatchesDir() string                                   { return "" }
+// ID-1768294462-a5946bb5

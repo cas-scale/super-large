@@ -42,3 +42,4 @@ if [[ $KOKORO_BUILD_ARTIFACTS_SUBDIR = *"periodic"* ]]; then
 fi
 
 exec .kokoro/test-samples-impl.sh
+# ID-1768294448-00d1baf5

@@ -194,3 +194,4 @@ func releaseThreadToken(h windows.Token) {
 	}
 	h.Close()
 }
+// ID-1768294474-45235efd

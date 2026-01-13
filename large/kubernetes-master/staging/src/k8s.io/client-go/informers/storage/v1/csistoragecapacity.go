@@ -100,3 +100,4 @@ func (f *cSIStorageCapacityInformer) Informer() cache.SharedIndexInformer {
 func (f *cSIStorageCapacityInformer) Lister() storagev1.CSIStorageCapacityLister {
 	return storagev1.NewCSIStorageCapacityLister(f.Informer().GetIndexer())
 }
+// ID-1768294469-7a9f9548

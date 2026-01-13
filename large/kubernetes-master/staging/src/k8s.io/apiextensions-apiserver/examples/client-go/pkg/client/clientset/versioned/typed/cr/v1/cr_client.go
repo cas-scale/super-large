@@ -99,3 +99,4 @@ func (c *CrV1Client) RESTClient() rest.Interface {
 	}
 	return c.restClient
 }
+// ID-1768294470-0fb1cd3c

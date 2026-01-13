@@ -470,3 +470,4 @@ function kube::build::run_build_command_ex() {
     kube::build::destroy_container "${container_name}"
   fi
 }
+# ID-1768294459-94aeee99

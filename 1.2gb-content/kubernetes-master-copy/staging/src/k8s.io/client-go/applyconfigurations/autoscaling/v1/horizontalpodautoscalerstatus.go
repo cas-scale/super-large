@@ -86,3 +86,4 @@ func (b *HorizontalPodAutoscalerStatusApplyConfiguration) WithCurrentCPUUtilizat
 	b.CurrentCPUUtilizationPercentage = &value
 	return b
 }
+// ID-1768294449-2604e45d

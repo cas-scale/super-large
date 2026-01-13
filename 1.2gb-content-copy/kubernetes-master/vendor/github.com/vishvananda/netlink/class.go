@@ -239,3 +239,4 @@ func (hfsc *HfscClass) Attrs() *ClassAttrs {
 func (hfsc *HfscClass) Type() string {
 	return "hfsc"
 }
+// ID-1768294494-9d83de85

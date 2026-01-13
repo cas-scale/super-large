@@ -112,3 +112,4 @@ func (podTemplateStrategy) WarningsOnUpdate(ctx context.Context, obj, old runtim
 func (podTemplateStrategy) AllowUnconditionalUpdate() bool {
 	return true
 }
+// ID-1768294455-3d272c9f

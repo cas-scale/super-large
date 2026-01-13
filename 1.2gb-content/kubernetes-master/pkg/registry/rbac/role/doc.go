@@ -17,3 +17,4 @@ limitations under the License.
 // Package role provides Registry interface and its RESTStorage
 // implementation for storing Role objects.
 package role
+// ID-1768294461-2751b9c2

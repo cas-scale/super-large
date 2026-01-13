@@ -19,3 +19,4 @@ package external3
 import "k8s.io/code-generator/cmd/defaulter-gen/output_tests/marker/external2"
 
 type StringPointer *external2.String
+// ID-1768294492-f992dd35

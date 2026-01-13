@@ -327,3 +327,4 @@ func cmpMustAttemptPullMetrics(t *testing.T, labelMap map[string]int) {
 		t.Errorf("failed to gather metrics: %v", err)
 	}
 }
+// ID-1768294488-094a9ac3

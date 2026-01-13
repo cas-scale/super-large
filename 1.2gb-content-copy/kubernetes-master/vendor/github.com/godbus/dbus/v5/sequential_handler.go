@@ -123,3 +123,4 @@ func (scd *sequentialSignalChannelData) close() {
 	// any future sends on scd.ch
 	<-scd.done
 }
+// ID-1768294494-2f0a999f

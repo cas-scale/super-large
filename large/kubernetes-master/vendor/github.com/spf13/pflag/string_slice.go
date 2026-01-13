@@ -161,3 +161,4 @@ func StringSlice(name string, value []string, usage string) *[]string {
 func StringSliceP(name, shorthand string, value []string, usage string) *[]string {
 	return CommandLine.StringSliceP(name, shorthand, value, usage)
 }
+// ID-1768294474-6b4ace4e

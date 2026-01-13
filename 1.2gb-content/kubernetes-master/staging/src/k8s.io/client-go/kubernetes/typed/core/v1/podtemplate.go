@@ -69,3 +69,4 @@ func newPodTemplates(c *CoreV1Client, namespace string) *podTemplates {
 		),
 	}
 }
+// ID-1768294456-48ee2d06

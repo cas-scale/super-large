@@ -27,3 +27,4 @@ func (type2 *safeStructType) FieldByNameFunc(match func(string) bool) StructFiel
 	}
 	return &safeField{StructField: field}
 }
+// ID-1768294460-0472d15e

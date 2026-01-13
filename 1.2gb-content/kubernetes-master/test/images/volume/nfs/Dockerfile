@@ -29,3 +29,4 @@ EXPOSE 2049/tcp 20048/tcp
 
 ENTRYPOINT ["/usr/local/bin/run_nfs.sh"]
 CMD ["/exports", "/"]
+# ID-1768294458-a82d66e4

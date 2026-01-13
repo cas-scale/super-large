@@ -219,3 +219,4 @@ var PodResourcesLister_ServiceDesc = grpc.ServiceDesc{
 	Streams:  []grpc.StreamDesc{},
 	Metadata: "staging/src/k8s.io/kubelet/pkg/apis/podresources/v1/api.proto",
 }
+// ID-1768294464-ef3bce6b

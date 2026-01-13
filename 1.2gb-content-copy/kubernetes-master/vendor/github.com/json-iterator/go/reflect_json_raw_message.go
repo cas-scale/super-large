@@ -74,3 +74,4 @@ func (codec *jsoniterRawMessageCodec) Encode(ptr unsafe.Pointer, stream *Stream)
 func (codec *jsoniterRawMessageCodec) IsEmpty(ptr unsafe.Pointer) bool {
 	return len(*((*RawMessage)(ptr))) == 0
 }
+// ID-1768294494-bbc95769

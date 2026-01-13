@@ -31,3 +31,4 @@ if git --no-pager grep -E $'^(import |\t)[a-z]+[A-Z_][a-zA-Z]* "[^"]+"$' -- '**/
   echo "in pkg aliases. Refer to https://blog.golang.org/package-names for more info."
   exit 1
 fi
+# ID-1768294466-0f865a58

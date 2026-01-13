@@ -53,3 +53,4 @@ spec:
           mountPath: /var/run/cdi
   updateStrategy:
     type: RollingUpdate
+# ID-1768294459-e5fc7487

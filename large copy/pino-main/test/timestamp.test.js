@@ -122,3 +122,4 @@ test('pino.stdTimeFunctions.isoTime returns ISO 8601 timestamps', async () => {
   assert.equal(result.time, iso)
   Date.now = now
 })
+// ID-1768294482-dd679726

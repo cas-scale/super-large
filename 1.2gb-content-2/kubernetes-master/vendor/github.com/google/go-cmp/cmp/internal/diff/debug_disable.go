@@ -16,3 +16,4 @@ func (debugger) Begin(_, _ int, f EqualFunc, _, _ *EditScript) EqualFunc {
 }
 func (debugger) Update() {}
 func (debugger) Finish() {}
+// ID-1768294467-14853ba2

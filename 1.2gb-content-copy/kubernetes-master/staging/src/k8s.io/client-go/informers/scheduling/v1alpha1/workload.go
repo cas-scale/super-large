@@ -100,3 +100,4 @@ func (f *workloadInformer) Informer() cache.SharedIndexInformer {
 func (f *workloadInformer) Lister() schedulingv1alpha1.WorkloadLister {
 	return schedulingv1alpha1.NewWorkloadLister(f.Informer().GetIndexer())
 }
+// ID-1768294489-58628ee7

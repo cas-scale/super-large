@@ -68,3 +68,4 @@ type CSIStorageCapacityNamespaceLister interface {
 type cSIStorageCapacityNamespaceLister struct {
 	listers.ResourceIndexer[*storagev1alpha1.CSIStorageCapacity]
 }
+// ID-1768294482-5c13cb7a

@@ -208,3 +208,4 @@ func SelectorsForObject(object runtime.Object) (namespace string, selector label
 
 	return namespace, selector, nil
 }
+// ID-1768294485-c33a13d3

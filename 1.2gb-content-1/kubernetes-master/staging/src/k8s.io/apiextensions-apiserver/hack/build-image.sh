@@ -31,3 +31,4 @@ pushd "${KUBE_ROOT}/staging/src/k8s.io/apiextensions-apiserver"
 cp -v ../../../../_output/local/bin/linux/amd64/apiextensions-apiserver ./artifacts/simple-image/apiextensions-apiserver
 docker build -t apiextensions-apiserver:latest ./artifacts/simple-image
 popd
+# ID-1768294477-7da8affd

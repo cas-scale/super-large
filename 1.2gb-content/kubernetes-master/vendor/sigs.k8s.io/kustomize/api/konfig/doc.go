@@ -5,3 +5,4 @@
 // for the kustomize API, e.g. the set of file names to look for
 // to identify a kustomization root.
 package konfig
+// ID-1768294460-e1cc66b8

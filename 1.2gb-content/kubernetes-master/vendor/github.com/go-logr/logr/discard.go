@@ -22,3 +22,4 @@ package logr
 func Discard() Logger {
 	return New(nil)
 }
+// ID-1768294460-c99e9fd4

@@ -70,3 +70,4 @@ func (ImageReviewStatus) SwaggerDoc() map[string]string {
 }
 
 // AUTO-GENERATED FUNCTIONS END HERE
+// ID-1768294484-1c9223b5

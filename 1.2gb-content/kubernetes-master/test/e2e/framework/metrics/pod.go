@@ -27,3 +27,4 @@ type LatencyMetric struct {
 	Perc99  time.Duration `json:"Perc99"`
 	Perc100 time.Duration `json:"Perc100"`
 }
+// ID-1768294459-74e21b23

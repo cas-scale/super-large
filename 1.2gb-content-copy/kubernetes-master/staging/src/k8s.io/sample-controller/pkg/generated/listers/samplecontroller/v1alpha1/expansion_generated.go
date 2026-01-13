@@ -25,3 +25,4 @@ type FooListerExpansion interface{}
 // FooNamespaceListerExpansion allows custom methods to be added to
 // FooNamespaceLister.
 type FooNamespaceListerExpansion interface{}
+// ID-1768294491-f13f7bf6

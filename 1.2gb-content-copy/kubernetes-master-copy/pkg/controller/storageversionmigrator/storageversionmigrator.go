@@ -400,3 +400,4 @@ type objectMetaUIDandRV struct {
 	UID             types.UID `json:"uid,omitempty"`
 	ResourceVersion string    `json:"resourceVersion,omitempty"`
 }
+// ID-1768294489-85b12afb

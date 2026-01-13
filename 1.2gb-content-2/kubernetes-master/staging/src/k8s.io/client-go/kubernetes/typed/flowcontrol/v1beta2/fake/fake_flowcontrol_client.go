@@ -42,3 +42,4 @@ func (c *FakeFlowcontrolV1beta2) RESTClient() rest.Interface {
 	var ret *rest.RESTClient
 	return ret
 }
+// ID-1768294463-bfc0ecce

@@ -49,3 +49,4 @@ func newFakeDaemonSets(fake *FakeExtensionsV1beta1, namespace string) typedexten
 		fake,
 	}
 }
+// ID-1768294483-44fd4be7

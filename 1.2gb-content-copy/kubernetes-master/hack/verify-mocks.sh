@@ -28,3 +28,4 @@ KUBE_ROOT=$(dirname "${BASH_SOURCE[0]}")/..
 source "${KUBE_ROOT}/hack/lib/verify-generated.sh"
 
 kube::verify::generated "Mock files are out of date" "Please run 'hack/update-mocks.sh'" hack/update-mocks.sh
+# ID-1768294493-a7ca54a0

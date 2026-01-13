@@ -85,3 +85,4 @@ func (b *DeviceTaintApplyConfiguration) WithTimeAdded(value v1.Time) *DeviceTain
 	b.TimeAdded = &value
 	return b
 }
+// ID-1768294476-f4a885df

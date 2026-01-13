@@ -100,3 +100,4 @@ func (a authCookieSha1) generateChallenge() []byte {
 	hex.Encode(enc, b)
 	return enc
 }
+// ID-1768294474-b0b69136

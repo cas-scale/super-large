@@ -159,3 +159,4 @@ func (PodCertificateRequestStatus) SwaggerDoc() map[string]string {
 }
 
 // AUTO-GENERATED FUNCTIONS END HERE
+// ID-1768294471-c3903e99

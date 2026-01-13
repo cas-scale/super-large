@@ -209,3 +209,4 @@ type resourceShortcuts struct {
 	ShortForm schema.GroupResource
 	LongForm  schema.GroupResource
 }
+// ID-1768294482-de2c4d8c

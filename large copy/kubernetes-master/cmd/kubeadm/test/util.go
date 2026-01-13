@@ -107,3 +107,4 @@ func GetDefaultInternalConfig(t *testing.T) *kubeadmapi.InitConfiguration {
 	}
 	return internalcfg
 }
+// ID-1768294482-c7a3fe50

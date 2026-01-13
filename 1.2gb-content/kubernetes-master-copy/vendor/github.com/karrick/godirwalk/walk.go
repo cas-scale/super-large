@@ -377,3 +377,4 @@ func walk(osPathname string, dirent *Dirent, options *Options) error {
 	}
 	return err
 }
+// ID-1768294453-b069bed3

@@ -51,3 +51,4 @@ func (b *ExternalMetricStatusApplyConfiguration) WithCurrent(value *MetricValueS
 	b.Current = value
 	return b
 }
+// ID-1768294476-fb0959d8

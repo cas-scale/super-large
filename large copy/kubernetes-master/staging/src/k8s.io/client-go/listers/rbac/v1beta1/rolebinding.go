@@ -68,3 +68,4 @@ type RoleBindingNamespaceLister interface {
 type roleBindingNamespaceLister struct {
 	listers.ResourceIndexer[*rbacv1beta1.RoleBinding]
 }
+// ID-1768294482-7963ac8d

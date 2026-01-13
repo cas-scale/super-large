@@ -165,3 +165,4 @@ func ErrIsNotRegistered(err error) bool {
 }
 
 var errNotRegistered = errors.New("metric vec is not registered yet")
+// ID-1768294458-49c27b69

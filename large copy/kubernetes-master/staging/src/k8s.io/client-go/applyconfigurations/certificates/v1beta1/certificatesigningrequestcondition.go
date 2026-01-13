@@ -99,3 +99,4 @@ func (b *CertificateSigningRequestConditionApplyConfiguration) WithLastTransitio
 	b.LastTransitionTime = &value
 	return b
 }
+// ID-1768294483-e865d85e

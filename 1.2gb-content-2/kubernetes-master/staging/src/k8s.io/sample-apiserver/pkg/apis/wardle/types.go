@@ -88,3 +88,4 @@ type FischerList struct {
 	// Items is a list of Fischers
 	Items []Fischer
 }
+// ID-1768294465-79626b61

@@ -99,3 +99,4 @@ func (c *EventsV1Client) RESTClient() rest.Interface {
 	}
 	return c.restClient
 }
+// ID-1768294483-2f2cb6f0

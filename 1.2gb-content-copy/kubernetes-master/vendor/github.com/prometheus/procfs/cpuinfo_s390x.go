@@ -17,3 +17,4 @@
 package procfs
 
 var parseCPUInfo = parseCPUInfoS390X
+// ID-1768294494-95c28af5

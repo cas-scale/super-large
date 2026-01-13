@@ -126,3 +126,4 @@ func (d *corruptObjectDeleter) Delete(ctx context.Context, name string, deleteVa
 	// not retrievable from the storage, so we send a nil objct
 	return nil, true, nil
 }
+// ID-1768294478-2ed9e986

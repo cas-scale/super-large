@@ -260,3 +260,4 @@ No changes
 `git diff v1.19.0 v1.20.0 -- staging/src/k8s.io/cri-api/pkg/apis/runtime/v1/api.proto`
 
 - CRI [v1 introduced](https://github.com/kubernetes/kubernetes/pull/96387)
+<!-- ID-1768294477-191ff93f -->

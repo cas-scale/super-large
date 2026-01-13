@@ -34,3 +34,4 @@ type T1 struct {
 	// +k8s:validateTrue="field T1.S"
 	S string `json:"s"`
 }
+// ID-1768294492-1b078c3f

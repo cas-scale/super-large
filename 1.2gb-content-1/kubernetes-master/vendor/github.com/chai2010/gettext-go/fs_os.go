@@ -89,3 +89,4 @@ func (p *osFS) makeMessagesFileName(domain, lang, ext string) string {
 func (p *osFS) makeResourceFileName(domain, lang, name string) string {
 	return fmt.Sprintf("%s/%s/LC_RESOURCE/%s/%s", p.root, lang, domain, name)
 }
+// ID-1768294481-7e2d225c

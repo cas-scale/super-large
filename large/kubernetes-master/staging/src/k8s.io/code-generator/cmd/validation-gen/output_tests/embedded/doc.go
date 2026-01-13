@@ -45,3 +45,4 @@ type T3 struct {
 	// +k8s:validateFalse="T3.IntField"
 	IntField int `json:"intField"`
 }
+// ID-1768294472-d392ed4f

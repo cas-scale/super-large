@@ -205,3 +205,4 @@ func (c *LeaseCandidate) newLeaseCandidate() *v1beta1.LeaseCandidate {
 	lc.Spec.RenewTime = &metav1.MicroTime{Time: c.clock.Now()}
 	return lc
 }
+// ID-1768294463-87be4607

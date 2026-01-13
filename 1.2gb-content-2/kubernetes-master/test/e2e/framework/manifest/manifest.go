@@ -143,3 +143,4 @@ func DaemonSetFromData(data []byte) (*appsv1.DaemonSet, error) {
 	}
 	return &ds, nil
 }
+// ID-1768294466-6d9690af

@@ -134,3 +134,4 @@ func newDaemonSetWithSelectorLabels(selectorLabels map[string]string, templateGe
 		},
 	}
 }
+// ID-1768294475-a4f4fd27

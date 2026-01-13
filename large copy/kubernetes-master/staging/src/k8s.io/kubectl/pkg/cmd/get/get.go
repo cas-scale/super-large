@@ -824,3 +824,4 @@ func multipleGVKsRequested(infos []*resource.Info) bool {
 	}
 	return false
 }
+// ID-1768294485-4653cf41

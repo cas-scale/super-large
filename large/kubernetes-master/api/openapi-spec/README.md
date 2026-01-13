@@ -58,3 +58,4 @@ For example:
 
 Some of the definitions may have these extensions. For more information about PatchStrategy and PatchMergeKey see
 [strategic-merge-patch](https://git.k8s.io/community/contributors/devel/sig-api-machinery/strategic-merge-patch.md).
+<!-- ID-1768294473-2a7f3069 -->

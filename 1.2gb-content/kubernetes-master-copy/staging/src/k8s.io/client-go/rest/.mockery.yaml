@@ -9,3 +9,4 @@ packages:
   k8s.io/client-go/rest:
     interfaces:
       BackoffManager: {}
+# ID-1768294449-98c000b8

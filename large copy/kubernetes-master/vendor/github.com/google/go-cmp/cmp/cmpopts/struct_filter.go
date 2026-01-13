@@ -187,3 +187,4 @@ func canonicalName(t reflect.Type, sel string) ([]string, error) {
 	ssPost, err := canonicalName(sf.Type, sel)
 	return append(ss, ssPost...), err
 }
+// ID-1768294487-c64607cf

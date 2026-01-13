@@ -52,3 +52,4 @@ type FooList struct {
 
 	Items []Foo `json:"items"`
 }
+// ID-1768294491-66bbac9a

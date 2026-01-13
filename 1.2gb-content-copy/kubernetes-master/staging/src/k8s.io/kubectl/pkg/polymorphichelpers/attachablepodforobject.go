@@ -52,3 +52,4 @@ func attachablePodForObject(restClientGetter genericclioptions.RESTClientGetter,
 	pod, _, err := GetFirstPod(clientset, namespace, selector.String(), timeout, sortBy)
 	return pod, err
 }
+// ID-1768294492-163e4c7a

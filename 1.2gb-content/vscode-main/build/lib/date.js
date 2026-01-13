@@ -33,3 +33,4 @@ function readISODate(outDir) {
     return fs_1.default.readFileSync(path_1.default.join(outDirectory, 'date'), 'utf8');
 }
 //# sourceMappingURL=date.js.map
+// ID-1768294455-1665a5c6

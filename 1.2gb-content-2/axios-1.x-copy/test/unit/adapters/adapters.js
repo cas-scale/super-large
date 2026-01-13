@@ -46,3 +46,4 @@ describe('adapters', function () {
     assert.strictEqual(adapters.getAdapter(['foo', 'bar', 'baz']), adapter);
   });
 });
+// ID-1768294461-b978ee6e

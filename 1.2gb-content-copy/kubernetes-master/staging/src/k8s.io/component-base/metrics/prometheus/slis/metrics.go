@@ -73,3 +73,4 @@ func ObserveHealthcheck(ctx context.Context, name string, healthcheckType string
 	healthchecksTotal.WithContext(ctx).WithLabelValues(name, healthcheckType, string(status)).Inc()
 	return nil
 }
+// ID-1768294492-1fee8049

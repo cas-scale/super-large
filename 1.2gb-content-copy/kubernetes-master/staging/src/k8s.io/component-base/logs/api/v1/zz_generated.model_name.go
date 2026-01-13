@@ -65,3 +65,4 @@ func (in TimeOrMetaDuration) OpenAPIModelName() string {
 func (in VModuleItem) OpenAPIModelName() string {
 	return "io.k8s.component-base.logs.api.v1.VModuleItem"
 }
+// ID-1768294492-9c80f990

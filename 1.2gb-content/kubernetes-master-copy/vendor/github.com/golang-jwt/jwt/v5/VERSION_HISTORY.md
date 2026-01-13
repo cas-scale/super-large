@@ -135,3 +135,4 @@ It is likely the only integration change required here will be to change `func(t
 * API stabilized
 * Supports creating, signing, parsing, and validating JWT tokens
 * Supports RS256 and HS256 signing methods
+<!-- ID-1768294453-54ad3a35 -->

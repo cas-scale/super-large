@@ -56,3 +56,4 @@ type streamCreator interface {
 type streamProtocolHandler interface {
 	stream(conn streamCreator, ready chan<- struct{}) error
 }
+// ID-1768294469-5d6a08e2

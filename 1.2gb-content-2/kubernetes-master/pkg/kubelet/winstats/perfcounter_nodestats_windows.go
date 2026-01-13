@@ -357,3 +357,4 @@ func getBootID() (string, error) {
 	}
 	return strconv.FormatUint(regValue, 10), nil
 }
+// ID-1768294468-5f60607f

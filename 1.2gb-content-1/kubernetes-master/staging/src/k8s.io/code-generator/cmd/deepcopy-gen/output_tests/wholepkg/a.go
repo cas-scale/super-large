@@ -169,3 +169,4 @@ type StructInterfaces struct {
 	NilObjectField otherpkg.Object
 	SelectorField  Selector
 }
+// ID-1768294479-06c2e2e9

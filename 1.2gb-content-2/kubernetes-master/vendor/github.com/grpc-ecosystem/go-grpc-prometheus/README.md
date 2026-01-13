@@ -245,3 +245,4 @@ This code has been used since August 2015 as the basis for monitoring of *produc
 ## License
 
 `go-grpc-prometheus` is released under the Apache 2.0 license. See the [LICENSE](LICENSE) file for details.
+<!-- ID-1768294467-7b4be2d5 -->

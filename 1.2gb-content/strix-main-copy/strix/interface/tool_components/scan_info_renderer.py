@@ -62,3 +62,4 @@ class SubagentStartInfoRenderer(BaseToolRenderer):
 
         css_classes = cls.get_css_classes(status)
         return Static(content, classes=css_classes)
+# ID-1768294448-ce20506e

@@ -76,3 +76,4 @@ func (s *statefulSetLister) GetPodStatefulSets(pod *v1.Pod) ([]*apps.StatefulSet
 
 	return psList, nil
 }
+// ID-1768294463-274d2132

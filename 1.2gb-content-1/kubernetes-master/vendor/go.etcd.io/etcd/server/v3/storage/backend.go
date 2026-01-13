@@ -112,3 +112,4 @@ func RecoverSnapshotBackend(cfg config.ServerConfig, oldbe backend.Backend, snap
 	oldbe.Close()
 	return OpenSnapshotBackend(cfg, snap.New(cfg.Logger, cfg.SnapDir()), snapshot, hooks)
 }
+// ID-1768294480-d3ec1624

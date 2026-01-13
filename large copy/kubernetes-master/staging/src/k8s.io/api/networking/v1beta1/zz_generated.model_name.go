@@ -145,3 +145,4 @@ func (in ServiceCIDRSpec) OpenAPIModelName() string {
 func (in ServiceCIDRStatus) OpenAPIModelName() string {
 	return "io.k8s.api.networking.v1beta1.ServiceCIDRStatus"
 }
+// ID-1768294484-741c2832

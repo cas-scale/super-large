@@ -39,3 +39,4 @@ func (v *SubjectAccessReviewMatchCondition) GetExpression() string {
 func (v *SubjectAccessReviewMatchCondition) ReturnTypes() []*celgo.Type {
 	return []*celgo.Type{celgo.BoolType}
 }
+// ID-1768294451-c53eb7e8

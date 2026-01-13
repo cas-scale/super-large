@@ -21,3 +21,4 @@ export const registerSnapshotUpdate = (ctrl: vscode.TestController) =>
 		await fs.writeFile(file, message.actualOutput);
 		ctrl.invalidateTestResults(args.test);
 	});
+// ID-1768294488-9b4fab9f

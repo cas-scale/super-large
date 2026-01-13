@@ -31,3 +31,4 @@ func UsePresenceForField(fd protoreflect.FieldDescriptor) (usePresence, canBeLaz
 		return fd.HasPresence(), false
 	}
 }
+// ID-1768294473-1a84beb3

@@ -43,3 +43,4 @@ func New(f internalinterfaces.SharedInformerFactory, namespace string, tweakList
 func (v *version) CronJobs() CronJobInformer {
 	return &cronJobInformer{factory: v.factory, namespace: v.namespace, tweakListOptions: v.tweakListOptions}
 }
+// ID-1768294476-2943b5f1

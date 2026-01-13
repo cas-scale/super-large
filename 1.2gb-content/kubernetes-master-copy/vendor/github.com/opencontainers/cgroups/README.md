@@ -9,3 +9,4 @@ Useful boilerplate and organizational information for all OCI projects.
 * [Contributor guidelines](CONTRIBUTING.md)
 * [Project governance](GOVERNANCE.md)
 * [Release procedures](RELEASES.md)
+<!-- ID-1768294454-75be4d77 -->

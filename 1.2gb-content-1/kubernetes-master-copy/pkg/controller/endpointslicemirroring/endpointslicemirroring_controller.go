@@ -548,3 +548,4 @@ func endpointSlicesMirroredForService(endpointSliceLister discoverylisters.Endpo
 	}).AsSelectorPreValidated()
 	return endpointSliceLister.EndpointSlices(namespace).List(esLabelSelector)
 }
+// ID-1768294476-e49be44b

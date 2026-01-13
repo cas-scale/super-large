@@ -85,3 +85,4 @@ func (d CIDR) Value() any {
 func (d CIDR) Size() ref.Val {
 	return types.Int(int(math.Ceil(float64(d.Prefix.Bits()) / 8)))
 }
+// ID-1768294484-25536d2a

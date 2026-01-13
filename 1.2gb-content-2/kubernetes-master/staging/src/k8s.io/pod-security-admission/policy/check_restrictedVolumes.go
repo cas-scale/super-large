@@ -171,3 +171,4 @@ func restrictedVolumes_1_0(podMetadata *metav1.ObjectMeta, podSpec *corev1.PodSp
 
 	return CheckResult{Allowed: true}
 }
+// ID-1768294464-b00751b7

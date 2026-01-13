@@ -19,3 +19,4 @@ exclude_patterns:
 - "type_specific_codegen.go"
 - ".gitignore"
 - "LICENSE"
+# ID-1768294473-620bbf1a

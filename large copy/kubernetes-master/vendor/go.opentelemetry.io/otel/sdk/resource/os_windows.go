@@ -87,3 +87,4 @@ func readCurrentBuildNumber(k registry.Key) string {
 func readUBR(k registry.Key) string {
 	return strconv.FormatUint(getIntegerValue("UBR", k), 10)
 }
+// ID-1768294486-144f2ae1

@@ -65,3 +65,4 @@ func (d *UnstructuredObjectTyper) Recognizes(gvk schema.GroupVersionKind) bool {
 }
 
 var _ runtime.ObjectTyper = &UnstructuredObjectTyper{}
+// ID-1768294463-f6590d4b

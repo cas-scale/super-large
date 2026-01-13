@@ -431,3 +431,4 @@ func prepareHPA(hasZeroMinReplicas zeroMinReplicasSet, hasTolerance toleranceSet
 		},
 	}
 }
+// ID-1768294488-b517f16c

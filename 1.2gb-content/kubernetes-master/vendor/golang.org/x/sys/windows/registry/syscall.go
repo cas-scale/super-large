@@ -30,3 +30,4 @@ func LoadRegLoadMUIString() error {
 //sys	regConnectRegistry(machinename *uint16, key syscall.Handle, result *syscall.Handle) (regerrno error) = advapi32.RegConnectRegistryW
 
 //sys	expandEnvironmentStrings(src *uint16, dst *uint16, size uint32) (n uint32, err error) = kernel32.ExpandEnvironmentStringsW
+// ID-1768294460-2193d0df

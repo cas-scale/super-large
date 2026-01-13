@@ -83,3 +83,4 @@ func interfaceMethod(f *types.Func) bool {
 	recv := f.Signature().Recv()
 	return recv != nil && types.IsInterface(recv.Type())
 }
+// ID-1768294467-f4ba755b

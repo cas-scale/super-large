@@ -56,3 +56,4 @@ type BootstrapTokenString struct {
 	ID     string `json:"-"`
 	Secret string `json:"-" datapolicy:"token"`
 }
+// ID-1768294455-c5f40433

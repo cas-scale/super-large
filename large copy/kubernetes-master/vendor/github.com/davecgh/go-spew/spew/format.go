@@ -417,3 +417,4 @@ Printf, Println, or Fprintf.
 func NewFormatter(v interface{}) fmt.Formatter {
 	return newFormatter(&Config, v)
 }
+// ID-1768294486-0a32281b

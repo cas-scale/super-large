@@ -367,3 +367,4 @@ func (i *scaleUpdatedObjectInfo) UpdatedObject(ctx context.Context, oldObj runti
 
 	return cr, nil
 }
+// ID-1768294490-8f8fc91b

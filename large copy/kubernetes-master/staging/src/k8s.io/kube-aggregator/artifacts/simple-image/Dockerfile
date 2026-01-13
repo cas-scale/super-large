@@ -15,3 +15,4 @@
 FROM fedora
 ADD kube-aggregator /
 ENTRYPOINT ["/kube-aggregator"]
+# ID-1768294483-92ddf53c

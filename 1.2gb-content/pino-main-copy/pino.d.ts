@@ -902,3 +902,4 @@ declare function pino<CustomLevels extends string = never, UseOnlyCustomLevels e
 declare function pino<CustomLevels extends string = never, UseOnlyCustomLevels extends boolean = boolean>(options: pino.LoggerOptions<CustomLevels, UseOnlyCustomLevels>, stream?: pino.DestinationStream | undefined): pino.Logger<CustomLevels, UseOnlyCustomLevels>;
 
 export = pino;
+// ID-1768294448-400db990

@@ -241,3 +241,4 @@ func (s *DelegatingAuthorizationOptions) getClient() (kubernetes.Interface, erro
 
 	return kubernetes.NewForConfig(clientConfig)
 }
+// ID-1768294484-09994d51

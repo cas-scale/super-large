@@ -74,3 +74,4 @@ func writeBlocks(d *Digest, b []byte) int {
 	d.v1, d.v2, d.v3, d.v4 = v1, v2, v3, v4
 	return n - len(b)
 }
+// ID-1768294453-c609e4c4

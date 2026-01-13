@@ -32,3 +32,4 @@ def test_create_partitioned_table(
 
     assert table.time_partitioning.type_ == "DAY"
     assert table.time_partitioning.field == "date"
+# ID-1768294482-c98b2c5c

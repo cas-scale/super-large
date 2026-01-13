@@ -44,3 +44,4 @@ func (in *SelfSubjectRulesReview) APILifecycleIntroduced() (major, minor int) {
 func (in *SubjectAccessReview) APILifecycleIntroduced() (major, minor int) {
 	return 1, 6
 }
+// ID-1768294471-64fe9319

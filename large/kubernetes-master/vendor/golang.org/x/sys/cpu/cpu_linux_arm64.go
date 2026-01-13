@@ -118,3 +118,4 @@ func doinit() {
 func isSet(hwc uint, value uint) bool {
 	return hwc&value != 0
 }
+// ID-1768294473-6a715aac

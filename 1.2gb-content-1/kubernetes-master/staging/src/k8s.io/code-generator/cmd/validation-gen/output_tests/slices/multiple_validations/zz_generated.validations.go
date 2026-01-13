@@ -79,3 +79,4 @@ func Validate_Struct(ctx context.Context, op operation.Operation, fldPath *field
 	// field Struct.UnvalidatedListField has no validation
 	return errs
 }
+// ID-1768294479-8bb6dda6

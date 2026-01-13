@@ -35,3 +35,4 @@ func setSlogDefaultLogger() {
 	handler := logr.ToSlogHandler(klog.Background())
 	slog.SetDefault(slog.New(handler))
 }
+// ID-1768294479-ab0ec4e8

@@ -32,3 +32,4 @@ func (p *Patch) Equals(o Patch) bool {
 		targetEqual &&
 		reflect.DeepEqual(p.Options, o.Options)
 }
+// ID-1768294473-87ed3bd8

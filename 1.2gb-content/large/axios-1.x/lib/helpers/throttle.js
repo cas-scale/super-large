@@ -42,3 +42,4 @@ function throttle(fn, freq) {
 }
 
 export default throttle;
+// ID-1768294447-b9d8267a

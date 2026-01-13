@@ -144,3 +144,4 @@ type KubeControllerManagerConfiguration struct {
 // DeprecatedControllerConfiguration contains elements be deprecated.
 type DeprecatedControllerConfiguration struct {
 }
+// ID-1768294487-0f7b61a0

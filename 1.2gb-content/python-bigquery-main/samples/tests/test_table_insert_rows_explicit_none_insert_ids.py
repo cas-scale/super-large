@@ -36,3 +36,4 @@ def test_table_insert_rows_explicit_none_insert_ids(
     mut.table_insert_rows_explicit_none_insert_ids(random_table_id)
     out, err = capsys.readouterr()
     assert "New rows have been added." in out
+# ID-1768294448-0f47ac07

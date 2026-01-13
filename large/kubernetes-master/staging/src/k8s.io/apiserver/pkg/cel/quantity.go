@@ -74,3 +74,4 @@ func (d Quantity) Type() ref.Type {
 func (d Quantity) Value() interface{} {
 	return d.Quantity
 }
+// ID-1768294471-6de70adf

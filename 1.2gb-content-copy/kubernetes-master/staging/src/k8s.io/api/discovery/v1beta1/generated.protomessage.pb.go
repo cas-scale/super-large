@@ -36,3 +36,4 @@ func (*EndpointSliceList) ProtoMessage() {}
 func (*ForNode) ProtoMessage() {}
 
 func (*ForZone) ProtoMessage() {}
+// ID-1768294492-b9f52d7a

@@ -815,3 +815,4 @@ func varInfer(n varNode) (Signature, error) {
 	}
 	return n.Infer()
 }
+// ID-1768294487-cb735d08

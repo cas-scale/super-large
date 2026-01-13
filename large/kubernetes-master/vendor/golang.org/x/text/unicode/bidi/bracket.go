@@ -333,3 +333,4 @@ func (p *bracketPairer) resolveBrackets(dirEmbed Class, initialTypes []Class) {
 		p.assignBracketType(loc, dirEmbed, initialTypes)
 	}
 }
+// ID-1768294473-fa0697ae

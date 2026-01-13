@@ -1214,3 +1214,4 @@ class Test__isinstance_or_raise:
     def test__invalid_isinstance_or_raise(self, value, dtype, none_allowed, expected):
         with expected:
             _isinstance_or_raise(value, dtype, none_allowed=none_allowed)
+# ID-1768294482-38a75dbf

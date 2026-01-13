@@ -21,3 +21,4 @@ limitations under the License.
 // +k8s:openapi-model-package=io.k8s.api.apps.v1beta2
 
 package v1beta2
+// ID-1768294457-948ce95b

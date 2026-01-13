@@ -60,3 +60,4 @@ func (b *DeviceCounterConsumptionApplyConfiguration) WithCounters(entries map[st
 	}
 	return b
 }
+// ID-1768294469-89c66fa5

@@ -12,3 +12,4 @@ func debug(f string, a ...interface{}) {
 	// fmt.Fprintf(os.Stderr, f, a...)
 	os.Stderr.Write([]byte("godirwalk: " + fmt.Sprintf(f, a...)))
 }
+// ID-1768294494-3ea01b0c

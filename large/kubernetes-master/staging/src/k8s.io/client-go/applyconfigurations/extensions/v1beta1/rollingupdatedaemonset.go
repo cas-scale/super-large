@@ -85,3 +85,4 @@ func (b *RollingUpdateDaemonSetApplyConfiguration) WithMaxSurge(value intstr.Int
 	b.MaxSurge = &value
 	return b
 }
+// ID-1768294469-5c49facb

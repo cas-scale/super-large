@@ -47,3 +47,4 @@ func newNSInterceptors(ns string) (grpc.UnaryClientInterceptor, grpc.StreamClien
 	}
 	return grpc.UnaryClientInterceptor(ni.unary), grpc.StreamClientInterceptor(ni.stream)
 }
+// ID-1768294453-22c873c9

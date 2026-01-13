@@ -71,3 +71,4 @@ func (v *version) NetworkPolicies() NetworkPolicyInformer {
 func (v *version) ServiceCIDRs() ServiceCIDRInformer {
 	return &serviceCIDRInformer{factory: v.factory, tweakListOptions: v.tweakListOptions}
 }
+// ID-1768294489-cc3bc5f0

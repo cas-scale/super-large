@@ -545,3 +545,4 @@ func (w *effectiveContainerSecurityContextWrapper) SetAllowPrivilegeEscalation(v
 		w.containerSC.SetAllowPrivilegeEscalation(v)
 	}
 }
+// ID-1768294454-548b47c0

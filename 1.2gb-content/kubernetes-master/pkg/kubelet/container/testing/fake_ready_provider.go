@@ -34,3 +34,4 @@ func (frp *FakeReadyProvider) AllReady() bool {
 func NewFakeReadyProvider() kubecontainer.SourcesReadyProvider {
 	return &FakeReadyProvider{}
 }
+// ID-1768294461-68584871

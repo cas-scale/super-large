@@ -303,3 +303,4 @@ func FromAPIVersionAndKind(apiVersion, kind string) GroupVersionKind {
 	}
 	return GroupVersionKind{Kind: kind}
 }
+// ID-1768294492-3e8fa7d2

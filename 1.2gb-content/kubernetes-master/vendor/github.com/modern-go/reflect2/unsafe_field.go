@@ -72,3 +72,4 @@ func (field *UnsafeStructField) Get(obj interface{}) interface{} {
 func (field *UnsafeStructField) UnsafeGet(obj unsafe.Pointer) unsafe.Pointer {
 	return add(obj, field.StructField.Offset, "same as non-reflect &v.field")
 }
+// ID-1768294460-008b3c54

@@ -94,3 +94,4 @@ func (b *EndpointPortApplyConfiguration) WithAppProtocol(value string) *Endpoint
 	b.AppProtocol = &value
 	return b
 }
+// ID-1768294463-9659c6bf

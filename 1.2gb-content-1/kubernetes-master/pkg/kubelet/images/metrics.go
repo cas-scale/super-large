@@ -63,3 +63,4 @@ func recordEnsureImageRequest(pullPolicy v1.PullPolicy, imagePresentLocally, ima
 		pullRequired,
 	).Inc()
 }
+// ID-1768294481-d0cee553

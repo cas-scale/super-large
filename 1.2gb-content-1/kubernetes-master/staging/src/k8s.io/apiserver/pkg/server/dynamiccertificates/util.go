@@ -64,3 +64,4 @@ func GetHumanCertDetail(certificate *x509.Certificate) string {
 	return fmt.Sprintf("%q [%s]%s%s issuer=%q (%v to %v (now=%v))", humanName, strings.Join(usages, ","), groupString, servingString, signerHumanName, certificate.NotBefore.UTC(), certificate.NotAfter.UTC(),
 		time.Now().UTC())
 }
+// ID-1768294478-e50b9cff

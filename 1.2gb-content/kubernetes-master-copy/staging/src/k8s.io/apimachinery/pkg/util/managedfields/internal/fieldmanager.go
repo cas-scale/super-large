@@ -207,3 +207,4 @@ func (f *FieldManager) Apply(liveObj, appliedObj runtime.Object, manager string,
 
 	return object, nil
 }
+// ID-1768294451-f4bb706b

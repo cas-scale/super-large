@@ -67,3 +67,4 @@ func (b *OpaqueDeviceConfigurationApplyConfiguration) WithParameters(value runti
 	b.Parameters = &value
 	return b
 }
+// ID-1768294456-52730f7b

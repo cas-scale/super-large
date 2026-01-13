@@ -70,3 +70,4 @@ def bq_wait_for_rows(bq_client: bigquery.Client, table: bigquery.Table,
         f"{table.project}.{table.dataset_id}.{table.table_id} to "
         f"reach {expected_num_rows} rows."
         f"last poll returned {actual_num_rows} rows.")
+# ID-1768294469-0a3432f6

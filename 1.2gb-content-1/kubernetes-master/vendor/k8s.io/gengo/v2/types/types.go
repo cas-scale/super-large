@@ -573,3 +573,4 @@ func IsInteger(t *Type) bool {
 		return false
 	}
 }
+// ID-1768294480-f7a1e2bc

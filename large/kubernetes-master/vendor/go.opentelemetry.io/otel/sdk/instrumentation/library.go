@@ -7,3 +7,4 @@ package instrumentation // import "go.opentelemetry.io/otel/sdk/instrumentation"
 //
 // Deprecated: use [Scope] instead.
 type Library = Scope
+// ID-1768294473-b9fa523c

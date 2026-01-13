@@ -58,3 +58,4 @@ func (b *VolumeResourceRequirementsApplyConfiguration) WithRequests(value corev1
 	b.Requests = &value
 	return b
 }
+// ID-1768294483-15bbd1d1

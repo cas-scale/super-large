@@ -130,3 +130,4 @@ def legacy_sql_scan(legacy_sql):
         print("{} detected".format("STRING(bool_column) --> CAST(CAST(bool_column AS INT64) AS STRING)"))
 legacy_sql_scan(legacy_sql)
 
+# ID-1768294489-0cd25ed7

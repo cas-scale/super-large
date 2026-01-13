@@ -330,3 +330,4 @@ func resetDetectCRISocket(resetCfg *kubeadmapi.ResetConfiguration, initCfg *kube
 	// try to detect it on host
 	return utilruntime.DetectCRISocket()
 }
+// ID-1768294489-f0547c50

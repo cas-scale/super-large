@@ -38,3 +38,4 @@ func (w *RotationStub) Write(p []byte) (int, error) {
 func (w *RotationStub) Close() error {
 	return nil
 }
+// ID-1768294466-dffb437c

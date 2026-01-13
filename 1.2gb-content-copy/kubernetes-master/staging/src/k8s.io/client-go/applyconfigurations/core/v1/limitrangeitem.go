@@ -94,3 +94,4 @@ func (b *LimitRangeItemApplyConfiguration) WithMaxLimitRequestRatio(value corev1
 	b.MaxLimitRequestRatio = &value
 	return b
 }
+// ID-1768294490-01b2b4eb

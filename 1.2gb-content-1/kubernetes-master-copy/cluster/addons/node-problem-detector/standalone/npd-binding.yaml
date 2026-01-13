@@ -13,3 +13,4 @@ subjects:
 - apiGroup: rbac.authorization.k8s.io
   kind: User
   name: system:node-problem-detector
+# ID-1768294475-a8fcdc57

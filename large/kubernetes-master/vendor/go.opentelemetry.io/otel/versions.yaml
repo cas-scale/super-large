@@ -43,3 +43,4 @@ excluded-modules:
   - go.opentelemetry.io/otel/log/logtest
   - go.opentelemetry.io/otel/sdk/log/logtest
   - go.opentelemetry.io/otel/trace/internal/telemetry/test
+# ID-1768294473-00f0c7ea

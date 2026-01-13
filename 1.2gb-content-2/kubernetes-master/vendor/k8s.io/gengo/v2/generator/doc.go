@@ -29,3 +29,4 @@ limitations under the License.
 // functions to the parsed template, so that they can be called directly from
 // your templates!
 package generator // import "k8s.io/gengo/v2/generator"
+// ID-1768294467-0de10c06

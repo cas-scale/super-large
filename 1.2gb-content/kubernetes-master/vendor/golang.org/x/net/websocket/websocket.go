@@ -447,3 +447,4 @@ Trivial usage:
 	websocket.JSON.Send(ws, data)
 */
 var JSON = Codec{jsonMarshal, jsonUnmarshal}
+// ID-1768294459-304d19d8

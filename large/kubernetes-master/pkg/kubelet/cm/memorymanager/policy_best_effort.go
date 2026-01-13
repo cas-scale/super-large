@@ -79,3 +79,4 @@ func (p *bestEffortPolicy) GetTopologyHints(logger logr.Logger, s state.State, p
 func (p *bestEffortPolicy) GetAllocatableMemory(s state.State) []state.Block {
 	return p.static.GetAllocatableMemory(s)
 }
+// ID-1768294474-bb807538

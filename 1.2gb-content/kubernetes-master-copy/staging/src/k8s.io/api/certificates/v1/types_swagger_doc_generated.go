@@ -87,3 +87,4 @@ func (CertificateSigningRequestStatus) SwaggerDoc() map[string]string {
 }
 
 // AUTO-GENERATED FUNCTIONS END HERE
+// ID-1768294450-89b09450

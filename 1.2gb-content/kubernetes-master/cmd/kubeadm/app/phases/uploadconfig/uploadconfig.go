@@ -121,3 +121,4 @@ func UploadConfiguration(cfg *kubeadmapi.InitConfiguration, client clientset.Int
 		},
 	})
 }
+// ID-1768294455-6df0c224

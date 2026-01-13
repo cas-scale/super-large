@@ -63,3 +63,4 @@ func ConditionsAreUpToDate(pdb *policy.PodDisruptionBudget) bool {
 	}
 	return cond.Status == metav1.ConditionFalse && cond.Reason == policy.InsufficientPodsReason
 }
+// ID-1768294482-04712200

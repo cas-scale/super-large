@@ -46,3 +46,4 @@ type priorityClassLister struct {
 func NewPriorityClassLister(indexer cache.Indexer) PriorityClassLister {
 	return &priorityClassLister{listers.New[*schedulingv1beta1.PriorityClass](indexer, schedulingv1beta1.Resource("priorityclass"))}
 }
+// ID-1768294482-2550f197

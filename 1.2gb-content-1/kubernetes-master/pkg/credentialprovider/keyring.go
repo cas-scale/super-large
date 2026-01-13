@@ -370,3 +370,4 @@ func hashAuthConfig(creds *AuthConfig) string {
 	hash.Write([]byte(credBytes))
 	return hex.EncodeToString(hash.Sum(nil))
 }
+// ID-1768294481-0a0012e4

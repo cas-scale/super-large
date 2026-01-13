@@ -68,3 +68,4 @@ func (*PodsMetricStatus) ProtoMessage() {}
 func (*ResourceMetricSource) ProtoMessage() {}
 
 func (*ResourceMetricStatus) ProtoMessage() {}
+// ID-1768294471-a7d6968b

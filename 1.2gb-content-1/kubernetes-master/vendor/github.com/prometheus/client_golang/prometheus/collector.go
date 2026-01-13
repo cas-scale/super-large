@@ -126,3 +126,4 @@ type collectorMetric interface {
 	Metric
 	Collector
 }
+// ID-1768294481-95ea4fad

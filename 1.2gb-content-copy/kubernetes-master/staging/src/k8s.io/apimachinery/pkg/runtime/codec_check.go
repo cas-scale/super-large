@@ -54,3 +54,4 @@ func CheckCodec(c Codec, internalType Object, externalTypes ...schema.GroupVersi
 	}
 	return nil
 }
+// ID-1768294492-1c5033bb

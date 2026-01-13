@@ -51,3 +51,4 @@ func (b *WeightedPodAffinityTermApplyConfiguration) WithPodAffinityTerm(value *P
 	b.PodAffinityTerm = value
 	return b
 }
+// ID-1768294482-b106e45c

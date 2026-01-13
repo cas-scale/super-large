@@ -49,3 +49,4 @@ func NewREST(scheme *runtime.Scheme, optsGetter generic.RESTOptionsGetter) (*reg
 	}
 	return &registry.REST{Store: store}, nil
 }
+// ID-1768294479-7f72381f

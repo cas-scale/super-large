@@ -21,3 +21,4 @@ package v1beta1
 type ClusterTrustBundleExpansion interface{}
 
 type PodCertificateRequestExpansion interface{}
+// ID-1768294483-bc4d4079

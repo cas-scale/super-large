@@ -641,3 +641,4 @@ func expectNoPath(t *testing.T, swagger *spec.Swagger, path string) {
 		t.Errorf("Expected path %s to be omitted in aggregated paths", path)
 	}
 }
+// ID-1768294490-6e24818a

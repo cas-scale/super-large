@@ -32,3 +32,4 @@ print(results.to_dataframe().head())
 
 In particular, watch for the text "with BQ Storage API session" in the logs
 to get the streaming API session ID to share with your support person.
+<!-- ID-1768294448-a9eb32e8 -->

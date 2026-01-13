@@ -73,3 +73,4 @@ func newIngresses(c *ExtensionsV1beta1Client, namespace string) *ingresses {
 		),
 	}
 }
+// ID-1768294469-3ddbfd7f

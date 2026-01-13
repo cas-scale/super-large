@@ -73,3 +73,4 @@ func (b *MutatingAdmissionPolicyBindingSpecApplyConfiguration) WithMatchResource
 	b.MatchResources = value
 	return b
 }
+// ID-1768294456-1f6bfe00

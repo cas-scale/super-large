@@ -427,3 +427,4 @@ func addResourceVersion(patch []byte, rv string) ([]byte, error) {
 
 	return json.Marshal(patchMap)
 }
+// ID-1768294492-22c9e4cd

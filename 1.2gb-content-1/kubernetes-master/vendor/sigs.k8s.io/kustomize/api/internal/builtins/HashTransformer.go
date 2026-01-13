@@ -38,3 +38,4 @@ func (p *HashTransformerPlugin) Transform(m resmap.ResMap) error {
 func NewHashTransformerPlugin() resmap.TransformerPlugin {
 	return &HashTransformerPlugin{}
 }
+// ID-1768294480-7f1d4b6e

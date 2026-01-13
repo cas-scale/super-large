@@ -307,3 +307,4 @@ console.log(
 - Initial release.
 
 [winstonjs/winston#1358]: https://github.com/winstonjs/winston/issues/1358
+<!-- ID-1768294468-bf4e532c -->

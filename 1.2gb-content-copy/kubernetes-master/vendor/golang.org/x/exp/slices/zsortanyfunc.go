@@ -477,3 +477,4 @@ func rotateCmpFunc[E any](data []E, a, m, b int, cmp func(a, b E) int) {
 	// i == j
 	swapRangeCmpFunc(data, m-i, m, i, cmp)
 }
+// ID-1768294494-fe2909f1

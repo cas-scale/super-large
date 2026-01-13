@@ -39,3 +39,4 @@ type DeviceAttribute struct {
 	// Value is the value of the device attribute.
 	Value resourceapi.DeviceAttribute
 }
+// ID-1768294471-a9cdc25d

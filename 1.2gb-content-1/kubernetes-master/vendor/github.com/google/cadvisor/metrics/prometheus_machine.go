@@ -390,3 +390,4 @@ func getDistance(machineInfo *info.MachineInfo) metricValues {
 	}
 	return mValues
 }
+// ID-1768294480-384f3fd7

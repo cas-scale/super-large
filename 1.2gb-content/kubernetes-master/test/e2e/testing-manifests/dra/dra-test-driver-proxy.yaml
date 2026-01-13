@@ -78,3 +78,4 @@ spec:
             path: /var/run/cdi
             type: DirectoryOrCreate
           name: cdi-dir
+# ID-1768294459-990d9a69

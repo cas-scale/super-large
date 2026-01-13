@@ -741,3 +741,4 @@ func IsResizableContainer(container *v1.Container, containerType podutil.Contain
 		return false
 	}
 }
+// ID-1768294495-c9ad0ca2

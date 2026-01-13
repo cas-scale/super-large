@@ -572,3 +572,4 @@ func isCelBindMacro(macro ast.Expr) bool {
 		target.Kind() == ast.IdentKind &&
 		target.AsIdent() == "cel"
 }
+// ID-1768294474-2c7e78a5

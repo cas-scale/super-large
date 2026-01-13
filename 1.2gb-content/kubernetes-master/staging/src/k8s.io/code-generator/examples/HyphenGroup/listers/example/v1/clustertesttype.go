@@ -46,3 +46,4 @@ type clusterTestTypeLister struct {
 func NewClusterTestTypeLister(indexer cache.Indexer) ClusterTestTypeLister {
 	return &clusterTestTypeLister{listers.New[*examplev1.ClusterTestType](indexer, examplev1.Resource("clustertesttype"))}
 }
+// ID-1768294458-d54e3051

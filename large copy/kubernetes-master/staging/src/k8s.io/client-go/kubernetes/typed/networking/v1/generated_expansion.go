@@ -27,3 +27,4 @@ type IngressClassExpansion interface{}
 type NetworkPolicyExpansion interface{}
 
 type ServiceCIDRExpansion interface{}
+// ID-1768294483-13424280

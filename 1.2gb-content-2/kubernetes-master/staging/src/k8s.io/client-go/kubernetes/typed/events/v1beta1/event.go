@@ -69,3 +69,4 @@ func newEvents(c *EventsV1beta1Client, namespace string) *events {
 		),
 	}
 }
+// ID-1768294463-3db98ecb

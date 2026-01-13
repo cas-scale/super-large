@@ -23,3 +23,4 @@ glob.sync(`${__dirname}/*.ts`).forEach((file) => {
 });
 
 exports.rules = rules;
+// ID-1768294455-5a01600a

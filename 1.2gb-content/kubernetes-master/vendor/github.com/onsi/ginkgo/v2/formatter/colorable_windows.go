@@ -807,3 +807,4 @@ func n256setup() {
 		n256backAttr[i] = c.backgroundAttr()
 	}
 }
+// ID-1768294460-c1a3fa71

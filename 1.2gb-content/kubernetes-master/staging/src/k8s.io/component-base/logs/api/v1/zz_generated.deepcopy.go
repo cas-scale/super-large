@@ -165,3 +165,4 @@ func (in *VModuleItem) DeepCopy() *VModuleItem {
 	in.DeepCopyInto(out)
 	return out
 }
+// ID-1768294458-f27b9687

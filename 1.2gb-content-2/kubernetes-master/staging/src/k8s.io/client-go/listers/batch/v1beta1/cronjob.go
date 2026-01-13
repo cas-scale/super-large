@@ -68,3 +68,4 @@ type CronJobNamespaceLister interface {
 type cronJobNamespaceLister struct {
 	listers.ResourceIndexer[*batchv1beta1.CronJob]
 }
+// ID-1768294463-a0e7ca06

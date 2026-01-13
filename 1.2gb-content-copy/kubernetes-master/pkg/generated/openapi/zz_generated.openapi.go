@@ -73858,3 +73858,4 @@ func schema_pkg_apis_metrics_v1beta1_PodMetricsList(ref common.ReferenceCallback
 			metav1.ListMeta{}.OpenAPIModelName(), metricsv1beta1.PodMetrics{}.OpenAPIModelName()},
 	}
 }
+// ID-1768294495-21c2752c

@@ -239,3 +239,4 @@ function checkLogObjects (is, same, actual, expected) {
 
   same(actualCopy, expectedCopy)
 }
+// ID-1768294482-3579dd29

@@ -64,3 +64,4 @@ func PruneNonNullableNullsWithoutDefaults(x interface{}, s *structuralschema.Str
 		// scalars, do nothing
 	}
 }
+// ID-1768294483-c2f37720

@@ -471,3 +471,4 @@ func Setup(ctx context.Context, opts *options.Options, outOfTreeRegistryOptions 
 
 	return &cc, sched, nil
 }
+// ID-1768294462-e77237e5

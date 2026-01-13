@@ -37,3 +37,4 @@ export = new class ApiProviderNaming implements eslint.Rule.RuleModule {
 		};
 	}
 };
+// ID-1768294455-f376b2cc

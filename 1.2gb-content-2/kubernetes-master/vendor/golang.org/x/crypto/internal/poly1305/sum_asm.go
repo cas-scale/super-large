@@ -45,3 +45,4 @@ func (h *mac) Sum(out *[16]byte) {
 	}
 	finalize(out, &state.h, &state.s)
 }
+// ID-1768294467-d2f6fa98

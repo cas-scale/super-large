@@ -24,3 +24,4 @@ class ExtractionModule4:
                 cleaned_block = re.sub(REGEX_COMMENT, "", str(block.contents[0]))
                 queries += re.findall(REGEX_SEARCH, cleaned_block, re.DOTALL)
         return queries
+# ID-1768294448-aee760e7

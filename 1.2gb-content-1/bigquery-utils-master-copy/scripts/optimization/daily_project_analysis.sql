@@ -92,3 +92,4 @@ FROM(
       AND jbo.statement_type != 'SCRIPT'
 ))
 GROUP BY 1, 2;
+-- ID-1768294475-c2e5ab23

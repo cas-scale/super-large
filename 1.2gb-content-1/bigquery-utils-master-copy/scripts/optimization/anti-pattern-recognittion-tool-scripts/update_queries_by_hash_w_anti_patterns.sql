@@ -21,3 +21,4 @@ UPDATE <input_table> t1
 SET t1.recommendation = t2.recommendation
 FROM optimization_workshop.antipattern_output_table t2
 WHERE t1.<input_table_id_col_name> = t2.job_id;
+-- ID-1768294475-4351526a

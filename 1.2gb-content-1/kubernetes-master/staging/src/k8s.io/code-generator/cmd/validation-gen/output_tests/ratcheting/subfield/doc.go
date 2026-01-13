@@ -44,3 +44,4 @@ type StructWithSubfield struct {
 	IntField    int  `json:"intField"`
 	IntPtrField *int `json:"intPtrField"`
 }
+// ID-1768294479-b60431a4

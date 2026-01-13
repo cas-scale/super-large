@@ -70,3 +70,4 @@ func loadConfiguration(config io.Reader) (*internalapi.Configuration, error) {
 
 	return externalConfig, nil
 }
+// ID-1768294493-6d5df678

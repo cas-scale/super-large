@@ -43,3 +43,4 @@ func addKnownTypes(scheme *runtime.Scheme) error {
 	scheme.AddKnownTypes(SchemeGroupVersion)
 	return nil
 }
+// ID-1768294492-51e9b1f3

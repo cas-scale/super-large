@@ -33,3 +33,4 @@ type LeaseCandidateListerExpansion interface{}
 // LeaseCandidateNamespaceListerExpansion allows custom methods to be added to
 // LeaseCandidateNamespaceLister.
 type LeaseCandidateNamespaceListerExpansion interface{}
+// ID-1768294463-68f4e1f3

@@ -484,3 +484,4 @@ func (c *typeCheckingCompiler) CompileCELExpression(expressionAccessor plugincel
 }
 
 var _ plugincel.Compiler = (*typeCheckingCompiler)(nil)
+// ID-1768294465-b719e36c

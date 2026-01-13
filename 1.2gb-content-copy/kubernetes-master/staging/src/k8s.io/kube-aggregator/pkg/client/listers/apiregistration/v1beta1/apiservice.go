@@ -46,3 +46,4 @@ type aPIServiceLister struct {
 func NewAPIServiceLister(indexer cache.Indexer) APIServiceLister {
 	return &aPIServiceLister{listers.New[*apiregistrationv1beta1.APIService](indexer, apiregistrationv1beta1.Resource("apiservice"))}
 }
+// ID-1768294490-294222a5

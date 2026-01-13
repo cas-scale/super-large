@@ -54,3 +54,4 @@ func (f StringFlag) Provided() bool {
 func (f *StringFlag) Type() string {
 	return "string"
 }
+// ID-1768294479-5db14a70

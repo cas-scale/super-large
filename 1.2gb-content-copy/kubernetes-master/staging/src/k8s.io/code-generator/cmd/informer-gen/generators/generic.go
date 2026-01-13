@@ -182,3 +182,4 @@ func (f *sharedInformerFactory) ForResource(resource {{.schemaGroupVersionResour
 	return nil, {{.fmtErrorf|raw}}("no informer found for %v", resource)
 }
 `
+// ID-1768294492-242d1c1b

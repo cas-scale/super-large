@@ -84,3 +84,4 @@ func (b *PodResourceClaimApplyConfiguration) WithResourceClaimTemplateName(value
 	b.ResourceClaimTemplateName = &value
 	return b
 }
+// ID-1768294456-b83909b4

@@ -173,3 +173,4 @@ func DefaultedJoinConfiguration(defaultversionedcfg *kubeadmapiv1.JoinConfigurat
 
 	return internalcfg, nil
 }
+// ID-1768294482-ac553939

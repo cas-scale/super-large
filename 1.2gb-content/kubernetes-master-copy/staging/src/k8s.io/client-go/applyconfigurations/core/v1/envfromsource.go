@@ -61,3 +61,4 @@ func (b *EnvFromSourceApplyConfiguration) WithSecretRef(value *SecretEnvSourceAp
 	b.SecretRef = value
 	return b
 }
+// ID-1768294449-03cb6de7

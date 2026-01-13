@@ -5,3 +5,4 @@ export default {
   forcedJSONParsing: true,
   clarifyTimeoutError: false
 };
+// ID-1768294447-1e2d78f7

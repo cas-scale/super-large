@@ -37,3 +37,4 @@ func (in *EndpointControllerConfiguration) DeepCopy() *EndpointControllerConfigu
 	in.DeepCopyInto(out)
 	return out
 }
+// ID-1768294476-46c9c2c3

@@ -16,3 +16,4 @@ var OpenAPIMustAsset = map[string]func(string) []byte{
 }
 
 const DefaultOpenAPI = "v1.21.2"
+// ID-1768294480-1caed9cd

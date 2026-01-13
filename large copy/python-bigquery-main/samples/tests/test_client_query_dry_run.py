@@ -27,3 +27,4 @@ def test_client_query_dry_run(capsys: "pytest.CaptureFixture[str]") -> None:
     assert query_job.state == "DONE"
     assert query_job.dry_run
     assert query_job.total_bytes_processed > 0
+# ID-1768294482-de76b495

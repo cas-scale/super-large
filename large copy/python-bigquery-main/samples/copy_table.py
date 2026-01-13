@@ -32,3 +32,4 @@ def copy_table(source_table_id: str, destination_table_id: str) -> None:
 
     print("A copy of the table created.")
     # [END bigquery_copy_table]
+# ID-1768294482-520a22ed

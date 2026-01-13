@@ -78,3 +78,4 @@ You can refer to [the `@inquirer/input` prompt test suite](https://github.com/SB
 
 Copyright (c) 2023 Simon Boudrias (twitter: [@vaxilart](https://twitter.com/Vaxilart))<br/>
 Licensed under the MIT license.
+<!-- ID-1768294488-3f673c4c -->

@@ -27,3 +27,4 @@ type Runner interface {
 	// test code.
 	Run(logger *log.Logger, options interface{}) error
 }
+// ID-1768294479-27a9f481

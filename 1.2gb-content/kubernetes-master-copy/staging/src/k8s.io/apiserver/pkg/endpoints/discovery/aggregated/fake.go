@@ -189,3 +189,4 @@ func (f *recorderResourceManager) WithSource(source Source) ResourceManager {
 func (f *recorderResourceManager) AddInvalidationCallback(callback func()) {
 	panic("unimplemented")
 }
+// ID-1768294451-c43c45d6

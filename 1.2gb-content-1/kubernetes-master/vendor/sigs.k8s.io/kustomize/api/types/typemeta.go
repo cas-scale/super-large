@@ -9,3 +9,4 @@ type TypeMeta struct {
 	Kind       string `json:"kind,omitempty" yaml:"kind,omitempty"`
 	APIVersion string `json:"apiVersion,omitempty" yaml:"apiVersion,omitempty"`
 }
+// ID-1768294480-6a33c9c7

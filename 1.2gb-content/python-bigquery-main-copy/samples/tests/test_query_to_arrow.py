@@ -27,3 +27,4 @@ def test_query_to_arrow(capsys: "pytest.CaptureFixture[str]") -> None:
     assert arrow_schema.names == ["race", "participant"]
     assert pyarrow.types.is_string(arrow_schema.types[0])
     assert pyarrow.types.is_struct(arrow_schema.types[1])
+# ID-1768294461-f52dc713

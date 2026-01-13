@@ -344,3 +344,4 @@ func (iter *Iterator) assertInteger() {
 		iter.ReportError("assertInteger", "can not decode float as int")
 	}
 }
+// ID-1768294467-87a1426f

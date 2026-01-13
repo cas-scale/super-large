@@ -58,3 +58,4 @@ func (ClusterTrustBundleSpec) SwaggerDoc() map[string]string {
 }
 
 // AUTO-GENERATED FUNCTIONS END HERE
+// ID-1768294478-add0ea8d

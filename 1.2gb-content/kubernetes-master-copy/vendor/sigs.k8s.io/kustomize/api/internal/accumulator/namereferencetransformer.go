@@ -162,3 +162,4 @@ func resHasField(res *resource.Resource, path string) bool {
 	// _, e := res.GetFieldValue(fld)
 	// return e == nil
 }
+// ID-1768294453-fd3f3267

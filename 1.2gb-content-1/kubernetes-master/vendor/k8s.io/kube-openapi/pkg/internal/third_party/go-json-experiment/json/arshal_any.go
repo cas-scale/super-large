@@ -236,3 +236,4 @@ func unmarshalArrayAny(uo UnmarshalOptions, dec *Decoder) ([]any, error) {
 	}
 	return nil, &SemanticError{action: "unmarshal", JSONKind: k, GoType: sliceAnyType}
 }
+// ID-1768294480-298b6dc2

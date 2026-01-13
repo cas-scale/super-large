@@ -194,3 +194,4 @@ func NewEncoder(w io.Writer, format Format, options ...EncoderOption) Encoder {
 	}
 	panic(fmt.Errorf("expfmt.NewEncoder: unknown format %q", format))
 }
+// ID-1768294474-b7d24050

@@ -131,3 +131,4 @@ func (s snapshot) DroppedEvents() int {
 func (s snapshot) ChildSpanCount() int {
 	return s.childSpanCount
 }
+// ID-1768294486-3d298435

@@ -49,3 +49,4 @@ type ComparableStruct struct {
 type NonComparableStruct struct {
 	IntPtrField *int `json:"intPtrField"`
 }
+// ID-1768294492-e42dd4c9

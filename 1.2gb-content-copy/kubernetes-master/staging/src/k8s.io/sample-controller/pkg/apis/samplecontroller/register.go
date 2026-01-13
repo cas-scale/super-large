@@ -20,3 +20,4 @@ package samplecontroller
 const (
 	GroupName = "samplecontroller.k8s.io"
 )
+// ID-1768294491-690d37af

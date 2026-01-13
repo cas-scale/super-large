@@ -100,3 +100,4 @@ func (f *leaseInformer) Informer() cache.SharedIndexInformer {
 func (f *leaseInformer) Lister() coordinationv1.LeaseLister {
 	return coordinationv1.NewLeaseLister(f.Informer().GetIndexer())
 }
+// ID-1768294482-299154e5

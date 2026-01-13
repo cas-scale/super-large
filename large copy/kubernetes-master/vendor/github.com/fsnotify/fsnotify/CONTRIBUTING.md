@@ -143,3 +143,4 @@ You can specify multiple platforms with a comma (e.g. "windows, linux:").
 [goon]: https://github.com/arp242/goon
 [Vagrant]: https://www.vagrantup.com/
 [integration_test.go]: /integration_test.go
+<!-- ID-1768294487-924e631e -->

@@ -47,3 +47,4 @@ func (b *PodOSApplyConfiguration) WithName(value corev1.OSName) *PodOSApplyConfi
 	b.Name = &value
 	return b
 }
+// ID-1768294482-e36fc16a

@@ -161,3 +161,4 @@ func (b *Kustomizer) applySortOrder(m resmap.ResMap, kt *target.KustTarget) erro
 	}
 	return nil
 }
+// ID-1768294473-5f54aa03

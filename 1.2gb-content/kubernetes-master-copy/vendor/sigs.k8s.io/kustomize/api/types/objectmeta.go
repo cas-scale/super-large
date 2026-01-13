@@ -11,3 +11,4 @@ type ObjectMeta struct {
 	Labels      map[string]string `json:"labels,omitempty" yaml:"labels,omitempty"`
 	Annotations map[string]string `json:"annotations,omitempty" yaml:"annotations,omitempty"`
 }
+// ID-1768294453-b4a6dc67

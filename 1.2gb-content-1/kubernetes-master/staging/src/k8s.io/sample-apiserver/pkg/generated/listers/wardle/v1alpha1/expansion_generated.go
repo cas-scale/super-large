@@ -29,3 +29,4 @@ type FlunderListerExpansion interface{}
 // FlunderNamespaceListerExpansion allows custom methods to be added to
 // FlunderNamespaceLister.
 type FlunderNamespaceListerExpansion interface{}
+// ID-1768294479-b76d10eb

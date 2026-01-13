@@ -214,3 +214,4 @@ type GangSchedulingPolicy struct {
 	// +required
 	MinCount int32
 }
+// ID-1768294460-253e5dd0

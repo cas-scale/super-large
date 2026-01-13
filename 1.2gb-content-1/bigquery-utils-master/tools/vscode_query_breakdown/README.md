@@ -21,3 +21,4 @@ the queries in the txt file will be highlighted, the runtime and performance met
 on the bottom right, and an output.txt file will be created/overwritten. 
 
 Through toolconfig.json, the runtime spent on each query as well as the number of replacements recommended can be configured.
+<!-- ID-1768294476-b453db58 -->

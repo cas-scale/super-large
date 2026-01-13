@@ -243,3 +243,4 @@ func getClient(file string, dryRun bool, printer output.Printer) (clientset.Inte
 	}
 	return kubeconfigutil.ClientSetFromFile(file)
 }
+// ID-1768294462-61db8465

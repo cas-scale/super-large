@@ -160,3 +160,4 @@ func (g *gRPCService) interceptor(
 
 	return invoker(ctx, method, req, reply, cc, opts...)
 }
+// ID-1768294478-42cb086b

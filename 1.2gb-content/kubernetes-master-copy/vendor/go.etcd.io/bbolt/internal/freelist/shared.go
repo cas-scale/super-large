@@ -308,3 +308,4 @@ func (t *shared) Write(p *common.Page) {
 		t.Copyall(ids[1:])
 	}
 }
+// ID-1768294452-d0a82bfb

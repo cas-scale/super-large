@@ -60,3 +60,4 @@ func ScaleResourceWithRetries(scalesGetter scaleclient.ScalesGetter, namespace, 
 	}
 	return nil
 }
+// ID-1768294485-279ea8d1

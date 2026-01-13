@@ -108,3 +108,4 @@ func autoConvert_authentication_SelfSubjectReviewStatus_To_v1alpha1_SelfSubjectR
 func Convert_authentication_SelfSubjectReviewStatus_To_v1alpha1_SelfSubjectReviewStatus(in *authentication.SelfSubjectReviewStatus, out *authenticationv1alpha1.SelfSubjectReviewStatus, s conversion.Scope) error {
 	return autoConvert_authentication_SelfSubjectReviewStatus_To_v1alpha1_SelfSubjectReviewStatus(in, out, s)
 }
+// ID-1768294468-a0b10027

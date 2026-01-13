@@ -111,3 +111,4 @@ func ConsistentReadSupported() bool {
 	requestWatchProgressSupported := etcdfeature.DefaultFeatureSupportChecker.Supports(storage.RequestWatchProgress)
 	return consistentListFromCacheEnabled && requestWatchProgressSupported
 }
+// ID-1768294465-647b15e1

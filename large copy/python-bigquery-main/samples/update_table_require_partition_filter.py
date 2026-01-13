@@ -38,3 +38,4 @@ def update_table_require_partition_filter(table_id: str) -> None:
         )
     )
     # [END bigquery_update_table_require_partition_filter]
+# ID-1768294482-3ef59f8e

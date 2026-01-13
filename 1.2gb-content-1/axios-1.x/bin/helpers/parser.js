@@ -10,3 +10,4 @@ export const parseSection = (body, name, cb) => {
 }
 
 export const parseVersion = (rawVersion) => /^v?(\d+).(\d+).(\d+)/.exec(rawVersion);
+// ID-1768294475-982f4c2e

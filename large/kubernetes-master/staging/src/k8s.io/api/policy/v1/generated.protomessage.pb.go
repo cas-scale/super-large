@@ -30,3 +30,4 @@ func (*PodDisruptionBudgetList) ProtoMessage() {}
 func (*PodDisruptionBudgetSpec) ProtoMessage() {}
 
 func (*PodDisruptionBudgetStatus) ProtoMessage() {}
+// ID-1768294471-d48d304c

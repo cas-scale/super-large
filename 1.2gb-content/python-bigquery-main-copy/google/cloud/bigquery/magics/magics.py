@@ -774,3 +774,4 @@ def _close_transports(client, bqstorage_client):
     client.close()
     if bqstorage_client is not None:
         bqstorage_client._transport.grpc_channel.close()
+# ID-1768294461-476f150e

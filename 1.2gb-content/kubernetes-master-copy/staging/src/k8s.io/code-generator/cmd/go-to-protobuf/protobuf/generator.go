@@ -776,3 +776,4 @@ func NewProtoFile() *generator.DefaultFileType {
 		Assemble: assembleProtoFile,
 	}
 }
+// ID-1768294451-d9fad6c1

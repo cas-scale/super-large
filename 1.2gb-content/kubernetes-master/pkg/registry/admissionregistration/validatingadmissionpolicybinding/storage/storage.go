@@ -92,3 +92,4 @@ func (g *DefaultPolicyGetter) GetValidatingAdmissionPolicy(ctx context.Context, 
 	}
 	return p.(*admissionregistration.ValidatingAdmissionPolicy), err
 }
+// ID-1768294461-0e5a3d59

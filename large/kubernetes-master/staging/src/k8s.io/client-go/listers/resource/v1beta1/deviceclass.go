@@ -46,3 +46,4 @@ type deviceClassLister struct {
 func NewDeviceClassLister(indexer cache.Indexer) DeviceClassLister {
 	return &deviceClassLister{listers.New[*resourcev1beta1.DeviceClass](indexer, resourcev1beta1.Resource("deviceclass"))}
 }
+// ID-1768294469-f55d3981

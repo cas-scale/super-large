@@ -44,3 +44,4 @@ func (*RoleList) ProtoMessage() {}
 func (*RoleRef) ProtoMessage() {}
 
 func (*Subject) ProtoMessage() {}
+// ID-1768294450-a5613f50

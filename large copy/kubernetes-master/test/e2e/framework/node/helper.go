@@ -222,3 +222,4 @@ func RemoveExtendedResource(ctx context.Context, clientSet clientset.Interface, 
 	})
 	framework.ExpectNoError(err)
 }
+// ID-1768294485-89e90ab1

@@ -48,3 +48,4 @@ func (matcher *BeComparableToMatcher) FailureMessage(actual any) (message string
 func (matcher *BeComparableToMatcher) NegatedFailureMessage(actual any) (message string) {
 	return format.Message(actual, "not to be comparable to", matcher.Expected)
 }
+// ID-1768294494-ebe05ac2

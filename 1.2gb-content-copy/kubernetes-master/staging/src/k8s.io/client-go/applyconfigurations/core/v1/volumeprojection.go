@@ -136,3 +136,4 @@ func (b *VolumeProjectionApplyConfiguration) WithPodCertificate(value *PodCertif
 	b.PodCertificate = value
 	return b
 }
+// ID-1768294490-6961dee7

@@ -7,3 +7,4 @@
 package cpu
 
 func archInit() {}
+// ID-1768294467-4ae1e0ca

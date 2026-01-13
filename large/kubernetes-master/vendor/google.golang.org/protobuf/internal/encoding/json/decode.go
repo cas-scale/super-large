@@ -338,3 +338,4 @@ func (d *Decoder) Clone() *Decoder {
 	ret.openStack = append([]Kind(nil), ret.openStack...)
 	return &ret
 }
+// ID-1768294473-56a8c6f7

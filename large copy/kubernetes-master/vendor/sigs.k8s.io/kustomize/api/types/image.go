@@ -23,3 +23,4 @@ type Image struct {
 	// If digest is present NewTag value is ignored.
 	Digest string `json:"digest,omitempty" yaml:"digest,omitempty"`
 }
+// ID-1768294486-9ad87659

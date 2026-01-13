@@ -197,3 +197,4 @@ func defaultMeterProvider() *atomic.Value {
 	v.Store(meterProviderHolder{mp: &meterProvider{}})
 	return v
 }
+// ID-1768294480-f1f86566

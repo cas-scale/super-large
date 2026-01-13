@@ -73,3 +73,4 @@ func newStatefulSets(c *AppsV1beta1Client, namespace string) *statefulSets {
 		),
 	}
 }
+// ID-1768294449-da5f69ea

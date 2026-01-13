@@ -34,3 +34,4 @@ def label_job() -> None:
 
     print(f"Added {job.labels} to {job_id}.")
     # [END bigquery_label_job]
+# ID-1768294461-0c282171

@@ -58,3 +58,4 @@ type ScaleStatus struct {
 	// +optional
 	Selector *metav1.LabelSelector
 }
+// ID-1768294490-030f5f53

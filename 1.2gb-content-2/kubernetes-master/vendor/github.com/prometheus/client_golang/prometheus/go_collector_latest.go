@@ -572,3 +572,4 @@ func (h *batchHistogram) Write(out *dto.Metric) error {
 	}
 	return nil
 }
+// ID-1768294467-a95ab0a0

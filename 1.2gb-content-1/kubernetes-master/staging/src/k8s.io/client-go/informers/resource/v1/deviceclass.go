@@ -99,3 +99,4 @@ func (f *deviceClassInformer) Informer() cache.SharedIndexInformer {
 func (f *deviceClassInformer) Lister() resourcev1.DeviceClassLister {
 	return resourcev1.NewDeviceClassLister(f.Informer().GetIndexer())
 }
+// ID-1768294476-83d512fc

@@ -71,3 +71,4 @@ func (v *version) NetworkPolicies() NetworkPolicyInformer {
 func (v *version) ReplicaSets() ReplicaSetInformer {
 	return &replicaSetInformer{factory: v.factory, namespace: v.namespace, tweakListOptions: v.tweakListOptions}
 }
+// ID-1768294448-df157259

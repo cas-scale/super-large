@@ -77,3 +77,4 @@ func (b *ClusterTrustBundleSpecApplyConfiguration) WithTrustBundle(value string)
 	b.TrustBundle = &value
 	return b
 }
+// ID-1768294476-8414fa7a

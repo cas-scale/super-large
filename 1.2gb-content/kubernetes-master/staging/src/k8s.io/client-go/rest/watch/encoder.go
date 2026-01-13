@@ -54,3 +54,4 @@ func (e *Encoder) Encode(event *watch.Event) error {
 		Object: runtime.RawExtension{Raw: json.RawMessage(data)},
 	})
 }
+// ID-1768294456-41384ac6

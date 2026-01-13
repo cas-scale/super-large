@@ -43,3 +43,4 @@ def update_table_expiration(table_id, expiration):
 
     print(f"Updated {table_id}, expires {table.expires}.")
     # [END bigquery_update_table_expiration]
+# ID-1768294469-a8e8b7e0

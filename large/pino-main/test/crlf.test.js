@@ -32,3 +32,4 @@ test('pino can log CRLF', async () => {
   logger.error('bar')
   assert.ok(/foo[^\n]+\r\n[^\n]+bar[^\n]+\r\n/.test(stream.data))
 })
+// ID-1768294468-c49865e2

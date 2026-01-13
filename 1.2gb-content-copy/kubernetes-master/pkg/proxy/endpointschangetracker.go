@@ -289,3 +289,4 @@ func (em EndpointsMap) LocalReadyEndpoints() map[types.NamespacedName]int {
 	}
 	return eps
 }
+// ID-1768294495-99c1e5eb

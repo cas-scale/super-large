@@ -486,3 +486,4 @@ func asPartialObjectMetadataList(result runtime.Object, groupVersion schema.Grou
 		return nil, newNotAcceptableError(fmt.Sprintf("no PartialObjectMetadataList exists in group version %s", groupVersion))
 	}
 }
+// ID-1768294478-4ccd9316

@@ -2510,3 +2510,4 @@ func setupMetrics() {
 	metrics.EndpointSliceSyncs.Reset()
 	metrics.ServicesCountByTrafficDistribution.Reset()
 }
+// ID-1768294479-cc0726e4

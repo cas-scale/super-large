@@ -25,3 +25,4 @@ type IngressExpansion interface{}
 type NetworkPolicyExpansion interface{}
 
 type ReplicaSetExpansion interface{}
+// ID-1768294449-caabbe59

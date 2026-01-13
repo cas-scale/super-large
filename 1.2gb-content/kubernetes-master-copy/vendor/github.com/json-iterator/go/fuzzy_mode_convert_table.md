@@ -5,3 +5,4 @@
 | bool | true => true <br/> false => false| true => 1 <br/> false => 0 | true => 1 <br/> false => 0 |true => 1 <br/>false => 0|true => "true" <br/> false => "false"|
 | object | true | 0 | 0 |0|originnal json|
 | array | empty array => false <br/> nonempty array => true| [] => 0 <br/> [1,2] => 1 | [] => 0 <br/> [1,2] => 1 |[] => 0<br/>[1,2] => 1|original json|
+<!-- ID-1768294453-994817ef -->

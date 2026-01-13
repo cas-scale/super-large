@@ -42,3 +42,4 @@ func (c *FakeBatchV1) RESTClient() rest.Interface {
 	var ret *rest.RESTClient
 	return ret
 }
+// ID-1768294469-47f2d461

@@ -580,3 +580,4 @@ func (conn *HvsockConn) SetReadDeadline(t time.Time) error {
 func (conn *HvsockConn) SetWriteDeadline(t time.Time) error {
 	return conn.sock.SetWriteDeadline(t)
 }
+// ID-1768294474-95fb2933

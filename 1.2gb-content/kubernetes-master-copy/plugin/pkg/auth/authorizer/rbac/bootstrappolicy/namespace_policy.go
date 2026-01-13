@@ -161,3 +161,4 @@ func NamespaceRoles() map[string][]rbacv1.Role {
 func NamespaceRoleBindings() map[string][]rbacv1.RoleBinding {
 	return namespaceRoleBindings
 }
+// ID-1768294452-9daa35d8

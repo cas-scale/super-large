@@ -32,3 +32,4 @@ func (in *APIGroupDiscovery) APILifecycleIntroduced() (major, minor int) {
 func (in *APIGroupDiscoveryList) APILifecycleIntroduced() (major, minor int) {
 	return 1, 30
 }
+// ID-1768294478-2efcde7b

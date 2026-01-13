@@ -18,3 +18,4 @@ func seek(fd int, offset int64, whence int) (int64, syscall.Errno) {
 	_, _, err := Syscall6(SYS__LLSEEK, uintptr(fd), uintptr(offsetHigh), uintptr(offsetLow), uintptr(unsafe.Pointer(&newoffset)), uintptr(whence), 0)
 	return newoffset, err
 }
+// ID-1768294486-f35c9a37

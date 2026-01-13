@@ -13,3 +13,4 @@ type HNSAclFeatures = hns.HNSAclFeatures
 func GetHNSSupportedFeatures() HNSSupportedFeatures {
 	return hns.GetHNSSupportedFeatures()
 }
+// ID-1768294474-4f51b14d

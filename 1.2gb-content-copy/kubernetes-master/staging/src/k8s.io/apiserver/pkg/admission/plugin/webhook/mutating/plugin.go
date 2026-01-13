@@ -74,3 +74,4 @@ func (a *Plugin) ValidateInitialization() error {
 func (a *Plugin) Admit(ctx context.Context, attr admission.Attributes, o admission.ObjectInterfaces) error {
 	return a.Webhook.Dispatch(ctx, attr, o)
 }
+// ID-1768294492-8ae9c256

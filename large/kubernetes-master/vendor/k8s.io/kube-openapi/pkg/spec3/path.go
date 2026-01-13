@@ -261,3 +261,4 @@ type PathProps struct {
 	// Parameters a list of parameters that are applicable for this operation
 	Parameters []*Parameter `json:"parameters,omitempty"`
 }
+// ID-1768294473-9d6a145a

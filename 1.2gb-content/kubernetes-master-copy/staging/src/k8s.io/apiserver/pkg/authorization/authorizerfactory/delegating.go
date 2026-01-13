@@ -67,3 +67,4 @@ func (c DelegatingAuthorizerConfig) New() (authorizer.Authorizer, error) {
 		compiler,
 	)
 }
+// ID-1768294451-06b86893

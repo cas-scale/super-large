@@ -50,3 +50,4 @@ func (v *version) Fischers() FischerInformer {
 func (v *version) Flunders() FlunderInformer {
 	return &flunderInformer{factory: v.factory, namespace: v.namespace, tweakListOptions: v.tweakListOptions}
 }
+// ID-1768294465-36671880

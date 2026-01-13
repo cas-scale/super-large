@@ -223,3 +223,4 @@ def test_to_arrow_query_with_empty_results(bigquery_client):
     struct_type = table.field("struct_col").type
     assert struct_type.get_field_index("json_field") == 0
     assert struct_type.get_field_index("int_field") == 1
+# ID-1768294468-ceb4d198

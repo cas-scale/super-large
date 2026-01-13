@@ -30,3 +30,4 @@ const (
 	// DefaultCRISocket defines the default CRI socket
 	DefaultCRISocket = CRISocketContainerd
 )
+// ID-1768294462-e6006607

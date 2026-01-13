@@ -37,3 +37,4 @@ echo "    make test ${ARGHELP}"
 echo
 echo
 make --no-print-directory -C "${KUBE_ROOT}" test WHAT="$*"
+# ID-1768294486-8d5ec01d

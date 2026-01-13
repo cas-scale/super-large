@@ -25,3 +25,4 @@ class SQLFileExtractionModule():
         # Split according to ; and remove unnecessary whitespace
         split_queries = cleaned_contents.split(";")
         return [re.sub("\s+", " ", query).strip() + ";" for query in split_queries]
+# ID-1768294461-9ee00c33

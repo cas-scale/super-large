@@ -62,3 +62,4 @@ var _ rest.ShortNamesProvider = &REST{}
 func (r *REST) ShortNames() []string {
 	return []string{"netpol"}
 }
+// ID-1768294475-2560f068

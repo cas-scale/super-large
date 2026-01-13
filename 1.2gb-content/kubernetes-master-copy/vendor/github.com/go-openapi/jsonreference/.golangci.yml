@@ -48,3 +48,4 @@ linters:
     - nosnakecase
     - varnamelen
     - exhaustruct
+# ID-1768294454-f4dc9dbe

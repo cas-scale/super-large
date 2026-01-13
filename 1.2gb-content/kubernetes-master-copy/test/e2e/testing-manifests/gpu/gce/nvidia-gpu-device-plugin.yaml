@@ -55,3 +55,4 @@ spec:
           mountPath: /dev
   updateStrategy:
     type: RollingUpdate
+# ID-1768294452-dfd340d9

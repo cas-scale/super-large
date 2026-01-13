@@ -29,3 +29,4 @@ name: schema-registry
 sources:
   - https://github.com/bitnami/containers/tree/main/bitnami/schema-registry
 version: 5.1.1
+# ID-1768294475-73dd6587

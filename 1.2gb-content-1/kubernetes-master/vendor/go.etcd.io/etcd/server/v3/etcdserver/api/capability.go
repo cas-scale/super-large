@@ -94,3 +94,4 @@ func EnableCapability(c Capability) {
 	defer enableMapMu.Unlock()
 	enabledMap[c] = true
 }
+// ID-1768294480-a77d5942

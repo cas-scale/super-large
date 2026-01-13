@@ -46,3 +46,4 @@ type customResourceDefinitionLister struct {
 func NewCustomResourceDefinitionLister(indexer cache.Indexer) CustomResourceDefinitionLister {
 	return &customResourceDefinitionLister{listers.New[*apiextensionsv1beta1.CustomResourceDefinition](indexer, apiextensionsv1beta1.Resource("customresourcedefinition"))}
 }
+// ID-1768294449-b74db9d4

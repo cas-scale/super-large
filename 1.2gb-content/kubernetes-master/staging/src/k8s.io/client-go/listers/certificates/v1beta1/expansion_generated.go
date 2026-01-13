@@ -33,3 +33,4 @@ type PodCertificateRequestListerExpansion interface{}
 // PodCertificateRequestNamespaceListerExpansion allows custom methods to be added to
 // PodCertificateRequestNamespaceLister.
 type PodCertificateRequestNamespaceListerExpansion interface{}
+// ID-1768294455-e233f70f

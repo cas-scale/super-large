@@ -112,3 +112,4 @@ func (v *varNameActivation) ResolveName(name string) (any, bool) {
 }
 
 func (v *varNameActivation) Parent() interpreter.Activation { return nil }
+// ID-1768294458-e1e97e69

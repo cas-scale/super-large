@@ -218,3 +218,4 @@ func autoConvert_apidiscovery_APIVersionDiscovery_To_v2beta1_APIVersionDiscovery
 func Convert_apidiscovery_APIVersionDiscovery_To_v2beta1_APIVersionDiscovery(in *apidiscovery.APIVersionDiscovery, out *apidiscoveryv2beta1.APIVersionDiscovery, s conversion.Scope) error {
 	return autoConvert_apidiscovery_APIVersionDiscovery_To_v2beta1_APIVersionDiscovery(in, out, s)
 }
+// ID-1768294462-4205b9a0

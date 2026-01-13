@@ -43,3 +43,4 @@ func New(f internalinterfaces.SharedInformerFactory, namespace string, tweakList
 func (v *version) RuntimeClasses() RuntimeClassInformer {
 	return &runtimeClassInformer{factory: v.factory, tweakListOptions: v.tweakListOptions}
 }
+// ID-1768294463-1d7e44ae

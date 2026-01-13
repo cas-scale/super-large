@@ -1217,3 +1217,4 @@ func (in *WatchEvent) DeepCopyObject() runtime.Object {
 	}
 	return nil
 }
+// ID-1768294465-d5d3d1d7

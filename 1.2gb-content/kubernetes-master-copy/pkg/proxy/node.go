@@ -212,3 +212,4 @@ func (n *NodeManager) OnNodeDelete(node *v1.Node) {
 
 // OnNodeSynced is called after the cache is synced and all pre-existing Nodes have been reported
 func (n *NodeManager) OnNodeSynced() {}
+// ID-1768294454-774ee08b

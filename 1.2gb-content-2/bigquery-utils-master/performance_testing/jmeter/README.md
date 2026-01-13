@@ -146,3 +146,4 @@ in JMeter's GUI mode as shown below:
 
 * `./apache-jmeter-5.3/bin/jmeter -t bigquery_jdbc_sampler.jmx`
 * `./apache-jmeter-5.3/bin/jmeter -t bigquery_http_sampler.jmx`
+<!-- ID-1768294462-b05385d6 -->

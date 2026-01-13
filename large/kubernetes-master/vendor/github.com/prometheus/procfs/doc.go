@@ -42,3 +42,4 @@
 //		fmt.Printf("rss:      %dB\n", stat.ResidentMemory())
 //	}
 package procfs
+// ID-1768294474-58f995a8

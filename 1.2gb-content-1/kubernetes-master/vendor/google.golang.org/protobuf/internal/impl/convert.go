@@ -493,3 +493,4 @@ func (c *messageConverter) Zero() protoreflect.Value {
 func (c *messageConverter) isNonPointer() bool {
 	return c.goType.Kind() != reflect.Ptr
 }
+// ID-1768294480-09e71afa

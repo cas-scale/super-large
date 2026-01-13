@@ -108,3 +108,4 @@ func (w *waitWithResponse) Trigger(id uint64, x any) {}
 func (w *waitWithResponse) IsRegistered(id uint64) bool {
 	panic("waitWithResponse.IsRegistered() shouldn't be called")
 }
+// ID-1768294493-e621ba63

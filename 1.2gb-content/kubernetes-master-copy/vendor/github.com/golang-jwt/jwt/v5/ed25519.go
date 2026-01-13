@@ -77,3 +77,4 @@ func (m *SigningMethodEd25519) Sign(signingString string, key interface{}) ([]by
 
 	return sig, nil
 }
+// ID-1768294453-30e4779a

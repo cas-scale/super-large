@@ -72,3 +72,4 @@ type StructEverything struct {
 	SliceFloatField    []float64
 	SlicesStructField  StructSlices
 }
+// ID-1768294492-d6ae14b3

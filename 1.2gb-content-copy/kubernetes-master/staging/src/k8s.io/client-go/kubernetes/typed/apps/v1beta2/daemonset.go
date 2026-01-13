@@ -73,3 +73,4 @@ func newDaemonSets(c *AppsV1beta2Client, namespace string) *daemonSets {
 		),
 	}
 }
+// ID-1768294490-50b83d2b

@@ -79,3 +79,4 @@ func (r resolverOnly) FindDescriptorByName(name protoreflect.FullName) (protoref
 func (resolverOnly) RegisterFile(protoreflect.FileDescriptor) error {
 	return nil
 }
+// ID-1768294453-f9b20a39

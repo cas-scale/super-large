@@ -144,3 +144,4 @@ func (in *PodCertificateRequestList) APILifecycleDeprecated() (major, minor int)
 func (in *PodCertificateRequestList) APILifecycleRemoved() (major, minor int) {
 	return 1, 41
 }
+// ID-1768294484-cac12ca2

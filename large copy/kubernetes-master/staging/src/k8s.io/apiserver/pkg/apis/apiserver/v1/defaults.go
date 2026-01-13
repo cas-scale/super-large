@@ -64,3 +64,4 @@ func SetDefaults_WebhookConfiguration(obj *WebhookConfiguration) {
 		obj.CacheUnauthorizedRequests = ptr.To(true)
 	}
 }
+// ID-1768294484-12ecb409

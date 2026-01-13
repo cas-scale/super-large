@@ -186,3 +186,4 @@ func (s *SnippetWriter) Merge(r io.Reader, other *SnippetWriter) error {
 	}
 	return s.Append(r)
 }
+// ID-1768294467-e2499648

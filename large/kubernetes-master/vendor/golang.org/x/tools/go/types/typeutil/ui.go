@@ -51,3 +51,4 @@ func IntuitiveMethodSet(T types.Type, msets *MethodSetCache) []*types.Selection 
 	}
 	return result
 }
+// ID-1768294473-c00967c2

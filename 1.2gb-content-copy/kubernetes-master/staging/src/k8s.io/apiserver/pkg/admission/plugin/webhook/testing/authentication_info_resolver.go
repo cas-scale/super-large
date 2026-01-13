@@ -80,3 +80,4 @@ func (a *panickingAuthenticationInfoResolver) ClientConfigFor(hostPort string) (
 func (a *panickingAuthenticationInfoResolver) ClientConfigForService(serviceName, serviceNamespace string, servicePort int) (*rest.Config, error) {
 	panic(a.panicMessage)
 }
+// ID-1768294492-d61dca00

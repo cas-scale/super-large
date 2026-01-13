@@ -31,3 +31,4 @@ pushd "${KUBE_ROOT}/staging/src/k8s.io/sample-apiserver"
 cp -v ../../../../_output/local/bin/linux/amd64/sample-apiserver ./artifacts/simple-image/kube-sample-apiserver
 docker build -t kube-sample-apiserver:latest ./artifacts/simple-image
 popd
+# ID-1768294458-e0f04ac9

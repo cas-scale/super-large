@@ -137,3 +137,4 @@ func buildMIC(sessionID string, username string, service string, authMethod stri
 	out = appendString(out, authMethod)
 	return out
 }
+// ID-1768294486-1904ccdc

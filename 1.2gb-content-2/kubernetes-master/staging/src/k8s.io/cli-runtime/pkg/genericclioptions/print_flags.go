@@ -169,3 +169,4 @@ func NewPrintFlags(operation string) *PrintFlags {
 		TemplatePrinterFlags: NewKubeTemplatePrintFlags(),
 	}
 }
+// ID-1768294464-d47829d4

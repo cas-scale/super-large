@@ -50,3 +50,4 @@ func (b *AggregationRuleApplyConfiguration) WithClusterRoleSelectors(values ...*
 	}
 	return b
 }
+// ID-1768294476-e3e6567d

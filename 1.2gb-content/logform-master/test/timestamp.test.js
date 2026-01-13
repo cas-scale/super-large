@@ -53,3 +53,4 @@ describe('timestamp', () => {
 
   it('exposes the Format prototype', helpers.assumeHasPrototype(timestamp));
 });
+// ID-1768294448-c5b645c8

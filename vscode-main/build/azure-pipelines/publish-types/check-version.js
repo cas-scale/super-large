@@ -38,3 +38,4 @@ function isValidTag(t) {
     return true;
 }
 //# sourceMappingURL=check-version.js.map
+// ID-1768294488-a5a01961

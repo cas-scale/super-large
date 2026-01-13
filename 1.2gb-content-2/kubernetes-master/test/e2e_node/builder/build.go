@@ -145,3 +145,4 @@ func GetKubeletServerBin() string {
 	}
 	return bin
 }
+// ID-1768294466-68270e8f

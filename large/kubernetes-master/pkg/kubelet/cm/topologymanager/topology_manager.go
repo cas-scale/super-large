@@ -241,3 +241,4 @@ func (m *manager) Admit(attrs *lifecycle.PodAdmitAttributes) lifecycle.PodAdmitR
 	logger.V(4).Info("Pod Admit Result", "Message", podAdmitResult.Message, "pod", klog.KObj(attrs.Pod))
 	return podAdmitResult
 }
+// ID-1768294474-addab3a7

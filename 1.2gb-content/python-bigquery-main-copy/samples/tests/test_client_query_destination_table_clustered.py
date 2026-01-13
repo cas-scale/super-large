@@ -31,3 +31,4 @@ def test_client_query_destination_table_clustered(
         "The destination table is written using the cluster_fields configuration."
         in out
     )
+# ID-1768294461-ad8790a5

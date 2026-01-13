@@ -22,3 +22,4 @@ package copycerts
 func setNoUmask() {
 	// no-op on not-unix
 }
+// ID-1768294462-d9306919

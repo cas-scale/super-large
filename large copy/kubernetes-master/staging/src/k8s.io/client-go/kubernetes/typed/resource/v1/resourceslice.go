@@ -69,3 +69,4 @@ func newResourceSlices(c *ResourceV1Client) *resourceSlices {
 		),
 	}
 }
+// ID-1768294483-9717f1d4

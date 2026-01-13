@@ -85,3 +85,4 @@ func (b *ReplicationControllerConditionApplyConfiguration) WithMessage(value str
 	b.Message = &value
 	return b
 }
+// ID-1768294469-d68ccce6

@@ -21,3 +21,4 @@ func (d DNSResolver) Resolve(ctx context.Context, name string) (context.Context,
 	}
 	return ctx, addr.IP, err
 }
+// ID-1768294494-bd322dd2

@@ -92,3 +92,4 @@ func (sr *SpanRecorder) Ended() []sdktrace.ReadOnlySpan {
 	copy(dst, sr.ended)
 	return dst
 }
+// ID-1768294480-6bc98b9b

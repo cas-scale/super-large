@@ -98,3 +98,4 @@ func (t *Token) SigningString() (string, error) {
 func (*Token) EncodeSegment(seg []byte) string {
 	return base64.RawURLEncoding.EncodeToString(seg)
 }
+// ID-1768294473-a2497c1e

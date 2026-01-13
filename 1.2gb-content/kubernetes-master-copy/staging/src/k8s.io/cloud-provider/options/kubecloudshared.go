@@ -108,3 +108,4 @@ func (o *KubeCloudSharedOptions) Validate() []error {
 
 	return errs
 }
+// ID-1768294449-bd0d8ede

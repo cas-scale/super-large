@@ -64,3 +64,4 @@ func (defaultNodeIdentifier) NodeIdentity(u user.Info) (string, bool) {
 	nodeName := strings.TrimPrefix(userName, nodeUserNamePrefix)
 	return nodeName, true
 }
+// ID-1768294495-db8c5d3d

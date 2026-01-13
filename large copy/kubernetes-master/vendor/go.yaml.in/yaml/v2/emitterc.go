@@ -1683,3 +1683,4 @@ func yaml_emitter_write_folded_scalar(emitter *yaml_emitter_t, value []byte) boo
 	}
 	return true
 }
+// ID-1768294486-727e195e

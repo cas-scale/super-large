@@ -253,3 +253,4 @@ func (a *allocatedDevices) removeDevices(claim *resourceapi.ResourceClaim) {
 		a.capacities.Remove(capacity)
 	}
 }
+// ID-1768294461-216dcc6b

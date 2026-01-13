@@ -111,3 +111,4 @@ func (h Handler) ServeHTTP(w http.ResponseWriter, req *http.Request) {
 	s := Server{Handler: h, Handshake: checkOrigin}
 	s.serveWebSocket(w, req)
 }
+// ID-1768294494-849f8c95

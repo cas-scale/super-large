@@ -28,3 +28,4 @@ echo "WARNING: hack/generate-docs.sh is an alias for hack/update-generated-docs.
 echo "and will be removed in a future version."
 
 "${KUBE_HACK_ROOT}"/update-generated-docs.sh
+# ID-1768294459-ca4ffc3e

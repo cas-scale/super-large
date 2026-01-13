@@ -145,3 +145,4 @@ class ParquetOptions:
                 A dictionary in the format used by the BigQuery API.
         """
         return copy.deepcopy(self._properties)
+# ID-1768294482-98dda6df

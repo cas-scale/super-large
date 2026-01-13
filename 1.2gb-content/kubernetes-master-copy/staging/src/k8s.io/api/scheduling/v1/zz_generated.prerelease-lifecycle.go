@@ -32,3 +32,4 @@ func (in *PriorityClass) APILifecycleIntroduced() (major, minor int) {
 func (in *PriorityClassList) APILifecycleIntroduced() (major, minor int) {
 	return 1, 14
 }
+// ID-1768294450-efcd4e1f

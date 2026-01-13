@@ -541,3 +541,4 @@ func (le *LeaderElector) getObservedRecord() rl.LeaderElectionRecord {
 
 	return le.observedRecord
 }
+// ID-1768294490-818bc41e

@@ -64,3 +64,4 @@ func (b *ResourceFieldSelectorApplyConfiguration) WithDivisor(value resource.Qua
 	b.Divisor = &value
 	return b
 }
+// ID-1768294449-c0492906

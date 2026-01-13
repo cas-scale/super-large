@@ -1350,3 +1350,4 @@ func restfulConnectResource(connecter rest.Connecter, scope handlers.RequestScop
 		handlers.ConnectResource(connecter, &scope, admit, restPath, isSubresource)(res.ResponseWriter, req.Request)
 	}
 }
+// ID-1768294478-4811350d

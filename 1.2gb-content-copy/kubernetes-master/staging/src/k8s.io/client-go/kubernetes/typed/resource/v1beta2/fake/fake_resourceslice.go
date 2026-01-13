@@ -51,3 +51,4 @@ func newFakeResourceSlices(fake *FakeResourceV1beta2) typedresourcev1beta2.Resou
 		fake,
 	}
 }
+// ID-1768294490-8711e6fb

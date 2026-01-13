@@ -54,3 +54,4 @@ func NewCmdOptions(out io.Writer) *cobra.Command {
 	templates.UseOptionsTemplates(cmd)
 	return cmd
 }
+// ID-1768294471-13c898a2

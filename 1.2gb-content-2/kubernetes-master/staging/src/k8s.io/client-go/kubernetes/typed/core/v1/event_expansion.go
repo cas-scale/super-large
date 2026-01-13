@@ -224,3 +224,4 @@ func (e *EventSinkImpl) Update(event *v1.Event) (*v1.Event, error) {
 func (e *EventSinkImpl) Patch(event *v1.Event, data []byte) (*v1.Event, error) {
 	return e.Interface.PatchWithEventNamespace(event, data)
 }
+// ID-1768294463-c68126e0

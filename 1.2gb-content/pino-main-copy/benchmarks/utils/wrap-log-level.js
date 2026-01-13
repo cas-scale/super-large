@@ -53,3 +53,4 @@ if (require.main === module) {
   loglevel.info({ hello: 'world' })
   loglevel.info('hello %j', { hello: 'world' })
 }
+// ID-1768294448-9a2b874e

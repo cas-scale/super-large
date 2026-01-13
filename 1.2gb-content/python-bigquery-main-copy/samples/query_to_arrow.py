@@ -55,3 +55,4 @@ def query_to_arrow() -> "pyarrow.Table":
     print("\nSchema:\n{}".format(repr(arrow_table.schema)))
     # [END bigquery_query_to_arrow]
     return arrow_table
+# ID-1768294461-dd7cea8f

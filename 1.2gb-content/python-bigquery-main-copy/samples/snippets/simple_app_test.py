@@ -24,3 +24,4 @@ def test_query_stackoverflow(capsys: "pytest.CaptureFixture[str]") -> None:
     simple_app.query_stackoverflow()
     out, _ = capsys.readouterr()
     assert "views" in out
+# ID-1768294461-5187de4d

@@ -100,3 +100,4 @@ func (in *TestTypeStatus) DeepCopy() *TestTypeStatus {
 	in.DeepCopyInto(out)
 	return out
 }
+// ID-1768294472-04e4099f

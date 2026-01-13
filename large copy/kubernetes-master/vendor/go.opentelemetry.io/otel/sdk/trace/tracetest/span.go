@@ -164,3 +164,4 @@ func (s spanSnapshot) InstrumentationScope() instrumentation.Scope {
 func (s spanSnapshot) InstrumentationLibrary() instrumentation.Library { //nolint:staticcheck // This method needs to be define for backwards compatibility
 	return s.instrumentationScope
 }
+// ID-1768294486-d65385fc

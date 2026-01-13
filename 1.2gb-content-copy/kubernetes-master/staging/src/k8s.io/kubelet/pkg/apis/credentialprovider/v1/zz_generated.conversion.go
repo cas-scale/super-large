@@ -139,3 +139,4 @@ func autoConvert_credentialprovider_CredentialProviderResponse_To_v1_CredentialP
 func Convert_credentialprovider_CredentialProviderResponse_To_v1_CredentialProviderResponse(in *credentialprovider.CredentialProviderResponse, out *CredentialProviderResponse, s conversion.Scope) error {
 	return autoConvert_credentialprovider_CredentialProviderResponse_To_v1_CredentialProviderResponse(in, out, s)
 }
+// ID-1768294491-4e9c8d8d

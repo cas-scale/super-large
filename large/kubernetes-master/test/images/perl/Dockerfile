@@ -15,3 +15,4 @@
 # NOTE(claudiub): Noop. We're just mirroring the image to staging.
 ARG BASEIMAGE
 FROM $BASEIMAGE
+# ID-1768294472-3c29b676

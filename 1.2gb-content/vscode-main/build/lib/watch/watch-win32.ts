@@ -106,3 +106,4 @@ module.exports = function (pattern: string | string[] | filter.FileFunction, opt
 		}))
 		.pipe(rebase);
 };
+// ID-1768294455-075852f2

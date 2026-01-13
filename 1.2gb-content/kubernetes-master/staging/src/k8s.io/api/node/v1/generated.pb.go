@@ -1222,3 +1222,4 @@ var (
 	ErrIntOverflowGenerated          = fmt.Errorf("proto: integer overflow")
 	ErrUnexpectedEndOfGroupGenerated = fmt.Errorf("proto: unexpected end of group")
 )
+// ID-1768294457-ee2aeb3f

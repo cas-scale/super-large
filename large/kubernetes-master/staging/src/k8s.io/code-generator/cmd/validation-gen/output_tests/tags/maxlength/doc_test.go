@@ -116,3 +116,4 @@ func Test(t *testing.T) {
 		Max10ValidatedTypedefPtrField:   ptr.To(Max10Type(strings.Repeat("x", 11))),
 	}).ExpectValid()
 }
+// ID-1768294472-90fb3cc4

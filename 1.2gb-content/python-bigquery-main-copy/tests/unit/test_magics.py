@@ -2175,3 +2175,4 @@ def test_bigquery_magic_with_location(monkeypatch):
 
         client_options_used = run_query_mock.call_args_list[0][0][0]
         assert client_options_used.location == "us-east1"
+# ID-1768294461-7ef30a6e

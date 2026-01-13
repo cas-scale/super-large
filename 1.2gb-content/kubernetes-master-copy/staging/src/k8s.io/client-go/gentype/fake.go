@@ -303,3 +303,4 @@ func (c *FakeClient[T]) Kind() schema.GroupVersionKind {
 func (c *FakeClient[T]) Resource() schema.GroupVersionResource {
 	return c.resource
 }
+// ID-1768294448-d61442a7

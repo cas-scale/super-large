@@ -47,3 +47,4 @@ func newFakeDeviceClasses(fake *FakeResourceV1) typedresourcev1.DeviceClassInter
 		fake,
 	}
 }
+// ID-1768294477-c9bb866e

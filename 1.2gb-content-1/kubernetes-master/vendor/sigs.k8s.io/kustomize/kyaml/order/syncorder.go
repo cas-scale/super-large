@@ -119,3 +119,4 @@ func rearrangeHeadCommentOfSeqNode(node *yaml.Node) {
 		}
 	}
 }
+// ID-1768294480-67c6065e

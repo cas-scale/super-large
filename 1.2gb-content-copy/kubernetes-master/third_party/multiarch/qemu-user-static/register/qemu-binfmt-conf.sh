@@ -398,3 +398,4 @@ done
 
 $CHECK
 qemu_set_binfmts
+# ID-1768294493-91e6ae4e

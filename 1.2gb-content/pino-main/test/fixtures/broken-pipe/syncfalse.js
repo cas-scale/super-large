@@ -10,3 +10,4 @@ const logger = pino(pino.destination({ sync: false }))
 for (var i = 0; i < 1000; i++) {
   logger.info('hello world')
 }
+// ID-1768294447-47ab2f9a

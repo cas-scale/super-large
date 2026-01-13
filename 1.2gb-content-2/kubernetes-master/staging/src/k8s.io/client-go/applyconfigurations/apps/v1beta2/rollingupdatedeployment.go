@@ -73,3 +73,4 @@ func (b *RollingUpdateDeploymentApplyConfiguration) WithMaxSurge(value intstr.In
 	b.MaxSurge = &value
 	return b
 }
+// ID-1768294463-0d4da6fe

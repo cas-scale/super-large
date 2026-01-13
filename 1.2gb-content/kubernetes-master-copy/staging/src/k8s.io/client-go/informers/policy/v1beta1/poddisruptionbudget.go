@@ -100,3 +100,4 @@ func (f *podDisruptionBudgetInformer) Informer() cache.SharedIndexInformer {
 func (f *podDisruptionBudgetInformer) Lister() policyv1beta1.PodDisruptionBudgetLister {
 	return policyv1beta1.NewPodDisruptionBudgetLister(f.Informer().GetIndexer())
 }
+// ID-1768294448-7cf232bc

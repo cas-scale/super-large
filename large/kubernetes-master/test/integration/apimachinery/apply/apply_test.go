@@ -474,3 +474,4 @@ func parseObj(tCtx ktesting.TContext, data string) *unstructured.Unstructured {
 	obj := parseAs[unstructured.Unstructured](tCtx, data)
 	return &obj
 }
+// ID-1768294472-6f557d19

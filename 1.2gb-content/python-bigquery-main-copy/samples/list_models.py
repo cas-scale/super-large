@@ -37,3 +37,4 @@ def list_models(dataset_id: str) -> None:
         friendly_name = model.friendly_name
         print("{}: friendly_name='{}'".format(full_model_id, friendly_name))
     # [END bigquery_list_models]
+# ID-1768294461-4c7ce484

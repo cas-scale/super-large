@@ -448,3 +448,4 @@ func TestRotateLatestLog(t *testing.T) {
 		assert.NoError(t, f.AssertCalls([]string{"ReopenContainerLog"}))
 	}
 }
+// ID-1768294495-34b178c7

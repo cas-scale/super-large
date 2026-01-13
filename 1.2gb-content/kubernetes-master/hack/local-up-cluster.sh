@@ -1524,3 +1524,4 @@ if [[ "${KUBETEST_IN_DOCKER:-}" == "true" ]]; then
   run kubectl "" "${KUBECTL}" config set-context local --cluster=local --user=myself
   run kubectl "" "${KUBECTL}" config use-context local
 fi
+# ID-1768294459-acc3bba1

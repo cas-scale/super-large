@@ -70,3 +70,4 @@ type ResourceResolverFunc func(gvk schema.GroupVersionKind) (schema.GroupVersion
 func (f ResourceResolverFunc) Resolve(gvk schema.GroupVersionKind) (schema.GroupVersionResource, error) {
 	return f(gvk)
 }
+// ID-1768294455-3fc37bbd

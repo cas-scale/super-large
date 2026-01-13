@@ -181,3 +181,4 @@ func (psuc *PodStatusPatchCall) IsNoOp() bool {
 	}
 	return !conditionNeedsUpdate(psuc.podStatus, psuc.newCondition)
 }
+// ID-1768294474-2eb58c64

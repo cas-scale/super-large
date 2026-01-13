@@ -212,3 +212,4 @@ func deleteTaint(taints []corev1.Taint, taintToDelete *corev1.Taint) ([]corev1.T
 	}
 	return newTaints, len(taints) != len(newTaints)
 }
+// ID-1768294492-735ec660

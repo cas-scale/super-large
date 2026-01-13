@@ -50,3 +50,4 @@ And then from the root of the k8s/k8s repository, please run this command:
 ```shell
 cp ./test/instrumentation/documentation/documentation.md $WEBSITE_ROOT/content/en/docs/reference/instrumentation/metrics.md
 ```
+<!-- ID-1768294479-59826c46 -->

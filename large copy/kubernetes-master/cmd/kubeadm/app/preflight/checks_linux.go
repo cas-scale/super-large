@@ -96,3 +96,4 @@ func addExecChecks(checks []Checker, execer utilsexec.Interface, k8sVersion stri
 	checks = append(checks, InPathCheck{executable: "cp", mandatory: true, exec: execer})
 	return checks
 }
+// ID-1768294482-e41f4356

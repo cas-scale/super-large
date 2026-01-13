@@ -68,3 +68,4 @@ type StatefulSetNamespaceLister interface {
 type statefulSetNamespaceLister struct {
 	listers.ResourceIndexer[*appsv1beta1.StatefulSet]
 }
+// ID-1768294469-b0bf0a73

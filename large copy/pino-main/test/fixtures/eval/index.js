@@ -11,3 +11,4 @@ const logger = pino(
 
 logger.info('done!')
 `)
+// ID-1768294482-c89b621f

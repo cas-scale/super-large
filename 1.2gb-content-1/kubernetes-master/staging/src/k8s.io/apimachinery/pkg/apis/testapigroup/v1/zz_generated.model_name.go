@@ -50,3 +50,4 @@ func (in CarpSpec) OpenAPIModelName() string {
 func (in CarpStatus) OpenAPIModelName() string {
 	return "io.k8s.apimachinery.pkg.apis.testapigroup.v1.CarpStatus"
 }
+// ID-1768294479-cf82069d

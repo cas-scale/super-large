@@ -68,3 +68,4 @@ type RoleNamespaceLister interface {
 type roleNamespaceLister struct {
 	listers.ResourceIndexer[*rbacv1beta1.Role]
 }
+// ID-1768294455-63f92400

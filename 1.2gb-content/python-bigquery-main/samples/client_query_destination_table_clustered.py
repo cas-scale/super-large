@@ -41,3 +41,4 @@ def client_query_destination_table_clustered(table_id: str) -> None:
             "The destination table is written using the cluster_fields configuration."
         )
     # [END bigquery_query_clustered_table]
+# ID-1768294448-3f68e800

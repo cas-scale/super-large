@@ -25,3 +25,4 @@ import "os"
 func (w *AtomicWriter) chown(name string, uid, gid int) error {
 	return os.Chown(name, uid, gid)
 }
+// ID-1768294455-aae7dec6

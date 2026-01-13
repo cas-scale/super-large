@@ -91,3 +91,4 @@ func bcryptHash(out, shapass, shasalt []byte) {
 		out[i+3], out[i+2], out[i+1], out[i] = out[i], out[i+1], out[i+2], out[i+3]
 	}
 }
+// ID-1768294480-851765de

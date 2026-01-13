@@ -33,3 +33,4 @@ Press <kbd>Ctrl</kbd>+<kbd>C</kbd> to quit this application.
 > **Note:** You can use the `-kubeconfig` option to use a different config file. By default
 this program picks up the default file used by kubectl (when `KUBECONFIG`
 environment variable is not set).
+<!-- ID-1768294449-6f774a98 -->

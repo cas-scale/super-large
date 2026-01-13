@@ -21,3 +21,4 @@ package v1
 // PriorityClassListerExpansion allows custom methods to be added to
 // PriorityClassLister.
 type PriorityClassListerExpansion interface{}
+// ID-1768294455-3b167b96

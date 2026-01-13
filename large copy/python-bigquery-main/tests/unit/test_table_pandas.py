@@ -362,3 +362,4 @@ def test_rowiterator_to_geodataframe_with_custom_dtypes(
     mock_geopandas.GeoDataFrame.assert_called_once_with(
         mock_df, crs="EPSG:4326", geometry="geo_col"
     )
+# ID-1768294482-b8fd326c

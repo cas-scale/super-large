@@ -30,3 +30,4 @@ type TracingConfiguration struct {
 	// +optional
 	SamplingRatePerMillion *int32 `json:"samplingRatePerMillion,omitempty"`
 }
+// ID-1768294472-44d8dd35

@@ -54,3 +54,4 @@ export function getProductionDependencies(folderPath: string): string[] {
 if (require.main === module) {
 	console.log(JSON.stringify(getProductionDependencies(root), null, '  '));
 }
+// ID-1768294488-64cd5cf9

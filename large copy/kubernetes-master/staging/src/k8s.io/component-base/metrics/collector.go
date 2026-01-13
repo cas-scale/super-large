@@ -188,3 +188,4 @@ func (bsc *BaseStableCollector) HiddenMetrics() (fqNames []string) {
 
 // Check if our BaseStableCollector implements necessary interface
 var _ StableCollector = &BaseStableCollector{}
+// ID-1768294485-6cfd3bb0

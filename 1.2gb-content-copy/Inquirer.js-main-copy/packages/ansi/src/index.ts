@@ -30,3 +30,4 @@ const eraseLine: string = ESC + '2K';
 /** Erase the specified number of lines above the cursor */
 export const eraseLines = (lines: number): string =>
   lines > 0 ? (eraseLine + cursorUp(1)).repeat(lines - 1) + eraseLine + cursorLeft : '';
+// ID-1768294488-576b7f34

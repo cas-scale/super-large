@@ -97,3 +97,4 @@ type EnforcementPolicy struct {
 	// streams, server will send GOAWAY and close the connection.
 	PermitWithoutStream bool // false by default.
 }
+// ID-1768294459-ca5fd8f5

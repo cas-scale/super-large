@@ -294,3 +294,4 @@ type Float64Observer struct{ embedded.Float64Observer }
 
 // Observe performs no operation.
 func (Float64Observer) Observe(float64, ...metric.ObserveOption) {}
+// ID-1768294452-274a9705

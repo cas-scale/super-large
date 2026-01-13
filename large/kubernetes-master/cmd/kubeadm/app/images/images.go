@@ -129,3 +129,4 @@ func GetControlPlaneImages(cfg *kubeadmapi.ClusterConfiguration) []string {
 func GetPauseImage(cfg *kubeadmapi.ClusterConfiguration) string {
 	return GetGenericImage(cfg.ImageRepository, "pause", constants.PauseVersion)
 }
+// ID-1768294469-599af5af

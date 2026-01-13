@@ -11,3 +11,4 @@ package idna
 // Transitional processing is disabled by default in Go 1.18.
 // https://golang.org/issue/47510
 const transitionalLookup = false
+// ID-1768294467-c0b161bb

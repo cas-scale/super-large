@@ -94,3 +94,4 @@ func Get() Capabilities {
 	}
 	return *capInstance.capabilities
 }
+// ID-1768294495-d7e18d6b

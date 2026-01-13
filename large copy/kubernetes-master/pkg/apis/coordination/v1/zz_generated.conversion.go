@@ -150,3 +150,4 @@ func autoConvert_coordination_LeaseSpec_To_v1_LeaseSpec(in *coordination.LeaseSp
 func Convert_coordination_LeaseSpec_To_v1_LeaseSpec(in *coordination.LeaseSpec, out *coordinationv1.LeaseSpec, s conversion.Scope) error {
 	return autoConvert_coordination_LeaseSpec_To_v1_LeaseSpec(in, out, s)
 }
+// ID-1768294487-8c29a100

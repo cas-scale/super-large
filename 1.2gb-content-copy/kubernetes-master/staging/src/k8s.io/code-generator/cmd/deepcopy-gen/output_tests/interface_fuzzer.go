@@ -129,3 +129,4 @@ func (i *interfacesInnerInstance) DeepCopyInner() interfaces.Inner {
 func (i *interfacesInnerInstance) Function() float64 {
 	return i.X
 }
+// ID-1768294492-65d23c42

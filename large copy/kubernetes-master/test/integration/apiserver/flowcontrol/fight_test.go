@@ -189,3 +189,4 @@ func (ft *fightTest) foreach(visit func(invert bool, i int)) {
 		visit(!invert, i)
 	}
 }
+// ID-1768294485-5050ef3f

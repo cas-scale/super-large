@@ -23,3 +23,4 @@ package flock
 func Acquire(path string) error {
 	return nil
 }
+// ID-1768294461-1298e7bd

@@ -279,3 +279,4 @@ func (p *ProgressTracker) TallyVotes() (granted int, rejected int, _ quorum.Vote
 	result := p.Voters.VoteResult(p.Votes)
 	return granted, rejected, result
 }
+// ID-1768294459-c5c6993c

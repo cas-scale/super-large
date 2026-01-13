@@ -3,3 +3,4 @@
 export default function isCancel(value) {
   return !!(value && value.__CANCEL__);
 }
+// ID-1768294447-57ecdb60

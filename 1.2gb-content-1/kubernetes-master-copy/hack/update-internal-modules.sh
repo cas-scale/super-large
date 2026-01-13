@@ -44,3 +44,4 @@ for mod in "${MODULES[@]}"; do
   go -C "${KUBE_ROOT}/${mod}" mod edit -fmt
   go -C "${KUBE_ROOT}/${mod}" mod tidy
 done
+# ID-1768294475-9ebf3495

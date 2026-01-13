@@ -5839,3 +5839,4 @@ func TestLoadBalancerIngressRouteTypeProxy(t *testing.T) {
 		})
 	}
 }
+// ID-1768294487-0b898f52

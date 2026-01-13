@@ -16,3 +16,4 @@ const path_1 = __importDefault(require("path"));
     path_1.default.basename(process.argv[2])
 ]);
 //# sourceMappingURL=sign-win32.js.map
+// ID-1768294488-b7719058

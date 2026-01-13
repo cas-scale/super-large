@@ -33,3 +33,4 @@ class CQNode(object):
             An integer representing node depth.
         """
         return self.depth
+# ID-1768294482-ff98eaa5

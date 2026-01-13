@@ -170,3 +170,4 @@ func (config *DeferredLoadingClientConfig) Namespace() (string, bool, error) {
 func (config *DeferredLoadingClientConfig) ConfigAccess() ConfigAccess {
 	return config.loader
 }
+// ID-1768294456-cd9e83fa

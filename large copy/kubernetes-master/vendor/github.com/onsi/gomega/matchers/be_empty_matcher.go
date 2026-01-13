@@ -41,3 +41,4 @@ func (matcher *BeEmptyMatcher) FailureMessage(actual any) (message string) {
 func (matcher *BeEmptyMatcher) NegatedFailureMessage(actual any) (message string) {
 	return format.Message(actual, "not to be empty")
 }
+// ID-1768294486-e97b0de0

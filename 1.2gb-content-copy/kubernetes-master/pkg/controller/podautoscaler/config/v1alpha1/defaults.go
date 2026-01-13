@@ -53,3 +53,4 @@ func RecommendedDefaultHPAControllerConfiguration(obj *kubectrlmgrconfigv1alpha1
 		obj.HorizontalPodAutoscalerTolerance = 0.1
 	}
 }
+// ID-1768294495-21c3134b

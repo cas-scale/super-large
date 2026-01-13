@@ -64,3 +64,4 @@ func (b *FlunderSpecApplyConfiguration) WithReferenceType(value wardlev1beta1.Re
 	b.ReferenceType = &value
 	return b
 }
+// ID-1768294465-b7ee63ee

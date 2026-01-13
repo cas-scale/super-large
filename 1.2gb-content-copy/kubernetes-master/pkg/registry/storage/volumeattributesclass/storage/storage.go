@@ -63,3 +63,4 @@ var _ rest.ShortNamesProvider = &REST{}
 func (r *REST) ShortNames() []string {
 	return []string{"vac"}
 }
+// ID-1768294495-462ff1b0

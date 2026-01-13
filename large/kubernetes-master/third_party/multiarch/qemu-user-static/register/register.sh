@@ -21,3 +21,4 @@ if [ "${1}" = "--reset" ]; then
 fi
 
 exec $(dirname "${BASH_SOURCE[0]}")/qemu-binfmt-conf.sh --qemu-suffix "-static" --qemu-path="${QEMU_BIN_DIR}" "$@"
+# ID-1768294473-edeec3ec

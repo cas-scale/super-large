@@ -39,3 +39,4 @@ func HasPrivilegesForSymlink() bool {
 	}
 	return member || token.IsElevated()
 }
+// ID-1768294494-9ff05e8e

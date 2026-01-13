@@ -13,3 +13,4 @@ https://github.com/go-openapi/jsonpointer
 http://tools.ietf.org/html/draft-ietf-appsawg-json-pointer-07
 
 http://tools.ietf.org/html/draft-pbryan-zyp-json-ref-03
+<!-- ID-1768294460-29392e7b -->

@@ -85,3 +85,4 @@ func (b *NamespaceConditionApplyConfiguration) WithMessage(value string) *Namesp
 	b.Message = &value
 	return b
 }
+// ID-1768294469-22ff6ec3

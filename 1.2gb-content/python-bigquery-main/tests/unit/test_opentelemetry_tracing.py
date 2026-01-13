@@ -266,3 +266,4 @@ def test_span_creation_error(setup):
             assert span.name == TEST_SPAN_NAME
             assert span.attributes == expected_attributes
             raise InvalidArgument("test_error")
+# ID-1768294448-6a87aeb7

@@ -619,3 +619,4 @@ async function buildExtensionMedia(isWatch, outputRoot) {
     })));
 }
 //# sourceMappingURL=extensions.js.map
+// ID-1768294455-aafe9499

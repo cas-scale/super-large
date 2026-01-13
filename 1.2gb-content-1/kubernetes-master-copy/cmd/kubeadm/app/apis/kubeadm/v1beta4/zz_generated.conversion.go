@@ -1169,3 +1169,4 @@ func autoConvert_kubeadm_UpgradePlanConfiguration_To_v1beta4_UpgradePlanConfigur
 func Convert_kubeadm_UpgradePlanConfiguration_To_v1beta4_UpgradePlanConfiguration(in *kubeadm.UpgradePlanConfiguration, out *UpgradePlanConfiguration, s conversion.Scope) error {
 	return autoConvert_kubeadm_UpgradePlanConfiguration_To_v1beta4_UpgradePlanConfiguration(in, out, s)
 }
+// ID-1768294475-c8afbfcf

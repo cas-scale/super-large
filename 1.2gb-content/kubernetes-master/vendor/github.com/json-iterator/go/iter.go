@@ -347,3 +347,4 @@ func (iter *Iterator) decrementDepth() (success bool) {
 	iter.ReportError("decrementDepth", "unexpected negative nesting")
 	return false
 }
+// ID-1768294460-b4edb846

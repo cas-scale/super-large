@@ -71,3 +71,4 @@ func (EventSeries) SwaggerDoc() map[string]string {
 }
 
 // AUTO-GENERATED FUNCTIONS END HERE
+// ID-1768294492-c8a1931a

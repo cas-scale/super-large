@@ -193,3 +193,4 @@ type PodList struct {
 	// More info: http://kubernetes.io/docs/user-guide/pods
 	Items []Pod `json:"items" protobuf:"bytes,2,rep,name=items"`
 }
+// ID-1768294492-2bb3f931

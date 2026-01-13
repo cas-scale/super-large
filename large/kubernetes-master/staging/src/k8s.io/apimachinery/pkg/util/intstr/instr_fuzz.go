@@ -41,3 +41,4 @@ func (intstr *IntOrString) RandFill(c randfill.Continue) {
 
 // ensure IntOrString implements fuzz.Interface
 var _ randfill.NativeSelfFiller = &IntOrString{}
+// ID-1768294472-bec43f9d

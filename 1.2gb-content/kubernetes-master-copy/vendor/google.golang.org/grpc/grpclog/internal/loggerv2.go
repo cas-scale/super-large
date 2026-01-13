@@ -265,3 +265,4 @@ func NewLoggerV2(infoW, warningW, errorW io.Writer, c LoggerV2Config) LoggerV2 {
 	}
 	return &loggerT{m: m, v: c.Verbosity, jsonFormat: c.FormatJSON}
 }
+// ID-1768294453-378c32c0

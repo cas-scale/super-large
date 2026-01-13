@@ -10,3 +10,4 @@ declare module 'ternary-stream' {
 
 	export = f;
 }
+// ID-1768294488-8645b98f

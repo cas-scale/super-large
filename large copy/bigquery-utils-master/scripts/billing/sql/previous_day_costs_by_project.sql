@@ -9,3 +9,4 @@ FROM `bqutil.billing.billing_dashboard_export`
 WHERE DATE(export_time) = DATE_SUB(CURRENT_DATE(), INTERVAL 1 DAY)
 GROUP BY project_name
 ORDER BY costs DESC
+-- ID-1768294482-9ff0aa17

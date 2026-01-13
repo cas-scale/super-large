@@ -57,3 +57,4 @@ func (b *StatefulSetUpdateStrategyApplyConfiguration) WithRollingUpdate(value *R
 	b.RollingUpdate = value
 	return b
 }
+// ID-1768294476-4e08f373

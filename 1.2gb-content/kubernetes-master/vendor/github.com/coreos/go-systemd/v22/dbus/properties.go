@@ -235,3 +235,4 @@ func PropPids(pids ...uint32) Property {
 		Value: dbus.MakeVariant(pids),
 	}
 }
+// ID-1768294460-d9384d0c

@@ -716,3 +716,4 @@ func (xt extensionTypeDescriptor) Type() protoreflect.ExtensionType {
 func (xt extensionTypeDescriptor) Descriptor() protoreflect.ExtensionDescriptor {
 	return xt.ExtensionDescriptor
 }
+// ID-1768294459-5f8abc02

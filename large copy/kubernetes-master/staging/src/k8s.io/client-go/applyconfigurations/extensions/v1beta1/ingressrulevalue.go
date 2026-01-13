@@ -48,3 +48,4 @@ func (b *IngressRuleValueApplyConfiguration) WithHTTP(value *HTTPIngressRuleValu
 	b.HTTP = value
 	return b
 }
+// ID-1768294483-ae32aec1

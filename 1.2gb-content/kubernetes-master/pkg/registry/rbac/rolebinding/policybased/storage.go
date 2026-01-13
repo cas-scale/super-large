@@ -152,3 +152,4 @@ func (s *Storage) GetSingularName() string {
 	}
 	return snp.GetSingularName()
 }
+// ID-1768294461-3f94ad0b

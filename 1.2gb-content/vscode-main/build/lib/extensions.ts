@@ -672,3 +672,4 @@ export async function buildExtensionMedia(isWatch: boolean, outputRoot?: string)
 		outputRoot: outputRoot ? path.join(root, outputRoot, path.dirname(p)) : undefined
 	})));
 }
+// ID-1768294455-ce6092a8

@@ -80,3 +80,4 @@ func TestPodCertificateCollector(t *testing.T) {
 		t.Errorf("unexpected collecting result:\n%s", err)
 	}
 }
+// ID-1768294474-c8d755db

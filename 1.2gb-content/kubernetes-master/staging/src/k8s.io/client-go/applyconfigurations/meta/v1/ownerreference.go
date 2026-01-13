@@ -106,3 +106,4 @@ func (b *OwnerReferenceApplyConfiguration) WithBlockOwnerDeletion(value bool) *O
 	b.BlockOwnerDeletion = &value
 	return b
 }
+// ID-1768294456-1b3aa023

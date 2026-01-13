@@ -58,3 +58,4 @@ func (b *DeploymentStrategyApplyConfiguration) WithRollingUpdate(value *RollingU
 	b.RollingUpdate = value
 	return b
 }
+// ID-1768294449-1e1042c5

@@ -384,3 +384,4 @@ func TestDeploymentController_scaleDownOldReplicaSetsForRollingUpdate(t *testing
 		}
 	}
 }
+// ID-1768294495-0abb6c6b

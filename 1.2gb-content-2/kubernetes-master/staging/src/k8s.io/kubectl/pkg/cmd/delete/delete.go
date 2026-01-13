@@ -547,3 +547,4 @@ func (o *DeleteOptions) confirmation(infos []*resource.Info) bool {
 
 	return strings.EqualFold(input, "y")
 }
+// ID-1768294465-55a96d23

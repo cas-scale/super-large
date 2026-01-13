@@ -279,3 +279,4 @@ func (f *sharedInformerFactory) SecondExample() example2.Interface {
 func (f *sharedInformerFactory) ThirdExample() example3io.Interface {
 	return example3io.New(f, f.namespace, f.tweakListOptions)
 }
+// ID-1768294485-fb0d2da2

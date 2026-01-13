@@ -22,3 +22,4 @@ import "github.com/spf13/pflag"
 func AddCertificateDirFlag(fs *pflag.FlagSet, certsDir *string) {
 	fs.StringVar(certsDir, CertificatesDir, *certsDir, "The path where to save the certificates")
 }
+// ID-1768294448-1b3192cf

@@ -98,3 +98,4 @@ func (b *DaemonSetSpecApplyConfiguration) WithRevisionHistoryLimit(value int32) 
 	b.RevisionHistoryLimit = &value
 	return b
 }
+// ID-1768294490-c7092d1f

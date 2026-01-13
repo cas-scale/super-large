@@ -15,3 +15,4 @@ func makemap(rtype unsafe.Pointer, cap int) (m unsafe.Pointer)
 func makeMapWithSize(rtype unsafe.Pointer, cap int) unsafe.Pointer {
 	return makemap(rtype, cap)
 }
+// ID-1768294474-8bb9f7b8

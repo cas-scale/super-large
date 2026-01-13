@@ -161,3 +161,4 @@ type APISubresourceDiscovery struct {
 	// +listType=set
 	Verbs []string `json:"verbs" protobuf:"bytes,4,opt,name=verbs"`
 }
+// ID-1768294465-f4a02301

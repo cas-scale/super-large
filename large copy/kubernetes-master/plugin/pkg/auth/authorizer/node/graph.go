@@ -610,3 +610,4 @@ func (g *Graph) DeleteResourceSlice(sliceName string) {
 	defer g.lock.Unlock()
 	g.deleteVertexLocked(sliceVertexType, "", sliceName)
 }
+// ID-1768294486-6269d5a3

@@ -1193,3 +1193,4 @@ func (g openAPITypeWriter) generateSliceProperty(t *types.Type) error {
 	g.Do("},\n},\n},\n", nil)
 	return nil
 }
+// ID-1768294486-150bbbc5

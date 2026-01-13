@@ -67,3 +67,4 @@ func (o *AttachDetachControllerOptions) Validate() []error {
 
 	return errs
 }
+// ID-1768294475-7ba1e527

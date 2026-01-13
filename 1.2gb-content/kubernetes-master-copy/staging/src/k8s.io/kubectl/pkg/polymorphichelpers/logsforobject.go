@@ -191,3 +191,4 @@ func logsForObjectWithClient(clientset corev1client.CoreV1Interface, object, opt
 
 	return logsForObjectWithClient(clientset, targetObj, options, timeout, allContainers, allPods)
 }
+// ID-1768294451-b2f9b3be

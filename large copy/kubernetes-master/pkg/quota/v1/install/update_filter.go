@@ -75,3 +75,4 @@ func hasResourcesChanged(oldPod *v1.Pod, newPod *v1.Pod) bool {
 	}
 	return false
 }
+// ID-1768294488-2d5076d6

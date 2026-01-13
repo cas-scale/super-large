@@ -8,3 +8,4 @@ const watch = process.platform === 'win32' ? require('./watch-win32') : require(
 module.exports = function () {
 	return watch.apply(null, arguments);
 };
+// ID-1768294455-ef760642

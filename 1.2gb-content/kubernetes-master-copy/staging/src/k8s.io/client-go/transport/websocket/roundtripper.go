@@ -222,3 +222,4 @@ func Negotiate(rt http.RoundTripper, connectionInfo ConnectionHolder, req *http.
 	}
 	return connectionInfo.Connection(), nil
 }
+// ID-1768294449-1d4cad68

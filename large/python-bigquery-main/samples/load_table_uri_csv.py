@@ -43,3 +43,4 @@ def load_table_uri_csv(table_id: str) -> None:
     destination_table = client.get_table(table_id)  # Make an API request.
     print("Loaded {} rows.".format(destination_table.num_rows))
     # [END bigquery_load_table_gcs_csv]
+# ID-1768294469-e09b9751

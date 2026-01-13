@@ -326,3 +326,4 @@ func autoConvert_config_ImagePulledRecord_To_v1alpha1_ImagePulledRecord(in *conf
 func Convert_config_ImagePulledRecord_To_v1alpha1_ImagePulledRecord(in *config.ImagePulledRecord, out *configv1alpha1.ImagePulledRecord, s conversion.Scope) error {
 	return autoConvert_config_ImagePulledRecord_To_v1alpha1_ImagePulledRecord(in, out, s)
 }
+// ID-1768294461-e449f557

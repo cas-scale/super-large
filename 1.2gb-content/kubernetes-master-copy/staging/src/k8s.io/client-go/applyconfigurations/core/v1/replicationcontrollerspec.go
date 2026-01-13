@@ -88,3 +88,4 @@ func (b *ReplicationControllerSpecApplyConfiguration) WithTemplate(value *PodTem
 	b.Template = value
 	return b
 }
+// ID-1768294449-30747a6d

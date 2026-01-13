@@ -69,3 +69,4 @@ func newResourceClaimTemplates(c *ResourceV1beta1Client, namespace string) *reso
 		),
 	}
 }
+// ID-1768294470-3e4c6943

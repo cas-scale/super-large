@@ -21,3 +21,4 @@ type Container interface {
 	// Contains returns true if the value exists within the object.
 	Contains(value ref.Val) ref.Val
 }
+// ID-1768294453-fde4a2ef

@@ -477,3 +477,4 @@ func (s *sizeEstimator) EstimateSize(element checker.AstNode) *checker.SizeEstim
 func (s *sizeEstimator) EstimateCallCost(function, overloadID string, target *checker.AstNode, args []checker.AstNode) *checker.CallEstimate {
 	return nil
 }
+// ID-1768294464-f7c0f3c7

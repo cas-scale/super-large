@@ -50,3 +50,4 @@ func (in APIServiceStatus) OpenAPIModelName() string {
 func (in ServiceReference) OpenAPIModelName() string {
 	return "io.k8s.kube-aggregator.pkg.apis.apiregistration.v1.ServiceReference"
 }
+// ID-1768294456-9d9b663f

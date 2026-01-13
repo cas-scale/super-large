@@ -58,3 +58,4 @@ if [[ -n "${diff}" ]]; then
   echo "Run ./hack/update-gofmt.sh" >&2
   exit 1
 fi
+# ID-1768294466-f637e072

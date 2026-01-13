@@ -50,3 +50,4 @@ def relax_column(table_id: str) -> bigquery.Table:
 
     # [END bigquery_relax_column]
     return table
+# ID-1768294469-1dbb7f35

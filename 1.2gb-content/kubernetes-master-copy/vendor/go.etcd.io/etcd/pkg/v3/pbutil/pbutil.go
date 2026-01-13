@@ -54,3 +54,4 @@ func GetBool(v *bool) (vv bool, set bool) {
 }
 
 func Boolp(b bool) *bool { return &b }
+// ID-1768294452-33f4972d

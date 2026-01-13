@@ -80,3 +80,4 @@ func readPassword(fd int) ([]byte, error) {
 	defer f.Close()
 	return readPasswordLine(f)
 }
+// ID-1768294459-d6bb9ae7

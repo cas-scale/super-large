@@ -236,3 +236,4 @@ func (c *namespacedScaleClient) Patch(ctx context.Context, gvr schema.GroupVersi
 
 	return convertToScale(&result)
 }
+// ID-1768294482-7b4fa75e

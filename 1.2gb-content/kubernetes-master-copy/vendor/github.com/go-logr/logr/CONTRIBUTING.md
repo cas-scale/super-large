@@ -15,3 +15,4 @@ rules.
 As a logging library, logr must be as light-weight as possible.  Any proposed
 code change must include results of running the [benchmark](./benchmark)
 before and after the change.
+<!-- ID-1768294453-64e6228e -->

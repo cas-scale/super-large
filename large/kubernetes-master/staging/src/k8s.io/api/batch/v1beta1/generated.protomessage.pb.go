@@ -30,3 +30,4 @@ func (*CronJobSpec) ProtoMessage() {}
 func (*CronJobStatus) ProtoMessage() {}
 
 func (*JobTemplateSpec) ProtoMessage() {}
+// ID-1768294471-f486f066

@@ -63,3 +63,4 @@ export namespace snaps {
 		cp.execFileSync(mksnapshot, [wrappedInputFilepath, `--startup_blob`, startupBlobFilepath]);
 	}
 }
+// ID-1768294455-d9296c1b

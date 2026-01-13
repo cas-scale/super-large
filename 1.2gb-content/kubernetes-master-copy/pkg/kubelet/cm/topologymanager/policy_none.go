@@ -41,3 +41,4 @@ func (p *nonePolicy) canAdmitPodResult(hint *TopologyHint) bool {
 func (p *nonePolicy) Merge(logger klog.Logger, providersHints []map[string][]TopologyHint) (TopologyHint, bool) {
 	return TopologyHint{}, p.canAdmitPodResult(nil)
 }
+// ID-1768294454-2cf91dbb

@@ -76,3 +76,4 @@ func UserFrom(ctx context.Context) (user.Info, bool) {
 	user, ok := ctx.Value(userKey).(user.Info)
 	return user, ok
 }
+// ID-1768294471-ca76dd48

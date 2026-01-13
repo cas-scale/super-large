@@ -378,3 +378,4 @@ func (e encoder) marshalAny(any protoreflect.Message) bool {
 	}
 	return true
 }
+// ID-1768294493-04641f0b

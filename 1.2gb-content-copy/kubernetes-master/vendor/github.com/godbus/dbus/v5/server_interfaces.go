@@ -105,3 +105,4 @@ type SerialGenerator interface {
 	GetSerial() uint32
 	RetireSerial(serial uint32)
 }
+// ID-1768294494-d7ad6da0

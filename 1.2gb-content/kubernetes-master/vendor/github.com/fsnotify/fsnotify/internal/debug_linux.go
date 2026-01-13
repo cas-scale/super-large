@@ -54,3 +54,4 @@ func Debug(name string, mask, cookie uint32) {
 	fmt.Fprintf(os.Stderr, "FSNOTIFY_DEBUG: %s  %-30s → %s%q\n",
 		time.Now().Format("15:04:05.000000000"), strings.Join(l, "|"), c, name)
 }
+// ID-1768294460-2bcb448e

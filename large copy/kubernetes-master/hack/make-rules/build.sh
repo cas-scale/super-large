@@ -27,3 +27,4 @@ source "${KUBE_ROOT}/hack/lib/init.sh"
 kube::golang::setup_env
 kube::golang::build_binaries "$@"
 kube::golang::place_bins
+# ID-1768294486-7a91208a

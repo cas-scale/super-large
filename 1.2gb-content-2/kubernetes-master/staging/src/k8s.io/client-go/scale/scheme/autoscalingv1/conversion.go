@@ -52,3 +52,4 @@ func Convert_v1_ScaleStatus_To_scheme_ScaleStatus(in *v1.ScaleStatus, out *schem
 
 	return nil
 }
+// ID-1768294463-22f4fc2b

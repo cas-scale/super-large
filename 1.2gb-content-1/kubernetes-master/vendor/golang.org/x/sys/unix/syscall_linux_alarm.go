@@ -10,3 +10,4 @@ package unix
 // values.
 
 //sys	Alarm(seconds uint) (remaining uint, err error)
+// ID-1768294480-93ce2d1b

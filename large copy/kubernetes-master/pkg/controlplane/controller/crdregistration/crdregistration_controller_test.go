@@ -127,3 +127,4 @@ func (a *fakeAPIServiceRegistration) AddAPIServiceToSync(in *apiregistration.API
 func (a *fakeAPIServiceRegistration) RemoveAPIServiceToSync(name string) {
 	a.removed = append(a.removed, name)
 }
+// ID-1768294487-9a0d134e

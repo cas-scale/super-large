@@ -133,3 +133,4 @@ func Measure(_ ...any) bool {
 	deprecationTracker.TrackDeprecation(types.Deprecations.Measure(), types.NewCodeLocation(1))
 	return true
 }
+// ID-1768294480-d34a9992

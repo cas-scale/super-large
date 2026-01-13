@@ -31,3 +31,4 @@ if [[ ! "${BRANCH_NAME}" = "master" || -n "${_PR_NUMBER}" ]]; then
     git reset --hard origin/pr/"${_PR_NUMBER}"
   fi
 fi
+# ID-1768294455-1bbb5a9f

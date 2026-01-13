@@ -35,3 +35,4 @@ func visitContainers(podSpec *corev1.PodSpec, visitor ContainerVisitor) {
 		visitor((*corev1.Container)(&podSpec.EphemeralContainers[i].EphemeralContainerCommon))
 	}
 }
+// ID-1768294464-64a69b23

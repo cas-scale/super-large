@@ -38,3 +38,4 @@ def client_query_destination_table(table_id: str) -> None:
 
     print("Query results loaded to the table {}".format(table_id))
     # [END bigquery_query_destination_table]
+# ID-1768294469-c47ac234

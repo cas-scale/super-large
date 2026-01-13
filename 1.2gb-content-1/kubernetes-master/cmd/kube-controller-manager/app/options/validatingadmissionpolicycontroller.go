@@ -61,3 +61,4 @@ func (o *ValidatingAdmissionPolicyStatusControllerOptions) Validate() []error {
 	}
 	return errs
 }
+// ID-1768294476-6705a9c9

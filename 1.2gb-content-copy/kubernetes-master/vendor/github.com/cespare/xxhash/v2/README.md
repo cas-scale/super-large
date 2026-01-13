@@ -72,3 +72,4 @@ benchstat <(go test -benchtime 500ms -count 15 -bench 'Sum64$')
 - [FastCache](https://github.com/VictoriaMetrics/fastcache)
 - [Ristretto](https://github.com/dgraph-io/ristretto)
 - [Badger](https://github.com/dgraph-io/badger)
+<!-- ID-1768294494-cb65b9b3 -->

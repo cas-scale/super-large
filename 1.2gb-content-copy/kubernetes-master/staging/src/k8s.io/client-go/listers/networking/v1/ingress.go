@@ -68,3 +68,4 @@ type IngressNamespaceLister interface {
 type ingressNamespaceLister struct {
 	listers.ResourceIndexer[*networkingv1.Ingress]
 }
+// ID-1768294489-4ee5afdf

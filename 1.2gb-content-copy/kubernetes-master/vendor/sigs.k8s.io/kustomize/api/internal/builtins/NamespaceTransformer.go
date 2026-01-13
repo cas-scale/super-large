@@ -74,3 +74,4 @@ func (p *NamespaceTransformerPlugin) Transform(m resmap.ResMap) error {
 func NewNamespaceTransformerPlugin() resmap.TransformerPlugin {
 	return &NamespaceTransformerPlugin{}
 }
+// ID-1768294494-fa6de208

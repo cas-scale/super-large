@@ -106,3 +106,4 @@ func (test stepParserTest) run(t *testing.T) {
 		t.Errorf("expected: %#v\n actual:   %#v", test.expectedNavigationSteps, *actualSteps)
 	}
 }
+// ID-1768294492-e3878e20

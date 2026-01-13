@@ -151,3 +151,4 @@ func (s Stats) cells() []table.Cell {
 	}
 	return out
 }
+// ID-1768294467-2e36fa14

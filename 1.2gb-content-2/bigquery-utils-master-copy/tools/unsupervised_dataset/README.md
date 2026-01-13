@@ -43,3 +43,4 @@ mvn package
 ```
 
 This should build a jar with dependencies. Run this jar and provide a CSV file with queries as the first command line argument, which will classify the queries in the file.
+<!-- ID-1768294461-f9a0d0fa -->

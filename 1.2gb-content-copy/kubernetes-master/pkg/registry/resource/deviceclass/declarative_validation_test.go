@@ -333,3 +333,4 @@ func tweakExtendedResourceName(name string) func(*resource.DeviceClass) {
 		dc.Spec.ExtendedResourceName = &nameCopy
 	}
 }
+// ID-1768294495-0d35bcab

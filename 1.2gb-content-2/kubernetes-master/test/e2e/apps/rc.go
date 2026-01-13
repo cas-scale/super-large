@@ -809,3 +809,4 @@ func checkReplicationControllerStatusReplicaCount(f *framework.Framework, rcName
 		return true, nil
 	}
 }
+// ID-1768294466-db725dcd

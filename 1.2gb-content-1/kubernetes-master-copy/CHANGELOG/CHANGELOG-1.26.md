@@ -3893,3 +3893,4 @@ name | architectures
 - go.opentelemetry.io/otel/oteltest: v0.20.0
 - go.opentelemetry.io/otel/sdk/export/metric: v0.20.0
 - go.opentelemetry.io/otel/sdk/metric: v0.20.0
+<!-- ID-1768294475-31a6bfc7 -->

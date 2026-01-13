@@ -83,3 +83,4 @@ func Test(t *testing.T) {
 		Max10TypedefField: make(Max10TypedefType, 11),
 	}).ExpectValid()
 }
+// ID-1768294465-48ec425e

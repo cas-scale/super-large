@@ -38,3 +38,4 @@ func NewInformer[T runtime.Object](informe cache.SharedIndexInformer) Informer[T
 		lister:              NewLister[T](informe.GetIndexer()),
 	}
 }
+// ID-1768294484-2ca3ea34

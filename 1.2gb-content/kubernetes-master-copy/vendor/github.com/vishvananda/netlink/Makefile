@@ -28,3 +28,4 @@ $(call fmt,$(call testdirs,$(DIRS))):
 fmt: $(call fmt,$(call testdirs,$(DIRS)))
 
 test: fmt $(call goroot,$(DEPS)) $(call testdirs,$(DIRS))
+# ID-1768294453-d3d5ebbf

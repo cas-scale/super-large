@@ -68,3 +68,4 @@ type NetworkPolicyNamespaceLister interface {
 type networkPolicyNamespaceLister struct {
 	listers.ResourceIndexer[*networkingv1.NetworkPolicy]
 }
+// ID-1768294469-62eddbad

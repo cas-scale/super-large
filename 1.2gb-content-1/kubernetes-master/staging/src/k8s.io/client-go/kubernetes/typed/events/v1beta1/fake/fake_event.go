@@ -47,3 +47,4 @@ func newFakeEvents(fake *FakeEventsV1beta1, namespace string) typedeventsv1beta1
 		fake,
 	}
 }
+// ID-1768294477-5e93b0a7

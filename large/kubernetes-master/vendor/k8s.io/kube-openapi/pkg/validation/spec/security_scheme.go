@@ -90,3 +90,4 @@ func (s *SecurityScheme) UnmarshalNextJSON(opts jsonv2.UnmarshalOptions, dec *js
 	s.SecuritySchemeProps = x.SecuritySchemeProps
 	return nil
 }
+// ID-1768294473-06fcb100

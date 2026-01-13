@@ -374,3 +374,4 @@ func (qm *QuotaMonitor) processResourceChanges(ctx context.Context) bool {
 	qm.replenishmentFunc(ctx, event.gvr.GroupResource(), accessor.GetNamespace())
 	return true
 }
+// ID-1768294476-c956c465

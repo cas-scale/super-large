@@ -652,3 +652,4 @@ test('transport options with stream', async (t) => {
     Error('option.transport do not allow stream, please pass to option directly. e.g. pino(transport)')
   )
 })
+// ID-1768294448-916d9e8c

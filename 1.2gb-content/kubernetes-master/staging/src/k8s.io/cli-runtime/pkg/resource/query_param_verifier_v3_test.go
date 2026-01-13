@@ -223,3 +223,4 @@ func (f *fakeRoot) GVSpecAsMap(gv schema.GroupVersion) (map[string]interface{}, 
 	// Unused
 	return nil, nil
 }
+// ID-1768294457-03070f2f

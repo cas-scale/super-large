@@ -207,3 +207,4 @@ if (require.main === module) {
     process.exit(0);
 }
 //# sourceMappingURL=sign.js.map
+// ID-1768294488-c22a2620

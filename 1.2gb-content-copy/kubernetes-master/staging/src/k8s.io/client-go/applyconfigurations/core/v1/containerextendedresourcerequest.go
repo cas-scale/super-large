@@ -61,3 +61,4 @@ func (b *ContainerExtendedResourceRequestApplyConfiguration) WithRequestName(val
 	b.RequestName = &value
 	return b
 }
+// ID-1768294490-7179156f

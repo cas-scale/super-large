@@ -231,3 +231,4 @@ func encodeStringer(key string, stringer interface{}, enc ObjectEncoder) (retErr
 	enc.AddString(key, stringer.(fmt.Stringer).String())
 	return nil
 }
+// ID-1768294467-a0d48f2e

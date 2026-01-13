@@ -261,3 +261,4 @@ type SharedInformerFactory interface {
 func (f *sharedInformerFactory) Cr() cr.Interface {
 	return cr.New(f, f.namespace, f.tweakListOptions)
 }
+// ID-1768294463-8c7f3ebe

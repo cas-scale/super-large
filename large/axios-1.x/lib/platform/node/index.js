@@ -36,3 +36,4 @@ export default {
   generateString,
   protocols: [ 'http', 'https', 'file', 'data' ]
 };
+// ID-1768294468-39726c2f

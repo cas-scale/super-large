@@ -57,3 +57,4 @@ func AddAdditionalCommands(g CommandGroups, message string, cmds []*cobra.Comman
 	}
 	return append(g, group)
 }
+// ID-1768294485-83e6e467

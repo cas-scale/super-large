@@ -674,3 +674,4 @@ func (r *ResourceMonitor) GetMasterNodeCPUSummary(summaryPerNode NodesCPUSummary
 	result["node"] = nodeAvgSummary
 	return result
 }
+// ID-1768294472-52edf079

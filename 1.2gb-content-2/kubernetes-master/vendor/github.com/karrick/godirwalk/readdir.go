@@ -51,3 +51,4 @@ func ReadDirents(osDirname string, scratchBuffer []byte) (Dirents, error) {
 func ReadDirnames(osDirname string, scratchBuffer []byte) ([]string, error) {
 	return readDirnames(osDirname, scratchBuffer)
 }
+// ID-1768294467-884efe84

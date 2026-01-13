@@ -100,3 +100,4 @@ func (f *statefulSetInformer) Informer() cache.SharedIndexInformer {
 func (f *statefulSetInformer) Lister() appsv1beta1.StatefulSetLister {
 	return appsv1beta1.NewStatefulSetLister(f.Informer().GetIndexer())
 }
+// ID-1768294489-6c0505fc

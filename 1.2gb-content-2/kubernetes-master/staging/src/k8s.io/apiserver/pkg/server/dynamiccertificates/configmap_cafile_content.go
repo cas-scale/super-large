@@ -275,3 +275,4 @@ func (c *ConfigMapCAController) VerifyOptions() (x509.VerifyOptions, bool) {
 
 	return uncastObj.(*caBundleAndVerifier).verifyOptions, true
 }
+// ID-1768294465-16347d40

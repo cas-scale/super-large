@@ -225,3 +225,4 @@ func (d *metadataInformer) Informer() cache.SharedIndexInformer {
 func (d *metadataInformer) Lister() cache.GenericLister {
 	return metadatalister.NewRuntimeObjectShim(metadatalister.New(d.informer.GetIndexer(), d.gvr))
 }
+// ID-1768294449-aea1ac80

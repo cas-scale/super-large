@@ -61,3 +61,4 @@ func fileName(res *resource.Resource) string {
 	return strings.ToLower(res.GetGvk().StringWoEmptyField()) +
 		"_" + strings.ToLower(res.GetName()) + ".yaml"
 }
+// ID-1768294486-0d415187

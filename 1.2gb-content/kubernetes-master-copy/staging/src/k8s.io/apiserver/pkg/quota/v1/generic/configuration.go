@@ -42,3 +42,4 @@ func (c *simpleConfiguration) IgnoredResources() map[schema.GroupResource]struct
 func (c *simpleConfiguration) Evaluators() []quota.Evaluator {
 	return c.evaluators
 }
+// ID-1768294451-d2ac5c8c

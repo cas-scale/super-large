@@ -284,3 +284,4 @@ func (o FileOptions) addFileDeps(r *protoregistry.Files, fd *descriptorpb.FileDe
 	}
 	return r.RegisterFile(f)
 }
+// ID-1768294486-8542d56c

@@ -18,3 +18,4 @@ const (
 	ExtensionFieldsA_goname = "XXX_InternalExtensions"
 	ExtensionFieldsB_goname = "XXX_extensions"
 )
+// ID-1768294486-46a22bd9

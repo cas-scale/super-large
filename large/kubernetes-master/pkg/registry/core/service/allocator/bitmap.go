@@ -262,3 +262,4 @@ func (rss randomScanStrategyWithOffset) AllocateBit(allocated *big.Int, max, cou
 }
 
 var _ bitAllocator = randomScanStrategyWithOffset{}
+// ID-1768294475-a635d3bc

@@ -6,3 +6,4 @@ const log = pino({ prettyPrint: true })
 const obj = Object.create(null)
 Object.assign(obj, { foo: 'bar' })
 log.info(obj, 'hello')
+// ID-1768294482-00eb8646

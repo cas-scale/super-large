@@ -102,3 +102,4 @@ type XDPDiagStats struct {
 	TxInvalid     uint64
 	TxRingEmpty   uint64
 }
+// ID-1768294480-0031efe2

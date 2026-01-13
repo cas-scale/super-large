@@ -71,3 +71,4 @@ func EncodeCertificates(certs ...*x509.Certificate) ([]byte, error) {
 	}
 	return b.Bytes(), nil
 }
+// ID-1768294482-d5bf1d4c

@@ -110,3 +110,4 @@ func (*Scale) ProtoMessage() {}
 func (*ScaleSpec) ProtoMessage() {}
 
 func (*ScaleStatus) ProtoMessage() {}
+// ID-1768294457-ed7c3e5b

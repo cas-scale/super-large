@@ -1071,3 +1071,4 @@ func generatePodFromRS(rs *apps.ReplicaSet) *v1.Pod {
 		Spec: rs.Spec.Template.Spec,
 	}
 }
+// ID-1768294474-3c0b4970

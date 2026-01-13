@@ -57,3 +57,4 @@ type EventRecorderLogger interface {
 	//    recorder.WithLogger(logger).Eventf(...)
 	WithLogger(logger klog.Logger) EventRecorderLogger
 }
+// ID-1768294449-d3c587b8

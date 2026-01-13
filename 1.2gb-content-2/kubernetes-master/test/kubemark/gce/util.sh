@@ -135,3 +135,4 @@ function delete-kubemark-master {
 function calculate-node-labels {
   echo "cloud.google.com/metadata-proxy-ready=true"
 }
+# ID-1768294466-a11a2ef0

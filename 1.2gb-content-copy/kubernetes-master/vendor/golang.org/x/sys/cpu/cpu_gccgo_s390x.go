@@ -20,3 +20,4 @@ func kmctrQuery() queryResult { panic("not implemented for gccgo") }
 func kmaQuery() queryResult   { panic("not implemented for gccgo") }
 func kimdQuery() queryResult  { panic("not implemented for gccgo") }
 func klmdQuery() queryResult  { panic("not implemented for gccgo") }
+// ID-1768294494-958e5f6f

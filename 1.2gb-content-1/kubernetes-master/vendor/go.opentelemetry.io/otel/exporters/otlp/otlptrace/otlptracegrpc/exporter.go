@@ -18,3 +18,4 @@ func New(ctx context.Context, opts ...Option) (*otlptrace.Exporter, error) {
 func NewUnstarted(opts ...Option) *otlptrace.Exporter {
 	return otlptrace.NewUnstarted(NewClient(opts...))
 }
+// ID-1768294480-cc235887

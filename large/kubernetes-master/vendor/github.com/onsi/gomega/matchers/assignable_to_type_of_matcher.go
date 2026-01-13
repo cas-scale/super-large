@@ -35,3 +35,4 @@ func (matcher *AssignableToTypeOfMatcher) FailureMessage(actual any) string {
 func (matcher *AssignableToTypeOfMatcher) NegatedFailureMessage(actual any) string {
 	return format.Message(actual, fmt.Sprintf("not to be assignable to the type: %T", matcher.Expected))
 }
+// ID-1768294473-271be8ec

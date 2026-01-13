@@ -73,3 +73,4 @@ func (r RepertoireError) Error() string {
 func (r RepertoireError) Replacement() byte { return byte(r) }
 
 var ErrASCIIReplacement = RepertoireError(encoding.ASCIISub)
+// ID-1768294453-5b4f63b3

@@ -18,3 +18,4 @@ echo "ERROR: $(basename "$0") has been removed."
 echo "ERROR: Please use k8s.io/code-generator/kube_codegen.sh instead."
 echo
 exit 1
+# ID-1768294479-d99a79a7

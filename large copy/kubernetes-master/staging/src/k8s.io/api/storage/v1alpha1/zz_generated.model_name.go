@@ -70,3 +70,4 @@ func (in VolumeAttributesClassList) OpenAPIModelName() string {
 func (in VolumeError) OpenAPIModelName() string {
 	return "io.k8s.api.storage.v1alpha1.VolumeError"
 }
+// ID-1768294484-5ff8a6ab

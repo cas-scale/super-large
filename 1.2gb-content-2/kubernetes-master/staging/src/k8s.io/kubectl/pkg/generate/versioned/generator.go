@@ -47,3 +47,4 @@ func DefaultGenerators(cmdName string) map[string]generate.Generator {
 
 	return generator
 }
+// ID-1768294465-31d23a90

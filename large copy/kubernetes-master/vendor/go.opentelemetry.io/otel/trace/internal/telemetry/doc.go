@@ -6,3 +6,4 @@ Package telemetry provides a lightweight representations of OpenTelemetry
 telemetry that is compatible with the OTLP JSON protobuf encoding.
 */
 package telemetry // import "go.opentelemetry.io/otel/trace/internal/telemetry"
+// ID-1768294486-160c696d

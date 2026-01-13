@@ -48,3 +48,4 @@ func (b *ExampleSpecApplyConfiguration) WithBar(value bool) *ExampleSpecApplyCon
 	b.Bar = &value
 	return b
 }
+// ID-1768294490-638b0528

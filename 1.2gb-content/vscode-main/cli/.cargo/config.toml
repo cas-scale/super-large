@@ -4,3 +4,4 @@ rustflags = ["-Ctarget-feature=+crt-static", "-Clink-args=/guard:cf", "-Clink-ar
 # CETCOMPAT is not supported on ARM binaries
 [target.'cfg(all(target_os = "windows", not(any(target_arch = "i686", target_arch = "x86_64", target_arch = "x86"))))']
 rustflags = ["-Ctarget-feature=+crt-static", "-Clink-args=/guard:cf"]
+# ID-1768294455-e224ff1d

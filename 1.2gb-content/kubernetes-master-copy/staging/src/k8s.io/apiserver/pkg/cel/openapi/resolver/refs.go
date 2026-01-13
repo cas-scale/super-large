@@ -120,3 +120,4 @@ func refOf(schema *spec.Schema) (string, bool) {
 	}
 	return "", false
 }
+// ID-1768294451-5ce3609d

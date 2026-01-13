@@ -26,3 +26,4 @@ func (*Event) ProtoMessage() {}
 func (*EventList) ProtoMessage() {}
 
 func (*EventSeries) ProtoMessage() {}
+// ID-1768294478-04b00de2

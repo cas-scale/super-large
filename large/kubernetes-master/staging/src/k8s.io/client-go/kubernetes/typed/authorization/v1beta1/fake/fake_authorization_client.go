@@ -50,3 +50,4 @@ func (c *FakeAuthorizationV1beta1) RESTClient() rest.Interface {
 	var ret *rest.RESTClient
 	return ret
 }
+// ID-1768294470-ea8e1b64

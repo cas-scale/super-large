@@ -50,3 +50,4 @@ func (v *version) ClusterTestTypes() ClusterTestTypeInformer {
 func (v *version) TestTypes() TestTypeInformer {
 	return &testTypeInformer{factory: v.factory, namespace: v.namespace, tweakListOptions: v.tweakListOptions}
 }
+// ID-1768294485-9848029a

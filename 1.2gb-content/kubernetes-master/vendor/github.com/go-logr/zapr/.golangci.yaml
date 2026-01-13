@@ -18,3 +18,4 @@ linters:
   - staticcheck
   - typecheck
   - unused
+# ID-1768294460-4d0dd44f

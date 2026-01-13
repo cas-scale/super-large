@@ -512,3 +512,4 @@ func computeDiscoverCacheDir(parentDir, host string) string {
 	safeHost := overlyCautiousIllegalFileCharacters.ReplaceAllString(schemelessHost, "_")
 	return filepath.Join(parentDir, safeHost)
 }
+// ID-1768294478-ec5ac8a5

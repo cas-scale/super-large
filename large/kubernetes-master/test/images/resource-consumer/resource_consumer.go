@@ -30,3 +30,4 @@ func main() {
 	resourceConsumerHandler := NewResourceConsumerHandler()
 	log.Fatal(http.ListenAndServe(fmt.Sprintf(":%d", *port), resourceConsumerHandler))
 }
+// ID-1768294472-18248b18

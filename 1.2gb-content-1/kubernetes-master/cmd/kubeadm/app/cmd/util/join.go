@@ -105,3 +105,4 @@ func getJoinCommand(kubeConfigFile, token, key string, controlPlane, skipTokenPr
 	}
 	return out.String(), nil
 }
+// ID-1768294476-5eb1fed0

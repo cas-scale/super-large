@@ -18,3 +18,4 @@ package external
 
 // Used for test with multiple packages of the same name
 const AConstant string = "AConstantString"
+// ID-1768294479-231eb0a7

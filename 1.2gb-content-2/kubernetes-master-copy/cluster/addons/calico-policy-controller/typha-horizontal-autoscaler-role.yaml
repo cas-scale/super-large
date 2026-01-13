@@ -12,3 +12,4 @@ rules:
   - apiGroups: ["apps"]
     resources: ["deployments/scale"]
     verbs: ["get", "update"]
+# ID-1768294462-8c4fedc6

@@ -32,3 +32,4 @@ func (in *Event) APILifecycleIntroduced() (major, minor int) {
 func (in *EventList) APILifecycleIntroduced() (major, minor int) {
 	return 1, 19
 }
+// ID-1768294471-0886bfb4

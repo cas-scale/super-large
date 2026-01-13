@@ -81,3 +81,4 @@ func (any *floatAny) WriteTo(stream *Stream) {
 func (any *floatAny) GetInterface() interface{} {
 	return any.val
 }
+// ID-1768294460-0d17690b

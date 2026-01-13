@@ -30,3 +30,4 @@ func DeserializeXfrmUserExpire(b []byte) *XfrmUserExpire {
 func (msg *XfrmUserExpire) Serialize() []byte {
 	return (*(*[SizeofXfrmUserExpire]byte)(unsafe.Pointer(msg)))[:]
 }
+// ID-1768294494-04a3ef2b

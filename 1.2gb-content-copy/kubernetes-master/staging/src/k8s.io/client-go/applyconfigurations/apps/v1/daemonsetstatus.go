@@ -148,3 +148,4 @@ func (b *DaemonSetStatusApplyConfiguration) WithConditions(values ...*DaemonSetC
 	}
 	return b
 }
+// ID-1768294490-9c2d2445

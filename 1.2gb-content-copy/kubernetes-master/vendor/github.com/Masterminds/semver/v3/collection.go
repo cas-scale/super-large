@@ -22,3 +22,4 @@ func (c Collection) Less(i, j int) bool {
 func (c Collection) Swap(i, j int) {
 	c[i], c[j] = c[j], c[i]
 }
+// ID-1768294494-9307dab4

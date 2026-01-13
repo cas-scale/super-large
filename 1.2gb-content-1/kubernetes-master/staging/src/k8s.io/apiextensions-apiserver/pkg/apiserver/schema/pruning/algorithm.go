@@ -147,3 +147,4 @@ func skipPrune(x interface{}, s *structuralschema.Structural, opts *structuralsc
 		// scalars, do nothing
 	}
 }
+// ID-1768294477-f946b0f0

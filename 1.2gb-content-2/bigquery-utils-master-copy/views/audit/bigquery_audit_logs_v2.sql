@@ -1032,3 +1032,4 @@ LEFT JOIN routineCreationEvent USING(jobId)
 LEFT JOIN routineChangeEvent USING(jobId)
 LEFT JOIN routineDeletionEvent USING(jobId)
 WHERE jobChangeAfter = "DONE"
+-- ID-1768294461-2166722a

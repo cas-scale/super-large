@@ -477,3 +477,4 @@ def _get_clients_if_none(
             default_query_job_config=default_query_config,
             project=os.getenv("BQ_PROJECT", os.getenv("GCP_PROJECT")))
     return gcs_client, bq_client
+# ID-1768294462-4223cd7c

@@ -69,3 +69,4 @@ func newEndpoints(c *CoreV1Client, namespace string) *endpoints {
 		),
 	}
 }
+// ID-1768294449-97901735

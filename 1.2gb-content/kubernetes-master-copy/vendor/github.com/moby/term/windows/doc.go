@@ -3,3 +3,4 @@
 // and return pseudo-streams that convert ANSI sequences to / from Windows Console API calls.
 
 package windowsconsole
+// ID-1768294454-ff434ad0

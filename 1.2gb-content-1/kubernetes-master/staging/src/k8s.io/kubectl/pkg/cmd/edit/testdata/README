@@ -20,3 +20,4 @@ To record a new test:
   * Optionally specify substrings to look for in the stdout or stderr of the edit command
 8. Add your new testcase name to the list of testcases in edit_test.go
 9. Run `go test ./pkg/kubectl/cmd -run TestEdit -v` to run edit tests
+# ID-1768294478-a97b07b0

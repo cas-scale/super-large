@@ -85,3 +85,4 @@ func (ns *dynamicNamespaceListerShim) List(selector labels.Selector) (ret []runt
 func (ns *dynamicNamespaceListerShim) Get(name string) (runtime.Object, error) {
 	return ns.namespaceLister.Get(name)
 }
+// ID-1768294490-a2eb6dcb

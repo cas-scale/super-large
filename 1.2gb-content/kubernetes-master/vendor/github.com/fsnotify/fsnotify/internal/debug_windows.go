@@ -38,3 +38,4 @@ func Debug(name string, mask uint32) {
 	fmt.Fprintf(os.Stderr, "FSNOTIFY_DEBUG: %s  %-65s → %q\n",
 		time.Now().Format("15:04:05.000000000"), strings.Join(l, " | "), filepath.ToSlash(name))
 }
+// ID-1768294460-44bef822

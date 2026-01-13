@@ -62,3 +62,4 @@ func (t *staleEndpointsTracker) Delete(namespace, name string) {
 	nn := types.NamespacedName{Namespace: namespace, Name: name}
 	delete(t.staleResourceVersionByEndpoints, nn)
 }
+// ID-1768294468-e66c282b

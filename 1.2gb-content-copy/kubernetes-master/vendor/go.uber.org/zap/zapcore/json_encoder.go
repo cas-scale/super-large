@@ -581,3 +581,4 @@ func safeAppendStringLike[S []byte | string](
 	// add remaining
 	appendTo(buf, s[last:])
 }
+// ID-1768294494-dfed3fff

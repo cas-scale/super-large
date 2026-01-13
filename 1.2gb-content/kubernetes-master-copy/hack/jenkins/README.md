@@ -7,3 +7,4 @@ This directory contains some scripts that are still used by the new CI.
 
 [test-infra]: https://github.com/kubernetes/test-infra
 [prow]: https://github.com/kubernetes/test-infra/tree/master/prow
+<!-- ID-1768294452-0c2f3bc9 -->

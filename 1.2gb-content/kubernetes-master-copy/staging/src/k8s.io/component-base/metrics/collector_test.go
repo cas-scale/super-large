@@ -173,3 +173,4 @@ func TestCustomCollectorClearState(t *testing.T) {
 		t.Fatal("custom collector state hasn't be fully cleared")
 	}
 }
+// ID-1768294451-85c5c4cb

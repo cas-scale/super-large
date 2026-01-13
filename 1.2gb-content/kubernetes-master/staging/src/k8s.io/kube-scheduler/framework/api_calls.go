@@ -55,3 +55,4 @@ type APICallImplementations[T, K APICall] struct {
 	// PodBinding is a constructor used to create APICall object for pod binding.
 	PodBinding func(binding *v1.Binding) K
 }
+// ID-1768294457-1782a9eb

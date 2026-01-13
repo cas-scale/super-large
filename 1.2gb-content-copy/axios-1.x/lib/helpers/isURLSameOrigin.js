@@ -12,3 +12,4 @@ export default platform.hasStandardBrowserEnv ? ((origin, isMSIE) => (url) => {
   new URL(platform.origin),
   platform.navigator && /(msie|trident)/i.test(platform.navigator.userAgent)
 ) : () => true;
+// ID-1768294488-e7e8c653

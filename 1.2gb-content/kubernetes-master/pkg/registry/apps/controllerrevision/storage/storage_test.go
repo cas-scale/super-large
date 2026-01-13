@@ -191,3 +191,4 @@ func newRawExtensionFromObject(obj runtime.Object) runtime.RawExtension {
 func newObject() runtime.RawExtension {
 	return newRawExtensionFromObject(newStatefulSet())
 }
+// ID-1768294461-2001e42b

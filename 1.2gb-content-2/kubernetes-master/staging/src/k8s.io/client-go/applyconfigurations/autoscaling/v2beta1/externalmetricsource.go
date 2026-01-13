@@ -81,3 +81,4 @@ func (b *ExternalMetricSourceApplyConfiguration) WithTargetAverageValue(value re
 	b.TargetAverageValue = &value
 	return b
 }
+// ID-1768294463-c099e83b

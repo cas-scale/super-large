@@ -49,3 +49,4 @@ func SetObjectDefaults_HorizontalPodAutoscalerList(in *autoscalingv1.HorizontalP
 		SetObjectDefaults_HorizontalPodAutoscaler(a)
 	}
 }
+// ID-1768294481-aff38c11

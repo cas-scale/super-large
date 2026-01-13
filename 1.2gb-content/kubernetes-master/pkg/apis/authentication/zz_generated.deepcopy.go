@@ -282,3 +282,4 @@ func (in *UserInfo) DeepCopy() *UserInfo {
 	in.DeepCopyInto(out)
 	return out
 }
+// ID-1768294461-46cc6a81

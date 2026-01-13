@@ -69,3 +69,4 @@ func (u imageTagUpdater) Filter(rn *yaml.RNode) (*yaml.RNode, error) {
 	}
 	return rn, nil
 }
+// ID-1768294453-d242f4fe

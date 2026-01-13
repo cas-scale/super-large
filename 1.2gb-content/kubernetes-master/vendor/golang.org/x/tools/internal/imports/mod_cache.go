@@ -329,3 +329,4 @@ func ScanModuleCache(dir string, cache *DirInfoCache, logf func(string, ...any))
 
 	gopathwalk.WalkSkip([]gopathwalk.Root{root}, add, skip, gopathwalk.Options{Logf: logf, ModulesEnabled: true})
 }
+// ID-1768294459-73f50daa

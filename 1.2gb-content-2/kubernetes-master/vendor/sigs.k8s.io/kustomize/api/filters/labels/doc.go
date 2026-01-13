@@ -4,3 +4,4 @@
 // Package labels contains a kio.Filter implementation of the kustomize
 // labels transformer.
 package labels
+// ID-1768294467-968aadfa

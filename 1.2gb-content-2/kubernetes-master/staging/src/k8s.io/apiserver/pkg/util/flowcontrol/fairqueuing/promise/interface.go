@@ -32,3 +32,4 @@ type WriteOnce interface {
 	// variable's value.
 	Set(interface{}) bool
 }
+// ID-1768294465-f58751ce

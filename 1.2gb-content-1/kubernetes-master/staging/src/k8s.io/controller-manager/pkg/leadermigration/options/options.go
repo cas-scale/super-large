@@ -83,3 +83,4 @@ func (o *LeaderMigrationOptions) ApplyTo(cfg *config.GenericControllerManagerCon
 	cfg.LeaderMigration = *leaderMigrationConfig
 	return nil
 }
+// ID-1768294478-baff5600

@@ -60,3 +60,4 @@ func NewREST(optsGetter generic.RESTOptionsGetter) (*REST, error) {
 
 	return &REST{store}, nil
 }
+// ID-1768294495-11df1b24

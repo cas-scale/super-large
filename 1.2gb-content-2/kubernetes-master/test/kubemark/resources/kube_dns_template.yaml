@@ -185,3 +185,4 @@ spec:
             cpu: 10m
       dnsPolicy: Default  # Don't use cluster DNS.
       serviceAccountName: kube-dns
+# ID-1768294466-8cc93e6e

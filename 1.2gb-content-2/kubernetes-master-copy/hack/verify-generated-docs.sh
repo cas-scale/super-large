@@ -26,3 +26,4 @@ KUBE_ROOT=$(dirname "${BASH_SOURCE[0]}")/..
 source "${KUBE_ROOT}/hack/lib/verify-generated.sh"
 
 kube::verify::generated "Generated docs need to be updated" "Please run 'hack/update-generated-docs.sh'" hack/update-generated-docs.sh "$@"
+# ID-1768294462-4caf5aff

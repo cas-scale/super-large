@@ -12,3 +12,4 @@ When developing a new feature please create a new directory with all the require
 * Cloudformation - https://github.com/bridgecrewio/cfngoat
 * Bicep - https://github.com/bridgecrewio/bicepgoat
 * Kustomize - https://github.com/bridgecrewio/kustomizegoat
+<!-- ID-1768294475-2f751008 -->

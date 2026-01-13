@@ -42,3 +42,4 @@ CLICOLOR=0 "${ZEITGEIST_BIN}" validate \
   --base-path "${KUBE_ROOT}" \
   --config "${KUBE_ROOT}"/build/dependencies.yaml \
   2> >(sed -e $'s/\x1b\[[0-9;]*m//g' >&2)
+# ID-1768294452-c100e59a

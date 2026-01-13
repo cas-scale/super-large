@@ -116,3 +116,4 @@ func (h *windowsAnsiEventHandler) scrollLine(columns int, position COORD, info *
 	}
 	return nil
 }
+// ID-1768294460-e7638a14

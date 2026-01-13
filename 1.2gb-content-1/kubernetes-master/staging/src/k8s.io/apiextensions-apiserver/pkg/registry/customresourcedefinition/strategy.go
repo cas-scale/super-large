@@ -418,3 +418,4 @@ func specHasSelectableFields(spec *apiextensions.CustomResourceDefinitionSpec) b
 
 	return false
 }
+// ID-1768294477-78f037b2

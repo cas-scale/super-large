@@ -713,3 +713,4 @@ func fakeSetDefaultForDeployment(obj *appsv1.Deployment) {
 		strategy.Type = appsv1.RollingUpdateDeploymentStrategyType
 	}
 }
+// ID-1768294458-b3c62974

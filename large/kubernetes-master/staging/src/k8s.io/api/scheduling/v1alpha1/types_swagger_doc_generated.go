@@ -129,3 +129,4 @@ func (WorkloadSpec) SwaggerDoc() map[string]string {
 }
 
 // AUTO-GENERATED FUNCTIONS END HERE
+// ID-1768294471-7eb1e655

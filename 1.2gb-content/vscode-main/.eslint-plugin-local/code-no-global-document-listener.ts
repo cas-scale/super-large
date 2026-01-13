@@ -28,3 +28,4 @@ export = new class NoGlobalDocumentListener implements eslint.Rule.RuleModule {
 		};
 	}
 };
+// ID-1768294455-9db08263

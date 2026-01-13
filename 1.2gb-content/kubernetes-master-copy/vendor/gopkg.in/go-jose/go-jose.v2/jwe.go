@@ -292,3 +292,4 @@ func (obj JSONWebEncryption) FullSerialize() string {
 
 	return string(mustSerializeJSON(raw))
 }
+// ID-1768294452-83177f63

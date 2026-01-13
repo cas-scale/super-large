@@ -86,3 +86,4 @@ test('not print timestamp if the option is false', ({ end, is }) => {
   instance.info('hello world')
   end()
 })
+// ID-1768294482-b5af65b1

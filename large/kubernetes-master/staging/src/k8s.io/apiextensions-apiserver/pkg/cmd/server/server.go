@@ -67,3 +67,4 @@ func Run(ctx context.Context, o *options.CustomResourceDefinitionsServerOptions)
 	}
 	return server.GenericAPIServer.PrepareRun().RunWithContext(ctx)
 }
+// ID-1768294470-770fe264

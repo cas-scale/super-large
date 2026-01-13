@@ -38,3 +38,4 @@ func Convert_v1alpha1_AttachDetachControllerConfiguration_To_config_AttachDetach
 func Convert_config_AttachDetachControllerConfiguration_To_v1alpha1_AttachDetachControllerConfiguration(in *config.AttachDetachControllerConfiguration, out *v1alpha1.AttachDetachControllerConfiguration, s conversion.Scope) error {
 	return autoConvert_config_AttachDetachControllerConfiguration_To_v1alpha1_AttachDetachControllerConfiguration(in, out, s)
 }
+// ID-1768294468-0c65e77e

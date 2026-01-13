@@ -143,3 +143,4 @@ func (id ResId) EffectiveNamespace() string {
 func (id ResId) IsEmpty() bool {
 	return reflect.DeepEqual(id, ResId{})
 }
+// ID-1768294480-cb477249

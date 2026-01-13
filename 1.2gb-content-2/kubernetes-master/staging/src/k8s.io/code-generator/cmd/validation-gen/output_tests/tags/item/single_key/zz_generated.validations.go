@@ -212,3 +212,4 @@ func Validate_StructWithNestedTypedef(ctx context.Context, op operation.Operatio
 
 	return errs
 }
+// ID-1768294465-6fd3401a

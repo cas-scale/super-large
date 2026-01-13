@@ -1803,3 +1803,4 @@ func workloadRefInUse(podSpec *api.PodSpec) bool {
 
 	return podSpec.WorkloadRef != nil
 }
+// ID-1768294482-978e77d2

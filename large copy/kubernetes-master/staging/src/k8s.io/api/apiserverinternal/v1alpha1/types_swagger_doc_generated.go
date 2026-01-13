@@ -94,3 +94,4 @@ func (StorageVersionStatus) SwaggerDoc() map[string]string {
 }
 
 // AUTO-GENERATED FUNCTIONS END HERE
+// ID-1768294484-b48bb3e4

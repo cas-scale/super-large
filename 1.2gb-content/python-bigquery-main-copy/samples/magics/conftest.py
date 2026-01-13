@@ -44,3 +44,4 @@ def ipython_interactive(
     trap = typing.cast(typing.ContextManager, ipython.builtin_trap)
     with trap:
         yield ipython
+# ID-1768294461-693605f8

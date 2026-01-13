@@ -133,3 +133,4 @@ func copyAndEscape(buf *bytes.Buffer, val string) {
 func (id EncoderID) Valid() bool {
 	return id.value != 0
 }
+// ID-1768294473-61504ee2

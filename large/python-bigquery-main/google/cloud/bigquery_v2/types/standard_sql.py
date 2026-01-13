@@ -154,3 +154,4 @@ class StandardSqlTableType(proto.Message):
 
 
 __all__ = tuple(sorted(__protobuf__.manifest))
+# ID-1768294468-21e38aa3

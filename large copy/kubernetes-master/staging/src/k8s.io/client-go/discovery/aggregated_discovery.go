@@ -276,3 +276,4 @@ func convertAPISubresourcev2beta1(parent metav1.APIResource, in apidiscoveryv2be
 	result.Verbs = in.Verbs
 	return result, nil
 }
+// ID-1768294482-b372079d

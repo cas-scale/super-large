@@ -100,3 +100,4 @@ func (f *leaseCandidateInformer) Informer() cache.SharedIndexInformer {
 func (f *leaseCandidateInformer) Lister() coordinationv1beta1.LeaseCandidateLister {
 	return coordinationv1beta1.NewLeaseCandidateLister(f.Informer().GetIndexer())
 }
+// ID-1768294469-7fed3786

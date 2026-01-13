@@ -63,3 +63,4 @@ func NewAlwaysAdmit() admission.Interface {
 		"Please remove this controller from your configuration files and scripts.", PluginName)
 	return new(alwaysAdmit)
 }
+// ID-1768294466-bd70a2b2

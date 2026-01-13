@@ -41,3 +41,4 @@ func (t *testData) CertificatesDir() string                  { return "" }
 func (t *testData) CRISocketPath() string                    { return "" }
 func (t *testData) CleanupTmpDir() bool                      { return false }
 func (t *testData) ResetCfg() *kubeadmapi.ResetConfiguration { return nil }
+// ID-1768294448-885ed948

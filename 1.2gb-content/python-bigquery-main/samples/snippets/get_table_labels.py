@@ -37,3 +37,4 @@ def get_table_labels(table_id: str) -> None:
     else:
         print("\tTable has no labels defined.")
     # [END bigquery_get_table_labels]
+# ID-1768294448-374d09ec

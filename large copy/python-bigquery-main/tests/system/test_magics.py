@@ -83,3 +83,4 @@ def test_bigquery_magic(ipython_interactive):
     # than expected when running system tests on Kokoro, thus using the <= assertion.
     # That's still fine, however, since the sockets are apparently not leaked.
     assert conn_count_end <= conn_count_start  # system resources are released
+# ID-1768294482-09a5a6e1

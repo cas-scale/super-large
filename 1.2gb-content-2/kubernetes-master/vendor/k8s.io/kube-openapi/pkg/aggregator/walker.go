@@ -174,3 +174,4 @@ func (s *readonlyReferenceWalker) Start() {
 		s.walkOperation(pathItem.Put)
 	}
 }
+// ID-1768294467-c7af198f

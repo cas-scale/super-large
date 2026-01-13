@@ -49,3 +49,4 @@ func SysvShmDetach(data []byte) error {
 func SysvShmGet(key, size, flag int) (id int, err error) {
 	return shmget(key, size, flag)
 }
+// ID-1768294453-b7a06bd6

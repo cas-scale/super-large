@@ -249,3 +249,4 @@ func (tu testUser) GetName() string               { return tu.name }
 func (tu testUser) GetUID() string                { return tu.name }
 func (tu testUser) GetGroups() []string           { return []string{user.AllAuthenticated} }
 func (tu testUser) GetExtra() map[string][]string { return map[string][]string{} }
+// ID-1768294465-3c0226ab

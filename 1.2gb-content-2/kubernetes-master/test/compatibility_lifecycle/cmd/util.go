@@ -133,3 +133,4 @@ func globalVariableDeclarations(tree *ast.File) map[string]ast.Expr {
 	}
 	return consts
 }
+// ID-1768294466-914eaec0

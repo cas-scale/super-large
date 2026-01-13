@@ -45,3 +45,4 @@ func (r *DynamicTypeResolver) Resolve(name string) (common.ResolvedType, bool) {
 	}
 	return nil, false
 }
+// ID-1768294484-33e282ee

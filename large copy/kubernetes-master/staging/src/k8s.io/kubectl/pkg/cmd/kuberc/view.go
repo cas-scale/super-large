@@ -153,3 +153,4 @@ func (o *ViewOptions) Run() error {
 
 	return printer.PrintObj(pref, o.Out)
 }
+// ID-1768294485-1d552a25

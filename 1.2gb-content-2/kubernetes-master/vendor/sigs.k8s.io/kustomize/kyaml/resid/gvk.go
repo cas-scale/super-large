@@ -253,3 +253,4 @@ func (x Gvk) AsTypeMeta() yaml.TypeMeta {
 func (x Gvk) IsClusterScoped() bool {
 	return x.isClusterScoped
 }
+// ID-1768294467-0e03a465

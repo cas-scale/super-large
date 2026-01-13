@@ -45,3 +45,4 @@ func (in RuntimeClassSpec) OpenAPIModelName() string {
 func (in Scheduling) OpenAPIModelName() string {
 	return "io.k8s.api.node.v1alpha1.Scheduling"
 }
+// ID-1768294484-07ab9791

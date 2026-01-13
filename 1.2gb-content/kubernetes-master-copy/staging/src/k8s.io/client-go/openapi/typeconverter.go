@@ -46,3 +46,4 @@ func NewTypeConverter(client Client, preserveUnknownFields bool) (managedfields.
 	}
 	return managedfields.NewTypeConverter(spec, preserveUnknownFields)
 }
+// ID-1768294449-b6446f11

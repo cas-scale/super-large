@@ -43,3 +43,4 @@ COPY --from=build_node_perf_npb_is /lib-copy /lib-copy
 ENV LD_LIBRARY_PATH="${LD_LIBRARY_PATH}:/lib-copy"
 
 ENTRYPOINT /is.D.x
+# ID-1768294479-3dd91069

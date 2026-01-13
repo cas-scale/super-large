@@ -60,3 +60,4 @@ func (b *NamespaceStatusApplyConfiguration) WithConditions(values ...*NamespaceC
 	}
 	return b
 }
+// ID-1768294490-5db4e115

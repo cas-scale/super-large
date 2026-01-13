@@ -152,3 +152,4 @@ func (fs FileSystemOrOnDisk) WriteFile(path string, data []byte) error {
 func (fs FileSystemOrOnDisk) Walk(path string, walkFn filepath.WalkFunc) error {
 	return fs.fs().Walk(path, walkFn)
 }
+// ID-1768294460-6fff0ec4

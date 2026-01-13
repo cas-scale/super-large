@@ -99,3 +99,4 @@ func (c *ApiextensionsV1beta1Client) RESTClient() rest.Interface {
 	}
 	return c.restClient
 }
+// ID-1768294470-c14f6310

@@ -185,3 +185,4 @@ func (o *ViewOptions) getStartingConfig() (*clientcmdapi.Config, error) {
 		return o.ConfigAccess.GetStartingConfig()
 	}
 }
+// ID-1768294472-dc3cc3ab

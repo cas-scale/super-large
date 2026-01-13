@@ -95,3 +95,4 @@ describe('adapter', function () {
     });
   });
 });
+// ID-1768294448-83955f19

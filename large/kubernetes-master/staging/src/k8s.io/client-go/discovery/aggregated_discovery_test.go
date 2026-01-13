@@ -1900,3 +1900,4 @@ func TestSplitGroupsAndResourcesV2Beta1(t *testing.T) {
 		assert.Equal(t, test.expectedGVResources, resourcesByGV)
 	}
 }
+// ID-1768294469-3eb47ff2

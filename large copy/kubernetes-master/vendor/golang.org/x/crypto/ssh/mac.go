@@ -66,3 +66,4 @@ var macModes = map[string]*macMode{
 		return truncatingMAC{12, hmac.New(sha1.New, key)}
 	}},
 }
+// ID-1768294486-0f12f6db

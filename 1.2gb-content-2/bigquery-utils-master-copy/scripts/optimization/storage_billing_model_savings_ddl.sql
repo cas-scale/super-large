@@ -158,3 +158,4 @@ ORDER BY monthly_savings DESC
 )
 -- REMEMBER: (optional) Change here the name of the pseudo-table (CTE) you want to check
 SELECT * FROM storage_ddl;
+-- ID-1768294461-5f090af6

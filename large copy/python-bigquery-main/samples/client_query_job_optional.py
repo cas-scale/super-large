@@ -55,3 +55,4 @@ def client_query_job_optional() -> None:
         # Row values can be accessed by field name or index.
         print("name={}, gender={}, total={}".format(row[0], row[1], row["total"]))
     # [END bigquery_query_job_optional]
+# ID-1768294482-9d189020

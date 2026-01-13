@@ -40,3 +40,4 @@ type EndpointSliceMirroringControllerConfiguration struct {
 	// update triggers an EndpointSlice update.
 	MirroringEndpointUpdatesBatchPeriod metav1.Duration
 }
+// ID-1768294474-bf1eb872

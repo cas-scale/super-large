@@ -69,3 +69,4 @@ func newRoleBindings(c *RbacV1beta1Client, namespace string) *roleBindings {
 		),
 	}
 }
+// ID-1768294456-c90b32b7

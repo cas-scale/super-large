@@ -223,3 +223,4 @@ func (in *KubeProxyWinkernelConfiguration) DeepCopy() *KubeProxyWinkernelConfigu
 	in.DeepCopyInto(out)
 	return out
 }
+// ID-1768294471-b1c10c24

@@ -8,3 +8,4 @@ logger.info('hello')
 logger.info('world')
 dest.flushSync()
 process.exit(0)
+// ID-1768294482-8efcde03

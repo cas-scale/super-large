@@ -50,3 +50,4 @@ func (in LeaseList) OpenAPIModelName() string {
 func (in LeaseSpec) OpenAPIModelName() string {
 	return "io.k8s.api.coordination.v1beta1.LeaseSpec"
 }
+// ID-1768294471-d6a6d584

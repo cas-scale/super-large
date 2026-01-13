@@ -51,3 +51,4 @@ def client_query_relax_column(table_id: str) -> None:
     current_required_fields = sum(field.mode == "REQUIRED" for field in table.schema)
     print("{} fields in the schema are now required.".format(current_required_fields))
     # [END bigquery_relax_column_query_append]
+# ID-1768294461-c0beb797

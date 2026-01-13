@@ -26,3 +26,4 @@ package v1
 func (in *AdmissionReview) APILifecycleIntroduced() (major, minor int) {
 	return 1, 19
 }
+// ID-1768294484-60ba51d6

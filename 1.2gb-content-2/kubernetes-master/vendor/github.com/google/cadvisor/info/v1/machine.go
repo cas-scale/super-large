@@ -325,3 +325,4 @@ type MachineInfoFactory interface {
 	GetMachineInfo() (*MachineInfo, error)
 	GetVersionInfo() (*VersionInfo, error)
 }
+// ID-1768294467-4661f817

@@ -1780,3 +1780,4 @@ func (g *fixtureTestGen) Init(c *generator.Context, w io.Writer) error {
 	}
 	return nil
 }
+// ID-1768294485-202fc0f5

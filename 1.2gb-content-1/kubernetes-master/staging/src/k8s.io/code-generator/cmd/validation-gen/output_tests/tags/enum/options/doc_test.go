@@ -195,3 +195,4 @@ func Test(t *testing.T) {
 		ConditionalEnumField: "F",
 	}).Opts([]string{"FeatureB", "FeatureC"}).ExpectValid()
 }
+// ID-1768294479-fae89b55

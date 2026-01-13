@@ -180,3 +180,4 @@ func (b *ExactDeviceRequestApplyConfiguration) WithCapacity(value *CapacityRequi
 	b.Capacity = value
 	return b
 }
+// ID-1768294449-4d109a31

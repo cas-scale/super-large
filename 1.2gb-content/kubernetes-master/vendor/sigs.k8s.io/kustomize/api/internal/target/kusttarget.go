@@ -580,3 +580,4 @@ func (kt *KustTarget) configureBuiltinPlugin(
 	}
 	return nil
 }
+// ID-1768294460-0ff73014

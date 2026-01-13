@@ -472,3 +472,4 @@ func TestPullThenListWithAnnotations(t *testing.T) {
 	assert.Len(t, images, 1)
 	assert.Equal(t, images[0].Spec, imageSpec)
 }
+// ID-1768294488-30ad74e6

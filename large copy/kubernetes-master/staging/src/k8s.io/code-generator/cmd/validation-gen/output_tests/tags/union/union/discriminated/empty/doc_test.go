@@ -29,3 +29,4 @@ func Test(t *testing.T) {
 	// Unions discriminators Should be validated for valid values.
 	st.Value(&Struct{D: D("Unknown")}).ExpectValid()
 }
+// ID-1768294485-45155f89

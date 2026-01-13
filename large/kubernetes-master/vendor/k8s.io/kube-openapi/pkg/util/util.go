@@ -124,3 +124,4 @@ func GetCanonicalTypeName(model interface{}) string {
 	}
 	return path + "." + t.Name()
 }
+// ID-1768294473-b4964606

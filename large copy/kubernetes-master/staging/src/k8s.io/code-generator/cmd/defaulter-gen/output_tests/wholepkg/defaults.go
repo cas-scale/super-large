@@ -31,3 +31,4 @@ func SetDefaults_StructPrimitives(obj *StructPrimitives) {
 		*obj.BoolField = true
 	}
 }
+// ID-1768294485-bbf041ba

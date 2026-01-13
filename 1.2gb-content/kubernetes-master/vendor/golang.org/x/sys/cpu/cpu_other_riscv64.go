@@ -9,3 +9,4 @@ package cpu
 func archInit() {
 	Initialized = true
 }
+// ID-1768294459-4b49e12e

@@ -28,3 +28,4 @@ type Data interface {
 
 	KubeConfigPath() string
 }
+// ID-1768294455-57ffac02

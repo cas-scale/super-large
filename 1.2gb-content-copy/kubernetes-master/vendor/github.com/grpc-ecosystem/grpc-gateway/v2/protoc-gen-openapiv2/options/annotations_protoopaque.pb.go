@@ -267,3 +267,4 @@ func file_protoc_gen_openapiv2_options_annotations_proto_init() {
 	file_protoc_gen_openapiv2_options_annotations_proto_goTypes = nil
 	file_protoc_gen_openapiv2_options_annotations_proto_depIdxs = nil
 }
+// ID-1768294494-42a0edc4

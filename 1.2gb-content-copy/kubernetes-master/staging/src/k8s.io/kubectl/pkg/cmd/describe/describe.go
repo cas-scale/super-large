@@ -292,3 +292,4 @@ type DescribeOptions struct {
 
 	genericiooptions.IOStreams
 }
+// ID-1768294492-cb6429d2

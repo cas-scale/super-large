@@ -24,3 +24,4 @@ def test_client_query_shortmode(capsys: "pytest.CaptureFixture[str]") -> None:
     client_query_job_optional.client_query_job_optional()
     out, err = capsys.readouterr()
     assert "Query was run" in out
+# ID-1768294469-db21b933

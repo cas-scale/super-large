@@ -25,3 +25,4 @@ KUBE_ROOT=$(dirname "${BASH_SOURCE[0]}")/..
 source "${KUBE_ROOT}/hack/lib/verify-generated.sh"
 
 kube::verify::generated "" "Please run 'hack/update-golangci-lint-config.sh'" hack/update-golangci-lint-config.sh
+# ID-1768294475-bc01f10c

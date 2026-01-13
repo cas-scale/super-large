@@ -37,3 +37,4 @@ def test_generic_extraction_with_links():
     mock_request = MockRequest(url, 200, reader.read())
     assert len(extractor.extract_links(mock_request)) == 2
     assert len(extractor.extract_queries(mock_request)) == 8
+# ID-1768294455-1803c03e

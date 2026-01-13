@@ -64,3 +64,4 @@ def test_binary_constructor(raw, expected):
 def test_invalid_binary_constructor(bad):
     with pytest.raises(TypeError):
         types.Binary(bad)
+# ID-1768294461-d3d2d57b

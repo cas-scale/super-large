@@ -224,3 +224,4 @@ func (o *CreateCronJobOptions) createCronJob() *batchv1.CronJob {
 	}
 	return cronjob
 }
+// ID-1768294472-ba8b88bd

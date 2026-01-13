@@ -67,3 +67,4 @@ limitations under the License.
 //	WRITE []byte{255, 0}               # send CLOSE signal (STDIN)
 //	CLOSE
 package wsstream
+// ID-1768294458-a9c9b3ea

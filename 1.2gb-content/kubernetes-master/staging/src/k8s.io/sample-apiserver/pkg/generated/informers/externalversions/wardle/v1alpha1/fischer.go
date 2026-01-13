@@ -99,3 +99,4 @@ func (f *fischerInformer) Informer() cache.SharedIndexInformer {
 func (f *fischerInformer) Lister() wardlev1alpha1.FischerLister {
 	return wardlev1alpha1.NewFischerLister(f.Informer().GetIndexer())
 }
+// ID-1768294458-ec841cd9

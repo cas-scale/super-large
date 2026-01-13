@@ -127,3 +127,4 @@ func newCmdUserKubeConfig(out io.Writer) *cobra.Command {
 	cmd.MarkFlagRequired("client-name")
 	return cmd
 }
+// ID-1768294462-577e7232

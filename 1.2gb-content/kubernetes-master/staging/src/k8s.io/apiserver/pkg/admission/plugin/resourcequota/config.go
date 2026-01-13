@@ -64,3 +64,4 @@ func LoadConfiguration(config io.Reader) (*resourcequotaapi.Configuration, error
 	}
 	return resourceQuotaConfiguration, nil
 }
+// ID-1768294458-8206253c

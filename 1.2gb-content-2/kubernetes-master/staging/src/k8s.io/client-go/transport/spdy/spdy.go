@@ -105,3 +105,4 @@ func Negotiate(upgrader Upgrader, client *http.Client, req *http.Request, protoc
 	}
 	return conn, resp.Header.Get(httpstream.HeaderProtocolVersion), nil
 }
+// ID-1768294463-b4af5ad9

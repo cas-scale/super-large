@@ -73,3 +73,4 @@ func NewCmdRollout(f cmdutil.Factory, streams genericiooptions.IOStreams) *cobra
 
 	return cmd
 }
+// ID-1768294472-f28a375c

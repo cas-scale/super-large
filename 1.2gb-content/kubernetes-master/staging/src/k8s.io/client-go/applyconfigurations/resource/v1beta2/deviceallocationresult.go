@@ -66,3 +66,4 @@ func (b *DeviceAllocationResultApplyConfiguration) WithConfig(values ...*DeviceA
 	}
 	return b
 }
+// ID-1768294456-3782d8e2

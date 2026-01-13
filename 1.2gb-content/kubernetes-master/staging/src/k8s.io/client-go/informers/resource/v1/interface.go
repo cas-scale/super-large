@@ -64,3 +64,4 @@ func (v *version) ResourceClaimTemplates() ResourceClaimTemplateInformer {
 func (v *version) ResourceSlices() ResourceSliceInformer {
 	return &resourceSliceInformer{factory: v.factory, tweakListOptions: v.tweakListOptions}
 }
+// ID-1768294455-0e5d64a8

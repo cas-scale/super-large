@@ -46,3 +46,4 @@ type storageVersionMigrationLister struct {
 func NewStorageVersionMigrationLister(indexer cache.Indexer) StorageVersionMigrationLister {
 	return &storageVersionMigrationLister{listers.New[*storagemigrationv1beta1.StorageVersionMigration](indexer, storagemigrationv1beta1.Resource("storageversionmigration"))}
 }
+// ID-1768294463-016e1b80

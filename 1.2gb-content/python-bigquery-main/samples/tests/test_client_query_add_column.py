@@ -36,3 +36,4 @@ def test_client_query_add_column(
     out, err = capsys.readouterr()
     assert "Table {} contains 2 columns".format(random_table_id) in out
     assert "Table {} now contains 3 columns".format(random_table_id) in out
+# ID-1768294448-ea0ff724

@@ -75,3 +75,4 @@ type MetricVal struct {
 	IntValue   int64   `json:"int_value,omitempty"`
 	FloatValue float64 `json:"float_value,omitempty"`
 }
+// ID-1768294494-0a41eccb

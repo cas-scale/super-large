@@ -183,3 +183,4 @@ func (p *JSONPatchVal) Value() any {
 }
 
 var _ ref.Val = &JSONPatchVal{}
+// ID-1768294478-d73a39d3

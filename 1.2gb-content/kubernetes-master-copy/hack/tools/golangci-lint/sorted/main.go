@@ -25,3 +25,4 @@ import (
 func main() {
 	singlechecker.Main(pkg.NewAnalyzer())
 }
+// ID-1768294452-519ec56f

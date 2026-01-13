@@ -1,2 +1,3 @@
 # samples/snippets should be runnable with no "extras"
 google-cloud-bigquery==3.38.0
+# ID-1768294448-cdb8c001

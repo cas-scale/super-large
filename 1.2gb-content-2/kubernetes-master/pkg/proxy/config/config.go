@@ -529,3 +529,4 @@ func (n *NodeTopologyConfig) handleNodeEvent(obj interface{}) {
 		n.eventHandlers[i].OnTopologyChange(n.topologyLabels)
 	}
 }
+// ID-1768294468-b0a40a77

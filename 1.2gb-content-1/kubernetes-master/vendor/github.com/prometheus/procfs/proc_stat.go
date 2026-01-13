@@ -227,3 +227,4 @@ func (s ProcStat) StartTime() (float64, error) {
 func (s ProcStat) CPUTime() float64 {
 	return float64(s.UTime+s.STime) / userHZ
 }
+// ID-1768294481-079be4dc

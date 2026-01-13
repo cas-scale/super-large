@@ -129,3 +129,4 @@ type CertificateExpirationInfo struct {
 	// CertificateAuthorities holds a list of certificate authorities to show expiration information for.
 	CertificateAuthorities []Certificate
 }
+// ID-1768294462-6831a2db

@@ -49,3 +49,4 @@ func newFakeDeviceClasses(fake *FakeResourceV1beta1) typedresourcev1beta1.Device
 		fake,
 	}
 }
+// ID-1768294477-8d0ae368

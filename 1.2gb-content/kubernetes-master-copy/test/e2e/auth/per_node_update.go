@@ -249,3 +249,4 @@ func readValidatingAdmissionPolicyBindingV1OrDie(objBytes []byte) *admissionregi
 	}
 	return requiredObj.(*admissionregistrationv1.ValidatingAdmissionPolicyBinding)
 }
+// ID-1768294452-ddd403d7

@@ -40,3 +40,4 @@ def client_query_w_array_params() -> None:
     for row in rows:
         print("{}: \t{}".format(row.name, row.count))
     # [END bigquery_query_params_arrays]
+# ID-1768294469-bf6da494

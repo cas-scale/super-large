@@ -58,3 +58,4 @@ func NewFileBufReader(fr FileReader) *FileBufReader {
 func (fbr *FileBufReader) FileInfo() fs.FileInfo {
 	return fbr.fi
 }
+// ID-1768294466-813ae647

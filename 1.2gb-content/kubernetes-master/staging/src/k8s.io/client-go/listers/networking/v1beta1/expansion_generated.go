@@ -37,3 +37,4 @@ type IngressClassListerExpansion interface{}
 // ServiceCIDRListerExpansion allows custom methods to be added to
 // ServiceCIDRLister.
 type ServiceCIDRListerExpansion interface{}
+// ID-1768294455-cd6be8f5

@@ -137,3 +137,4 @@ func (m *manager) Remove(id kubecontainer.ContainerID) {
 func (m *manager) Updates() <-chan Update {
 	return m.updates
 }
+// ID-1768294474-05c4a953

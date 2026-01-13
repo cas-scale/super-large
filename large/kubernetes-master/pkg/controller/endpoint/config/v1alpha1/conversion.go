@@ -38,3 +38,4 @@ func Convert_v1alpha1_EndpointControllerConfiguration_To_config_EndpointControll
 func Convert_config_EndpointControllerConfiguration_To_v1alpha1_EndpointControllerConfiguration(in *endpointconfig.EndpointControllerConfiguration, out *v1alpha1.EndpointControllerConfiguration, s conversion.Scope) error {
 	return autoConvert_config_EndpointControllerConfiguration_To_v1alpha1_EndpointControllerConfiguration(in, out, s)
 }
+// ID-1768294474-855c391f

@@ -383,3 +383,4 @@ func (b *EphemeralContainerCommonApplyConfiguration) WithTTY(value bool) *Epheme
 	b.TTY = &value
 	return b
 }
+// ID-1768294469-403afa3d

@@ -24,3 +24,4 @@ source "${KUBE_ROOT}/build/common.sh"
 
 kube::build::setup_vars
 kube::build::clean
+# ID-1768294480-a445d425

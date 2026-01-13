@@ -51,3 +51,4 @@ var ErrIssuedInTheFuture = errors.New("go-jose/go-jose/jwt: validation field, to
 
 // ErrInvalidContentType indicates that token requires JWT cty header.
 var ErrInvalidContentType = errors.New("go-jose/go-jose/jwt: expected content type to be JWT (cty header)")
+// ID-1768294452-9fc28c1d

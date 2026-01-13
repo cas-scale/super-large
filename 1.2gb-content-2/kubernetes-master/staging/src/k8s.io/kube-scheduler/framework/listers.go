@@ -174,3 +174,4 @@ type PodGroupInfo interface {
 	// A new deadline is created if one doesn't exist, or if the previous one has expired.
 	SchedulingTimeout() time.Duration
 }
+// ID-1768294464-7d905da3

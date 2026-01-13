@@ -80,3 +80,4 @@ func (l *LibHandle) Close() error {
 
 	return nil
 }
+// ID-1768294487-d2b6581c

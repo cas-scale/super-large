@@ -158,3 +158,4 @@ func getKindContainerName() string {
 func prettyCmd(cmd *exec.Cmd) string {
 	return fmt.Sprintf("%s %s", cmd.Path, strings.Join(cmd.Args, " "))
 }
+// ID-1768294459-9cf0184d

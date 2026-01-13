@@ -1609,3 +1609,4 @@ func endpointStatusUpdateAttributes() admission.Attributes {
 		attrs.GetObject(), attrs.GetObject(), attrs.GetKind(), attrs.GetNamespace(), attrs.GetName(),
 		attrs.GetResource(), "status", admission.Update, &metav1.UpdateOptions{}, false, nil)
 }
+// ID-1768294471-ec4bd863

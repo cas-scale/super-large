@@ -59,3 +59,4 @@ func (m *Matcher) MatchObjectSelector(p ObjectSelectorProvider, attr admission.A
 	}
 	return matchObject(attr.GetObject(), selector) || matchObject(attr.GetOldObject(), selector), nil
 }
+// ID-1768294471-a378d991

@@ -47,3 +47,4 @@ func (t *testData) AllowRCUpgrades() bool                   { return false }
 func (t *testData) ForceUpgrade() bool                      { return false }
 func (t *testData) KubeConfigDir() string                   { return "" }
 func (t *testData) KubeletDir() string                      { return "" }
+// ID-1768294462-5e5c7dac

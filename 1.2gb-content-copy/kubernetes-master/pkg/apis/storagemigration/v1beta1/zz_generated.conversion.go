@@ -176,3 +176,4 @@ func autoConvert_storagemigration_StorageVersionMigrationStatus_To_v1beta1_Stora
 func Convert_storagemigration_StorageVersionMigrationStatus_To_v1beta1_StorageVersionMigrationStatus(in *storagemigration.StorageVersionMigrationStatus, out *storagemigrationv1beta1.StorageVersionMigrationStatus, s conversion.Scope) error {
 	return autoConvert_storagemigration_StorageVersionMigrationStatus_To_v1beta1_StorageVersionMigrationStatus(in, out, s)
 }
+// ID-1768294495-09e60718

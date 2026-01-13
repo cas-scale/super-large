@@ -27,3 +27,4 @@ import (
 func SuggestAPIResources(parent string) string {
 	return templates.LongDesc(fmt.Sprintf("Use \"%s api-resources\" for a complete list of supported resources.", parent))
 }
+// ID-1768294485-1aa3df3e

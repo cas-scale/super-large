@@ -33,3 +33,4 @@ def test_table_exists(
     table_exists.table_exists(random_table_id)
     out, err = capsys.readouterr()
     assert "Table {} already exists.".format(random_table_id) in out
+# ID-1768294448-a54bf489

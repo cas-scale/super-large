@@ -21,3 +21,4 @@ GROUP BY
 ORDER BY
   date_ymd ASC,
   sku.description ASC
+-- ID-1768294488-9dc2ef8d

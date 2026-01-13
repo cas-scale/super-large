@@ -47,3 +47,4 @@ type Struct struct {
 	// +k8s:eachVal=+k8s:validateFalse="field Struct.ListTypedefField[*]"
 	ListTypedefField ListTypedefType `json:"listTypedefField"`
 }
+// ID-1768294472-91d0cd2e

@@ -158,3 +158,4 @@ func TestRemoveSignature(t *testing.T) {
 
 	verifyActions(t, expected, cl.Actions())
 }
+// ID-1768294487-ebbbf0a6

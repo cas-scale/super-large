@@ -38,3 +38,4 @@ func (d *srvDiscover) Discover(domain string, serviceName string) ([]string, err
 	}
 	return srvs.Endpoints, nil
 }
+// ID-1768294459-21cc74c2

@@ -72,3 +72,4 @@ type ClusterTestType struct {
 type ClusterTestTypeStatus struct {
 	Blah string `json:"blah"`
 }
+// ID-1768294465-128d0fb8

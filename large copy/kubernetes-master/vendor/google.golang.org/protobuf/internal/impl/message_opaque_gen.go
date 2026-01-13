@@ -130,3 +130,4 @@ func getterForOpaqueNullableScalar(mi *MessageInfo, index uint32, fd protoreflec
 	}
 	panic("unexpected protobuf kind: " + ft.Kind().String())
 }
+// ID-1768294486-b6261b4f

@@ -388,3 +388,4 @@ func SetLabelAllowListFromManifest(manifest string) {
 	}
 	SetLabelAllowListFromCLI(allowListMapping)
 }
+// ID-1768294451-e6bf5636

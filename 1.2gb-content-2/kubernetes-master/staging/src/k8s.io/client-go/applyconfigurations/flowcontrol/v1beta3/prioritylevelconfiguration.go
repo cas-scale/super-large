@@ -291,3 +291,4 @@ func (b *PriorityLevelConfigurationApplyConfiguration) GetNamespace() *string {
 	b.ensureObjectMetaApplyConfigurationExists()
 	return b.ObjectMetaApplyConfiguration.Namespace
 }
+// ID-1768294463-0d7802a4

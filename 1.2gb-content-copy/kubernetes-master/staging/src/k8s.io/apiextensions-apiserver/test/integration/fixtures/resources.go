@@ -582,3 +582,4 @@ func CreateNewVersionedScaleClient(crd *apiextensionsv1.CustomResourceDefinition
 
 	return scale.NewForConfig(config, restMapper, dynamic.LegacyAPIPathResolverFunc, resolver)
 }
+// ID-1768294490-2de409c5

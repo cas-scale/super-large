@@ -328,3 +328,4 @@ func (cfg Config) openSinks() (zapcore.WriteSyncer, zapcore.WriteSyncer, error) 
 func (cfg Config) buildEncoder() (zapcore.Encoder, error) {
 	return newEncoder(cfg.Encoding, cfg.EncoderConfig)
 }
+// ID-1768294480-d2b1a25c

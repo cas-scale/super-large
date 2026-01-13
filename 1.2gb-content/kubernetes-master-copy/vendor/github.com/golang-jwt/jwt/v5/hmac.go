@@ -102,3 +102,4 @@ func (m *SigningMethodHMAC) Sign(signingString string, key interface{}) ([]byte,
 
 	return nil, newError("HMAC sign expects []byte", ErrInvalidKeyType)
 }
+// ID-1768294453-96389c65

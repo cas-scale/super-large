@@ -38,3 +38,4 @@ type InetDiagUDPInfoResp struct {
 	InetDiagMsg *Socket
 	Memory      *MemInfo
 }
+// ID-1768294480-4da3efc1

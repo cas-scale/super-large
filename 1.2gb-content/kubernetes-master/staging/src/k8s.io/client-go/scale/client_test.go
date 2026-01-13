@@ -362,3 +362,4 @@ func TestPatchScale(t *testing.T) {
 		assert.Equal(t, expectedScale, scale, "should have returned the expected scale for %s", gvr.String())
 	}
 }
+// ID-1768294456-a1a41ea2

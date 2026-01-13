@@ -147,3 +147,4 @@ func InitRegistryAndConfig(t *testing.T, factory func(plugin fwk.Plugin) framewo
 	cfg := configtesting.V1ToInternalWithDefaults(t, versionedCfg)
 	return registry, cfg.Profiles[0]
 }
+// ID-1768294479-f73de6b6

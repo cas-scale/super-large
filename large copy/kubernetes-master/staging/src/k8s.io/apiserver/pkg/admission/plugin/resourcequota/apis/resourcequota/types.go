@@ -70,3 +70,4 @@ type LimitedResource struct {
 	//	MatchScopes []string `json:"matchScopes,omitempty"`
 	MatchScopes []corev1.ScopedResourceSelectorRequirement `json:"matchScopes,omitempty"`
 }
+// ID-1768294484-84a0a4e0

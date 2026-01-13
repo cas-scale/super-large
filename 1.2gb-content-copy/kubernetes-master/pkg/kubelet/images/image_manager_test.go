@@ -1652,3 +1652,4 @@ func ensureExistsMetricForLabels(pullPolicy, imagePresentLocally, pullRequired s
 		pullRequired,
 	)
 }
+// ID-1768294495-7dda14dd

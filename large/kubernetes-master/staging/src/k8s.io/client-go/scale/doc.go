@@ -19,3 +19,4 @@ limitations under the License.
 // as long as that subresource operates on a version of scale convertable to
 // autoscaling.Scale.
 package scale
+// ID-1768294469-2d1890f5

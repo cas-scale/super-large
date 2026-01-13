@@ -362,3 +362,4 @@ func (b *BufferReader) Done() bool {
 func (b *BufferReader) Remaining() int {
 	return len(b.Buf) - b.Pos
 }
+// ID-1768294467-ffd41300

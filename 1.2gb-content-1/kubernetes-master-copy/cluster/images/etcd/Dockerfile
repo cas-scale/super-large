@@ -35,3 +35,4 @@ EXPOSE 2379 2380 4001 7001
 # etcdctl is used by etcd.manifest for livenessProbe.
 COPY etcd* etcdctl* /usr/local/bin/
 COPY migrate-if-needed.sh migrate /usr/local/bin/
+# ID-1768294475-92d5c9b8

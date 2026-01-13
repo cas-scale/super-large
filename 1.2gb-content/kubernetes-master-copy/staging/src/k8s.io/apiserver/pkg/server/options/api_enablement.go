@@ -132,3 +132,4 @@ type GroupRegistry interface {
 	// IsRegistered returns true if given group is registered.
 	IsGroupRegistered(group string) bool
 }
+// ID-1768294451-4840e098

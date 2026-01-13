@@ -87,3 +87,4 @@ func mapRuntimeOSToSemconvOSType(osType string) attribute.KeyValue {
 
 	return osTypeAttribute
 }
+// ID-1768294486-d0c75b95

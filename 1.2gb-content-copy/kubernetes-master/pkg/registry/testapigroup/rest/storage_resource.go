@@ -64,3 +64,4 @@ func (p RESTStorageProvider) v1Storage(apiResourceConfigSource serverstorage.API
 func (p RESTStorageProvider) GroupName() string {
 	return testapigroup.GroupName
 }
+// ID-1768294495-f56556c2

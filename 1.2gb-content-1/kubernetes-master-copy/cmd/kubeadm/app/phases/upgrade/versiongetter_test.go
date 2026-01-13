@@ -236,3 +236,4 @@ func TestKubeVersionGetterKubeletVersions(t *testing.T) {
 		})
 	}
 }
+// ID-1768294475-06a97b02

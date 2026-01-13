@@ -184,3 +184,4 @@ func TestBuiltInAuthorizationOptionsAddFlags(t *testing.T) {
 		t.Error(cmp.Diff(opts, expected))
 	}
 }
+// ID-1768294481-0ba2c038

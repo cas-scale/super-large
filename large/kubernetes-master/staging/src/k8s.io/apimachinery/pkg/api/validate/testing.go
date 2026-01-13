@@ -33,3 +33,4 @@ func FixedResult[T any](_ context.Context, op operation.Operation, fldPath *fiel
 		field.Invalid(fldPath, value, "forced failure: "+arg).WithOrigin("validateFalse"),
 	}
 }
+// ID-1768294472-29aaaa2b

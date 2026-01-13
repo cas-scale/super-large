@@ -180,3 +180,4 @@ func file_openapiv3_annotations_proto_init() {
 	file_openapiv3_annotations_proto_goTypes = nil
 	file_openapiv3_annotations_proto_depIdxs = nil
 }
+// ID-1768294467-ce9f3a95

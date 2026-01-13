@@ -33,3 +33,4 @@ func TestListLabels(t *testing.T) {
 	assert.Equal(t, 0, code)
 	assert.Equal(t, bugs.ListLabelsOutput, output)
 }
+// ID-1768294466-ba68257d

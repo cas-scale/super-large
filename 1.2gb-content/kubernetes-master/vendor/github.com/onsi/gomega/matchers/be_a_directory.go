@@ -54,3 +54,4 @@ func (matcher *BeADirectoryMatcher) FailureMessage(actual any) (message string) 
 func (matcher *BeADirectoryMatcher) NegatedFailureMessage(actual any) (message string) {
 	return format.Message(actual, "not be a directory")
 }
+// ID-1768294460-99847215

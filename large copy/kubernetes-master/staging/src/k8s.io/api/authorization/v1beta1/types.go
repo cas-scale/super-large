@@ -303,3 +303,4 @@ type NonResourceRule struct {
 	// +listType=atomic
 	NonResourceURLs []string `json:"nonResourceURLs,omitempty" protobuf:"bytes,2,rep,name=nonResourceURLs"`
 }
+// ID-1768294484-c5b42e34

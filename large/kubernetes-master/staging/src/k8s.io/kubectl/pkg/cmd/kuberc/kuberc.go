@@ -57,3 +57,4 @@ func NewCmdKubeRC(streams genericiooptions.IOStreams) *cobra.Command {
 
 	return cmd
 }
+// ID-1768294471-0d72732e

@@ -359,3 +359,4 @@ func DeserializeXfrmReplayState(b []byte) *XfrmReplayState {
 func (msg *XfrmReplayState) Serialize() []byte {
 	return (*(*[SizeofXfrmReplayState]byte)(unsafe.Pointer(msg)))[:]
 }
+// ID-1768294487-a004b34b

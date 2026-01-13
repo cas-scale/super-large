@@ -19,3 +19,4 @@ spec:
               type: ReplaceFullPath
               replaceFullPath: /paprika
             statusCode: 302
+# ID-1768294449-bb7cc64a

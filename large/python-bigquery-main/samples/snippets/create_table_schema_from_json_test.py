@@ -29,3 +29,4 @@ def test_create_table(
     out, _ = capsys.readouterr()
     assert "Created" in out
     assert random_table_id in out
+# ID-1768294469-c8f8c6bd

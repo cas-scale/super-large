@@ -99,3 +99,4 @@ func TestListDecoding(t *testing.T) {
 		t.Fatal(obj.GetObjectKind().GroupVersionKind())
 	}
 }
+// ID-1768294490-5bd62a4b

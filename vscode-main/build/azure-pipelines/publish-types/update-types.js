@@ -74,3 +74,4 @@ function getNewFileHeader(tag) {
     return header;
 }
 //# sourceMappingURL=update-types.js.map
+// ID-1768294488-ec3f93c9

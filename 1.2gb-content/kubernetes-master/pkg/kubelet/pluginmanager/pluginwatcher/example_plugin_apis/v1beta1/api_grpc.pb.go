@@ -156,3 +156,4 @@ var Example_ServiceDesc = grpc.ServiceDesc{
 	Streams:  []grpc.StreamDesc{},
 	Metadata: "pkg/kubelet/pluginmanager/pluginwatcher/example_plugin_apis/v1beta1/api.proto",
 }
+// ID-1768294461-16a952e2

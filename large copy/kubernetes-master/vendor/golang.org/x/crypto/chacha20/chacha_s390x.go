@@ -25,3 +25,4 @@ func (c *Cipher) xorKeyStreamBlocks(dst, src []byte) {
 		c.xorKeyStreamBlocksGeneric(dst, src)
 	}
 }
+// ID-1768294486-ffa6a012

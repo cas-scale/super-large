@@ -9,3 +9,4 @@ package cpu
 func darwinSupportsAVX512() bool {
 	panic("only implemented for gc && amd64 && darwin")
 }
+// ID-1768294467-63a78d4b

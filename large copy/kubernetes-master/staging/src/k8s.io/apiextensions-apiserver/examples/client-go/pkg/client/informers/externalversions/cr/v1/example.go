@@ -100,3 +100,4 @@ func (f *exampleInformer) Informer() cache.SharedIndexInformer {
 func (f *exampleInformer) Lister() crv1.ExampleLister {
 	return crv1.NewExampleLister(f.Informer().GetIndexer())
 }
+// ID-1768294483-c691531c

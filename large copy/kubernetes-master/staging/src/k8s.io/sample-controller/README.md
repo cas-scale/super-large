@@ -168,3 +168,4 @@ later synced here.
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for more information. Please note that [kubernetes/sample-controller](https://github.com/kubernetes/sample-controller/) is a readonly mirror repository, all development is done at [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes).
+<!-- ID-1768294484-f1479a00 -->

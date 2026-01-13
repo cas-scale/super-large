@@ -51,3 +51,4 @@ func newFakeResourceClaimTemplates(fake *FakeResourceV1beta2, namespace string) 
 		fake,
 	}
 }
+// ID-1768294449-72c44a6d

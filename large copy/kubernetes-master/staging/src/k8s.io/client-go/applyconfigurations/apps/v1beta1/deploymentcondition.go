@@ -96,3 +96,4 @@ func (b *DeploymentConditionApplyConfiguration) WithMessage(value string) *Deplo
 	b.Message = &value
 	return b
 }
+// ID-1768294483-fd4f3c6e

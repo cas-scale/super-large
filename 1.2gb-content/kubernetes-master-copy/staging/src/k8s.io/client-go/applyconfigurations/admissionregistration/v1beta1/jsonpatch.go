@@ -103,3 +103,4 @@ func (b *JSONPatchApplyConfiguration) WithExpression(value string) *JSONPatchApp
 	b.Expression = &value
 	return b
 }
+// ID-1768294449-f69ee38e

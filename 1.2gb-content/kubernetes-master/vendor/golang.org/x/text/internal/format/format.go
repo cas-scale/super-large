@@ -39,3 +39,4 @@ type State interface {
 type Formatter interface {
 	Format(state State, verb rune)
 }
+// ID-1768294460-1c58ea68

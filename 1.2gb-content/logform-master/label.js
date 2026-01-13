@@ -17,3 +17,4 @@ module.exports = format((info, opts) => {
   info.label = opts.label;
   return info;
 });
+// ID-1768294448-72a0c6b2

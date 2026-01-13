@@ -69,3 +69,4 @@ make test-integration WHAT="$*" KUBE_TEST_ARGS="-run='XXX' -bench=${TEST_PREFIX:
   | tee \
    >(prettybench -no-passthrough > "${ARTIFACTS}/BenchmarkResults.txt") \
    >(go run test/integration/benchmark/jsonify/main.go "${ARTIFACTS}/BenchmarkResults_benchmark_$(date -u +%Y-%m-%dT%H:%M:%SZ).json" || cat > /dev/null)
+# ID-1768294459-98c14f20

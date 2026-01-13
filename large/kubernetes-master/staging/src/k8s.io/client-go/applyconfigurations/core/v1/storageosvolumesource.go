@@ -90,3 +90,4 @@ func (b *StorageOSVolumeSourceApplyConfiguration) WithSecretRef(value *LocalObje
 	b.SecretRef = value
 	return b
 }
+// ID-1768294469-e0366c62

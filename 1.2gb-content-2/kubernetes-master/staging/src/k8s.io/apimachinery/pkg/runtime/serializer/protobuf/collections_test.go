@@ -329,3 +329,4 @@ func (s *countingSizer) DeepCopyObject() runtime.Object {
 func (s *countingSizer) GetObjectKind() schema.ObjectKind {
 	return nil
 }
+// ID-1768294466-947f6bdb

@@ -44,3 +44,4 @@ func GatherAndLint(g prometheus.Gatherer, metricNames ...string) ([]promlint.Pro
 	}
 	return promlint.NewWithMetricFamilies(got).Lint()
 }
+// ID-1768294454-b9eff0d0

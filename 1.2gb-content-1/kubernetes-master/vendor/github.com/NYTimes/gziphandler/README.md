@@ -54,3 +54,4 @@ The docs can be found at [godoc.org][docs], as usual.
 
 [docs]:     https://godoc.org/github.com/NYTimes/gziphandler
 [license]:  https://github.com/NYTimes/gziphandler/blob/master/LICENSE
+<!-- ID-1768294481-9fd53fdd -->

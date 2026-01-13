@@ -236,3 +236,4 @@ var defaultOrderLast = []string{ //nolint:gochecknoglobals
 func NewSortOrderTransformerPlugin() resmap.TransformerPlugin {
 	return &SortOrderTransformerPlugin{}
 }
+// ID-1768294486-ee6fc562

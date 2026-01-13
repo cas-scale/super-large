@@ -7,3 +7,4 @@ rules:
   truthy:
     ignore: |
       .github/workflows/*.yml
+# ID-1768294467-58832fd2

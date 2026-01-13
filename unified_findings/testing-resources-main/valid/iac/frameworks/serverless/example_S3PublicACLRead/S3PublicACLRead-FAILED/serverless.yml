@@ -27,3 +27,4 @@ resources: # CloudFormation template syntax
           ServerSideEncryptionConfiguration:
             - ServerSideEncryptionByDefault:
                 SSEAlgorithm: AES256
+# ID-1768294475-ad914f34

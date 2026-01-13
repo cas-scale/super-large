@@ -25,3 +25,4 @@ type GeneratorArgs struct {
 	// Local overrides to global generatorOptions field.
 	Options *GeneratorOptions `json:"options,omitempty" yaml:"options,omitempty"`
 }
+// ID-1768294453-8ac9c7d5

@@ -75,3 +75,4 @@ func Process(filename string, src []byte, opt *Options) ([]byte, error) {
 func VendorlessPath(ipath string) string {
 	return intimp.VendorlessPath(ipath)
 }
+// ID-1768294453-2f4cc2a0

@@ -28,3 +28,4 @@ const (
 	// StatefulPodTimeout is a timeout for stateful pods to change state
 	StatefulPodTimeout = 5 * time.Minute
 )
+// ID-1768294479-3a5efc93

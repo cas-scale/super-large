@@ -686,3 +686,4 @@ func getSingleCounterValueFromRegistry(t *testing.T, r metrics.Gatherer, name st
 
 	return -1
 }
+// ID-1768294484-197e340e

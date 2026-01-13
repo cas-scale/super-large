@@ -132,3 +132,4 @@ func WarningMessage(obj runtime.Object) string {
 
 	return deprecationWarning
 }
+// ID-1768294471-b6a9cad4

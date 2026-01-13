@@ -99,3 +99,4 @@ func (c *StoragemigrationV1beta1Client) RESTClient() rest.Interface {
 	}
 	return c.restClient
 }
+// ID-1768294477-9a1f6455

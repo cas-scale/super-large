@@ -120,3 +120,4 @@ type TypedefSliceOther []other.StructType
 // +k8s:eachVal=+k8s:opaqueType
 type TypedefMapOther map[other.StringType]other.StructType
 */
+// ID-1768294479-f2f55f37

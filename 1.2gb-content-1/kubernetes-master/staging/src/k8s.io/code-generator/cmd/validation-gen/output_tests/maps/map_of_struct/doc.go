@@ -45,3 +45,4 @@ type OtherStruct struct{}
 
 // +k8s:validateFalse="type OtherTypedefStruct"
 type OtherTypedefStruct OtherStruct
+// ID-1768294479-a9b1c0a2

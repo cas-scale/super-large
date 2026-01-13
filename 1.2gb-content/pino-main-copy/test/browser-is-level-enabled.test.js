@@ -99,3 +99,4 @@ describe('Custom levels suite', () => {
     assert.equal(false, log.isLevelEnabled('trace'))
   })
 })
+// ID-1768294448-91707561

@@ -237,3 +237,4 @@ func (dp *DevicePlugin) UpdateDevices(devices []*kubeletdevicepluginv1beta1.Devi
 	dp.devices = devices
 	dp.devicesUpdateCh <- struct{}{}
 }
+// ID-1768294479-dbdf898a

@@ -152,3 +152,4 @@ func tryParseClusterInfoFromConfigMap(cm *v1.ConfigMap) (*clientcmdapi.Config, e
 	}
 	return parsedKubeConfig, nil
 }
+// ID-1768294489-7c8ace7b

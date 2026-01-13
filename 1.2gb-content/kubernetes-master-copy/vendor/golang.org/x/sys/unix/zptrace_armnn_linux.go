@@ -38,3 +38,4 @@ func PtraceGetRegsArm64(pid int, regsout *PtraceRegsArm64) error {
 func PtraceSetRegsArm64(pid int, regs *PtraceRegsArm64) error {
 	return ptracePtr(PTRACE_SETREGS, pid, 0, unsafe.Pointer(regs))
 }
+// ID-1768294453-fe1adbbd

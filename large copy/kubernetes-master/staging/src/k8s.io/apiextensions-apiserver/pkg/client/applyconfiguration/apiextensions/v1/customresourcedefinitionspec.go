@@ -113,3 +113,4 @@ func (b *CustomResourceDefinitionSpecApplyConfiguration) WithPreserveUnknownFiel
 	b.PreserveUnknownFields = &value
 	return b
 }
+// ID-1768294483-0a1b0dec

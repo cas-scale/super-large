@@ -60,3 +60,4 @@ func Win32FromError(err error) uint32 {
 	}
 	return uint32(windows.ERROR_GEN_FAILURE)
 }
+// ID-1768294453-b7fd5433

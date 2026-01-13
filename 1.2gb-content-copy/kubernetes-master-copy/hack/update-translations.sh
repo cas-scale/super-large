@@ -120,3 +120,4 @@ if [[ "${generate_mo}" == "true" ]]; then
     msgfmt "${x}" -o "$(dirname "${x}")/$(basename "${x}" .po).mo"
   done
 fi
+# ID-1768294489-43fad9b8

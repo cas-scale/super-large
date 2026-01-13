@@ -301,3 +301,4 @@
 - endpoint: connectCoreV1PostNamespacedPodPortforward
   reason: Deprecated and uses a sometime unreliable SPDY protocol
   link: https://github.com/kubernetes/kubernetes/issues/133689#issuecomment-3233952615
+# ID-1768294452-abf64f91

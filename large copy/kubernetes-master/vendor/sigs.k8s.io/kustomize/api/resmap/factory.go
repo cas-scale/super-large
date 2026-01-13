@@ -143,3 +143,4 @@ func (rmF *Factory) NewResMapFromRNodeSlice(s []*yaml.RNode) (ResMap, error) {
 	}
 	return newResMapFromResourceSlice(rs)
 }
+// ID-1768294486-a21e2b62

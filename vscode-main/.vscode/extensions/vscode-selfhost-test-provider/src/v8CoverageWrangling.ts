@@ -209,3 +209,4 @@ export class OffsetToPosition {
 		return { line: line, column: offset - this.lines[line] };
 	}
 }
+// ID-1768294488-65938c7e

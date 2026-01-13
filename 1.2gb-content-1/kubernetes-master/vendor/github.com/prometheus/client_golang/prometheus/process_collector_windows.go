@@ -123,3 +123,4 @@ func (c *processCollector) describe(ch chan<- *Desc) {
 func fileTimeToSeconds(ft windows.Filetime) float64 {
 	return float64(uint64(ft.HighDateTime)<<32+uint64(ft.LowDateTime)) / 1e7
 }
+// ID-1768294481-36035a79

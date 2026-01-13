@@ -46,3 +46,4 @@ func newFakeFoos(fake *FakeSamplecontrollerV1alpha1, namespace string) samplecon
 		fake,
 	}
 }
+// ID-1768294450-85d74394

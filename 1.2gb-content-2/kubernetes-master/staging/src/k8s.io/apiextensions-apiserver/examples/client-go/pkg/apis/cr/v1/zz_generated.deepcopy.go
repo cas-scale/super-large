@@ -117,3 +117,4 @@ func (in *ExampleStatus) DeepCopy() *ExampleStatus {
 	in.DeepCopyInto(out)
 	return out
 }
+// ID-1768294463-90cdc6d8

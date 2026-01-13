@@ -49,3 +49,4 @@ func SetObjectDefaults_HorizontalPodAutoscalerList(in *autoscalingv2beta2.Horizo
 		SetObjectDefaults_HorizontalPodAutoscaler(a)
 	}
 }
+// ID-1768294454-44fcbf44

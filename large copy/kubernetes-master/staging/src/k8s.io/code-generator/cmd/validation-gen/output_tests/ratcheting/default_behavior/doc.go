@@ -151,3 +151,4 @@ type MixComparableStruct struct {
 	// +k8s:validateFalse="field NonComparable"
 	NonComparable []string `json:"NonComparable"`
 }
+// ID-1768294485-1de421ce

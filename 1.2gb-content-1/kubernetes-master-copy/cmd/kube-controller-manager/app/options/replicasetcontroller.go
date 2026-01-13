@@ -56,3 +56,4 @@ func (o *ReplicaSetControllerOptions) Validate() []error {
 	errs := []error{}
 	return errs
 }
+// ID-1768294475-94d5c5b1

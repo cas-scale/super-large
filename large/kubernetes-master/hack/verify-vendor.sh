@@ -106,3 +106,4 @@ popd >/dev/null 2>&1
 
 echo "Vendor Verified."
 # ex: ts=2 sw=2 et filetype=sh
+# ID-1768294473-6bddf0bb

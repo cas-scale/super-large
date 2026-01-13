@@ -29,3 +29,4 @@ Below is the history of checkpointing support in Kubelet.
 | allocation | Feb 28, 2025 |[Move pod resource allocation management out of the status manager](https://github.com/kubernetes/kubernetes/pull/130254) | In use
 
 Note: Dockershim has been removed from the Kubernetes project as of release 1.24, as a consequence dockershim checkpoint support has also been removed.
+<!-- ID-1768294454-5eebd0e0 -->

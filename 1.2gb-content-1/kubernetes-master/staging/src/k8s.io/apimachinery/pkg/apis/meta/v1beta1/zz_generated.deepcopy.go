@@ -58,3 +58,4 @@ func (in *PartialObjectMetadataList) DeepCopyObject() runtime.Object {
 	}
 	return nil
 }
+// ID-1768294479-2ad906c6

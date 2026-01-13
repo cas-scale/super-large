@@ -82,3 +82,4 @@ func (limitrangeStrategy) WarningsOnUpdate(ctx context.Context, obj, old runtime
 func (limitrangeStrategy) AllowUnconditionalUpdate() bool {
 	return true
 }
+// ID-1768294475-09b329cf

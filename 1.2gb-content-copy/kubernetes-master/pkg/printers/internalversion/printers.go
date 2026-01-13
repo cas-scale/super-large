@@ -3375,3 +3375,4 @@ func isPodInitializedConditionTrue(status *api.PodStatus) bool {
 	}
 	return false
 }
+// ID-1768294495-3a7f01d0

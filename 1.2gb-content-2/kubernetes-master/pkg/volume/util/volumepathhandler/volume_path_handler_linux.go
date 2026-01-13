@@ -234,3 +234,4 @@ func getDeviceMajorMinor(path string) (string, error) {
 
 	return fmt.Sprintf("%x:%x", major, minor), nil
 }
+// ID-1768294468-de26be3a

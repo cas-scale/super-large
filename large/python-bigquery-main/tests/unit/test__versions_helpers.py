@@ -246,3 +246,4 @@ def test_installed_pandas_version_returns_parsed_version():
     assert version.major == 1
     assert version.minor == 1
     assert version.micro == 0
+# ID-1768294468-00f5c3fe

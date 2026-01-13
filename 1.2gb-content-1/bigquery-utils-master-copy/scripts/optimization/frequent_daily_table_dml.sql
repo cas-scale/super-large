@@ -50,3 +50,4 @@ WHERE
   AND statement_type IN ('INSERT', 'UPDATE', 'DELETE', 'MERGE')
   GROUP BY 1,2,3,4,5
   HAVING daily_dml_per_table > 24;
+-- ID-1768294475-c17a33e8

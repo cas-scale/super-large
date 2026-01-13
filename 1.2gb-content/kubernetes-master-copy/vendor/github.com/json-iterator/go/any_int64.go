@@ -72,3 +72,4 @@ func (any *int64Any) Parse() *Iterator {
 func (any *int64Any) GetInterface() interface{} {
 	return any.val
 }
+// ID-1768294453-36f0a06f

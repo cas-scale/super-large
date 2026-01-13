@@ -26,3 +26,4 @@ type WantsInternalWardleInformerFactory interface {
 	SetInternalWardleInformerFactory(informers.SharedInformerFactory)
 	admission.InitializationValidator
 }
+// ID-1768294492-1d13f640

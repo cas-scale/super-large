@@ -26,3 +26,4 @@ func kindIs(target string, src interface{}) bool {
 func kindOf(src interface{}) string {
 	return reflect.ValueOf(src).Kind().String()
 }
+// ID-1768294474-acac4b64

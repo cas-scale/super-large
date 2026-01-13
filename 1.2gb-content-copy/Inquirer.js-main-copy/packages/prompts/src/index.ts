@@ -8,3 +8,4 @@ export { default as rawlist } from '@inquirer/rawlist';
 export { default as password } from '@inquirer/password';
 export { default as search } from '@inquirer/search';
 export { default as select } from '@inquirer/select';
+// ID-1768294488-efc5cd1e

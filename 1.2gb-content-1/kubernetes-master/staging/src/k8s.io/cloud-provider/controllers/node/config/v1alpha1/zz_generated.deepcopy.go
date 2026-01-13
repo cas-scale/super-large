@@ -36,3 +36,4 @@ func (in *NodeControllerConfiguration) DeepCopy() *NodeControllerConfiguration {
 	in.DeepCopyInto(out)
 	return out
 }
+// ID-1768294477-13cf1283

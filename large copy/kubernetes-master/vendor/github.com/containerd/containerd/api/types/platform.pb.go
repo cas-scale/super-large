@@ -192,3 +192,4 @@ func file_github_com_containerd_containerd_api_types_platform_proto_init() {
 	file_github_com_containerd_containerd_api_types_platform_proto_goTypes = nil
 	file_github_com_containerd_containerd_api_types_platform_proto_depIdxs = nil
 }
+// ID-1768294487-d1fcd2eb

@@ -25,3 +25,4 @@ type EventListerExpansion interface{}
 // EventNamespaceListerExpansion allows custom methods to be added to
 // EventNamespaceLister.
 type EventNamespaceListerExpansion interface{}
+// ID-1768294482-2ea080df

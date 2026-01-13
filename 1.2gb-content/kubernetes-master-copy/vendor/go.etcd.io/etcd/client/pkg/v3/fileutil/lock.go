@@ -22,3 +22,4 @@ import (
 var ErrLocked = errors.New("fileutil: file already locked")
 
 type LockedFile struct{ *os.File }
+// ID-1768294452-dcae05d6

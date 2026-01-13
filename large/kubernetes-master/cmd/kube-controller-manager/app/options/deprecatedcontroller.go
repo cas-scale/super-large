@@ -53,3 +53,4 @@ func (o *DeprecatedControllerOptions) Validate() []error {
 	errs := []error{}
 	return errs
 }
+// ID-1768294469-9447bd6f

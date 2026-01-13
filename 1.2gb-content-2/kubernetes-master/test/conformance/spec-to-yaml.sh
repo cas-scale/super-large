@@ -28,3 +28,4 @@ kube::golang::setup_env
 
 # convert dumped spec (see dump-spec.sh) to conformance.yaml
 go run ./test/conformance/walk.go --source="${KUBE_ROOT}" ./_output/specsummaries.json > ./_output/conformance.yaml
+# ID-1768294466-09e78953

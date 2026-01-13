@@ -41,3 +41,4 @@ type BindingAccessor interface {
 
 	GetMatchResources() *v1.MatchResources
 }
+// ID-1768294451-833c6c1b

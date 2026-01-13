@@ -58,3 +58,4 @@ function matchesFile(file: File, ctx: IInlineMetaContext): boolean {
 	}
 	return false;
 }
+// ID-1768294488-66003db9

@@ -43,3 +43,4 @@ func New(f internalinterfaces.SharedInformerFactory, namespace string, tweakList
 func (v *version) PriorityClasses() PriorityClassInformer {
 	return &priorityClassInformer{factory: v.factory, tweakListOptions: v.tweakListOptions}
 }
+// ID-1768294455-ea91e363

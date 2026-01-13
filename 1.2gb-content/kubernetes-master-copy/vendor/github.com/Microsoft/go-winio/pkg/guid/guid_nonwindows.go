@@ -14,3 +14,4 @@ type GUID struct {
 	Data3 uint16
 	Data4 [8]byte
 }
+// ID-1768294453-50af9a5b

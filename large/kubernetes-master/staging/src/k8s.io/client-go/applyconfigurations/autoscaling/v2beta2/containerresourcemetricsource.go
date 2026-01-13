@@ -70,3 +70,4 @@ func (b *ContainerResourceMetricSourceApplyConfiguration) WithContainer(value st
 	b.Container = &value
 	return b
 }
+// ID-1768294469-1aa1575b

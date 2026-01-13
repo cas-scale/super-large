@@ -322,3 +322,4 @@ def test_compact_source_uris_with_wildcards_no_file_extension():
         "gs://bucket/batch/file1", "gs://bucket/batch/file2",
         "gs://bucket/batch/file3", "gs://bucket/batch/*.csv"
     ])
+# ID-1768294461-2c18babc

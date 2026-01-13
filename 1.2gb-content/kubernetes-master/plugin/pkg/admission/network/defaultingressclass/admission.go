@@ -154,3 +154,4 @@ func getDefaultClass(lister networkingv1listers.IngressClassLister) (*networking
 
 	return defaultClasses[0], nil
 }
+// ID-1768294459-c9933b27

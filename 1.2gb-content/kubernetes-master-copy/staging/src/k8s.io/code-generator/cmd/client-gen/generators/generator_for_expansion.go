@@ -52,3 +52,4 @@ func (g *genExpansion) GenerateType(c *generator.Context, t *types.Type, w io.Wr
 var expansionInterfaceTemplate = `
 type $.|public$Expansion interface {}
 `
+// ID-1768294451-69ac51d4

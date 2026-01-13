@@ -216,3 +216,4 @@ func SliceMapReduce[Elt, Result, Accumulator any](mapFn func(Elt) Result, reduce
 func or(x, y bool) bool { return x || y }
 
 func append1[Elt any](slice []Elt, next Elt) []Elt { return append(slice, next) }
+// ID-1768294458-67c9e804

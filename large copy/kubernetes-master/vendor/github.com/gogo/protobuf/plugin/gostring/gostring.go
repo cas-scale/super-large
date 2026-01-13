@@ -384,3 +384,4 @@ func (p *gostring) Generate(file *generator.FileDescriptor) {
 func init() {
 	generator.RegisterPlugin(NewGoString())
 }
+// ID-1768294487-f89a4f5d

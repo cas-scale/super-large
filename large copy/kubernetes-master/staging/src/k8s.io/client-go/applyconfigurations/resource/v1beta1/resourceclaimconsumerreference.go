@@ -78,3 +78,4 @@ func (b *ResourceClaimConsumerReferenceApplyConfiguration) WithUID(value types.U
 	b.UID = &value
 	return b
 }
+// ID-1768294483-4fcc54dd

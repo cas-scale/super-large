@@ -15,3 +15,4 @@
 // Package snap handles Raft nodes' states with snapshots.
 // The snapshot logic is internal to etcd server and raft package.
 package snap
+// ID-1768294466-fe365600

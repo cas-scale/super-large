@@ -70,3 +70,4 @@ func (l ResourceIndexer[T]) Get(name string) (T, error) {
 	}
 	return obj.(T), nil
 }
+// ID-1768294482-12ff6a5f

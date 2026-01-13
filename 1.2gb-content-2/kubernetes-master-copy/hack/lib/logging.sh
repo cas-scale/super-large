@@ -179,3 +179,4 @@ kube::log::run() (
   fi
   exec "${@}"
 )
+# ID-1768294462-fba36d4c

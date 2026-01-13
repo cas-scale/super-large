@@ -219,3 +219,4 @@ func (c *Plugin[H]) shouldIgnoreResource(attr admission.Attributes) bool {
 	gr := gvr.GroupResource()
 	return c.excludedResources.Has(gr)
 }
+// ID-1768294484-79549649

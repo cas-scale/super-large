@@ -51,3 +51,4 @@ func PodConditionByKubelet(conditionType v1.PodConditionType) bool {
 func PodConditionSharedByKubelet(conditionType v1.PodConditionType) bool {
 	return conditionType == v1.DisruptionTarget
 }
+// ID-1768294454-aec633d2

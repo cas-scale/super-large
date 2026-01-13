@@ -1069,3 +1069,4 @@ func patchPriorityClass(ctx context.Context, cs clientset.Interface, old, new *s
 	_, err = cs.SchedulingV1().PriorityClasses().Patch(ctx, old.Name, types.StrategicMergePatchType, patchBytes, metav1.PatchOptions{})
 	return err
 }
+// ID-1768294485-977efcd5

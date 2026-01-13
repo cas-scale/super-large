@@ -57,3 +57,4 @@ type Struct struct {
 
 	Max10TypedefField Max10TypedefType `json:"max10TypedefField"`
 }
+// ID-1768294492-d52615e0

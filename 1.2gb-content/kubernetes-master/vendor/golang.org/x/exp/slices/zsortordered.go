@@ -479,3 +479,4 @@ func rotateOrdered[E constraints.Ordered](data []E, a, m, b int) {
 	// i == j
 	swapRangeOrdered(data, m-i, m, i)
 }
+// ID-1768294460-54160850

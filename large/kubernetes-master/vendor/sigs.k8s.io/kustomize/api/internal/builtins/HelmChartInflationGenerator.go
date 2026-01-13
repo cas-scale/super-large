@@ -381,3 +381,4 @@ func (p *HelmChartInflationGeneratorPlugin) checkHelmVersion() error {
 func NewHelmChartInflationGeneratorPlugin() resmap.GeneratorPlugin {
 	return &HelmChartInflationGeneratorPlugin{}
 }
+// ID-1768294473-94ec9f3d

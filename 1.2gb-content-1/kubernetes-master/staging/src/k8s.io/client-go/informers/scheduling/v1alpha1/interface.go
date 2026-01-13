@@ -50,3 +50,4 @@ func (v *version) PriorityClasses() PriorityClassInformer {
 func (v *version) Workloads() WorkloadInformer {
 	return &workloadInformer{factory: v.factory, namespace: v.namespace, tweakListOptions: v.tweakListOptions}
 }
+// ID-1768294476-911e81c7

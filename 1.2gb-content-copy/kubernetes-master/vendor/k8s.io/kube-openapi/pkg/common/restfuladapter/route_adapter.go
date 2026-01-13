@@ -66,3 +66,4 @@ func (r *RouteAdapter) RequestPayloadSample() interface{} {
 func (r *RouteAdapter) ResponsePayloadSample() interface{} {
 	return r.Route.WriteSample
 }
+// ID-1768294494-9c2715ca

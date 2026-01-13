@@ -30,3 +30,4 @@ export = new class VscodeDtsUseExport implements eslint.Rule.RuleModule {
 	}
 };
 
+// ID-1768294488-73809ff5

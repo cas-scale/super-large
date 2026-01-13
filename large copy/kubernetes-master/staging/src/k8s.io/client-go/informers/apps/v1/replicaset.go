@@ -100,3 +100,4 @@ func (f *replicaSetInformer) Informer() cache.SharedIndexInformer {
 func (f *replicaSetInformer) Lister() appsv1.ReplicaSetLister {
 	return appsv1.NewReplicaSetLister(f.Informer().GetIndexer())
 }
+// ID-1768294482-5470269b

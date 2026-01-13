@@ -104,3 +104,4 @@ I0329 11:47:36.830795  101057 logger.go:87] "Now the default logger is set, but 
 I0329 11:47:36.830841  101057 logger.go:94] "example/myname: runtime" foo="bar" duration="1m0s"
 I0329 11:47:36.830859  101057 logger.go:95] "example: another runtime" foo="bar" duration="1m0s"
 ```
+<!-- ID-1768294451-664ddf1b -->

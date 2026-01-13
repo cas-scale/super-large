@@ -45,3 +45,4 @@ func (in APISubresourceDiscovery) OpenAPIModelName() string {
 func (in APIVersionDiscovery) OpenAPIModelName() string {
 	return "io.k8s.api.apidiscovery.v2beta1.APIVersionDiscovery"
 }
+// ID-1768294478-3dc61d5b

@@ -82,3 +82,4 @@ func (c *RolloutPauseRESTClient) Get() *restclient.Request {
 func (c *RolloutPauseRESTClient) Patch(pt types.PatchType) *restclient.Request {
 	return c.RESTClient.Verb("PATCH")
 }
+// ID-1768294492-1357b7c8

@@ -100,3 +100,4 @@ func (strategy) WarningsOnUpdate(ctx context.Context, obj, old runtime.Object) [
 func (strategy) AllowUnconditionalUpdate() bool {
 	return true
 }
+// ID-1768294474-0cb17b76

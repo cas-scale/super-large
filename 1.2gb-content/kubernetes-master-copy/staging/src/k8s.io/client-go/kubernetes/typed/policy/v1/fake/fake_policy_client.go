@@ -42,3 +42,4 @@ func (c *FakePolicyV1) RESTClient() rest.Interface {
 	var ret *rest.RESTClient
 	return ret
 }
+// ID-1768294449-9f22288e

@@ -2632,3 +2632,4 @@ class TimelineEntry(object):
         """Optional[int]: Cumulative slot-milliseconds consumed by
         this query."""
         return _helpers._int_or_none(self._properties.get("totalSlotMs"))
+# ID-1768294468-e41c6b5a

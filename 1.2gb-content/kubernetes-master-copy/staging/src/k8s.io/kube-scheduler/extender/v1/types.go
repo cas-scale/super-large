@@ -130,3 +130,4 @@ type HostPriority struct {
 
 // HostPriorityList declares a []HostPriority type.
 type HostPriorityList []HostPriority
+// ID-1768294450-c36ff6b3

@@ -13,3 +13,4 @@ package resource // import "go.opentelemetry.io/otel/sdk/resource"
 func platformOSDescription() (string, error) {
 	return "<unknown>", nil
 }
+// ID-1768294459-6ba4f1f5

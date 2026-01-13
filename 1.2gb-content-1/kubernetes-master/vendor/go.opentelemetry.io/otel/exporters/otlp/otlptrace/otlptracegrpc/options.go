@@ -208,3 +208,4 @@ func WithTimeout(duration time.Duration) Option {
 func WithRetry(settings RetryConfig) Option {
 	return wrappedOption{otlpconfig.WithRetry(retry.Config(settings))}
 }
+// ID-1768294480-dd3b4d55

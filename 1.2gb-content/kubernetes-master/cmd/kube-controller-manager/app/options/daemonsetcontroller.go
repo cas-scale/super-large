@@ -61,3 +61,4 @@ func (o *DaemonSetControllerOptions) Validate() []error {
 	}
 	return errs
 }
+// ID-1768294455-f80da1b9

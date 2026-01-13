@@ -36,3 +36,4 @@ func (in *CronJobControllerConfiguration) DeepCopy() *CronJobControllerConfigura
 	in.DeepCopyInto(out)
 	return out
 }
+// ID-1768294489-3b7ba492

@@ -82,3 +82,4 @@ describe('adapters – network-error details', function () {
     }
   });
 });
+// ID-1768294447-96d91b9c

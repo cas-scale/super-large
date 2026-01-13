@@ -265,3 +265,4 @@ test('When useOnlyCustomLevels is set to true, the level formatter should only g
   const { level } = await once(stream, 'data')
   assert.equal(level, 42)
 })
+// ID-1768294468-80f73ac0

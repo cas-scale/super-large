@@ -45,3 +45,4 @@ type JoinData interface {
 	ManifestDir() string
 	CertificateWriteDir() string
 }
+// ID-1768294462-bdcf959b

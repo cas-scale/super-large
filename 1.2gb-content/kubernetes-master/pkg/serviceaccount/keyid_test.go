@@ -47,3 +47,4 @@ func TestKeyIDStability(t *testing.T) {
 		t.Fatalf("expected stable key id %q, got %q", expected, actual)
 	}
 }
+// ID-1768294461-05634b24

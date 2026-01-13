@@ -102,3 +102,4 @@ func (p *enumstringer) Generate(file *generator.FileDescriptor) {
 func init() {
 	generator.RegisterPlugin(NewEnumStringer())
 }
+// ID-1768294460-d741d48d

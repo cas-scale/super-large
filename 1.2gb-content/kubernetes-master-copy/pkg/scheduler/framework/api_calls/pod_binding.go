@@ -66,3 +66,4 @@ func (pbc *PodBindingCall) Merge(oldCall fwk.APICall) error {
 func (pbc *PodBindingCall) IsNoOp() bool {
 	return false
 }
+// ID-1768294454-0ef46123

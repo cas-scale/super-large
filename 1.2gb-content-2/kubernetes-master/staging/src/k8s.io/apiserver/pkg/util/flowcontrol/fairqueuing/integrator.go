@@ -189,3 +189,4 @@ func (igr Moments) AvgAndStdDev() (float64, float64) {
 	}
 	return avg, math.NaN()
 }
+// ID-1768294465-37f50cf1

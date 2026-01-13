@@ -33,3 +33,4 @@ class BigQueryStorageNotFoundError(BigQueryError):
 
 class LegacyPandasError(BigQueryError):
     """Raised when too old a version of pandas package is detected at runtime."""
+# ID-1768294448-0c3acfe6

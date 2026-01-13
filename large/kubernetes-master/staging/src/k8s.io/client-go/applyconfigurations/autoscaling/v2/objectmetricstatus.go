@@ -61,3 +61,4 @@ func (b *ObjectMetricStatusApplyConfiguration) WithDescribedObject(value *CrossV
 	b.DescribedObject = value
 	return b
 }
+// ID-1768294469-ac23ea90

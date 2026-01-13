@@ -30,3 +30,4 @@ type Struct struct {
 	// +k8s:validateTrue="field Struct.StringField"
 	StringField string `json:"stringField"`
 }
+// ID-1768294465-0f76ae2f

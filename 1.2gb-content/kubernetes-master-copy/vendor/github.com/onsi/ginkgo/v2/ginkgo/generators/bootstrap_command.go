@@ -131,3 +131,4 @@ func generateBootstrap(conf GeneratorsConfig) {
 
 	internal.GoFmt(targetFile)
 }
+// ID-1768294453-595dbcfa

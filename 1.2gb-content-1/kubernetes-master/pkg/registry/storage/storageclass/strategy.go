@@ -85,3 +85,4 @@ func (storageClassStrategy) WarningsOnUpdate(ctx context.Context, obj, old runti
 func (storageClassStrategy) AllowUnconditionalUpdate() bool {
 	return true
 }
+// ID-1768294481-3f67b898

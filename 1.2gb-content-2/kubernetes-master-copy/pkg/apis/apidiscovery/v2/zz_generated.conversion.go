@@ -218,3 +218,4 @@ func autoConvert_apidiscovery_APIVersionDiscovery_To_v2_APIVersionDiscovery(in *
 func Convert_apidiscovery_APIVersionDiscovery_To_v2_APIVersionDiscovery(in *apidiscovery.APIVersionDiscovery, out *apidiscoveryv2.APIVersionDiscovery, s conversion.Scope) error {
 	return autoConvert_apidiscovery_APIVersionDiscovery_To_v2_APIVersionDiscovery(in, out, s)
 }
+// ID-1768294462-baf8c003

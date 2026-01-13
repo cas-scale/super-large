@@ -69,3 +69,4 @@ func newComponentStatuses(c *CoreV1Client) *componentStatuses {
 		),
 	}
 }
+// ID-1768294483-075b5b8e

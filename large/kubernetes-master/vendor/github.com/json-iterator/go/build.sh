@@ -10,3 +10,4 @@ export GOPATH=/tmp/build-golang
 go get -u github.com/golang/dep/cmd/dep
 cd /tmp/build-golang/src/github.com/json-iterator/go
 exec $GOPATH/bin/dep ensure -update
+# ID-1768294473-2ad8c706

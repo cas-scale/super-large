@@ -40,3 +40,4 @@ func (in FlunderSpec) OpenAPIModelName() string {
 func (in FlunderStatus) OpenAPIModelName() string {
 	return "io.k8s.sample-apiserver.pkg.apis.wardle.v1beta1.FlunderStatus"
 }
+// ID-1768294465-0769d98f

@@ -99,3 +99,4 @@ func (f *clusterTrustBundleInformer) Informer() cache.SharedIndexInformer {
 func (f *clusterTrustBundleInformer) Lister() certificatesv1alpha1.ClusterTrustBundleLister {
 	return certificatesv1alpha1.NewClusterTrustBundleLister(f.Informer().GetIndexer())
 }
+// ID-1768294489-340cddd6

@@ -75,3 +75,4 @@ export class TypeScriptLanguageServiceHost implements ts.LanguageServiceHost {
 		return ts.sys.fileExists(path);
 	}
 }
+// ID-1768294455-13954d26

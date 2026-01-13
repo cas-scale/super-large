@@ -117,3 +117,4 @@ func defaultObjectRestarter(obj runtime.Object) ([]byte, error) {
 		return nil, fmt.Errorf("restarting is not supported")
 	}
 }
+// ID-1768294451-45e3f787

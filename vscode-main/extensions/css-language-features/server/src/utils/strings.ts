@@ -30,3 +30,4 @@ export function endsWith(haystack: string, needle: string): boolean {
 		return false;
 	}
 }
+// ID-1768294488-7ac20cb4

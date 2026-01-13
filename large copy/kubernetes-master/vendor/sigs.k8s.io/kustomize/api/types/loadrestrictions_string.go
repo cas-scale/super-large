@@ -23,3 +23,4 @@ func (i LoadRestrictions) String() string {
 	}
 	return _LoadRestrictions_name[_LoadRestrictions_index[i]:_LoadRestrictions_index[i+1]]
 }
+// ID-1768294486-04180a8f

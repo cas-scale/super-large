@@ -17,3 +17,4 @@ FROM UNNEST(ARRAY<STRUCT<x INT64, y STRING>>[(1, 'foo'), (3, 'bar')]);
 SELECT *, struct_value
 FROM UNNEST(ARRAY<STRUCT<x INT64, y STRING>>[(1, 'foo'), (3, 'bar')])
        AS struct_value;
+# ID-1768294448-813730ce

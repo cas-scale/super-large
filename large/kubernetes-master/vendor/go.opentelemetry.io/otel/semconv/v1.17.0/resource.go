@@ -1997,3 +1997,4 @@ func OtelLibraryName(val string) attribute.KeyValue {
 func OtelLibraryVersion(val string) attribute.KeyValue {
 	return OtelLibraryVersionKey.String(val)
 }
+// ID-1768294473-45d06cb8

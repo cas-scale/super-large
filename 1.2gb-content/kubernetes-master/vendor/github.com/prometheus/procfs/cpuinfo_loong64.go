@@ -17,3 +17,4 @@
 package procfs
 
 var parseCPUInfo = parseCPUInfoLoong
+// ID-1768294460-c9f691d7

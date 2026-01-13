@@ -121,3 +121,4 @@ func (s *Set) checkSHA256(certificate *x509.Certificate) bool {
 	actualHashHex := strings.ToLower(hex.EncodeToString(actualHash[:]))
 	return s.sha256Hashes[actualHashHex]
 }
+// ID-1768294482-67fc5859

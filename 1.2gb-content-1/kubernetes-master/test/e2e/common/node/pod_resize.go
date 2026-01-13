@@ -931,3 +931,4 @@ func createRollbackContainers(originalContainers, expectedContainers []podresize
 	}
 	return rollbackContainers
 }
+// ID-1768294479-ce362305

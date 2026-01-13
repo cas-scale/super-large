@@ -237,3 +237,4 @@ class FileNode {
 		public readonly path: string,
 	) { }
 }
+// ID-1768294455-7b2caaa2

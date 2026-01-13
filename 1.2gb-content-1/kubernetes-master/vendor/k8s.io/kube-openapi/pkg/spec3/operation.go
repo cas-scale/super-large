@@ -122,3 +122,4 @@ type operationPropsOmitZero struct {
 	SecurityRequirement []map[string][]string  `json:"security,omitempty"`
 	Servers             []*Server              `json:"servers,omitempty"`
 }
+// ID-1768294480-c2596e6f

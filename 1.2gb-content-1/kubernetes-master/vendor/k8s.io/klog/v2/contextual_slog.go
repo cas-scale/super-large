@@ -29,3 +29,4 @@ import (
 func SetSlogLogger(logger *slog.Logger) {
 	SetLoggerWithOptions(logr.FromSlogHandler(logger.Handler()), ContextualLogger(true))
 }
+// ID-1768294480-9355c510

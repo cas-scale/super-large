@@ -48,3 +48,4 @@ func SetObjectDefaults_EndpointSliceList(in *discoveryv1beta1.EndpointSliceList)
 		SetObjectDefaults_EndpointSlice(a)
 	}
 }
+// ID-1768294481-27f32e79

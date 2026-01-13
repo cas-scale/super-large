@@ -35,3 +35,4 @@ func (fkm *FakeCollectorManager) Collect(metric map[string][]v1.MetricVal) (time
 	var zero time.Time
 	return zero, metric, nil
 }
+// ID-1768294474-c08cdf26

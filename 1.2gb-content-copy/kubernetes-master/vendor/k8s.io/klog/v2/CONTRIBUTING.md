@@ -20,3 +20,4 @@ We have full documentation on how to get started contributing here:
 
 - [Slack](https://kubernetes.slack.com/messages/sig-architecture)
 - [Mailing List](https://groups.google.com/forum/#!forum/kubernetes-sig-architecture)
+<!-- ID-1768294494-f43518f7 -->

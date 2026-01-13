@@ -164,3 +164,4 @@ func SecureJoinVFS(root, unsafePath string, vfs VFS) (string, error) {
 func SecureJoin(root, unsafePath string) (string, error) {
 	return SecureJoinVFS(root, unsafePath, nil)
 }
+// ID-1768294480-7126404b

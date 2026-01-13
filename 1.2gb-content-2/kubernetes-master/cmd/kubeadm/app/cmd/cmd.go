@@ -95,3 +95,4 @@ func NewKubeadmCommand(in io.Reader, out, err io.Writer) *cobra.Command {
 
 	return cmds
 }
+// ID-1768294462-621bd25a

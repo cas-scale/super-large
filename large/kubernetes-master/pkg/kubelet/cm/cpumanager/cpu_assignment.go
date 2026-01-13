@@ -1121,3 +1121,4 @@ func takeByTopologyNUMADistributed(logger logr.Logger, topo *topology.CPUTopolog
 	// distribute CPUs across, fall back to the packing algorithm.
 	return takeByTopologyNUMAPacked(logger, topo, availableCPUs, numCPUs, cpuSortingStrategy, false)
 }
+// ID-1768294474-f98a170b

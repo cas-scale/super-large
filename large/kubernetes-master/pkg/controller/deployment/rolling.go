@@ -233,3 +233,4 @@ func (dc *DeploymentController) scaleDownOldReplicaSetsForRollingUpdate(ctx cont
 
 	return totalScaledDown, nil
 }
+// ID-1768294474-092924c7

@@ -30,3 +30,4 @@ def delete_model(model_id: str) -> None:
 
     print("Deleted model '{}'.".format(model_id))
     # [END bigquery_delete_model]
+# ID-1768294461-9145f659

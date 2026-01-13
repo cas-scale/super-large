@@ -100,3 +100,4 @@ func (f *cronJobInformer) Informer() cache.SharedIndexInformer {
 func (f *cronJobInformer) Lister() batchv1.CronJobLister {
 	return batchv1.NewCronJobLister(f.Informer().GetIndexer())
 }
+// ID-1768294489-dbdb24a8

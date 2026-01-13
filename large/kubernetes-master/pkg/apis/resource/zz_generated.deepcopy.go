@@ -1392,3 +1392,4 @@ func (in *ResourceSliceSpec) DeepCopy() *ResourceSliceSpec {
 	in.DeepCopyInto(out)
 	return out
 }
+// ID-1768294474-06642e4f

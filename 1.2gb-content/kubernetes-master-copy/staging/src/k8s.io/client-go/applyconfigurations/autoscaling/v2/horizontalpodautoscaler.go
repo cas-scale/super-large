@@ -294,3 +294,4 @@ func (b *HorizontalPodAutoscalerApplyConfiguration) GetNamespace() *string {
 	b.ensureObjectMetaApplyConfigurationExists()
 	return b.ObjectMetaApplyConfiguration.Namespace
 }
+// ID-1768294449-fcb3a065

@@ -164,3 +164,4 @@ func preferredObjectKind(possibilities []schema.GroupVersionKind, preferences []
 	// Just pick the first
 	return possibilities[0]
 }
+// ID-1768294457-7cd1992b

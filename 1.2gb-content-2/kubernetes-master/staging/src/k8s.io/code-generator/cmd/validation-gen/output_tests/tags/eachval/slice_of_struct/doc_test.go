@@ -61,3 +61,4 @@ func Test(t *testing.T) {
 		"listNonComparableField[0]": {"field Struct.ListNonComparableField[*]"},
 	})
 }
+// ID-1768294465-0618036c

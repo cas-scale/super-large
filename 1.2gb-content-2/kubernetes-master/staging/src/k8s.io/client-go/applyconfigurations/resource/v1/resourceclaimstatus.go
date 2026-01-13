@@ -91,3 +91,4 @@ func (b *ResourceClaimStatusApplyConfiguration) WithDevices(values ...*Allocated
 	}
 	return b
 }
+// ID-1768294463-151f6591

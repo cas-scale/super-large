@@ -75,3 +75,4 @@ type PtrKeyStruct struct {
 // +k8s:listType=map
 // +k8s:listMapKey=keyField
 type ListType []OtherStruct
+// ID-1768294472-a3fbb48e

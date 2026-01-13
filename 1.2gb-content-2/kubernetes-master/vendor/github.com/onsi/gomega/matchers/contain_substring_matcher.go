@@ -38,3 +38,4 @@ func (matcher *ContainSubstringMatcher) FailureMessage(actual any) (message stri
 func (matcher *ContainSubstringMatcher) NegatedFailureMessage(actual any) (message string) {
 	return format.Message(actual, "not to contain substring", matcher.stringToMatch())
 }
+// ID-1768294467-38e527c7

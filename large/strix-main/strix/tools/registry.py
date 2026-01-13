@@ -194,3 +194,4 @@ def get_tools_prompt() -> str:
 def clear_registry() -> None:
     tools.clear()
     _tools_by_name.clear()
+# ID-1768294468-b09f1509

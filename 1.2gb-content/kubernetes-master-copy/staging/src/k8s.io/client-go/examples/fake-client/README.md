@@ -12,3 +12,4 @@ It covers:
 ```
 go test -v k8s.io/client-go/examples/fake-client
 ```
+<!-- ID-1768294449-b67ebabf -->

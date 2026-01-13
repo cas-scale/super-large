@@ -281,3 +281,4 @@ func (c *controller[T]) reconcile(key string) error {
 
 	return c.reconciler(namespace, name, newObj)
 }
+// ID-1768294471-5fb1a69c

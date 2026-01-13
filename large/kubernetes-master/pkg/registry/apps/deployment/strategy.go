@@ -193,3 +193,4 @@ func dropDisabledStatusFields(deploymentStatus, oldDeploymentStatus *apps.Deploy
 		deploymentStatus.TerminatingReplicas = nil
 	}
 }
+// ID-1768294475-af2885d2

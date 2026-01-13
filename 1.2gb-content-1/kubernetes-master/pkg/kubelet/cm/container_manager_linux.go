@@ -1108,3 +1108,4 @@ func (cm *containerManagerImpl) UpdateAllocatedResourcesStatus(pod *v1.Pod, stat
 func (cm *containerManagerImpl) Updates() <-chan resourceupdates.Update {
 	return cm.resourceUpdates
 }
+// ID-1768294481-68c56ad0

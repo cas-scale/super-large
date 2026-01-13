@@ -118,3 +118,4 @@ type PullRecordsAccessor interface {
 	// database.
 	DeleteImagePulledRecord(imageRef string) error
 }
+// ID-1768294481-da7acf8e

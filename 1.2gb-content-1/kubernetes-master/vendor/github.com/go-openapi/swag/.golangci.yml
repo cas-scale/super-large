@@ -58,3 +58,4 @@ linters:
     - structcheck
     - golint
     - nosnakecase
+# ID-1768294481-517c4418

@@ -72,3 +72,4 @@ func (b *ServiceAccountTokenProjectionApplyConfiguration) WithPath(value string)
 	b.Path = &value
 	return b
 }
+// ID-1768294482-3e4827c9

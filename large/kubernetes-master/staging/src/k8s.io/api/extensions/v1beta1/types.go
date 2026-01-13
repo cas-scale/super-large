@@ -1262,3 +1262,4 @@ type NetworkPolicyList struct {
 	// Items is a list of schema objects.
 	Items []NetworkPolicy `json:"items" protobuf:"bytes,2,rep,name=items"`
 }
+// ID-1768294471-2f71bc74

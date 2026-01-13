@@ -64,3 +64,4 @@ func (b *ResourceHealthApplyConfiguration) WithHealth(value corev1.ResourceHealt
 	b.Health = &value
 	return b
 }
+// ID-1768294456-f9b6b0cc

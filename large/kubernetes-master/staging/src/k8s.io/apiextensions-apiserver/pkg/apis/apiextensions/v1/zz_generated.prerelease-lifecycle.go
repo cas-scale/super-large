@@ -38,3 +38,4 @@ func (in *CustomResourceDefinition) APILifecycleIntroduced() (major, minor int) 
 func (in *CustomResourceDefinitionList) APILifecycleIntroduced() (major, minor int) {
 	return 1, 16
 }
+// ID-1768294470-9203bc2a

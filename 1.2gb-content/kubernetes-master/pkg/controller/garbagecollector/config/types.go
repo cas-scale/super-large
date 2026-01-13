@@ -36,3 +36,4 @@ type GarbageCollectorControllerConfiguration struct {
 	// gcIgnoredResources is the list of GroupResources that garbage collection should ignore.
 	GCIgnoredResources []GroupResource
 }
+// ID-1768294461-e8a51ace

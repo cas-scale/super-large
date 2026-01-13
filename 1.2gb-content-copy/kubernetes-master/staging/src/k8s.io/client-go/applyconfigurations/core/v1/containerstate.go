@@ -62,3 +62,4 @@ func (b *ContainerStateApplyConfiguration) WithTerminated(value *ContainerStateT
 	b.Terminated = value
 	return b
 }
+// ID-1768294490-96ae842e

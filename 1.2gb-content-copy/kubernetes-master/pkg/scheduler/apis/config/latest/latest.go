@@ -41,3 +41,4 @@ func Default() (*config.KubeSchedulerConfiguration, error) {
 	cfg.TypeMeta.APIVersion = v1.SchemeGroupVersion.String()
 	return &cfg, nil
 }
+// ID-1768294495-35cbc2fa

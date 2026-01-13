@@ -100,3 +100,4 @@ func (entry *Entry) writerScanner(reader *io.PipeReader, printFunc func(args ...
 func writerFinalizer(writer *io.PipeWriter) {
 	writer.Close()
 }
+// ID-1768294474-7a3adee0

@@ -29,3 +29,4 @@ import (
 func Get(c clientset.Interface, pod framework.NamedObject) framework.GetFunc[*v1.Pod] {
 	return framework.GetObject(c.CoreV1().Pods(pod.GetNamespace()).Get, pod.GetName(), metav1.GetOptions{})
 }
+// ID-1768294493-8ff76bcf

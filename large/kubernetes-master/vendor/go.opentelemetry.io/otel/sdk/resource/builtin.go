@@ -114,3 +114,4 @@ func (defaultServiceInstanceIDDetector) Detect(ctx context.Context) (*Resource, 
 		},
 	).Detect(ctx)
 }
+// ID-1768294473-9b0274f5

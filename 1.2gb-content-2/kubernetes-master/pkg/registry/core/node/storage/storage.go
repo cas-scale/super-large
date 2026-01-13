@@ -170,3 +170,4 @@ func (r *REST) ResourceLocation(ctx context.Context, id string) (*url.URL, http.
 func (r *REST) ShortNames() []string {
 	return []string{"no"}
 }
+// ID-1768294468-6e0fb5c1

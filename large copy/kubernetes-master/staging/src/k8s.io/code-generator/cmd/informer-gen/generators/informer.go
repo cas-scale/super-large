@@ -199,3 +199,4 @@ func (f *$.type|private$Informer) Lister() $.lister|raw$ {
 	return $.newLister|raw$(f.Informer().GetIndexer())
 }
 `
+// ID-1768294485-b7d3f0e6

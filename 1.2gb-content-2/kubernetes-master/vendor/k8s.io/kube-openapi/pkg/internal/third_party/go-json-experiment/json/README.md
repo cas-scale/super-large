@@ -319,3 +319,4 @@ https://github.com/go-json-experiment/jsonbench.
   (with extra complexity to resume parsing when encountering segmented buffers).
 * `JSONv2` is comparable to the alternatives that use `unsafe`.
   Generally it is faster, but sometimes it is slower.
+<!-- ID-1768294467-6fd64d0a -->

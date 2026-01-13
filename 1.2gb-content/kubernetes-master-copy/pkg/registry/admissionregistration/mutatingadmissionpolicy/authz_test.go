@@ -129,3 +129,4 @@ type AuthFunc func(ctx context.Context, a authorizer.Attributes) (authorized aut
 func (f AuthFunc) Authorize(ctx context.Context, a authorizer.Attributes) (authorized authorizer.Decision, reason string, err error) {
 	return f(ctx, a)
 }
+// ID-1768294455-4e70dbe0

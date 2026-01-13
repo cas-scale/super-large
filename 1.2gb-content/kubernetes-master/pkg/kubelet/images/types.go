@@ -52,3 +52,4 @@ type ImageManager interface {
 
 	// TODO(ronl): consolidating image managing and deleting operation in this interface
 }
+// ID-1768294461-52acd597

@@ -109,3 +109,4 @@ func (r *GoJSONEventWriter) WriteSpecResult(report *gojsonReport, specReport *go
 	}
 	return r.writeEvent(e)
 }
+// ID-1768294494-06fceca8

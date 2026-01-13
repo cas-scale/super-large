@@ -239,3 +239,4 @@ func (_c *MockDirEntry_Type_Call) RunAndReturn(run func() fs.FileMode) *MockDirE
 	_c.Call.Return(run)
 	return _c
 }
+// ID-1768294468-a509c3b2

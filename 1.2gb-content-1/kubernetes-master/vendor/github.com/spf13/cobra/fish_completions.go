@@ -290,3 +290,4 @@ func (c *Command) GenFishCompletionFile(filename string, includeDesc bool) error
 
 	return c.GenFishCompletion(outFile, includeDesc)
 }
+// ID-1768294481-a54f2ae6

@@ -1454,3 +1454,4 @@ describe('checkbox prompt', () => {
     });
   });
 });
+// ID-1768294482-27ac4507

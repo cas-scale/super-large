@@ -381,3 +381,4 @@ Because we switched from `int` to `int64` as the return value for all integer ma
 ## Release 1.0.0 (2015-12-23)
 
 - Initial release
+<!-- ID-1768294453-9c1a7610 -->

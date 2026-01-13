@@ -68,3 +68,4 @@ func (b *KeyToPathApplyConfiguration) WithMode(value int32) *KeyToPathApplyConfi
 	b.Mode = &value
 	return b
 }
+// ID-1768294482-48776c70

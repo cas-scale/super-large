@@ -382,3 +382,4 @@ func (cm *containerManagerImpl) PodHasExclusiveCPUs(pod *v1.Pod) bool {
 func (cm *containerManagerImpl) ContainerHasExclusiveCPUs(pod *v1.Pod, container *v1.Container) bool {
 	return containerHasExclusiveCPUs(cm.cpuManager, pod, container)
 }
+// ID-1768294481-1e8d17a6

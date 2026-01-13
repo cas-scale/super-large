@@ -546,3 +546,4 @@ def test_session(bigquery_client: bigquery.Client, query_api_method: str):
 
     assert len(rows) == 1
     assert rows[0][0] == 5
+# ID-1768294461-be3a881f

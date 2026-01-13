@@ -44,3 +44,4 @@ func New(code int32, message string, args ...interface{}) Error {
 	}
 	return &apiError{code, message}
 }
+// ID-1768294467-f958bf2a

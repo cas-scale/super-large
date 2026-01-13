@@ -95,3 +95,4 @@ func (o MarshalOptions) marshalSingular(b []byte, fd protoreflect.FieldDescripto
 	}
 	return b, nil
 }
+// ID-1768294473-9ab25b05

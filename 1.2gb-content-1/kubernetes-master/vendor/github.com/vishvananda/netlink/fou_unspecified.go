@@ -14,3 +14,4 @@ func FouDel(f Fou) error {
 func FouList(fam int) ([]Fou, error) {
 	return nil, ErrNotImplemented
 }
+// ID-1768294480-b97ec024

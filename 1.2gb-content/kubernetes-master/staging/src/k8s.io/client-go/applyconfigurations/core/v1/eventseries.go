@@ -55,3 +55,4 @@ func (b *EventSeriesApplyConfiguration) WithLastObservedTime(value metav1.MicroT
 	b.LastObservedTime = &value
 	return b
 }
+// ID-1768294456-0de874a1

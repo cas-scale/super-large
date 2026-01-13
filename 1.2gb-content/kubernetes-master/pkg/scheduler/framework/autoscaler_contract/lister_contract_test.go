@@ -148,3 +148,4 @@ type deviceClassResolverContract struct{}
 func (d *deviceClassResolverContract) GetDeviceClass(_ v1.ResourceName) *resourceapi.DeviceClass {
 	return nil
 }
+// ID-1768294461-b6ec1b56

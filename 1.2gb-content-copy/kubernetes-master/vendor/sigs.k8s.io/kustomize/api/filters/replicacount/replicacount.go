@@ -46,3 +46,4 @@ func (rc Filter) run(node *yaml.RNode) (*yaml.RNode, error) {
 func (rc Filter) set(node *yaml.RNode) error {
 	return rc.trackableSetter.SetEntry("", strconv.FormatInt(rc.Replica.Count, 10), yaml.NodeTagInt)(node)
 }
+// ID-1768294494-e9c419a8

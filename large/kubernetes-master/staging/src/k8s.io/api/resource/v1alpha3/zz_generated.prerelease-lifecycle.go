@@ -56,3 +56,4 @@ func (in *DeviceTaintRuleList) APILifecycleDeprecated() (major, minor int) {
 func (in *DeviceTaintRuleList) APILifecycleRemoved() (major, minor int) {
 	return 1, 39
 }
+// ID-1768294471-57f3d5a6

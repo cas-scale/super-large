@@ -38,3 +38,4 @@ func Convert_v1alpha1_CSRSigningControllerConfiguration_To_config_CSRSigningCont
 func Convert_config_CSRSigningControllerConfiguration_To_v1alpha1_CSRSigningControllerConfiguration(in *csrsigningconfig.CSRSigningControllerConfiguration, out *v1alpha1.CSRSigningControllerConfiguration, s conversion.Scope) error {
 	return autoConvert_config_CSRSigningControllerConfiguration_To_v1alpha1_CSRSigningControllerConfiguration(in, out, s)
 }
+// ID-1768294487-5b66cfc1

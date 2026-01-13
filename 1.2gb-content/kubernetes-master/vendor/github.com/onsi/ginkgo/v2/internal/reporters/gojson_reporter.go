@@ -43,3 +43,4 @@ func (r *GoJSONReporter) Write(originalReport types.Report) error {
 	r.ev.WriteSuiteResult(report)
 	return nil
 }
+// ID-1768294460-0332b4e6

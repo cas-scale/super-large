@@ -51,3 +51,4 @@ func newFakeDeviceTaintRules(fake *FakeResourceV1alpha3) typedresourcev1alpha3.D
 		fake,
 	}
 }
+// ID-1768294470-1239147d

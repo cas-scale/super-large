@@ -185,3 +185,4 @@ func NewCoverage(list ...interface{}) Coverage {
 	}
 	return s
 }
+// ID-1768294486-fe14605f

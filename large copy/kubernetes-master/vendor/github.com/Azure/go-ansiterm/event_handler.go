@@ -88,3 +88,4 @@ type AnsiEventHandler interface {
 	// Flush updates from previous commands
 	Flush() error
 }
+// ID-1768294487-59c4e8fb

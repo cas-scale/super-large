@@ -81,3 +81,4 @@ func Stat(path string, statptr *Stat_t) error {
 	fixStatTimFields(statptr)
 	return nil
 }
+// ID-1768294486-a68fa9d4

@@ -158,3 +158,4 @@ func TestKustomizeVisitor(t *testing.T) {
 		t.Fatalf("expected:\n%s\nbut got:\n%s", expectedContent, string(kv.yml))
 	}
 }
+// ID-1768294484-3b291e86

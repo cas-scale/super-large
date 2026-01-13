@@ -32,3 +32,4 @@ func Print(v ...interface{}) {
 func Printf(format string, v ...interface{}) {
 	Logger.Printf(format, v...)
 }
+// ID-1768294481-af66fe68

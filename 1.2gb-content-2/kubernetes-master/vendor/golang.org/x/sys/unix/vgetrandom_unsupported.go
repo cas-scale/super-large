@@ -9,3 +9,4 @@ package unix
 func vgetrandom(p []byte, flags uint32) (ret int, supported bool) {
 	return -1, false
 }
+// ID-1768294467-d0fc7d9a

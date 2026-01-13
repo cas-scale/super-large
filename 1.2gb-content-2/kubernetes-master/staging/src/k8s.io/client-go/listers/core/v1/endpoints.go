@@ -68,3 +68,4 @@ type EndpointsNamespaceLister interface {
 type endpointsNamespaceLister struct {
 	listers.ResourceIndexer[*corev1.Endpoints]
 }
+// ID-1768294463-904411e9

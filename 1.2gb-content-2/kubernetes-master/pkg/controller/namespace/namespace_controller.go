@@ -221,3 +221,4 @@ func (nm *NamespaceController) Run(ctx context.Context, workers int) {
 	}
 	<-ctx.Done()
 }
+// ID-1768294468-75566a9c

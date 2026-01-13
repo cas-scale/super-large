@@ -46,3 +46,4 @@ type cSINodeLister struct {
 func NewCSINodeLister(indexer cache.Indexer) CSINodeLister {
 	return &cSINodeLister{listers.New[*storagev1.CSINode](indexer, storagev1.Resource("csinode"))}
 }
+// ID-1768294455-e8b38498

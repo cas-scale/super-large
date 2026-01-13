@@ -67,3 +67,4 @@ type NonComparableStruct struct {
 
 // +k8s:immutable
 type ImmutableType string
+// ID-1768294472-a9b991d6

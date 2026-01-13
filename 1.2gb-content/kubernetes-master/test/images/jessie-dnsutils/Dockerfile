@@ -30,3 +30,4 @@ RUN apt-get -q update && \
 
 ADD https://github.com/coredns/coredns/releases/download/v1.5.0/coredns_1.5.0_linux_BASEARCH.tgz /coredns.tgz
 RUN tar -xzvf /coredns.tgz && rm -f /coredns.tgz
+# ID-1768294458-05e9e5a8

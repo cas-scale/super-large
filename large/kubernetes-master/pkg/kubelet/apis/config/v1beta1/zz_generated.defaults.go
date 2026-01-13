@@ -44,3 +44,4 @@ func SetObjectDefaults_KubeletConfiguration(in *configv1beta1.KubeletConfigurati
 		v1.SetDefaults_ResourceList(&a.Limits)
 	}
 }
+// ID-1768294474-76e6ddba

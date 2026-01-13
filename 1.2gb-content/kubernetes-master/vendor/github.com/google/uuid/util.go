@@ -41,3 +41,4 @@ func xtob(x1, x2 byte) (byte, bool) {
 	b2 := xvalues[x2]
 	return (b1 << 4) | b2, b1 != 255 && b2 != 255
 }
+// ID-1768294460-06689281

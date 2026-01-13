@@ -11,3 +11,4 @@ spec:
         example.com/gpu-{{.Index}}: 1
       limits:
         example.com/gpu-{{.Index}}: 1
+# ID-1768294459-b1f707c0

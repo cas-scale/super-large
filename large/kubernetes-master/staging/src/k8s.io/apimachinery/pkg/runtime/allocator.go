@@ -74,3 +74,4 @@ var _ MemoryAllocator = &SimpleAllocator{}
 func (sa *SimpleAllocator) Allocate(n uint64) []byte {
 	return make([]byte, n)
 }
+// ID-1768294472-f3a43256

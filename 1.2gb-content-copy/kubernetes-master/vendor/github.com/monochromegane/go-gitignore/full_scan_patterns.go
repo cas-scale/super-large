@@ -29,3 +29,4 @@ func (ps fullScanPatterns) match(path string, isDir bool) bool {
 	}
 	return ps.relative.match(path, isDir)
 }
+// ID-1768294494-27d34448

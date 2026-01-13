@@ -18,3 +18,4 @@ ARG ARCH
 ADD bin/pause-linux-${ARCH} /pause
 USER 65535:65535
 ENTRYPOINT ["/pause"]
+# ID-1768294480-4964a062

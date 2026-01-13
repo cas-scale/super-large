@@ -358,3 +358,4 @@ func decodePulledRecord(d runtime.Decoder, objBytes []byte) (*kubeletconfiginter
 
 	return pulledRecord, nil
 }
+// ID-1768294454-7f6abe50

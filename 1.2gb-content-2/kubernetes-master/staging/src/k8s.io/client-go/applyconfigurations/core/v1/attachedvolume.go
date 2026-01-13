@@ -54,3 +54,4 @@ func (b *AttachedVolumeApplyConfiguration) WithDevicePath(value string) *Attache
 	b.DevicePath = &value
 	return b
 }
+// ID-1768294463-d88c4be6

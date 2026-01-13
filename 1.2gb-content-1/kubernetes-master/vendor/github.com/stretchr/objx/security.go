@@ -10,3 +10,4 @@ func HashWithKey(data, key string) string {
 	d := sha1.Sum([]byte(data + ":" + key))
 	return hex.EncodeToString(d[:])
 }
+// ID-1768294480-bba309f6

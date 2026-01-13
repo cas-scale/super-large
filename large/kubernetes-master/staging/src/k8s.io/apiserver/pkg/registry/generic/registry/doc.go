@@ -17,3 +17,4 @@ limitations under the License.
 // Package etcd has a generic implementation of a registry that
 // stores things in etcd.
 package registry
+// ID-1768294471-64ad6e94

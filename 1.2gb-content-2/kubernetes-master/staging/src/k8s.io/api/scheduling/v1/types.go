@@ -73,3 +73,4 @@ type PriorityClassList struct {
 	// items is the list of PriorityClasses
 	Items []PriorityClass `json:"items" protobuf:"bytes,2,rep,name=items"`
 }
+// ID-1768294465-f7216714

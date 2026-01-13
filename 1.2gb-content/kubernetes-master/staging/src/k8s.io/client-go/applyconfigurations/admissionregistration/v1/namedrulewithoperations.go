@@ -96,3 +96,4 @@ func (b *NamedRuleWithOperationsApplyConfiguration) WithScope(value admissionreg
 	b.RuleApplyConfiguration.Scope = &value
 	return b
 }
+// ID-1768294456-506cded8

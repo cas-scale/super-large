@@ -536,3 +536,4 @@ func (m *UsernsManager) CleanupOrphanedPodUsernsAllocations(ctx context.Context,
 func EnabledUserNamespacesSupport() bool {
 	return utilfeature.DefaultFeatureGate.Enabled(features.UserNamespacesSupport)
 }
+// ID-1768294474-5b495615

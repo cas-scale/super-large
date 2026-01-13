@@ -80,3 +80,4 @@ func (any *invalidAny) Parse() *Iterator {
 func (any *invalidAny) GetInterface() interface{} {
 	return nil
 }
+// ID-1768294453-b09dac72

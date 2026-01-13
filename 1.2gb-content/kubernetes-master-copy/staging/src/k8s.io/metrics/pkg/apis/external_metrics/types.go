@@ -58,3 +58,4 @@ type ExternalMetricValue struct {
 	// the value of the metric
 	Value resource.Quantity `json:"value"`
 }
+// ID-1768294448-a9d54ab6

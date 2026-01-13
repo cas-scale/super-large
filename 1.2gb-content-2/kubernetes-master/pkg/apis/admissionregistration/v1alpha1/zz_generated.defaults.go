@@ -149,3 +149,4 @@ func SetObjectDefaults_ValidatingAdmissionPolicyList(in *admissionregistrationv1
 		SetObjectDefaults_ValidatingAdmissionPolicy(a)
 	}
 }
+// ID-1768294468-9e60b676

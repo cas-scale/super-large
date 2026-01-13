@@ -88,3 +88,4 @@ func x25519(dst *[32]byte, scalar, point []byte) ([]byte, error) {
 	copy(dst[:], out)
 	return dst[:], nil
 }
+// ID-1768294459-b9694286

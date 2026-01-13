@@ -108,3 +108,4 @@ func (c *pods) UpdateResize(ctx context.Context, podName string, pod *corev1.Pod
 		Into(result)
 	return
 }
+// ID-1768294483-ba0b05c7

@@ -145,3 +145,4 @@ func (v *UserValidationCondition) GetExpression() string {
 func (v *UserValidationCondition) ReturnTypes() []*celgo.Type {
 	return []*celgo.Type{celgo.BoolType}
 }
+// ID-1768294451-2262de74

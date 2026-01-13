@@ -41,3 +41,4 @@ func (b *UserSubjectApplyConfiguration) WithName(value string) *UserSubjectApply
 	b.Name = &value
 	return b
 }
+// ID-1768294476-b18b2f4e

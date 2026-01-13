@@ -172,3 +172,4 @@ func jsonPatchFromBytes(in []byte) (jsonpatch.Patch, error) {
 func NewPatchTransformerPlugin() resmap.TransformerPlugin {
 	return &PatchTransformerPlugin{}
 }
+// ID-1768294467-1dff5542

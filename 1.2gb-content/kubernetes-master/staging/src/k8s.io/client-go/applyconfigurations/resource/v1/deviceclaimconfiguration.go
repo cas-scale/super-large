@@ -56,3 +56,4 @@ func (b *DeviceClaimConfigurationApplyConfiguration) WithOpaque(value *OpaqueDev
 	b.DeviceConfigurationApplyConfiguration.Opaque = value
 	return b
 }
+// ID-1768294456-16c9da5e

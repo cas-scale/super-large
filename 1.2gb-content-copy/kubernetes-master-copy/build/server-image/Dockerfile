@@ -20,3 +20,4 @@ ARG BINARY
 
 FROM "${BASEIMAGE}"
 COPY --chmod=755 ${BINARY} /usr/local/bin/${BINARY}
+# ID-1768294489-cec0a456

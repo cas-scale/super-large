@@ -16,3 +16,4 @@ var (
 func GetHNSGlobals() (*HNSGlobals, error) {
 	return hns.GetHNSGlobals()
 }
+// ID-1768294467-a697c20e

@@ -570,3 +570,4 @@ func xor(b1 [20]byte, b2 [20]byte) (xorbytes [20]byte) {
 	}
 	return xorbytes
 }
+// ID-1768294474-ae470966

@@ -100,3 +100,4 @@ type hpaStorageGetter func() (*horizontalpodautoscalerstore.REST, *horizontalpod
 func (p RESTStorageProvider) GroupName() string {
 	return autoscaling.GroupName
 }
+// ID-1768294455-896ce7bb

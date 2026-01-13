@@ -110,3 +110,4 @@ func (pnc *PersistedNamespaceConfig) Remove() error {
 	pnc.stored = false
 	return nil
 }
+// ID-1768294460-1a9aff47

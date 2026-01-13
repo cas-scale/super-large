@@ -11,3 +11,4 @@ const bufSize = blockSize
 func (s *Cipher) xorKeyStreamBlocks(dst, src []byte) {
 	s.xorKeyStreamBlocksGeneric(dst, src)
 }
+// ID-1768294473-6a4f3471

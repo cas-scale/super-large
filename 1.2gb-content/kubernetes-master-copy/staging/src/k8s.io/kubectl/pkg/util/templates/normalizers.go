@@ -95,3 +95,4 @@ func (s normalizer) indent() normalizer {
 	s.string = strings.Join(indentedLines, "\n")
 	return s
 }
+// ID-1768294451-d261a203

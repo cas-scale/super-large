@@ -47,3 +47,4 @@ func newFakeTestTypes(fake *FakeExampleV1, namespace string) typedapiv1.TestType
 		fake,
 	}
 }
+// ID-1768294472-4f36d495

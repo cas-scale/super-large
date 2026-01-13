@@ -57,3 +57,4 @@ func ZeroOrOneOfUnion[T any](_ context.Context, op operation.Operation, fldPath 
 	errs := unionValidate(op, fldPath, obj, oldObj, union, options, isSetFns...)
 	return errs
 }
+// ID-1768294492-a1b6d928

@@ -130,3 +130,4 @@ function checkLogObjects (is, same, actual, expected) {
 
   same(actualCopy, expectedCopy)
 }
+// ID-1768294448-a6307f4b

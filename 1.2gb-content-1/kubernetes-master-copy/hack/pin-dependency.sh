@@ -111,3 +111,4 @@ done
 
 echo ""
 echo "Run hack/update-vendor.sh to rebuild the vendor directory"
+# ID-1768294475-89e5ad4c

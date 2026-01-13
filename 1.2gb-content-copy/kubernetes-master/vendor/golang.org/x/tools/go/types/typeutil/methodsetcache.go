@@ -69,3 +69,4 @@ func (cache *MethodSetCache) lookupNamed(named *types.Named) struct{ value, poin
 	}
 	return msets
 }
+// ID-1768294494-e2944c7e

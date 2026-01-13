@@ -89,3 +89,4 @@ func hostPorts_1_0(podMetadata *metav1.ObjectMeta, podSpec *corev1.PodSpec) Chec
 	}
 	return CheckResult{Allowed: true}
 }
+// ID-1768294457-3bf14f64

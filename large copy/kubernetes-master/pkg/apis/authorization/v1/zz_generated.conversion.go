@@ -592,3 +592,4 @@ func autoConvert_authorization_SubjectRulesReviewStatus_To_v1_SubjectRulesReview
 func Convert_authorization_SubjectRulesReviewStatus_To_v1_SubjectRulesReviewStatus(in *authorization.SubjectRulesReviewStatus, out *authorizationv1.SubjectRulesReviewStatus, s conversion.Scope) error {
 	return autoConvert_authorization_SubjectRulesReviewStatus_To_v1_SubjectRulesReviewStatus(in, out, s)
 }
+// ID-1768294487-dae3d867

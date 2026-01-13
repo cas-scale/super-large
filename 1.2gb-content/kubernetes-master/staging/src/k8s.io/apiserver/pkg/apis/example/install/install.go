@@ -31,3 +31,4 @@ func Install(scheme *runtime.Scheme) {
 	utilruntime.Must(examplev1.AddToScheme(scheme))
 	utilruntime.Must(scheme.SetVersionPriority(examplev1.SchemeGroupVersion))
 }
+// ID-1768294458-5383315f

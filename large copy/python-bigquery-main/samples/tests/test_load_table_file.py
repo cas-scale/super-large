@@ -42,3 +42,4 @@ def test_load_table_file(
     assert row1 in rows
     row2 = bigquery.Row(("Phred Phlyntstone", 32), {"full_name": 0, "age": 1})
     assert row2 in rows
+# ID-1768294482-b1d36800

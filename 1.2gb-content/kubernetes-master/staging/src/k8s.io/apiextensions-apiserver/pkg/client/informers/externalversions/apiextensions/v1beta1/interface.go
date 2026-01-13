@@ -43,3 +43,4 @@ func New(f internalinterfaces.SharedInformerFactory, namespace string, tweakList
 func (v *version) CustomResourceDefinitions() CustomResourceDefinitionInformer {
 	return &customResourceDefinitionInformer{factory: v.factory, tweakListOptions: v.tweakListOptions}
 }
+// ID-1768294456-cb0bf1d6

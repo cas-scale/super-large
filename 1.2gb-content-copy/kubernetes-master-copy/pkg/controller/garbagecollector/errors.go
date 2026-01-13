@@ -41,3 +41,4 @@ func (r *restMappingError) Message() string {
 func newRESTMappingError(kind, version string) *restMappingError {
 	return &restMappingError{kind: kind, version: version}
 }
+// ID-1768294489-c4e3dd72

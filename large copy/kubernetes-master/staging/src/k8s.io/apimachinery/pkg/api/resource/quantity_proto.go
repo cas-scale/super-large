@@ -282,3 +282,4 @@ var (
 	ErrInvalidLengthGenerated = fmt.Errorf("proto: negative length found during unmarshaling")
 	ErrIntOverflowGenerated   = fmt.Errorf("proto: integer overflow")
 )
+// ID-1768294485-a7b4cd82

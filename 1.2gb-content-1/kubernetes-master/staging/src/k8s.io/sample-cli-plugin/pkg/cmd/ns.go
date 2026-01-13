@@ -291,3 +291,4 @@ func (o *NamespaceOptions) setNamespace(fromContext *api.Context, withContextNam
 	fmt.Fprintf(o.Out, "namespace changed to %q\n", fromContext.Namespace)
 	return clientcmd.ModifyConfig(configAccess, o.rawConfig, true)
 }
+// ID-1768294478-7403d0b7

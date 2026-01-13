@@ -393,3 +393,4 @@ var (
 	forward_Election_Observe_0  = runtime.ForwardResponseStream
 	forward_Election_Resign_0   = runtime.ForwardResponseMessage
 )
+// ID-1768294486-5a722c3f

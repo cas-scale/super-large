@@ -45,3 +45,4 @@ function create-linux-node-instance-template {
   # shellcheck disable=2154 # 'scope_flags' is assigned by upstream
   create-node-template "${template_name}" "${scope_flags[*]}" "$(get-node-instance-metadata-from-file)" "" "linux" "${machine_type}"
 }
+# ID-1768294482-38a9cbd5

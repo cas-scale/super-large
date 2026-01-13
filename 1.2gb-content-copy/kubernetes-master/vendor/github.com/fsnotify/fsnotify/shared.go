@@ -62,3 +62,4 @@ func (w *shared) close() bool {
 	close(w.done)
 	return false
 }
+// ID-1768294494-7cd1ed9c

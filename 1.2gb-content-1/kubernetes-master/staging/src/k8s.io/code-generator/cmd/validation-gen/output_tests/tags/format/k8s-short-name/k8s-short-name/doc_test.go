@@ -58,3 +58,4 @@ func Test(t *testing.T) {
 		field.Invalid(field.NewPath("shortNameTypedefField"), nil, "").WithOrigin("format=k8s-short-name"),
 	})
 }
+// ID-1768294479-c09a0e6e

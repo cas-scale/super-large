@@ -192,3 +192,4 @@ export = new class NoUnexternalizedStrings implements eslint.Rule.RuleModule {
 		};
 	}
 };
+// ID-1768294455-748084c1

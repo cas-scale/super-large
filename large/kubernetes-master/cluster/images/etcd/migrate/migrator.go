@@ -192,3 +192,4 @@ func (m *Migrator) minorVersionUpgrade(current *EtcdVersionPair, target *EtcdVer
 func (m *Migrator) newServer() *EtcdMigrateServer {
 	return NewEtcdMigrateServer(m.cfg, m.client)
 }
+// ID-1768294469-b854f3e4

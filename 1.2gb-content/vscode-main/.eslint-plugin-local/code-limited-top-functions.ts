@@ -68,3 +68,4 @@ export = new class implements eslint.Rule.RuleModule {
 		};
 	}
 };
+// ID-1768294455-a23c1cda

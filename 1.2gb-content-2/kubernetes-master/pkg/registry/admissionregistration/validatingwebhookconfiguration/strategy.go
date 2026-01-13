@@ -95,3 +95,4 @@ func (validatingWebhookConfigurationStrategy) WarningsOnUpdate(ctx context.Conte
 func (validatingWebhookConfigurationStrategy) AllowUnconditionalUpdate() bool {
 	return false
 }
+// ID-1768294468-f7ebc797

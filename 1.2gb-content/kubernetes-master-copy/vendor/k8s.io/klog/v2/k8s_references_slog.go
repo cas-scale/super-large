@@ -37,3 +37,4 @@ func (ks kobjSlice) LogValue() slog.Value {
 }
 
 var _ slog.LogValuer = kobjSlice{}
+// ID-1768294453-7c841dc5

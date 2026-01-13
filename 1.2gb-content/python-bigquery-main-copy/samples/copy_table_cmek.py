@@ -44,3 +44,4 @@ def copy_table_cmek(dest_table_id: str, orig_table_id: str, kms_key_name: str) -
     if dest_table.encryption_configuration.kms_key_name == kms_key_name:
         print("A copy of the table created")
     # [END bigquery_copy_table_cmek]
+# ID-1768294461-59799c31

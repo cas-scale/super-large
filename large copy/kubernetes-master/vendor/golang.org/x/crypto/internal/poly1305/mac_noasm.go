@@ -7,3 +7,4 @@
 package poly1305
 
 type mac struct{ macGeneric }
+// ID-1768294486-32d436da

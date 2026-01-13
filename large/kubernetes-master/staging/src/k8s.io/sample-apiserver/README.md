@@ -194,3 +194,4 @@ only this superuser group is authorized.
       https://localhost:8443/apis/wardle.example.com/v1alpha1/namespaces/default/flunders
    ```
 
+<!-- ID-1768294472-0b0c67b3 -->

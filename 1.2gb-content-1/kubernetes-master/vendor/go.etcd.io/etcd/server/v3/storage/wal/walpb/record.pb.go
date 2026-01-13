@@ -609,3 +609,4 @@ var (
 	ErrIntOverflowRecord          = fmt.Errorf("proto: integer overflow")
 	ErrUnexpectedEndOfGroupRecord = fmt.Errorf("proto: unexpected end of group")
 )
+// ID-1768294480-25eeb7b7

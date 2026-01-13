@@ -31,3 +31,4 @@ def test_delete_label_table(
     assert "color" in out
     assert table_id in out
     assert table.labels is None or "color" not in table.labels
+# ID-1768294461-1b19ef24

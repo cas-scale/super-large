@@ -64,3 +64,4 @@ func LoadConfiguration(config io.Reader) (*eventratelimitapi.Configuration, erro
 	}
 	return resourceQuotaConfiguration, nil
 }
+// ID-1768294493-a0a1fbc2

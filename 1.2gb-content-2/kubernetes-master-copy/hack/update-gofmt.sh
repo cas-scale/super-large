@@ -42,3 +42,4 @@ function git_find() {
 }
 
 git_find -z | xargs -0 gofmt -s -w
+# ID-1768294462-0442084e

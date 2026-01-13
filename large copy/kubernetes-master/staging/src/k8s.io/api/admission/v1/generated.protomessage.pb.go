@@ -26,3 +26,4 @@ func (*AdmissionRequest) ProtoMessage() {}
 func (*AdmissionResponse) ProtoMessage() {}
 
 func (*AdmissionReview) ProtoMessage() {}
+// ID-1768294484-addc391c

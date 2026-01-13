@@ -282,3 +282,4 @@ func (b *ValidatingAdmissionPolicyBindingApplyConfiguration) GetNamespace() *str
 	b.ensureObjectMetaApplyConfigurationExists()
 	return b.ObjectMetaApplyConfiguration.Namespace
 }
+// ID-1768294469-c45c4d52

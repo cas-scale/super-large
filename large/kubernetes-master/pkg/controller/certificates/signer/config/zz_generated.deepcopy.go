@@ -57,3 +57,4 @@ func (in *CSRSigningControllerConfiguration) DeepCopy() *CSRSigningControllerCon
 	in.DeepCopyInto(out)
 	return out
 }
+// ID-1768294474-60a7e87e

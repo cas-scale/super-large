@@ -47,3 +47,4 @@ func (b *SelectableFieldApplyConfiguration) WithJSONPath(value string) *Selectab
 	b.JSONPath = &value
 	return b
 }
+// ID-1768294463-2f45d532

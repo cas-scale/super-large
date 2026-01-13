@@ -46,3 +46,4 @@ type deviceTaintRuleLister struct {
 func NewDeviceTaintRuleLister(indexer cache.Indexer) DeviceTaintRuleLister {
 	return &deviceTaintRuleLister{listers.New[*resourcev1alpha3.DeviceTaintRule](indexer, resourcev1alpha3.Resource("devicetaintrule"))}
 }
+// ID-1768294449-2f518b0b

@@ -43,3 +43,4 @@ function detect-project() {
 function create-certs {
   execute-cmd-on-pre-existing-master-with-retries 'sudo cat /etc/kubernetes/admin.conf' > /tmp/kubeconfig
 }
+# ID-1768294463-594dcf4d

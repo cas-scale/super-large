@@ -83,3 +83,4 @@ func SetRawTerminalOutput(fd uintptr) (previousState *State, err error) {
 func MakeRaw(fd uintptr) (previousState *State, err error) {
 	return makeRaw(fd)
 }
+// ID-1768294454-934d949b

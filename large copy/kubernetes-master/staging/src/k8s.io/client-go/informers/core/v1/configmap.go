@@ -100,3 +100,4 @@ func (f *configMapInformer) Informer() cache.SharedIndexInformer {
 func (f *configMapInformer) Lister() corev1.ConfigMapLister {
 	return corev1.NewConfigMapLister(f.Informer().GetIndexer())
 }
+// ID-1768294482-204c0aa9

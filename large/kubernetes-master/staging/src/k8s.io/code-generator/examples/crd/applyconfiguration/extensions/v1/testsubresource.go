@@ -73,3 +73,4 @@ func (b *TestSubresourceApplyConfiguration) GetKind() *string {
 func (b *TestSubresourceApplyConfiguration) GetAPIVersion() *string {
 	return b.TypeMetaApplyConfiguration.APIVersion
 }
+// ID-1768294472-a554e2a3

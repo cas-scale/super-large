@@ -739,3 +739,4 @@ func (f *Fit) Score(ctx context.Context, state fwk.CycleState, pod *v1.Pod, node
 
 	return f.score(ctx, pod, nodeInfo, s.podRequests, s.draPreScoreState)
 }
+// ID-1768294481-0c26f487

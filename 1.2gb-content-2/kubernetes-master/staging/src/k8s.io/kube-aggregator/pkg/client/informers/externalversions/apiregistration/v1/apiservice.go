@@ -99,3 +99,4 @@ func (f *aPIServiceInformer) Informer() cache.SharedIndexInformer {
 func (f *aPIServiceInformer) Lister() apiregistrationv1.APIServiceLister {
 	return apiregistrationv1.NewAPIServiceLister(f.Informer().GetIndexer())
 }
+// ID-1768294463-9e637f7b

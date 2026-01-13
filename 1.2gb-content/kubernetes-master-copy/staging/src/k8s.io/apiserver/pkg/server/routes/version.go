@@ -55,3 +55,4 @@ func (v Version) Install(c *restful.Container) {
 func (v Version) handleVersion(req *restful.Request, resp *restful.Response) {
 	responsewriters.WriteRawJSON(http.StatusOK, *v.Version, resp.ResponseWriter)
 }
+// ID-1768294451-895b7dec

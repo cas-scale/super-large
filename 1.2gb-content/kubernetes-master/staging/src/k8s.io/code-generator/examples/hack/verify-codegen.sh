@@ -52,3 +52,4 @@ pushd "${SCRIPT_ROOT}"
   go build "k8s.io/code-generator/examples/MixedCase/..."
   go build "k8s.io/code-generator/examples/HyphenGroup/..."
 popd
+# ID-1768294458-c7b3ad73

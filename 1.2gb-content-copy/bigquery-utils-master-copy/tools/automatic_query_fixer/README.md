@@ -307,3 +307,4 @@ this directory.
 implemented inside `getFixer` method.
 
 * Write the unit tests like other fixers.
+<!-- ID-1768294488-d713c4be -->

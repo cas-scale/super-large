@@ -15,3 +15,4 @@ func atomicLoadIndex(p **[]IndexEntry) *[]IndexEntry {
 func atomicStoreIndex(p **[]IndexEntry, v *[]IndexEntry) {
 	atomic.StorePointer((*unsafe.Pointer)(unsafe.Pointer(p)), unsafe.Pointer(v))
 }
+// ID-1768294486-605beed4

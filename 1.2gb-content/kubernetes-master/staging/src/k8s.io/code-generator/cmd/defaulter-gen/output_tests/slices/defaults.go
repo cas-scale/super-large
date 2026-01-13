@@ -31,3 +31,4 @@ func SetDefaults_Ttest(obj *Ttest) {
 		*obj.BoolField = true
 	}
 }
+// ID-1768294458-05a572fa

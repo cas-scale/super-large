@@ -43,3 +43,4 @@ def test_auth_query_console(
     out, _ = capsys.readouterr()
     # Fun fact: William P. Wood was the 1st director of the US Secret Service.
     assert "William" in out
+# ID-1768294482-e6ae517f

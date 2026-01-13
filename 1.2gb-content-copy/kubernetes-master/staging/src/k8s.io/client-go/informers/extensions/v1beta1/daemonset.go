@@ -100,3 +100,4 @@ func (f *daemonSetInformer) Informer() cache.SharedIndexInformer {
 func (f *daemonSetInformer) Lister() extensionsv1beta1.DaemonSetLister {
 	return extensionsv1beta1.NewDaemonSetLister(f.Informer().GetIndexer())
 }
+// ID-1768294489-5926514a

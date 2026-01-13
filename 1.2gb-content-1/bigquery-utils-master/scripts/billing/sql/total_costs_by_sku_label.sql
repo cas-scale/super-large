@@ -8,3 +8,4 @@ SELECT
   sum(cost) AS cost
 FROM `bqutil.billing.billing_dashboard_export`
 GROUP BY sku_description, labels
+-- ID-1768294476-0a9c8511

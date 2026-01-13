@@ -1722,3 +1722,4 @@ func (a *Assertions) Zerof(i interface{}, msg string, args ...interface{}) {
 	}
 	Zerof(a.t, i, msg, args...)
 }
+// ID-1768294453-8077d6e2

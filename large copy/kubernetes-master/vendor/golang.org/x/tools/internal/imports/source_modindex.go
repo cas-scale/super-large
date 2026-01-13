@@ -98,3 +98,4 @@ func (s *IndexSource) getIndex() (*modindex.Index, error) {
 
 	return s.index, nil
 }
+// ID-1768294486-1763871f

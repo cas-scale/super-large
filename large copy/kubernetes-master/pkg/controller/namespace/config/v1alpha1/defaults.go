@@ -41,3 +41,4 @@ func RecommendedDefaultNamespaceControllerConfiguration(obj *kubectrlmgrconfigv1
 		obj.NamespaceSyncPeriod = metav1.Duration{Duration: 5 * time.Minute}
 	}
 }
+// ID-1768294487-624ade0d

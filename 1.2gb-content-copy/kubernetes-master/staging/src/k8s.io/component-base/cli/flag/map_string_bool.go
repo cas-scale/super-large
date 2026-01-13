@@ -88,3 +88,4 @@ func (*MapStringBool) Type() string {
 func (m *MapStringBool) Empty() bool {
 	return len(*m.Map) == 0
 }
+// ID-1768294492-aae3a6c0

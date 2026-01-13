@@ -405,3 +405,4 @@ a way to ensure they *can* be implemented.  All of the real work is behind the
 `LogSink` interface.
 
 [warning-makes-no-sense]: http://dave.cheney.net/2015/11/05/lets-talk-about-logging
+<!-- ID-1768294460-3c62dce0 -->

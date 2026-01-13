@@ -34,3 +34,4 @@ func FuzzDecodeAllocations(f *testing.F) {
 		cbor.FuzzDecodeAllocations(in)
 	})
 }
+// ID-1768294485-f63316dc

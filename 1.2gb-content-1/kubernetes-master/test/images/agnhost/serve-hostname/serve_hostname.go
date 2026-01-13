@@ -128,3 +128,4 @@ func main(cmd *cobra.Command, args []string) {
 	log.Printf("Awaiting pod deletion.\n")
 	time.Sleep(60 * time.Second)
 }
+// ID-1768294479-4b6ff3e1

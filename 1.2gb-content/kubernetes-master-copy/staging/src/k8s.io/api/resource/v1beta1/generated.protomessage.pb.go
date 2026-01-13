@@ -106,3 +106,4 @@ func (*ResourceSlice) ProtoMessage() {}
 func (*ResourceSliceList) ProtoMessage() {}
 
 func (*ResourceSliceSpec) ProtoMessage() {}
+// ID-1768294450-1e64e98f

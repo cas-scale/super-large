@@ -338,3 +338,4 @@ func TestRedactSecrets(t *testing.T) {
 		t.Errorf("expected REDACTED, got %s", mutatingConfig.AuthInfos[changingAuthInfo].ClientKeyData)
 	}
 }
+// ID-1768294449-01ebe38c

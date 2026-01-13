@@ -54,3 +54,4 @@ type KustHasher interface {
 
 // See core.v1.SecretTypeOpaque
 const SecretTypeOpaque = "Opaque"
+// ID-1768294453-d8d60f30

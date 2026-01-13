@@ -6,3 +6,4 @@ The modules found in `core/` should be modules that are specific to the domain l
   - Requests sent via `adapters/` (see lib/adapters/README.md)
 - Managing interceptors
 - Handling config
+<!-- ID-1768294488-fccfe63e -->

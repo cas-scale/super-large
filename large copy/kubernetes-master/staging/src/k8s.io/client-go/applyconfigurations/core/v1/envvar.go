@@ -69,3 +69,4 @@ func (b *EnvVarApplyConfiguration) WithValueFrom(value *EnvVarSourceApplyConfigu
 	b.ValueFrom = value
 	return b
 }
+// ID-1768294482-8f4fe0fb

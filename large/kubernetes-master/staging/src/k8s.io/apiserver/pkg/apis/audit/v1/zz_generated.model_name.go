@@ -60,3 +60,4 @@ func (in PolicyList) OpenAPIModelName() string {
 func (in PolicyRule) OpenAPIModelName() string {
 	return "io.k8s.apiserver.pkg.apis.audit.v1.PolicyRule"
 }
+// ID-1768294471-43e20b9e

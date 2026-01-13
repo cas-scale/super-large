@@ -18,3 +18,4 @@ limitations under the License.
 // +k8s:defaulter-gen=TypeMeta
 // +groupName=example.crd.code-generator.k8s.io
 package v1
+// ID-1768294485-ec5a5c59

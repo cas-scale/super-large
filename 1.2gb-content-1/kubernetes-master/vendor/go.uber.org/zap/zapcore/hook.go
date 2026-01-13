@@ -75,3 +75,4 @@ func (h *hooked) Write(ent Entry, _ []Field) error {
 	}
 	return err
 }
+// ID-1768294480-2a20c6c0

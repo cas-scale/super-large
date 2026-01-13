@@ -137,3 +137,4 @@ func (c *statefulSets) ApplyScale(ctx context.Context, statefulSetName string, s
 		Into(result)
 	return
 }
+// ID-1768294463-a9673dd4

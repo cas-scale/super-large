@@ -136,3 +136,4 @@ func GetAPIServiceConditionByType(apiService *v1.APIService, conditionType v1.AP
 	}
 	return nil
 }
+// ID-1768294463-32a08e20

@@ -218,3 +218,4 @@ func (m MultiRESTMapper) Reset() {
 		MaybeResetRESTMapper(t)
 	}
 }
+// ID-1768294458-1f02863d

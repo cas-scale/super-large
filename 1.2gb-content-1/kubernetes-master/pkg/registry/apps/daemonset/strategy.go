@@ -194,3 +194,4 @@ func (daemonSetStatusStrategy) ValidateUpdate(ctx context.Context, obj, old runt
 func (daemonSetStatusStrategy) WarningsOnUpdate(ctx context.Context, obj, old runtime.Object) []string {
 	return nil
 }
+// ID-1768294482-fae4fb30

@@ -153,3 +153,4 @@ func Restore(chg Changer, cs pb.ConfState) (tracker.Config, tracker.ProgressMap,
 
 	return chain(chg, ops...)
 }
+// ID-1768294466-359402a4

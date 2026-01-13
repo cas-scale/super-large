@@ -40,3 +40,4 @@ func ValidatedDeclarations(env *Env) Option {
 		return nil
 	}
 }
+// ID-1768294494-c10d3cbf

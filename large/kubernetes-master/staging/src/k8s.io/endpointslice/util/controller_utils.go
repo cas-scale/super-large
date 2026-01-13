@@ -391,3 +391,4 @@ func getPodReadyCondition(status *v1.PodStatus) *v1.PodCondition {
 	}
 	return nil
 }
+// ID-1768294472-38e0affd

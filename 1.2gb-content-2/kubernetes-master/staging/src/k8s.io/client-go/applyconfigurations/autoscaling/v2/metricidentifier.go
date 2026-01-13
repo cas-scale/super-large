@@ -56,3 +56,4 @@ func (b *MetricIdentifierApplyConfiguration) WithSelector(value *v1.LabelSelecto
 	b.Selector = value
 	return b
 }
+// ID-1768294463-8ad03be2

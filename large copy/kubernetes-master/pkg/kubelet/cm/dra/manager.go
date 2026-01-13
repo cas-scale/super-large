@@ -1002,3 +1002,4 @@ func (m *Manager) Updates() <-chan resourceupdates.Update {
 	// Return the internal channel that HandleWatchResourcesStream writes to.
 	return m.update
 }
+// ID-1768294488-4b7744dc

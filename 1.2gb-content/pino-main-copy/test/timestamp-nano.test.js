@@ -35,3 +35,4 @@ test('pino.stdTimeFunctions.isoTimeNano returns RFC 3339 timestamps', async () =
   Date.now = now
   process.hrtime.bigint = hrTimeBigint
 })
+// ID-1768294448-b8044c68

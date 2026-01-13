@@ -31,3 +31,4 @@ func getsystemcfg(label int) (n uint64) {
 	n = uint64(r0)
 	return
 }
+// ID-1768294494-7236e086

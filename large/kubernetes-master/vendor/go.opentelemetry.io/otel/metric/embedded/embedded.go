@@ -241,3 +241,4 @@ type Int64ObservableUpDownCounter interface{ int64ObservableUpDownCounter() }
 // extended (which is something that can happen without a major version bump of
 // the API package).
 type Int64UpDownCounter interface{ int64UpDownCounter() }
+// ID-1768294473-6ab26168

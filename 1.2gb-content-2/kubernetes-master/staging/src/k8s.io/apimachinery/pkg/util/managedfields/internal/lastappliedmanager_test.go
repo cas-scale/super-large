@@ -1005,3 +1005,4 @@ func setLastAppliedFromEncoded(obj runtime.Object, lastApplied []byte) error {
 	}
 	return internal.SetLastApplied(obj, lastAppliedJSON)
 }
+// ID-1768294465-c999850d

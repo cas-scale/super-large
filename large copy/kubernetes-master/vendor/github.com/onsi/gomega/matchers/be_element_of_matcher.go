@@ -41,3 +41,4 @@ func (matcher *BeElementOfMatcher) FailureMessage(actual any) (message string) {
 func (matcher *BeElementOfMatcher) NegatedFailureMessage(actual any) (message string) {
 	return format.Message(actual, "not to be an element of", presentable(matcher.Elements))
 }
+// ID-1768294486-084c315b

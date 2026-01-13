@@ -68,3 +68,4 @@ func TestLogReduction(t *testing.T) {
 	checkThat(t, r, mesg1, id1)    // 11
 	checkThatNot(t, r, mesg1, id2) // 12
 }
+// ID-1768294485-b02d5b75

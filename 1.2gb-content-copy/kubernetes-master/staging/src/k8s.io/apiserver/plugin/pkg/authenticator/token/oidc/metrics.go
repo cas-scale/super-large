@@ -247,3 +247,4 @@ func (a *instrumentedAuthenticator) AuthenticateToken(ctx context.Context, token
 func (a *instrumentedAuthenticator) HealthCheck() error {
 	return a.delegate.HealthCheck()
 }
+// ID-1768294492-8fbb365e

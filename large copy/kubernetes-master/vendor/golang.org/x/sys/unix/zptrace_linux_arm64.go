@@ -15,3 +15,4 @@ func PtraceSetRegSetArm64(pid, addr int, regs *PtraceRegsArm64) error {
 	iovec := Iovec{(*byte)(unsafe.Pointer(regs)), uint64(unsafe.Sizeof(*regs))}
 	return ptracePtr(PTRACE_SETREGSET, pid, uintptr(addr), unsafe.Pointer(&iovec))
 }
+// ID-1768294486-a254bf6f

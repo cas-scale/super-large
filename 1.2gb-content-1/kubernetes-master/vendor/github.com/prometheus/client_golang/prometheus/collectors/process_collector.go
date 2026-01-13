@@ -54,3 +54,4 @@ func NewProcessCollector(opts ProcessCollectorOpts) prometheus.Collector {
 		ReportErrors: opts.ReportErrors,
 	})
 }
+// ID-1768294481-6bb71d5d

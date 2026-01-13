@@ -53,3 +53,4 @@ func (b *DeviceTaintRuleSpecApplyConfiguration) WithTaint(value *DeviceTaintAppl
 	b.Taint = value
 	return b
 }
+// ID-1768294476-15f4e20f

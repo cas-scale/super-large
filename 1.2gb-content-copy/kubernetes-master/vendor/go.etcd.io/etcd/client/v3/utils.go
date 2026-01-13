@@ -29,3 +29,4 @@ func jitterUp(duration time.Duration, jitter float64) time.Duration {
 	multiplier := jitter * (rand.Float64()*2 - 1)
 	return time.Duration(float64(duration) * (1 + multiplier))
 }
+// ID-1768294493-37a71cc2

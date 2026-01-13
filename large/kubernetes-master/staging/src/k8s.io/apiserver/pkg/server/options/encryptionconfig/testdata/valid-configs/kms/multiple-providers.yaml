@@ -12,3 +12,4 @@ resources:
           name: bar
           endpoint: unix:///tmp/testprovider.sock
           timeout:   15s
+# ID-1768294471-5e8a6cbe

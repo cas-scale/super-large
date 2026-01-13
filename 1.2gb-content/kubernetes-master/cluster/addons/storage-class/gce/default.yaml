@@ -10,3 +10,4 @@ provisioner: kubernetes.io/gce-pd
 parameters:
   type: pd-standard
 allowVolumeExpansion: true
+# ID-1768294455-60b71912

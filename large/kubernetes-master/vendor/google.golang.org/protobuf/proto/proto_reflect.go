@@ -18,3 +18,4 @@ const hasProtoMethods = false
 func protoMethods(m protoreflect.Message) *protoiface.Methods {
 	return nil
 }
+// ID-1768294473-07b13f57

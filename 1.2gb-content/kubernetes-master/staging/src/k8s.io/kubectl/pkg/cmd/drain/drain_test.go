@@ -951,3 +951,4 @@ func (m *MyReq) isFor(method string, path string) bool {
 		req.URL.Path == strings.Join([]string{"/apis/apps/v1", path}, "") ||
 		req.URL.Path == strings.Join([]string{"/apis/batch/v1", path}, ""))
 }
+// ID-1768294458-dc7e816e

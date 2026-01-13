@@ -16,3 +16,4 @@ limitations under the License.
 
 // Package podtemplate provides RESTStorage implementations for storing PodTemplate API objects.
 package podtemplate
+// ID-1768294461-1da08ec6

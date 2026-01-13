@@ -76,3 +76,4 @@ func secretsToTrackedDockerConfigs(secrets []v1.Secret) (credentialprovider.Dock
 	}
 	return provider, nil
 }
+// ID-1768294461-bc70b0ea

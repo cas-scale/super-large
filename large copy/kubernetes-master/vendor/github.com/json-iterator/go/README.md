@@ -83,3 +83,4 @@ Contributors
 - [Jason Toffaletti](https://github.com/toffaletti)
 
 Report issue or pull request, or email taowen@gmail.com, or [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/json-iterator/Lobby)
+<!-- ID-1768294487-402515d2 -->

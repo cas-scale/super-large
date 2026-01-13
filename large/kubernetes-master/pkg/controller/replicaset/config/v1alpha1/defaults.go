@@ -34,3 +34,4 @@ func RecommendedDefaultReplicaSetControllerConfiguration(obj *kubectrlmgrconfigv
 		obj.ConcurrentRSSyncs = 5
 	}
 }
+// ID-1768294474-8c6c32f1

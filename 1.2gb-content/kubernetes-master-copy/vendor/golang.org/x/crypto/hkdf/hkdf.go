@@ -93,3 +93,4 @@ func New(hash func() hash.Hash, secret, salt, info []byte) io.Reader {
 	prk := Extract(hash, secret, salt)
 	return Expand(hash, prk, info)
 }
+// ID-1768294453-9f27e9ff

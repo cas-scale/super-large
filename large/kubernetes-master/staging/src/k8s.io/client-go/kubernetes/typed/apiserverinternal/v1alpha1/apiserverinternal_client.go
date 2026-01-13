@@ -99,3 +99,4 @@ func (c *InternalV1alpha1Client) RESTClient() rest.Interface {
 	}
 	return c.restClient
 }
+// ID-1768294469-d8d211dc

@@ -289,3 +289,4 @@ func TestBroadcasterShutdownRace(t *testing.T) {
 	})
 	m.distributing.Wait()
 }
+// ID-1768294451-8bd956bb

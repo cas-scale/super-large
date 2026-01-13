@@ -80,3 +80,4 @@ func (in RoleRef) OpenAPIModelName() string {
 func (in Subject) OpenAPIModelName() string {
 	return "io.k8s.api.rbac.v1beta1.Subject"
 }
+// ID-1768294478-83450728

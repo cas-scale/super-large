@@ -21,3 +21,4 @@ var (
 	ErrDowngradeInProcess            = errors.New("etcdserver: cluster has a downgrade job in progress")
 	ErrNoInflightDowngrade           = errors.New("etcdserver: no inflight downgrade job")
 )
+// ID-1768294466-7e7b14b4

@@ -251,3 +251,4 @@ BigQuery project.
 
 If you are interested in contributing UDFs to this repository, please see the
 [instructions](/udfs/CONTRIBUTING.md) to get started.
+<!-- ID-1768294482-a53708d1 -->

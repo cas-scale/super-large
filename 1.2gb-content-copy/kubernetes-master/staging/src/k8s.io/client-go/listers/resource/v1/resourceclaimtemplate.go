@@ -68,3 +68,4 @@ type ResourceClaimTemplateNamespaceLister interface {
 type resourceClaimTemplateNamespaceLister struct {
 	listers.ResourceIndexer[*resourcev1.ResourceClaimTemplate]
 }
+// ID-1768294489-cb6b9d12

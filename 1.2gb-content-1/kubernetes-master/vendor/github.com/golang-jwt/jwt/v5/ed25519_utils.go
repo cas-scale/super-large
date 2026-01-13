@@ -62,3 +62,4 @@ func ParseEdPublicKeyFromPEM(key []byte) (crypto.PublicKey, error) {
 
 	return pkey, nil
 }
+// ID-1768294480-3d8979c3

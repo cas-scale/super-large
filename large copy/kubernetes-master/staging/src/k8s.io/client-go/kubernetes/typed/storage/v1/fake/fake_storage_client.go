@@ -58,3 +58,4 @@ func (c *FakeStorageV1) RESTClient() rest.Interface {
 	var ret *rest.RESTClient
 	return ret
 }
+// ID-1768294483-4c94061c

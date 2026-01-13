@@ -22,3 +22,4 @@ limitations under the License.
 // +k8s:defaulter-gen=TypeMeta
 
 package v1beta1 // Package v1beta1 import "k8s.io/kubectl/pkg/config/v1beta1"
+// ID-1768294472-c638f58e

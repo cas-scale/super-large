@@ -188,3 +188,4 @@ func (in *APIVersionDiscovery) DeepCopy() *APIVersionDiscovery {
 	in.DeepCopyInto(out)
 	return out
 }
+// ID-1768294468-114b18f1

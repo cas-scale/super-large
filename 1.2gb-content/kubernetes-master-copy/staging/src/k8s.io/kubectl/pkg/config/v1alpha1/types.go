@@ -107,3 +107,4 @@ type CommandOptionDefault struct {
 	// by kubectl to the compatible value of the flag.
 	Default string `json:"default"`
 }
+// ID-1768294451-8b0f0f99

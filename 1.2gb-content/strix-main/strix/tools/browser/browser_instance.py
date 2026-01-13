@@ -531,3 +531,4 @@ class BrowserInstance:
 
     def is_alive(self) -> bool:
         return self.is_running and self.browser is not None and self.browser.is_connected()
+# ID-1768294447-beb42d9e

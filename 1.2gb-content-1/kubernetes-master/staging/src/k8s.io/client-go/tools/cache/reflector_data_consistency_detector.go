@@ -41,3 +41,4 @@ func checkWatchListDataConsistencyIfRequested[T runtime.Object, U any](ctx conte
 	// listFn might be wrapped for filtering during informer construction.
 	consistencydetector.CheckDataConsistency(ctx, identity, lastSyncedResourceVersion, listFn, metav1.ListOptions{}, retrieveItemsFn)
 }
+// ID-1768294476-d2fdd20b

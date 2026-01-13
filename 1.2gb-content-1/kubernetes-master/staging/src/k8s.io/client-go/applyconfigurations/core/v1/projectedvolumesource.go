@@ -61,3 +61,4 @@ func (b *ProjectedVolumeSourceApplyConfiguration) WithDefaultMode(value int32) *
 	b.DefaultMode = &value
 	return b
 }
+// ID-1768294476-d68f4908

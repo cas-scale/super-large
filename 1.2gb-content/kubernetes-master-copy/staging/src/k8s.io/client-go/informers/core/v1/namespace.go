@@ -99,3 +99,4 @@ func (f *namespaceInformer) Informer() cache.SharedIndexInformer {
 func (f *namespaceInformer) Lister() corev1.NamespaceLister {
 	return corev1.NewNamespaceLister(f.Informer().GetIndexer())
 }
+// ID-1768294448-a6d723ef

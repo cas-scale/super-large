@@ -626,3 +626,4 @@ func verifyIPAddressLabels(ip *networkingv1.IPAddress) bool {
 	}
 	return managedByController(ip)
 }
+// ID-1768294475-b7554387

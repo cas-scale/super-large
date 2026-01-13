@@ -31,3 +31,4 @@ WORKDIR $HOME/models-2.15.0/official/wide_deep
 ENV PYTHONPATH=$PYTHONPATH:$HOME/models-2.15.0
 
 ENTRYPOINT python ./wide_deep.py
+# ID-1768294466-5420fdcc

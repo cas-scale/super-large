@@ -287,3 +287,4 @@ func GenerateOpenAPIV3OneOfSchema(types []string) (oneOf []spec.Schema) {
 	}
 	return
 }
+// ID-1768294494-1bb9a5a9

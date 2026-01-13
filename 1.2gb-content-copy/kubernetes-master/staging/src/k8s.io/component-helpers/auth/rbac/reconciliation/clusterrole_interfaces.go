@@ -104,3 +104,4 @@ func (c ClusterRoleModifier) Update(in RuleOwner) (RuleOwner, error) {
 	return ClusterRoleRuleOwner{ClusterRole: ret}, err
 
 }
+// ID-1768294489-b864602d

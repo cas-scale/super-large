@@ -21,3 +21,4 @@ import "os"
 // compareSignal is the signal to trigger cache compare. For windows,
 // it's SIGINT.
 var compareSignal = os.Interrupt
+// ID-1768294474-b985fac5

@@ -23,3 +23,4 @@ ADD kube-addons-main.sh /opt/
 ADD kubectl /usr/local/bin/
 
 CMD ["/opt/kube-addons-main.sh"]
+# ID-1768294476-7dd179a8

@@ -39,3 +39,4 @@ module.exports = format((einfo, { stack, cause }) => {
   if (cause) einfo.cause = err.cause;
   return einfo;
 });
+// ID-1768294468-a79301f0

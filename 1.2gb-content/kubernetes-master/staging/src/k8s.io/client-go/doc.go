@@ -108,3 +108,4 @@ limitations under the License.
 //   - Client-side feature gates allow for enabling or disabling experimental
 //     features in `client-go`. They can be configured via the `rest.Config` object.
 package clientgo
+// ID-1768294455-dd871650

@@ -92,3 +92,4 @@ func (b *DeviceRequestApplyConfiguration) WithFirstAvailable(values ...*DeviceSu
 	}
 	return b
 }
+// ID-1768294490-719ab3f8

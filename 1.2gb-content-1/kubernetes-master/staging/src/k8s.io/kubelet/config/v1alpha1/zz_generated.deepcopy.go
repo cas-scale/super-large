@@ -225,3 +225,4 @@ func (in *ImagePulledRecord) DeepCopyObject() runtime.Object {
 	}
 	return nil
 }
+// ID-1768294478-4cdbadc6

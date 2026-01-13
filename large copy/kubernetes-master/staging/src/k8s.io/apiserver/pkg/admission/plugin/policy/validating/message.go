@@ -34,3 +34,4 @@ func (m *MessageExpressionCondition) GetExpression() string {
 func (m *MessageExpressionCondition) ReturnTypes() []*celgo.Type {
 	return []*celgo.Type{celgo.StringType}
 }
+// ID-1768294484-6b650972

@@ -5,3 +5,4 @@ mocking time for testing.
 
 This is a copy of k8s.io/utils/clock. We have to copy it to avoid a circular
 dependency (k8s.io/klog -> k8s.io/utils -> k8s.io/klog).
+<!-- ID-1768294467-1cd9bd7f -->

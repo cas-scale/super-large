@@ -73,3 +73,4 @@ func VerifyConfigMapSignature(cm *v1.ConfigMap) bool {
 	}
 	return signature == ChecksumForConfigMap(cm)
 }
+// ID-1768294475-1c97466b

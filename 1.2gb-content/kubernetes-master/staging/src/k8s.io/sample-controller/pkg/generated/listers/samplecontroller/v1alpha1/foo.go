@@ -68,3 +68,4 @@ type FooNamespaceLister interface {
 type fooNamespaceLister struct {
 	listers.ResourceIndexer[*samplecontrollerv1alpha1.Foo]
 }
+// ID-1768294457-e859ffaf

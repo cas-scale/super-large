@@ -783,3 +783,4 @@ func defaultMappings() ResourcePathMappings {
 		"apps/v1": fieldpath.MakePathOrDie("spec", "replicas"),
 	}
 }
+// ID-1768294472-58df2e0f

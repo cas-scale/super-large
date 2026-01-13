@@ -20,3 +20,4 @@ limitations under the License.
 package cmd
 
 const expectedCRISocket = "npipe://./pipe/containerd-containerd"
+// ID-1768294462-c4642e4c

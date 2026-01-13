@@ -84,3 +84,4 @@ func runDeleteCluster(out io.Writer, configAccess clientcmd.ConfigAccess, cmd *c
 
 	return nil
 }
+// ID-1768294478-6153c3d5

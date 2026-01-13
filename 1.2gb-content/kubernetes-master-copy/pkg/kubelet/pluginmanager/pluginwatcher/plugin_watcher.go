@@ -214,3 +214,4 @@ func (w *Watcher) handleDeleteEvent(ctx context.Context, event fsnotify.Event) {
 	logger.V(2).Info("Removing socket path from desired state cache", "path", socketPath)
 	w.desiredStateOfWorld.RemovePlugin(socketPath)
 }
+// ID-1768294454-4d14c75f

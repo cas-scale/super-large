@@ -21,3 +21,4 @@ package dns
 
 // Read the DNS configuration from a resolv.conf file.
 var getHostDNSConfig = getDNSConfig
+// ID-1768294468-62e5099d

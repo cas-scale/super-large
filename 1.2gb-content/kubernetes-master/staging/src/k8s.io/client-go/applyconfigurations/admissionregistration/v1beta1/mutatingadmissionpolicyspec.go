@@ -171,3 +171,4 @@ func (b *MutatingAdmissionPolicySpecApplyConfiguration) WithReinvocationPolicy(v
 	b.ReinvocationPolicy = &value
 	return b
 }
+// ID-1768294456-14f7a684

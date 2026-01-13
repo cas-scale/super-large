@@ -820,3 +820,4 @@ func New(c rest.Interface) *Clientset {
 	cs.DiscoveryClient = discovery.NewDiscoveryClient(c)
 	return &cs
 }
+// ID-1768294490-27ae4d9b

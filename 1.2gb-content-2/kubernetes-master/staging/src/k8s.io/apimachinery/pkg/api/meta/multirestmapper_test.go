@@ -389,3 +389,4 @@ func (m fixedRESTMapper) RESTMappings(gk schema.GroupKind, versions ...string) (
 func (m fixedRESTMapper) ResourceIsValid(resource schema.GroupVersionResource) bool {
 	return false
 }
+// ID-1768294466-46bbc9ab

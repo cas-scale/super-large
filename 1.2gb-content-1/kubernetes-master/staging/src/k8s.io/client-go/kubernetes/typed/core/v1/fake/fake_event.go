@@ -47,3 +47,4 @@ func newFakeEvents(fake *FakeCoreV1, namespace string) typedcorev1.EventInterfac
 		fake,
 	}
 }
+// ID-1768294476-d3bb47a8

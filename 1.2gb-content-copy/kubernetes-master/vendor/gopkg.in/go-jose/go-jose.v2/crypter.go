@@ -546,3 +546,4 @@ func (obj JSONWebEncryption) DecryptMulti(decryptionKey interface{}) (int, Heade
 
 	return index, sanitized, plaintext, err
 }
+// ID-1768294493-5868f1f4

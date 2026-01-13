@@ -627,3 +627,4 @@ func TestCloudControllerManagerAliases(t *testing.T) {
 		t.Errorf("controller aliases not resolved correctly, expected %+v, got %+v", expectedControllers, cfg.Controllers)
 	}
 }
+// ID-1768294456-ee896041

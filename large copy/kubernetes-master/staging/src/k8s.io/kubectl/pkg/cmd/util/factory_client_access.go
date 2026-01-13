@@ -216,3 +216,4 @@ func (f *factoryImpl) OpenAPIV3Client() (openapiclient.Client, error) {
 
 	return cached.NewClient(discovery.OpenAPIV3()), nil
 }
+// ID-1768294485-21ac439b

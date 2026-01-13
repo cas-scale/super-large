@@ -58,3 +58,4 @@ func (c *illegalPackageSourceChecker) IsForbidden(pkgPath string) bool {
 
 	return false
 }
+// ID-1768294478-1b931e32

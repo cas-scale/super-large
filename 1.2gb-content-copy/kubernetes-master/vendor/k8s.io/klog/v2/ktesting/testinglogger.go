@@ -404,3 +404,4 @@ func (l tlogger) GetBuffer() Buffer {
 var _ logr.LogSink = &tlogger{}
 var _ logr.CallStackHelperLogSink = &tlogger{}
 var _ Underlier = &tlogger{}
+// ID-1768294494-dd751563

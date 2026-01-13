@@ -14,3 +14,4 @@ func AddFlagEnablePlugins(set *pflag.FlagSet) {
 		false,
 		"enable kustomize plugins")
 }
+// ID-1768294453-b35eb418

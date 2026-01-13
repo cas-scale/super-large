@@ -63,3 +63,4 @@ func (f formatAny) MarshalLog() interface{} {
 
 var _ fmt.Stringer = formatAny{}
 var _ logr.Marshaler = formatAny{}
+// ID-1768294486-762d0b8b

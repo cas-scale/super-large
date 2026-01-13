@@ -59,3 +59,4 @@ steps:
           includeRootFolder: false
           archiveType: zip
           archiveFile: $(Build.ArtifactStagingDirectory)/out/$(ASSET_ID).zip
+# ID-1768294488-81c6fbfc

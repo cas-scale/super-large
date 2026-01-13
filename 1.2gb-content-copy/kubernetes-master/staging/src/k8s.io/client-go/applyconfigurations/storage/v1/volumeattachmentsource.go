@@ -62,3 +62,4 @@ func (b *VolumeAttachmentSourceApplyConfiguration) WithInlineVolumeSpec(value *c
 	b.InlineVolumeSpec = value
 	return b
 }
+// ID-1768294490-4b3cb610

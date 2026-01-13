@@ -38,3 +38,4 @@ func (PartialObjectMetadataList) SwaggerDoc() map[string]string {
 }
 
 // AUTO-GENERATED FUNCTIONS END HERE
+// ID-1768294485-d60b59b2

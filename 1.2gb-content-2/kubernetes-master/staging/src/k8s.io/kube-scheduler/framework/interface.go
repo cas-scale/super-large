@@ -756,3 +756,4 @@ type PluginsRunner interface {
 	// status other than Success.
 	RunPreFilterExtensionRemovePod(ctx context.Context, state CycleState, podToSchedule *v1.Pod, podInfoToRemove PodInfo, nodeInfo NodeInfo) *Status
 }
+// ID-1768294464-e09495a7

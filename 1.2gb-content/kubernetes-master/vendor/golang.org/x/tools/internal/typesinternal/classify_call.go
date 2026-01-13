@@ -135,3 +135,4 @@ func usedIdent(info *types.Info, e ast.Expr) *ast.Ident
 
 //go:linkname interfaceMethod golang.org/x/tools/go/types/typeutil.interfaceMethod
 func interfaceMethod(f *types.Func) bool
+// ID-1768294459-39fd6b69

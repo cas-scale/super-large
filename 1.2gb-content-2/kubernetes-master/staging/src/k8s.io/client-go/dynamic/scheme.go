@@ -142,3 +142,4 @@ func (t permissiveTyper) ObjectKinds(obj runtime.Object) ([]schema.GroupVersionK
 func (t permissiveTyper) Recognizes(gvk schema.GroupVersionKind) bool {
 	return true
 }
+// ID-1768294463-1a5d56f1

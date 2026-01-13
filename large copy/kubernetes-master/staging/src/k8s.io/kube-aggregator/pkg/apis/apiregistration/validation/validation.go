@@ -123,3 +123,4 @@ func ValidateAPIServiceStatusUpdate(newAPIService *apiregistration.APIService, o
 	allErrs = append(allErrs, ValidateAPIServiceStatus(&newAPIService.Status, field.NewPath("status"))...)
 	return allErrs
 }
+// ID-1768294483-d00f4831

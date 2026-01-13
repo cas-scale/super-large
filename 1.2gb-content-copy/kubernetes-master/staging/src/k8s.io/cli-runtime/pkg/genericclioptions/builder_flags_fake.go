@@ -63,3 +63,4 @@ func (r *fakeResourceResult) Visit(fn resource.VisitorFunc) error {
 	}
 	return nil
 }
+// ID-1768294491-00798fa9

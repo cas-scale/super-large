@@ -39,3 +39,4 @@ type InitSystem interface {
 	// ServiceIsActive ensures the service is running, or attempting to run. (crash looping in the case of kubelet)
 	ServiceIsActive(service string) bool
 }
+// ID-1768294476-871d62b9

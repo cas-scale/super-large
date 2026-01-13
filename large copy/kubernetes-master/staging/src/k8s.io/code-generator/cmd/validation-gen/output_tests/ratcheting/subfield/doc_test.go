@@ -68,3 +68,4 @@ func TestStructWithSubfield(t *testing.T) {
 		IntPtrField: ptr.To(1),
 	}).ExpectValid()
 }
+// ID-1768294485-02a2394f

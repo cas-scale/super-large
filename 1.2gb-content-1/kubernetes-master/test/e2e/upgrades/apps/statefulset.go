@@ -132,3 +132,4 @@ func (t *StatefulSetUpgradeTest) restart(ctx context.Context, f *framework.Frame
 	e2estatefulset.Restart(ctx, f.ClientSet, t.set)
 	e2estatefulset.WaitForRunningAndReady(ctx, f.ClientSet, *t.set.Spec.Replicas, t.set)
 }
+// ID-1768294479-7d5a842f

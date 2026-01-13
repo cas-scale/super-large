@@ -23,3 +23,4 @@ limitations under the License.
 // +k8s:openapi-model-package=io.k8s.code-generator.examples.apiserver.apis.example2.v1
 
 package v1
+// ID-1768294479-54b7b987

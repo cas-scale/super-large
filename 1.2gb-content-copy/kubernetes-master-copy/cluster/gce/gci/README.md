@@ -106,3 +106,4 @@ family as a prefix, e.g cos-dev, cos-beta, cos-stable. However, the milestone
 number in those families may change when channel promotions happen. Only when a milestone becomes LTS, the
 image will have a new family, and the milestone number in the image name stays the same. The image
 will be always there even after the milestone is deprecated.
+<!-- ID-1768294488-21665bd2 -->

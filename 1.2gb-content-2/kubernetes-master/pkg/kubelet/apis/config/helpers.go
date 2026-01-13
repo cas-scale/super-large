@@ -30,3 +30,4 @@ func KubeletConfigurationPathRefs(kc *KubeletConfiguration) []*string {
 	paths = append(paths, &kc.PodLogsDir)
 	return paths
 }
+// ID-1768294468-6e814127

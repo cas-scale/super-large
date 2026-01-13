@@ -59,3 +59,4 @@ func isRegisteredType(typeName string) bool {
 	}
 	return false
 }
+// ID-1768294492-6cdeafc2

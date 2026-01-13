@@ -153,3 +153,4 @@ func encodeSecret(node *yaml.RNode) (string, error) {
 	}
 	return string(data), nil
 }
+// ID-1768294486-2591c66b

@@ -56,3 +56,4 @@ function create-windows-node-instance-template {
   local scopes_flag="$2"
   create-node-template "${template_name}" "${scopes_flag}" "$(get-windows-node-instance-metadata-from-file)" "$(get-windows-node-instance-metadata)" "windows" "${NODE_SIZE}"
 }
+# ID-1768294482-c718deef

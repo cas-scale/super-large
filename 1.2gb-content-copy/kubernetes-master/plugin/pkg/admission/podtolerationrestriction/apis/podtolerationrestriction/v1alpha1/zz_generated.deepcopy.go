@@ -64,3 +64,4 @@ func (in *Configuration) DeepCopyObject() runtime.Object {
 	}
 	return nil
 }
+// ID-1768294493-b6777e37

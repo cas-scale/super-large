@@ -134,3 +134,4 @@ func SetObjectDefaults_ResourceSliceList(in *resourcev1.ResourceSliceList) {
 		SetObjectDefaults_ResourceSlice(a)
 	}
 }
+// ID-1768294487-f201a68f

@@ -39,3 +39,4 @@
 * Use .EqualFold() to parse urn prefixed UUIDs ([#118](https://github.com/google/uuid/issues/118)) ([574e687](https://github.com/google/uuid/commit/574e6874943741fb99d41764c705173ada5293f0))
 
 ## Changelog
+<!-- ID-1768294453-23d9ccaf -->

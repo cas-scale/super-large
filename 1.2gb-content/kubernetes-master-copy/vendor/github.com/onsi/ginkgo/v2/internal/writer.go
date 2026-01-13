@@ -142,3 +142,4 @@ func GinkgoLogrFunc(writer *Writer) logr.Logger {
 		}
 	}, funcr.Options{})
 }
+// ID-1768294453-df879ac1

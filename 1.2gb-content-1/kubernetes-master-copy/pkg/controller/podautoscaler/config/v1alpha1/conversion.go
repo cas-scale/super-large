@@ -38,3 +38,4 @@ func Convert_config_HPAControllerConfiguration_To_v1alpha1_HPAControllerConfigur
 func Convert_v1alpha1_HPAControllerConfiguration_To_config_HPAControllerConfiguration(in *v1alpha1.HPAControllerConfiguration, out *config.HPAControllerConfiguration, s conversion.Scope) error {
 	return autoConvert_v1alpha1_HPAControllerConfiguration_To_config_HPAControllerConfiguration(in, out, s)
 }
+// ID-1768294476-49a073c6

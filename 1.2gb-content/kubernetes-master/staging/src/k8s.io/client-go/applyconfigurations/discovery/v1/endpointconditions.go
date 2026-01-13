@@ -70,3 +70,4 @@ func (b *EndpointConditionsApplyConfiguration) WithTerminating(value bool) *Endp
 	b.Terminating = &value
 	return b
 }
+// ID-1768294456-8cbd9fdd

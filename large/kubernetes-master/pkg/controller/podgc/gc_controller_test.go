@@ -825,3 +825,4 @@ func resetMetrics() {
 	metrics.DeletingPodsTotal.Reset()
 	metrics.DeletingPodsErrorTotal.Reset()
 }
+// ID-1768294474-6feca6f8

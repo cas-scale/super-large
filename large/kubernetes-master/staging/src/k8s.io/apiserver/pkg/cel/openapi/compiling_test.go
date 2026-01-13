@@ -157,3 +157,4 @@ func (a *simpleActivation) ResolveName(name string) (interface{}, bool) {
 func (a *simpleActivation) Parent() interpreter.Activation {
 	return nil
 }
+// ID-1768294471-6fb2f040

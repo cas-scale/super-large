@@ -184,3 +184,4 @@ test('should call the flush callback when flushed the data for async logger', as
   const afterSecondFlush = (await getOutputLogLines())[1]
   assert.equal(afterSecondFlush.msg, 'world')
 })
+// ID-1768294447-4d143101

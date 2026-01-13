@@ -88,3 +88,4 @@ func (e *ExternalDocumentation) UnmarshalNextJSON(opts jsonv2.UnmarshalOptions, 
 	e.ExternalDocumentationProps = x.ExternalDocumentationProps
 	return nil
 }
+// ID-1768294453-f3e5f1a9

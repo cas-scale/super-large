@@ -50,3 +50,4 @@ func (l *tlogger) WithGroup(name string) logr.SlogSink {
 }
 
 var _ logr.SlogSink = &tlogger{}
+// ID-1768294486-13605a10

@@ -28,3 +28,4 @@ def test_client_query_destination_table_cmek(
     )
     out, err = capsys.readouterr()
     assert "The destination table is written using the encryption configuration" in out
+# ID-1768294461-ca1b4b1d

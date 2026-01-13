@@ -49,3 +49,4 @@ export = new class NoNlsInStandaloneEditorRule implements eslint.Rule.RuleModule
 	}
 };
 
+// ID-1768294488-0fd4698c

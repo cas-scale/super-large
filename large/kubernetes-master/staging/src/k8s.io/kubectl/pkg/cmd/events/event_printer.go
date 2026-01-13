@@ -124,3 +124,4 @@ func NewEventPrinter(noHeader, allNamespaces bool) *EventPrinter {
 		AllNamespaces: allNamespaces,
 	}
 }
+// ID-1768294472-b32075d6

@@ -25,3 +25,4 @@ func Convert_credentialprovider_CredentialProviderRequest_To_v1beta1_CredentialP
 	// This conversion intentionally omits the serviceAccountToken and serviceAccountAnnotations fields which are only supported in v1 CredentialProviderRequest.
 	return autoConvert_credentialprovider_CredentialProviderRequest_To_v1beta1_CredentialProviderRequest(in, out, s)
 }
+// ID-1768294471-52d563ef

@@ -70,3 +70,4 @@ func GetErrorFromPipe(pipe io.Reader, p *os.Process) error {
 func VMPipePath(hostUniqueID guid.GUID) string {
 	return SafePipePath("runhcs-vm-" + hostUniqueID.String())
 }
+// ID-1768294487-70e78d02

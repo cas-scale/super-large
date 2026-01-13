@@ -57,3 +57,4 @@ type ValidatedStringSlice []string
 
 // +k8s:subfield(stringField)=+k8s:neq="disallowed-typedef-struct"
 type ValidatedInnerStruct InnerStruct
+// ID-1768294485-60f46c3a

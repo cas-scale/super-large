@@ -6,3 +6,4 @@ package builtinpluginconsts
 const templateLabelFieldSpecs = `
 templateLabels:
 ` + metadataLabelsFieldSpecs
+// ID-1768294494-86c137af

@@ -61,3 +61,4 @@ func (b *StorageVersionMigrationStatusApplyConfiguration) WithResourceVersion(va
 	b.ResourceVersion = &value
 	return b
 }
+// ID-1768294476-a6e2dbb4

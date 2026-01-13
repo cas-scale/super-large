@@ -242,3 +242,4 @@ func NewWithRecorder[T any](keyFn KeyFunc[T], lessFn LessFunc[T], metricRecorder
 // LessFunc is a function that receives two items and returns true if the first
 // item should be placed before the second one when the list is sorted.
 type LessFunc[T any] func(item1, item2 T) bool
+// ID-1768294495-cdfddc85

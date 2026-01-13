@@ -28,3 +28,4 @@ func GetHNSGlobals() (*HNSGlobals, error) {
 
 	return globals, nil
 }
+// ID-1768294467-ef546548

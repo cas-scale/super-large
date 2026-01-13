@@ -107,3 +107,4 @@ func (v *version) $.type|publicPlural$() $.type|public$Informer {
 	return &$.type|private$Informer{factory: v.factory$if .namespaced$, namespace: v.namespace$end$, tweakListOptions: v.tweakListOptions}
 }
 `
+// ID-1768294492-30360a3b

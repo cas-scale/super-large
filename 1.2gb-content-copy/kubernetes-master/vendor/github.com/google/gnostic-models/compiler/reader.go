@@ -305,3 +305,4 @@ func ReadInfoForRef(basefile string, ref string) (*yaml.Node, error) {
 	}
 	return info, nil
 }
+// ID-1768294494-f9268165

@@ -7,3 +7,4 @@ const transport = pino.transport({
 })
 const logger = pino(transport)
 logger.info('Hello')
+// ID-1768294468-6abf310b

@@ -46,3 +46,4 @@ func (p *skipPrinter) PrintObj(obj runtime.Object, writer io.Writer) error {
 	table.Rows = nil
 	return p.delegate.PrintObj(table, writer)
 }
+// ID-1768294485-9246146d

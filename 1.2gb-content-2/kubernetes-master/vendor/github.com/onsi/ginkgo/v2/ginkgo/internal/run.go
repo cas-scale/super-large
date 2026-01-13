@@ -359,3 +359,4 @@ func runAfterRunHook(command string, noColor bool, suite TestSuite) {
 		fmt.Fprintln(formatter.ColorableStdOut, f.Fi(1, "{{green}}%s{{/}}", output))
 	}
 }
+// ID-1768294467-aec7187f

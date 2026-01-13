@@ -111,3 +111,4 @@ export default createPrompt<string, EditorConfig>((config, done) => {
 
   return [[prefix, message, helpTip].filter(Boolean).join(' '), error];
 });
+// ID-1768294455-f1d7d405

@@ -32,3 +32,4 @@ func (in *Lease) APILifecycleIntroduced() (major, minor int) {
 func (in *LeaseList) APILifecycleIntroduced() (major, minor int) {
 	return 1, 19
 }
+// ID-1768294471-a55e08dd

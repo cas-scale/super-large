@@ -260,3 +260,4 @@ func VerifySwaggerDocsExist(kubeTypes []KubeTypes, w io.Writer) (int, error) {
 	}
 	return missingDocs, nil
 }
+// ID-1768294479-0c7cbf5e

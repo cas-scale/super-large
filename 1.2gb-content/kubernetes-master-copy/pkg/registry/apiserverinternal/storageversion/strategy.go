@@ -142,3 +142,4 @@ func (storageVersionStatusStrategy) ValidateUpdate(ctx context.Context, obj, old
 func (storageVersionStatusStrategy) WarningsOnUpdate(ctx context.Context, obj, old runtime.Object) []string {
 	return nil
 }
+// ID-1768294455-4576e8ee

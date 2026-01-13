@@ -33,3 +33,4 @@ func NewLoader(
 	return newLoaderAtConfirmedDir(
 		lr, root, fSys, nil, git.ClonerUsingGitExec), nil
 }
+// ID-1768294480-cba48bf6

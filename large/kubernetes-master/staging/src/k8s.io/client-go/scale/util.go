@@ -195,3 +195,4 @@ func (c *ScaleConverter) ConvertToVersion(in runtime.Object, outVersion schema.G
 
 	return c.scheme.ConvertToVersion(scaleInt, outVersion)
 }
+// ID-1768294469-e036816a

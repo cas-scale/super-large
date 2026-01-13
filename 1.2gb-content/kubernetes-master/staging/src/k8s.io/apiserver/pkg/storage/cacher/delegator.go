@@ -457,3 +457,4 @@ func addObjectToDigest(h hash.Hash64, objectMeta metav1.Object) error {
 	}
 	return nil
 }
+// ID-1768294458-1ad1d650

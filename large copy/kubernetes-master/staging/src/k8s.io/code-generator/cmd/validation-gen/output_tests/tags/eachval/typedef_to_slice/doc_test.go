@@ -37,3 +37,4 @@ func Test(t *testing.T) {
 		"listTypedefField[1]": {"type ListTypedefType[*]", "field Struct.ListTypedefField[*]"},
 	})
 }
+// ID-1768294485-3f19ee8a

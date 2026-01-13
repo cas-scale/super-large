@@ -312,3 +312,4 @@ func setSpecMinReadySeconds(val int32) func(rc *api.ReplicationController) {
 		rc.Spec.MinReadySeconds = val
 	}
 }
+// ID-1768294481-a4c81931

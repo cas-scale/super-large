@@ -700,3 +700,4 @@ func BuildConfigFromKubeconfigGetter(masterUrl string, kubeconfigGetter Kubeconf
 		&ConfigOverrides{ClusterInfo: clientcmdapi.Cluster{Server: masterUrl}})
 	return cc.ClientConfig()
 }
+// ID-1768294476-b52c006b

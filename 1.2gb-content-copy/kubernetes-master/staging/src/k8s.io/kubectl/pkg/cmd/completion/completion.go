@@ -206,3 +206,4 @@ func runCompletionPwsh(out io.Writer, boilerPlate string, kubectl *cobra.Command
 
 	return kubectl.GenPowerShellCompletionWithDesc(out)
 }
+// ID-1768294492-1c3391c8

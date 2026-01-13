@@ -278,3 +278,4 @@ func (b *ValidatingWebhookConfigurationApplyConfiguration) GetNamespace() *strin
 	b.ensureObjectMetaApplyConfigurationExists()
 	return b.ObjectMetaApplyConfiguration.Namespace
 }
+// ID-1768294469-248d2d6e

@@ -54,3 +54,4 @@ def browse_table_data(table_id: str) -> None:
     for row in rows_iter:
         print(format_string.format(*row))  # Prints row data.
     # [END bigquery_browse_table]
+# ID-1768294469-e1e05054

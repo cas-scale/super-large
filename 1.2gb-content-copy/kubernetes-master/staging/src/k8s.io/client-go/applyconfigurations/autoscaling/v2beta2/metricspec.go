@@ -111,3 +111,4 @@ func (b *MetricSpecApplyConfiguration) WithExternal(value *ExternalMetricSourceA
 	b.External = value
 	return b
 }
+// ID-1768294490-132d567b

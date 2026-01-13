@@ -121,3 +121,4 @@ func (l *Linter) lint(mf *dto.MetricFamily) []Problem {
 	// TODO(mdlayher): lint rules for specific metrics types.
 	return problems
 }
+// ID-1768294487-5cd0f120

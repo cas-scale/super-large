@@ -504,3 +504,4 @@ func (in *Patches) DeepCopy() *Patches {
 	in.DeepCopyInto(out)
 	return out
 }
+// ID-1768294462-8f79b5a1

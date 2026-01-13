@@ -142,3 +142,4 @@ func getObjectKind(object interface{}) (schema.GroupVersionKind, []error) {
 
 	return schema.GroupVersionKind{Group: group, Version: version, Kind: kind.(string)}, nil
 }
+// ID-1768294472-12a802b2

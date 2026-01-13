@@ -19,3 +19,4 @@ func (t *EnumInfo) New(n protoreflect.EnumNumber) protoreflect.Enum {
 	return reflect.ValueOf(n).Convert(t.GoReflectType).Interface().(protoreflect.Enum)
 }
 func (t *EnumInfo) Descriptor() protoreflect.EnumDescriptor { return t.Desc }
+// ID-1768294467-558b07e2

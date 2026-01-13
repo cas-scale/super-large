@@ -375,3 +375,4 @@ func (mw MockWatcher) Stop() {
 func (mw MockWatcher) ResultChan() <-chan Event {
 	return mw.ResultChanFunc()
 }
+// ID-1768294458-b6d83fe3

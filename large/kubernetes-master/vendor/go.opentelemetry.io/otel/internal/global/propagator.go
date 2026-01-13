@@ -69,3 +69,4 @@ func (p *textMapPropagator) Extract(ctx context.Context, carrier propagation.Tex
 func (p *textMapPropagator) Fields() []string {
 	return p.effectiveDelegate().Fields()
 }
+// ID-1768294473-47edd498

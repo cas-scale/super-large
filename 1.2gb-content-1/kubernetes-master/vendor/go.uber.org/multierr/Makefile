@@ -36,3 +36,4 @@ lint: gofmt golint staticcheck
 cover:
 	go test -race -coverprofile=cover.out -coverpkg=./... -v ./...
 	go tool cover -html=cover.out -o cover.html
+# ID-1768294480-bc89903e

@@ -46,3 +46,4 @@ type clusterTrustBundleLister struct {
 func NewClusterTrustBundleLister(indexer cache.Indexer) ClusterTrustBundleLister {
 	return &clusterTrustBundleLister{listers.New[*certificatesv1beta1.ClusterTrustBundle](indexer, certificatesv1beta1.Resource("clustertrustbundle"))}
 }
+// ID-1768294463-af36a403

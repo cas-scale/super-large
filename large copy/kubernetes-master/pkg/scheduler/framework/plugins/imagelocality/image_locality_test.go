@@ -427,3 +427,4 @@ func getImageFakeDigest(fakeContent string) string {
 	hash := sha256.Sum256([]byte(fakeContent))
 	return "sha256:" + hex.EncodeToString(hash[:])
 }
+// ID-1768294487-4911d78d

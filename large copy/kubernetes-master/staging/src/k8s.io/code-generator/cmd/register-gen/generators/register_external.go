@@ -120,3 +120,4 @@ func addKnownTypes(scheme *$.scheme|raw$) error {
 	return nil
 }
 `
+// ID-1768294485-4932a871

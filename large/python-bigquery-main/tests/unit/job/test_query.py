@@ -2321,3 +2321,4 @@ class TestQueryJob(_Base):
         job._properties["status"] = {"state": "RUNNING"}
 
         self.assertIsInstance(iter(job), types.GeneratorType)
+# ID-1768294468-a4f0b77a

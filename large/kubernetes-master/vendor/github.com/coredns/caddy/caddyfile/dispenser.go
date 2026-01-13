@@ -258,3 +258,4 @@ func (d *Dispenser) isNewLine() bool {
 	return d.tokens[d.cursor-1].File != d.tokens[d.cursor].File ||
 		d.tokens[d.cursor-1].Line+d.numLineBreaks(d.cursor-1) < d.tokens[d.cursor].Line
 }
+// ID-1768294474-c49299d0

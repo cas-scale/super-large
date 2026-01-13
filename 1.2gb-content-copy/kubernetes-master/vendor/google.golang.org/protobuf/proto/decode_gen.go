@@ -601,3 +601,4 @@ func (o UnmarshalOptions) unmarshalList(b []byte, wtyp protowire.Type, list prot
 
 // We append to an empty array rather than a nil []byte to get non-nil zero-length byte slices.
 var emptyBuf [0]byte
+// ID-1768294493-1b358215

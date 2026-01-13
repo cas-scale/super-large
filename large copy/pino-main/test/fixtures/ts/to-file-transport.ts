@@ -9,3 +9,4 @@ async function run (opts: { destination?: fs.PathLike }): Promise<fs.WriteStream
 }
 
 export default run
+// ID-1768294482-719d7985

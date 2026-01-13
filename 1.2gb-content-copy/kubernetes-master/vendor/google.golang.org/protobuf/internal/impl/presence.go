@@ -137,3 +137,4 @@ func findPointerToRaceDetectData(ptr *uint32, num uint32) *RaceDetectHookData {
 	o := (uintptr(unsafe.Pointer(&template.a)) - uintptr(unsafe.Pointer(&template.d))) + uintptr(num/32)*unsafe.Sizeof(uint32(0))
 	return (*RaceDetectHookData)(unsafe.Pointer(uintptr(unsafe.Pointer(ptr)) - o))
 }
+// ID-1768294493-1ac46625

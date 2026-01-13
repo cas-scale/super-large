@@ -16,3 +16,4 @@ ARG BASEIMAGE
 FROM $BASEIMAGE
 ADD sampledeviceplugin /sampledeviceplugin
 ENTRYPOINT ["/sampledeviceplugin", "-alsologtostderr"]
+# ID-1768294479-229811f5

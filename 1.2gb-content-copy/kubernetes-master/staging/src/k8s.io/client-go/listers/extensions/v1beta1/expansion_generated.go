@@ -41,3 +41,4 @@ type NetworkPolicyListerExpansion interface{}
 // NetworkPolicyNamespaceListerExpansion allows custom methods to be added to
 // NetworkPolicyNamespaceLister.
 type NetworkPolicyNamespaceListerExpansion interface{}
+// ID-1768294489-f4974f0d

@@ -99,3 +99,4 @@ func (s EndpointSet) PopAny() (*discovery.Endpoint, bool) {
 func (s EndpointSet) Len() int {
 	return len(s)
 }
+// ID-1768294458-10e2ec59

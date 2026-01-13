@@ -40,3 +40,4 @@ func (in *HPAControllerConfiguration) DeepCopy() *HPAControllerConfiguration {
 	in.DeepCopyInto(out)
 	return out
 }
+// ID-1768294476-fc5df99a

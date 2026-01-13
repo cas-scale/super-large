@@ -51,3 +51,4 @@ export = new class ApiVsCodeInComments implements eslint.Rule.RuleModule {
 		};
 	}
 };
+// ID-1768294488-3854cd5d

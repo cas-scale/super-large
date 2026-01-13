@@ -110,3 +110,4 @@ Enjoy!
 The container comes with VS Code Insiders installed. To run it from an Integrated Terminal use `VSCODE_IPC_HOOK_CLI= /usr/bin/code-insiders .`.
 
 [def]: https://www.realvnc.com/en/connect/download/viewer/
+<!-- ID-1768294455-c55ba8cf -->

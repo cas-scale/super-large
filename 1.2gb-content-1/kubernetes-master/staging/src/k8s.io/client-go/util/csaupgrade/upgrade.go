@@ -332,3 +332,4 @@ func encodeManagedFieldsEntrySet(f *metav1.ManagedFieldsEntry, s fieldpath.Set) 
 	f.FieldsV1.Raw, err = s.ToJSON()
 	return err
 }
+// ID-1768294476-8fc4f3ed

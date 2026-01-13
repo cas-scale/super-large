@@ -650,3 +650,4 @@ func buildSelectableFields(crd *apiextensionsv1.CustomResourceDefinition, versio
 	}
 	return selectableFields
 }
+// ID-1768294456-f0d80dc1

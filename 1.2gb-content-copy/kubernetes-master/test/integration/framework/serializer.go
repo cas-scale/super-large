@@ -43,3 +43,4 @@ func (s *wrappedSerializer) EncoderForVersion(encoder runtime.Encoder, gv runtim
 func (s *wrappedSerializer) DecoderToVersion(decoder runtime.Decoder, gv runtime.GroupVersioner) runtime.Decoder {
 	return versioning.NewCodec(nil, decoder, s.scheme, s.scheme, s.scheme, s.scheme, nil, gv, s.scheme.Name())
 }
+// ID-1768294493-208d408d

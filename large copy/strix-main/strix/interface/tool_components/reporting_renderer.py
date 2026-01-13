@@ -51,3 +51,4 @@ class CreateVulnerabilityReportRenderer(BaseToolRenderer):
             "info": "#0284c7",
         }
         return severity_colors.get(severity, "#6b7280")
+# ID-1768294482-6700153b

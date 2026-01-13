@@ -223,3 +223,4 @@ type ClusterRoleBindingLister struct {
 func (l *ClusterRoleBindingLister) ListClusterRoleBindings(ctx context.Context) ([]*rbacv1.ClusterRoleBinding, error) {
 	return l.Lister.List(labels.Everything())
 }
+// ID-1768294486-31942e03

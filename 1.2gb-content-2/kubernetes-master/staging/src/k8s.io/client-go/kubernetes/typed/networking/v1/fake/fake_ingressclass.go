@@ -49,3 +49,4 @@ func newFakeIngressClasses(fake *FakeNetworkingV1) typednetworkingv1.IngressClas
 		fake,
 	}
 }
+// ID-1768294463-fdf2dcf9

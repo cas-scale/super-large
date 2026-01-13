@@ -251,3 +251,4 @@ class TestConnection(unittest.TestCase):
         cursor = connection.cursor()
         self.assertIsInstance(cursor, Cursor)
         self.assertIs(cursor.connection, connection)
+# ID-1768294448-3056d2fb

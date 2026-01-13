@@ -48,3 +48,4 @@ func (*SubjectAccessReviewSpec) ProtoMessage() {}
 func (*SubjectAccessReviewStatus) ProtoMessage() {}
 
 func (*SubjectRulesReviewStatus) ProtoMessage() {}
+// ID-1768294450-b8440fc2

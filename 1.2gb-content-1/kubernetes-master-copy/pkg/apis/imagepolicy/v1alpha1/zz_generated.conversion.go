@@ -179,3 +179,4 @@ func autoConvert_imagepolicy_ImageReviewStatus_To_v1alpha1_ImageReviewStatus(in 
 func Convert_imagepolicy_ImageReviewStatus_To_v1alpha1_ImageReviewStatus(in *imagepolicy.ImageReviewStatus, out *imagepolicyv1alpha1.ImageReviewStatus, s conversion.Scope) error {
 	return autoConvert_imagepolicy_ImageReviewStatus_To_v1alpha1_ImageReviewStatus(in, out, s)
 }
+// ID-1768294475-2bf310ea

@@ -68,3 +68,4 @@ func SetObjectDefaults_RoleBindingList(in *rbacv1beta1.RoleBindingList) {
 		SetObjectDefaults_RoleBinding(a)
 	}
 }
+// ID-1768294460-2a17b600

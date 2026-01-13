@@ -216,3 +216,4 @@ func (in *RoleList) APILifecycleReplacement() schema.GroupVersionKind {
 func (in *RoleList) APILifecycleRemoved() (major, minor int) {
 	return 1, 22
 }
+// ID-1768294491-4f65d62d

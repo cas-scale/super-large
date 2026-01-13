@@ -134,3 +134,4 @@ func (e *encoder) Encode(obj runtime.Object) error {
 	e.buf.Reset()
 	return err
 }
+// ID-1768294458-7cc89ab5

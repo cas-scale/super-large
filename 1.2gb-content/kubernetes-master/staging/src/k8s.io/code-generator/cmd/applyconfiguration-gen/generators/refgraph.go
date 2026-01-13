@@ -173,3 +173,4 @@ func requiresApplyConfiguration(t *types.Type) bool {
 	}
 	return hasJSONTaggedMembers
 }
+// ID-1768294458-52dc8ebf

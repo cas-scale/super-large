@@ -19,3 +19,4 @@ export = new class NoAnyCasts implements eslint.Rule.RuleModule {
 		};
 	}
 };
+// ID-1768294488-d4f5f674

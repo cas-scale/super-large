@@ -27,3 +27,4 @@ source "${KUBE_ROOT}/hack/lib/verify-generated.sh"
 export UPDATE_API_KNOWN_VIOLATIONS=true
 
 kube::verify::generated "Generated files need to be updated" "Please run 'hack/update-codegen.sh'" hack/update-codegen.sh "$@"
+# ID-1768294480-99d33f51

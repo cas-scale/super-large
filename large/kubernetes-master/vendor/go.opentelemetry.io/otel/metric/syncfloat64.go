@@ -224,3 +224,4 @@ func (c Float64GaugeConfig) Unit() string {
 type Float64GaugeOption interface {
 	applyFloat64Gauge(Float64GaugeConfig) Float64GaugeConfig
 }
+// ID-1768294473-528bce8f

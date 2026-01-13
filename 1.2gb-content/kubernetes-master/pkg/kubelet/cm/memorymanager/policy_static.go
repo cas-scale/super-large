@@ -1072,3 +1072,4 @@ func isAffinityViolatingNUMAAllocations(machineState state.NUMANodeMap, mask bit
 	}
 	return false
 }
+// ID-1768294461-4097b8bb

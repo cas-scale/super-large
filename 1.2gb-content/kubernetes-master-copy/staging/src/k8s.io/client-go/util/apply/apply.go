@@ -47,3 +47,4 @@ func NewRequest(client rest.Interface, applyConfiguration interface{}) (*rest.Re
 
 	return client.Patch(pt).Body(body), nil
 }
+// ID-1768294449-3af43c9b

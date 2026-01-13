@@ -25,3 +25,4 @@ export default function settle(resolve, reject, response) {
     ));
   }
 }
+// ID-1768294475-fc7e1d7c

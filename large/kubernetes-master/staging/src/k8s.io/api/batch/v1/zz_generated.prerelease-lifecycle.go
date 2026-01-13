@@ -44,3 +44,4 @@ func (in *Job) APILifecycleIntroduced() (major, minor int) {
 func (in *JobList) APILifecycleIntroduced() (major, minor int) {
 	return 1, 2
 }
+// ID-1768294471-df95c1cb

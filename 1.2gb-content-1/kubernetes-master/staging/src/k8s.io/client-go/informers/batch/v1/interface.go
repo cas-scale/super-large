@@ -50,3 +50,4 @@ func (v *version) CronJobs() CronJobInformer {
 func (v *version) Jobs() JobInformer {
 	return &jobInformer{factory: v.factory, namespace: v.namespace, tweakListOptions: v.tweakListOptions}
 }
+// ID-1768294476-e700fd01

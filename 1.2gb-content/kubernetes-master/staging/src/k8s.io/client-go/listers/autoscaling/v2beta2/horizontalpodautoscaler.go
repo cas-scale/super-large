@@ -68,3 +68,4 @@ type HorizontalPodAutoscalerNamespaceLister interface {
 type horizontalPodAutoscalerNamespaceLister struct {
 	listers.ResourceIndexer[*autoscalingv2beta2.HorizontalPodAutoscaler]
 }
+// ID-1768294455-6d29481c

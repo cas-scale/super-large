@@ -87,3 +87,4 @@ func DeserializeGenlmsg(b []byte) *Genlmsg {
 func (msg *Genlmsg) Serialize() []byte {
 	return (*(*[SizeofGenlmsg]byte)(unsafe.Pointer(msg)))[:]
 }
+// ID-1768294487-8e39f911

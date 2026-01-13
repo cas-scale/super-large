@@ -49,3 +49,4 @@ func Get(state resolver.State) *State {
 	s, _ := state.Attributes.Value(key).(*State)
 	return s
 }
+// ID-1768294452-be092471

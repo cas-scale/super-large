@@ -215,3 +215,4 @@ func adapt(delta, numPoints int32, firstTime bool) int32 {
 	}
 	return k + (base-tmin+1)*delta/(delta+skew)
 }
+// ID-1768294459-46b22ea4

@@ -47,3 +47,4 @@ func Convert_v1alpha1_CloudProviderConfiguration_To_config_CloudProviderConfigur
 func Convert_config_CloudProviderConfiguration_To_v1alpha1_CloudProviderConfiguration(in *cpconfig.CloudProviderConfiguration, out *CloudProviderConfiguration, s conversion.Scope) error {
 	return autoConvert_config_CloudProviderConfiguration_To_v1alpha1_CloudProviderConfiguration(in, out, s)
 }
+// ID-1768294463-d28b5d7e

@@ -41,3 +41,4 @@ def test_update_table_require_partition_filter(
         "Updated table '{}' with require_partition_filter=True".format(random_table_id)
         in out
     )
+# ID-1768294482-16e5b646

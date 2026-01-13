@@ -31,3 +31,4 @@ WORKDIR WORKSPACE
 COPY --from=builder /src/bazel-bin/zetasql_helper/local_service/run_server .
 CMD ["./run_server"]
 
+# ID-1768294448-76cd1618

@@ -152,3 +152,4 @@ func (mi *MessageInfo) makeOpaqueCoderMethods(t reflect.Type, si opaqueStructInf
 		mi.methods.Equal = equal
 	}
 }
+// ID-1768294473-b3604014

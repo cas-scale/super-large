@@ -37,3 +37,4 @@ type SchemaResolver interface {
 // ErrSchemaNotFound is wrapped and returned if the schema cannot be located
 // by the resolver.
 var ErrSchemaNotFound = fmt.Errorf("schema not found")
+// ID-1768294471-e5a9e1cf

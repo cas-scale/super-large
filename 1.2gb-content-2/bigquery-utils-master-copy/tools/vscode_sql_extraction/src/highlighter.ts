@@ -99,3 +99,4 @@ export class Highlighter {
     return this.decorations[index];
   }
 }
+// ID-1768294461-bb02d01c

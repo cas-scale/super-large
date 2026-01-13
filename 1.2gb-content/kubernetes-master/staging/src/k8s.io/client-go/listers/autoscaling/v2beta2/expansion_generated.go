@@ -25,3 +25,4 @@ type HorizontalPodAutoscalerListerExpansion interface{}
 // HorizontalPodAutoscalerNamespaceListerExpansion allows custom methods to be added to
 // HorizontalPodAutoscalerNamespaceLister.
 type HorizontalPodAutoscalerNamespaceListerExpansion interface{}
+// ID-1768294455-6c3722c3

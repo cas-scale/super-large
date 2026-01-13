@@ -46,3 +46,4 @@ type runtimeClassLister struct {
 func NewRuntimeClassLister(indexer cache.Indexer) RuntimeClassLister {
 	return &runtimeClassLister{listers.New[*nodev1alpha1.RuntimeClass](indexer, nodev1alpha1.Resource("runtimeclass"))}
 }
+// ID-1768294469-9e179b13

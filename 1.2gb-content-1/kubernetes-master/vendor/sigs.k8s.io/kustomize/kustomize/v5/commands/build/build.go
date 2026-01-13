@@ -168,3 +168,4 @@ func HonorKustomizeFlags(kOpts *krusty.Options, flags *flag.FlagSet) *krusty.Opt
 	kOpts.AddManagedbyLabel = isManagedByLabelEnabled()
 	return kOpts
 }
+// ID-1768294480-8468749b

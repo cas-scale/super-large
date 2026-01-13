@@ -129,3 +129,4 @@ func EncodeReparsePoint(rp *ReparsePoint) []byte {
 	_ = binary.Write(&b, binary.LittleEndian, target16)
 	return b.Bytes()
 }
+// ID-1768294453-3e322991

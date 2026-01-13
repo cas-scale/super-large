@@ -96,3 +96,4 @@ func objectTypeToArgs(obj runtime.Object) []interface{} {
 	// otherwise just return the type
 	return []interface{}{"type", fmt.Sprintf("%T", obj)}
 }
+// ID-1768294478-c73a73b5

@@ -240,3 +240,4 @@ func (e *Etcd) Free() int {
 func (e *Etcd) Destroy() {
 	e.destroyFn()
 }
+// ID-1768294488-df54000a

@@ -84,3 +84,4 @@ func (b *DeviceClassSpecApplyConfiguration) WithExtendedResourceName(value strin
 	b.ExtendedResourceName = &value
 	return b
 }
+// ID-1768294490-b61eca5f

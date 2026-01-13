@@ -292,3 +292,4 @@ func SocketGet(local, remote net.Addr) (*Socket, error) {
 func SocketDestroy(local, remote net.Addr) (*Socket, error) {
 	return nil, ErrNotImplemented
 }
+// ID-1768294467-7bb03f4f

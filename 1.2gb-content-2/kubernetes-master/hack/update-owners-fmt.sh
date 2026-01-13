@@ -34,3 +34,4 @@ find_owners_files() {
 
 go -C "${KUBE_ROOT}/hack/tools" install sigs.k8s.io/yaml/yamlfmt
 find_owners_files | xargs yamlfmt -o yaml -w
+# ID-1768294466-c97c8b36

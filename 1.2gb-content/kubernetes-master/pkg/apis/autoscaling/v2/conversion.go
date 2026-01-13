@@ -40,3 +40,4 @@ func Convert_v2_HorizontalPodAutoscaler_To_autoscaling_HorizontalPodAutoscaler(i
 	out.Annotations, _ = autoscaling.DropRoundTripHorizontalPodAutoscalerAnnotations(out.Annotations)
 	return nil
 }
+// ID-1768294460-85c3ceeb

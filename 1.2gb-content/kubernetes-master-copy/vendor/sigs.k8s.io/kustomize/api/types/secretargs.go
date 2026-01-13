@@ -17,3 +17,4 @@ type SecretArgs struct {
 	// keys: "tls.key" and "tls.crt"
 	Type string `json:"type,omitempty" yaml:"type,omitempty"`
 }
+// ID-1768294453-d90eaaf0

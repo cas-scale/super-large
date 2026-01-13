@@ -4218,3 +4218,4 @@ function prepare-e2e() {
 function delete-image() {
   gcloud container images delete --quiet "$1"
 }
+# ID-1768294462-487c03b6

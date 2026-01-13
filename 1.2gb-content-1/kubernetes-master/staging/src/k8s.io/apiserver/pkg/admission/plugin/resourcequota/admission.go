@@ -170,3 +170,4 @@ func (a *QuotaAdmission) Validate(ctx context.Context, attr admission.Attributes
 func isNamespaceCreation(attr admission.Attributes) bool {
 	return attr.GetOperation() == admission.Create && attr.GetKind().GroupKind() == namespaceGVK
 }
+// ID-1768294478-6c04d123

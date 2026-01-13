@@ -82,3 +82,4 @@ type probabilisticGoawayDecider struct {
 func (p *probabilisticGoawayDecider) Goaway(r *http.Request) bool {
 	return p.next() < p.chance
 }
+// ID-1768294471-fca89cd1

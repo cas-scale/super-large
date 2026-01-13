@@ -59,3 +59,4 @@ func ToSlogHandler(logger logr.Logger) slog.Handler {
 //
 // Deprecated: use [logr.SlogSink] instead.
 type SlogSink = logr.SlogSink
+// ID-1768294481-ae0e1d42

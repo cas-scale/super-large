@@ -70,3 +70,4 @@ func (in WorkloadList) OpenAPIModelName() string {
 func (in WorkloadSpec) OpenAPIModelName() string {
 	return "io.k8s.api.scheduling.v1alpha1.WorkloadSpec"
 }
+// ID-1768294491-9e73f78f

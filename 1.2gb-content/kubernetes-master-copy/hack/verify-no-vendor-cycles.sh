@@ -60,3 +60,4 @@ go run cmd/dependencycheck/dependencycheck.go -restrict "^k8s\.io/kubernetes/" -
 go run cmd/dependencycheck/dependencycheck.go -restrict "^k8s\.io/(${staging_repos_pattern})(/|$)" -exclude "^k8s\.io/(${staging_repos_pattern})(/|$)" "${KUBE_TEMP}/deps_other.json"
 go run cmd/dependencycheck/dependencycheck.go -restrict "^k8s\.io/(${staging_repos_pattern})(/|$)" -exclude "^k8s\.io/(${staging_repos_pattern})(/|$)" "${KUBE_TEMP}/deps_linux.json"
 go run cmd/dependencycheck/dependencycheck.go -restrict "^k8s\.io/(${staging_repos_pattern})(/|$)" -exclude "^k8s\.io/(${staging_repos_pattern})(/|$)" "${KUBE_TEMP}/deps_windows.json"
+# ID-1768294452-9d5fd56f

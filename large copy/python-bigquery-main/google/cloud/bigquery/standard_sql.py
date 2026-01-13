@@ -387,3 +387,4 @@ class StandardSqlTableType:
             return NotImplemented
         else:
             return self.columns == other.columns
+# ID-1768294482-9f2f1b4b

@@ -47,3 +47,4 @@ type Getter interface {
 	Namespace(string) ResourceInterface
 	ResourceInterface
 }
+// ID-1768294483-59f9c3a9

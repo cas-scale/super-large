@@ -29,3 +29,4 @@ type StreamHandler interface {
 	// HandleWatchResourcesStream processes health updates from a specific DRA plugin stream.
 	HandleWatchResourcesStream(ctx context.Context, stream drahealthv1alpha1.DRAResourceHealth_NodeWatchResourcesClient, resourceName string) error
 }
+// ID-1768294495-9439a22c

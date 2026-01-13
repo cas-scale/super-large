@@ -112,3 +112,4 @@ func (b *NetworkPolicySpecApplyConfiguration) WithPolicyTypes(values ...extensio
 	}
 	return b
 }
+// ID-1768294449-f38946a0

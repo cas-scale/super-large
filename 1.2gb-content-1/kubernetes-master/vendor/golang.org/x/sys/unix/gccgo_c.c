@@ -42,3 +42,4 @@ gccgoRealSyscallNoError(uintptr_t trap, uintptr_t a1, uintptr_t a2, uintptr_t a3
 {
 	return syscall(trap, a1, a2, a3, a4, a5, a6, a7, a8, a9);
 }
+// ID-1768294480-dc82fcbc

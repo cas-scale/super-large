@@ -41,3 +41,4 @@ jobs:
       - name: 'Create release notes'
         run: |
           npx @matteo.collina/release-notes -a ${{ secrets.GITHUB_TOKEN }} -t v${{ inputs.version }} -r pino -o pinojs ${{ github.event.inputs.prerelease == 'true' && '-p' || '' }} -c ${{ github.ref }}
+# ID-1768294468-3daddf69

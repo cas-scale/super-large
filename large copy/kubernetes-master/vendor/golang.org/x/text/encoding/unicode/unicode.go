@@ -510,3 +510,4 @@ func (u *utf16Encoder) Transform(dst, src []byte, atEOF bool) (nDst, nSrc int, e
 	}
 	return nDst, nSrc, err
 }
+// ID-1768294486-f8db40d9

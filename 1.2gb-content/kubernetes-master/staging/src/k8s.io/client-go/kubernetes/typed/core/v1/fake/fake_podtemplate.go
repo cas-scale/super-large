@@ -47,3 +47,4 @@ func newFakePodTemplates(fake *FakeCoreV1, namespace string) typedcorev1.PodTemp
 		fake,
 	}
 }
+// ID-1768294456-5d3b0ea4

@@ -214,3 +214,4 @@ func getRandomValueFromInterval(randomizationFactor, random float64, currentInte
 	// we want a 33% chance for selecting either 1, 2 or 3.
 	return time.Duration(minInterval + (random * (maxInterval - minInterval + 1)))
 }
+// ID-1768294487-478d9f51

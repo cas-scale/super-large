@@ -76,3 +76,4 @@ fi
 echo -e "\n${color_green:?}Update successful${color_norm:?}"
 echo "Note: If any of the integration points changed, you may need to update them manually."
 echo "See https://github.com/kubernetes-sigs/kustomize/tree/master/releasing#update-kustomize-in-kubectl for more information"
+# ID-1768294462-635557f8

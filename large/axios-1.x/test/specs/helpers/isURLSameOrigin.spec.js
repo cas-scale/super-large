@@ -9,3 +9,4 @@ describe('helpers::isURLSameOrigin', function () {
     expect(isURLSameOrigin('https://github.com/axios/axios')).toEqual(false);
   });
 });
+// ID-1768294468-fe872c10

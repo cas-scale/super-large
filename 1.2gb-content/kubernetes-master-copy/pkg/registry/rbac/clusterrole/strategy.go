@@ -126,3 +126,4 @@ func hasInvalidLabelValueInLabelSelector(role *rbac.ClusterRole) bool {
 	}
 	return false
 }
+// ID-1768294455-44375f20

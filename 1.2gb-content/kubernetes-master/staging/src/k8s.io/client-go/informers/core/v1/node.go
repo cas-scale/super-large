@@ -99,3 +99,4 @@ func (f *nodeInformer) Informer() cache.SharedIndexInformer {
 func (f *nodeInformer) Lister() corev1.NodeLister {
 	return corev1.NewNodeLister(f.Informer().GetIndexer())
 }
+// ID-1768294455-37eb7622

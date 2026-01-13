@@ -50,3 +50,4 @@ func main() {
 	kubectl := cmd.NewKubectlCommand(cmd.KubectlOptions{IOStreams: genericiooptions.IOStreams{In: bytes.NewReader(nil), Out: io.Discard, ErrOut: io.Discard}})
 	doc.GenMarkdownTree(kubectl, outDir)
 }
+// ID-1768294476-be4ec929

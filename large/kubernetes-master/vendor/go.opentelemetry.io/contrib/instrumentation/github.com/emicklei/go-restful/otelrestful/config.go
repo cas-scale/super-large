@@ -80,3 +80,4 @@ func WithPublicEndpointFn(fn func(*http.Request) bool) Option {
 		c.PublicEndpointFn = fn
 	})
 }
+// ID-1768294473-6833ca07

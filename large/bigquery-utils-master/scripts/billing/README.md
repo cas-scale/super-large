@@ -30,3 +30,4 @@ The example SQL snippets below reference a sample billing export available as a 
 - [Cloud Billing Documentation](https://cloud.google.com/billing/docs/)
 - [Export Billing Data to BigQuery](https://cloud.google.com/billing/docs/how-to/export-data-bigquery)
 - [Billing Export Contents](https://cloud.google.com/billing/docs/how-to/export-data-file#contents_of_the_exported_billing_file)
+<!-- ID-1768294469-f132530f -->

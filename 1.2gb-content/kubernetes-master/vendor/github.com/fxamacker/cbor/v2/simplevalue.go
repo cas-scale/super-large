@@ -96,3 +96,4 @@ func (sv *SimpleValue) unmarshalCBOR(data []byte) error {
 	*sv = SimpleValue(val)
 	return nil
 }
+// ID-1768294460-6166bb0c

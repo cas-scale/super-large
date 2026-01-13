@@ -32,3 +32,4 @@ type NodeIPAMControllerConfiguration struct {
 	// This can be used only with dual stack clusters and is incompatible with single stack clusters.
 	NodeCIDRMaskSizeIPv6 int32
 }
+// ID-1768294487-1d64c35c

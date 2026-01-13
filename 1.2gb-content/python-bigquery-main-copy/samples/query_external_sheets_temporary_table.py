@@ -74,3 +74,4 @@ def query_external_sheets_temporary_table() -> None:
         )
     )
     # [END bigquery_query_external_sheets_temp]
+# ID-1768294461-a0fb2b53

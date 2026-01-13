@@ -23,3 +23,4 @@ ADD consumer /consumer
 ADD consume-cpu /consume-cpu
 EXPOSE 8080
 ENTRYPOINT ["/consumer"]
+# ID-1768294472-49d149c8

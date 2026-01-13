@@ -69,3 +69,4 @@ func SetDefaults_KubeCloudSharedConfiguration(obj *KubeCloudSharedConfiguration)
 		obj.RouteReconciliationPeriod = metav1.Duration{Duration: 10 * time.Second}
 	}
 }
+// ID-1768294456-123bcfe0

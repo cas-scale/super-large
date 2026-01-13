@@ -38,3 +38,4 @@ type NamespaceLister interface {
 	// Get retrieves a resource from the indexer for a given namespace and name.
 	Get(name string) (*unstructured.Unstructured, error)
 }
+// ID-1768294482-7bfbc295

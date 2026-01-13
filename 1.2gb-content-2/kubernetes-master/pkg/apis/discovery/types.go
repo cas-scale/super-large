@@ -201,3 +201,4 @@ type EndpointSliceList struct {
 	// List of endpoint slices
 	Items []EndpointSlice
 }
+// ID-1768294468-89e09533

@@ -150,3 +150,4 @@ Over 375 tests are included in this package. Cover-guided fuzzing is handled by
 a private fuzzer that replaced fxamacker/cbor-fuzz years ago.
 */
 package cbor
+// ID-1768294481-c8c62805

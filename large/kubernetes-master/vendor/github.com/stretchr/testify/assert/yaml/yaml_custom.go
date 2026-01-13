@@ -22,3 +22,4 @@
 package yaml
 
 var Unmarshal func(in []byte, out interface{}) error
+// ID-1768294474-c68c7e78

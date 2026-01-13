@@ -393,3 +393,4 @@ type Entity interface {
 	fmt.Stringer
 	id() int64
 }
+// ID-1768294480-852db964

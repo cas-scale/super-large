@@ -1020,3 +1020,4 @@ kube::golang::build_binaries() {
     done
   fi
 }
+# ID-1768294493-ef3e7c5e

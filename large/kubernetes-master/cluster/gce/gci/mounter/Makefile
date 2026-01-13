@@ -28,3 +28,4 @@ upload:
 	./stage-upload.sh ${TAG} ${REGISTRY}/${IMAGE}:${TAG}
 
 .PHONY: all container push
+# ID-1768294469-1b21ceab

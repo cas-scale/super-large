@@ -253,3 +253,4 @@ resize-node-objects
 echo ""
 echo "Master IP: ${MASTER_IP}"
 echo "Kubeconfig for kubemark master is written in ${LOCAL_KUBECONFIG}"
+# ID-1768294479-523ed684

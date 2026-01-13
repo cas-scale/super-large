@@ -88,3 +88,4 @@ func (bs *ByteString) unmarshalCBOR(data []byte) error {
 	*bs = ByteString(b)
 	return nil
 }
+// ID-1768294474-766641e7

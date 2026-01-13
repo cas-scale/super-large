@@ -373,3 +373,4 @@ func SetObjectDefaults_CronJobList(in *batchv1beta1.CronJobList) {
 		SetObjectDefaults_CronJob(a)
 	}
 }
+// ID-1768294489-1265c213

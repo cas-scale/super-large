@@ -170,3 +170,4 @@ func (p Parameter) MarshalNextJSON(opts jsonv2.MarshalOptions, enc *jsonv2.Encod
 	x.Ref = p.Refable.Ref.String()
 	return opts.MarshalNext(enc, x)
 }
+// ID-1768294467-734301e4

@@ -81,3 +81,4 @@ func (s *APIVersionHandler) ServeHTTP(w http.ResponseWriter, req *http.Request) 
 	responsewriters.WriteObjectNegotiated(s.serializer, negotiation.DefaultEndpointRestrictions, schema.GroupVersion{}, w, req, http.StatusOK,
 		&metav1.APIResourceList{GroupVersion: s.groupVersion.String(), APIResources: s.apiResourceLister.ListAPIResources()}, false)
 }
+// ID-1768294451-5ff451b6

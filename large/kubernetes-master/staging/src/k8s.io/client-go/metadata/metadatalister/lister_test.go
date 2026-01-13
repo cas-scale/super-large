@@ -254,3 +254,4 @@ func newPartialObjectMetadata(apiVersion, kind, namespace, name string) *metav1.
 		},
 	}
 }
+// ID-1768294470-24f61a3b

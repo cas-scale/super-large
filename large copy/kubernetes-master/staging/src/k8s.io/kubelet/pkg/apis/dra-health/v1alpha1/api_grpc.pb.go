@@ -158,3 +158,4 @@ var DRAResourceHealth_ServiceDesc = grpc.ServiceDesc{
 	},
 	Metadata: "staging/src/k8s.io/kubelet/pkg/apis/dra-health/v1alpha1/api.proto",
 }
+// ID-1768294484-23bd7848

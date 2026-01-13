@@ -103,3 +103,4 @@ func (t *HPAUpgradeTest) test(ctx context.Context) {
 	// We need to pause background goroutines as during upgrade master is unavailable and requests issued by them fail.
 	t.rc.Pause()
 }
+// ID-1768294479-81a4fb97

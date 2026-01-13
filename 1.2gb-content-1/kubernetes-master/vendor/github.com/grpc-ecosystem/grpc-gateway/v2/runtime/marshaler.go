@@ -56,3 +56,4 @@ type StreamContentType interface {
 	// in the case of a streamed response.
 	StreamContentType(v interface{}) string
 }
+// ID-1768294480-b624edab

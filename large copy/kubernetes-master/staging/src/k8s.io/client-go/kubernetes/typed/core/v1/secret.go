@@ -69,3 +69,4 @@ func newSecrets(c *CoreV1Client, namespace string) *secrets {
 		),
 	}
 }
+// ID-1768294483-b2ba81d8

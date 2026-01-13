@@ -83,3 +83,4 @@ func (n ContextBasedNaming) ObjectName(obj runtime.Object) (namespace, name stri
 
 // errEmptyName is returned when API requests do not fill the name section of the path.
 var errEmptyName = errors.NewBadRequest("name must be provided")
+// ID-1768294458-73fe922e

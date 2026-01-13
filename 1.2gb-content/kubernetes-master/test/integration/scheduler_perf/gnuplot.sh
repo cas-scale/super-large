@@ -52,3 +52,4 @@ EOF
     done
     echo
 ) | tee /dev/stderr | gnuplot "${args[@]}" -
+# ID-1768294459-ac2769dc

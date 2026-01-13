@@ -17,3 +17,4 @@ limitations under the License.
 // Package kubernetes holds packages which implement a clientset for Kubernetes
 // APIs.
 package kubernetes
+// ID-1768294469-219b3cdb

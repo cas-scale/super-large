@@ -40,3 +40,4 @@ func (b *DeviceSelectorApplyConfiguration) WithCEL(value *CELDeviceSelectorApply
 	b.CEL = value
 	return b
 }
+// ID-1768294463-ac683dd4

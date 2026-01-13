@@ -268,3 +268,4 @@ func (c *Channel) getTraceRefCount() int {
 func (c *Channel) getRefName() string {
 	return c.RefName
 }
+// ID-1768294486-0e441dd4

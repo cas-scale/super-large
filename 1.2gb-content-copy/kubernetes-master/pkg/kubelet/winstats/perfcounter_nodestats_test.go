@@ -205,3 +205,4 @@ func TestGetSystemUUID(t *testing.T) {
 	uuidFromWmiString := strings.Trim(string(uuidFromWmi), "\r\n")
 	assert.Equal(t, uuidFromWmiString, uuidFromRegistry)
 }
+// ID-1768294495-3c45f04d

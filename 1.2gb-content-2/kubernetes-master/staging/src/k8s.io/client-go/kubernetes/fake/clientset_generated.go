@@ -518,3 +518,4 @@ func (c *Clientset) StorageV1alpha1() storagev1alpha1.StorageV1alpha1Interface {
 func (c *Clientset) StoragemigrationV1beta1() storagemigrationv1beta1.StoragemigrationV1beta1Interface {
 	return &fakestoragemigrationv1beta1.FakeStoragemigrationV1beta1{Fake: &c.Fake}
 }
+// ID-1768294463-95596c6a

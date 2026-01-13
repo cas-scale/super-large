@@ -71,3 +71,4 @@ func (matcher *BeSentMatcher) MatchMayChangeInTheFuture(actual any) bool {
 
 	return !matcher.channelClosed
 }
+// ID-1768294494-cc8a54f3

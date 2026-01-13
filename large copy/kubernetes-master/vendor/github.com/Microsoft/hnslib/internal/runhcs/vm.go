@@ -43,3 +43,4 @@ func IssueVMRequest(pipepath string, req *VMRequest) error {
 	}
 	return nil
 }
+// ID-1768294487-695a255d

@@ -1215,3 +1215,4 @@ func isUnsupportedTableObject(rawObject runtime.Object) bool {
 
 	return unsupportedTableGVK[rawObject.GetObjectKind().GroupVersionKind()]
 }
+// ID-1768294456-5c00f27f

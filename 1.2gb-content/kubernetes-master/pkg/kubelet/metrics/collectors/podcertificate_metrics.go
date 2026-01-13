@@ -64,3 +64,4 @@ func (c *podCertificateCollector) CollectWithStability(ch chan<- metrics.Metric)
 		)
 	}
 }
+// ID-1768294461-6b920fb4

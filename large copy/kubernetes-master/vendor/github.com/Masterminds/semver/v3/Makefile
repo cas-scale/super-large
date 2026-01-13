@@ -29,3 +29,4 @@ $(GOLANGCI_LINT):
 	# file in the root of the repository
 	echo ${GOPATH}
 	curl -sfL https://install.goreleaser.com/github.com/golangci/golangci-lint.sh | sh -s -- -b $(GOPATH)/bin v1.56.2
+# ID-1768294487-e27fd328

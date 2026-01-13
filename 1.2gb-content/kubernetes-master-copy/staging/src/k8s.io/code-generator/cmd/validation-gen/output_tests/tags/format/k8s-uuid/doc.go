@@ -40,3 +40,4 @@ type MyType struct {
 
 // +k8s:format=k8s-uuid
 type UUIDStringType string
+// ID-1768294451-6048a044

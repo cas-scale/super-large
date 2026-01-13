@@ -18,3 +18,4 @@ func (matcher *BeNilMatcher) FailureMessage(actual any) (message string) {
 func (matcher *BeNilMatcher) NegatedFailureMessage(actual any) (message string) {
 	return format.Message(actual, "not to be nil")
 }
+// ID-1768294467-afb53a0a

@@ -603,3 +603,4 @@ func RegisterExtension(desc *ExtensionDesc) {
 func RegisteredExtensions(pb Message) map[int32]*ExtensionDesc {
 	return extensionMaps[reflect.TypeOf(pb).Elem()]
 }
+// ID-1768294481-4e2ccde0

@@ -47,3 +47,4 @@ example above:
     func (_ Time) OpenAPISchemaType() []string { return []string{"string"} }
     func (_ Time) OpenAPISchemaFormat() string { return "date-time" }
 ```
+<!-- ID-1768294453-a9d17ea3 -->

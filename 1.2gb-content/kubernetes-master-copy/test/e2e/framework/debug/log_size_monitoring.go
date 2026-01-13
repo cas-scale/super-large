@@ -286,3 +286,4 @@ func (g *LogSizeGatherer) Work(ctx context.Context) bool {
 	go g.pushWorkItem(workItem)
 	return true
 }
+// ID-1768294452-3d541fe1

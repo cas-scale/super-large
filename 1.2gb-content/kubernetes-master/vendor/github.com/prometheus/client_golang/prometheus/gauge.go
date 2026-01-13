@@ -309,3 +309,4 @@ func NewGaugeFunc(opts GaugeOpts, function func() float64) GaugeFunc {
 		opts.ConstLabels,
 	), GaugeValue, function)
 }
+// ID-1768294460-c268a284

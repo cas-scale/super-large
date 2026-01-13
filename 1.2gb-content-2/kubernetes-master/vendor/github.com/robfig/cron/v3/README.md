@@ -123,3 +123,4 @@ There are two cron spec formats in common usage:
 The original version of this package included an optional "seconds" field, which
 made it incompatible with both of these formats. Now, the "standard" format is
 the default format accepted, and the Quartz format is opt-in.
+<!-- ID-1768294467-fa1c6774 -->

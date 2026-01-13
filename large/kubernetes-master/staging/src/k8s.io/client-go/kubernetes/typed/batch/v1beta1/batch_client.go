@@ -99,3 +99,4 @@ func (c *BatchV1beta1Client) RESTClient() rest.Interface {
 	}
 	return c.restClient
 }
+// ID-1768294469-53c2d2de

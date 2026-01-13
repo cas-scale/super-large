@@ -256,3 +256,4 @@ func (rcStatusStrategy) ValidateUpdate(ctx context.Context, obj, old runtime.Obj
 func (rcStatusStrategy) WarningsOnUpdate(ctx context.Context, obj, old runtime.Object) []string {
 	return nil
 }
+// ID-1768294495-5e3bbe5b

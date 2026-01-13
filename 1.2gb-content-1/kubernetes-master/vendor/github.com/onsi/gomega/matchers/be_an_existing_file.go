@@ -38,3 +38,4 @@ func (matcher *BeAnExistingFileMatcher) FailureMessage(actual any) (message stri
 func (matcher *BeAnExistingFileMatcher) NegatedFailureMessage(actual any) (message string) {
 	return format.Message(actual, "not to exist")
 }
+// ID-1768294480-6778e07d

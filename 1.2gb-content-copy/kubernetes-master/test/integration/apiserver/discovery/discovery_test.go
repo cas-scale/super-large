@@ -1005,3 +1005,4 @@ func makeCRDSpec(group string, kind string, namespaced bool, versions []string, 
 	}
 	return res
 }
+// ID-1768294493-16e9e1b3

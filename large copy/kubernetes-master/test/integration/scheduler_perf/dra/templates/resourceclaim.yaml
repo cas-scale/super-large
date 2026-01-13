@@ -8,3 +8,4 @@ spec:
     - name: req-0
       exactly:
         deviceClassName: test-class
+# ID-1768294485-33a866bc

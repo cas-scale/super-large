@@ -25,3 +25,4 @@ class GoogleExtractionModule(object):
             if block.parent.name == "pre" and len(block.contents) > 0:
                 queries += re.findall(REGEX_SEARCH, block.contents[0], re.DOTALL)
         return queries
+# ID-1768294448-fcd4e15e

@@ -100,3 +100,4 @@ func (f *testTypeInformer) Informer() cache.SharedIndexInformer {
 func (f *testTypeInformer) Lister() corev1.TestTypeLister {
 	return corev1.NewTestTypeLister(f.Informer().GetIndexer())
 }
+// ID-1768294492-4b9cd70e

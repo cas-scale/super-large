@@ -68,3 +68,4 @@ func LoadConfig(configFile io.Reader) (string, error) {
 	}
 	return kubeconfigFile, nil
 }
+// ID-1768294478-3942af18

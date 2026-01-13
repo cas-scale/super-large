@@ -45,3 +45,4 @@ func (r *RuntimeObjectInterfaces) GetObjectConvertor() runtime.ObjectConvertor {
 func (r *RuntimeObjectInterfaces) GetEquivalentResourceMapper() runtime.EquivalentResourceMapper {
 	return r.EquivalentResourceMapper
 }
+// ID-1768294478-58795f76

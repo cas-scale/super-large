@@ -47,3 +47,4 @@ func (c *simpleCache) set(key string, value *cacheRecord, ttl time.Duration) {
 func (c *simpleCache) remove(key string) {
 	c.cache.Delete(key)
 }
+// ID-1768294471-ead0ff38

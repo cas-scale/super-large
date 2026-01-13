@@ -72,3 +72,4 @@ func (b *CapacityRequirementsApplyConfiguration) WithRequests(entries map[resour
 	}
 	return b
 }
+// ID-1768294456-35ed73f3

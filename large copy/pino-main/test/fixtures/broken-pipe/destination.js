@@ -8,3 +8,4 @@ const pino = require('../../..')
 const logger = pino(pino.destination())
 
 logger.info('hello world')
+// ID-1768294482-9c8269fb

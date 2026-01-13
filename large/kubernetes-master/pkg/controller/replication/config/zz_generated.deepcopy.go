@@ -36,3 +36,4 @@ func (in *ReplicationControllerConfiguration) DeepCopy() *ReplicationControllerC
 	in.DeepCopyInto(out)
 	return out
 }
+// ID-1768294474-d298df0d

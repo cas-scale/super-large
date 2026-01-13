@@ -9,3 +9,4 @@ package cpu
 const cacheLineSize = 32
 
 func initOptions() {}
+// ID-1768294459-cf02047c

@@ -48,3 +48,4 @@ func main() {
 	klog.Background().Info("klog.Background+logr.Logger.Info")
 	klog.FromContext(context.Background()).Info("klog.FromContext+logr.Logger.Info")
 }
+// ID-1768294466-91e17c55

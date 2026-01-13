@@ -39,3 +39,4 @@ test('use fd=1 if process.stdout has no fd in pino.destination() (worker case)',
   t.after(function () { process.stdout.fd = fd })
   pino.destination()
 })
+// ID-1768294468-600dab97

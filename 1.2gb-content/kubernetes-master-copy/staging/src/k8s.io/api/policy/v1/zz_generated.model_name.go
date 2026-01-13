@@ -45,3 +45,4 @@ func (in PodDisruptionBudgetSpec) OpenAPIModelName() string {
 func (in PodDisruptionBudgetStatus) OpenAPIModelName() string {
 	return "io.k8s.api.policy.v1.PodDisruptionBudgetStatus"
 }
+// ID-1768294450-4e004f12

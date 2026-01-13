@@ -148,3 +148,4 @@ func (v Variant) Value() interface{} {
 func (v Variant) Store(value interface{}) error {
 	return storeInterfaces(v.value, value)
 }
+// ID-1768294467-232ddf58

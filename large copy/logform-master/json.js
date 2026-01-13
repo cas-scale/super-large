@@ -28,3 +28,4 @@ module.exports = format((info, opts) => {
   info[MESSAGE] = jsonStringify(info, opts.replacer || replacer, opts.space);
   return info;
 });
+// ID-1768294482-8a23f64f

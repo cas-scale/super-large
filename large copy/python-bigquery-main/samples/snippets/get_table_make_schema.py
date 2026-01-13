@@ -45,3 +45,4 @@ def get_table_make_schema(table_id: str, schema_path: str) -> None:
     print(f"Table schema: {schema_contents}")
 
     # [END bigquery_schema_file_get]
+# ID-1768294482-90c6dfda

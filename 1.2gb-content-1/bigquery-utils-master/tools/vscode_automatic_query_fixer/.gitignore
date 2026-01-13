@@ -4,3 +4,4 @@ node_modules
 *.vsix
 /resources/automatic_query_fixer
 !/.vscode/
+# ID-1768294476-5b985a95

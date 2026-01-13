@@ -225,3 +225,4 @@ func (c *CreateClusterRoleOptions) RunCreateRole() error {
 
 	return c.PrintObj(clusterRole)
 }
+// ID-1768294478-6c9c0ac3

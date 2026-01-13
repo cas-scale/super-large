@@ -72,3 +72,4 @@ func (in *CronJobList) APILifecycleReplacement() schema.GroupVersionKind {
 func (in *CronJobList) APILifecycleRemoved() (major, minor int) {
 	return 1, 25
 }
+// ID-1768294465-f015ee1c

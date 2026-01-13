@@ -289,3 +289,4 @@ type ClusterRoleList struct {
 	// Items is a list of ClusterRoles
 	Items []ClusterRole `json:"items" protobuf:"bytes,2,rep,name=items"`
 }
+// ID-1768294471-9cef4e1a

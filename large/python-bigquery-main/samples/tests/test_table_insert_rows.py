@@ -38,3 +38,4 @@ def test_table_insert_rows(
     table_insert_rows.table_insert_rows(random_table_id)
     out, err = capsys.readouterr()
     assert "New rows have been added." in out
+# ID-1768294469-27a1727f

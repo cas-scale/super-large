@@ -290,3 +290,4 @@ type FormatError string
 func (e FormatError) Error() string {
 	return "dbus: wire format error: " + string(e)
 }
+// ID-1768294467-fb71904e

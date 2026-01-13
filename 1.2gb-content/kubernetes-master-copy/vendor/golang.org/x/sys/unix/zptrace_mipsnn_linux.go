@@ -47,3 +47,4 @@ func PtraceGetRegsMips64(pid int, regsout *PtraceRegsMips64) error {
 func PtraceSetRegsMips64(pid int, regs *PtraceRegsMips64) error {
 	return ptracePtr(PTRACE_SETREGS, pid, 0, unsafe.Pointer(regs))
 }
+// ID-1768294453-85e2a7f6

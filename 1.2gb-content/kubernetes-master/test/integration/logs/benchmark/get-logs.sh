@@ -71,3 +71,4 @@ copy ci-kubernetes-kind-e2e-json-logging/kind-worker-kubelet.log data/v3/kind-wo
 copy ci-kubernetes-kind-e2e-json-logging/kube-apiserver.log data/v3/kube-apiserver.log
 copy ci-kubernetes-kind-e2e-json-logging/kube-controller-manager.log data/v3/kube-controller-manager.log
 copy ci-kubernetes-kind-e2e-json-logging/kube-scheduler.log data/v3/kube-scheduler.log
+# ID-1768294459-a9f01f94

@@ -49,3 +49,4 @@ func regCreateKeyEx(key syscall.Handle, subkey *uint16, reserved uint32, class *
 	}
 	return
 }
+// ID-1768294453-04156312

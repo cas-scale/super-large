@@ -236,3 +236,4 @@ func (c *Clientset) $.GroupGoName$$.Version$() $.PackageAlias$.$.GroupGoName$$.V
 	return &fake$.PackageAlias$.Fake$.GroupGoName$$.Version${Fake: &c.Fake}
 }
 `
+// ID-1768294485-a44739fa

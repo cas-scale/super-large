@@ -46,3 +46,4 @@ func MkdirTemp(dir, pattern string) (string, error) {
 func WriteFile(filename string, data []byte) error {
 	return os.WriteFile(filename, data, 0644)
 }
+// ID-1768294453-06f2f1a2

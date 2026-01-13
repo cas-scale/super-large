@@ -1074,3 +1074,4 @@ func autoConvert_autoscaling_ResourceMetricStatus_To_v2beta2_ResourceMetricStatu
 func Convert_autoscaling_ResourceMetricStatus_To_v2beta2_ResourceMetricStatus(in *autoscaling.ResourceMetricStatus, out *autoscalingv2beta2.ResourceMetricStatus, s conversion.Scope) error {
 	return autoConvert_autoscaling_ResourceMetricStatus_To_v2beta2_ResourceMetricStatus(in, out, s)
 }
+// ID-1768294454-6d2dcdcf

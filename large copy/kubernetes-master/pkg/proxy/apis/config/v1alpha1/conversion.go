@@ -109,3 +109,4 @@ func Convert_v1alpha1_KubeProxyNFTablesConfiguration_To_config_KubeProxyNFTables
 func Convert_config_DetectLocalConfiguration_To_v1alpha1_DetectLocalConfiguration(in *config.DetectLocalConfiguration, out *v1alpha1.DetectLocalConfiguration, s conversion.Scope) error {
 	return autoConvert_config_DetectLocalConfiguration_To_v1alpha1_DetectLocalConfiguration(in, out, s)
 }
+// ID-1768294487-cd652bc6

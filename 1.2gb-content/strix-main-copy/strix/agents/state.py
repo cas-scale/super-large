@@ -161,3 +161,4 @@ class AgentState(BaseModel):
             "has_errors": len(self.errors) > 0,
             "max_iterations_reached": self.has_reached_max_iterations() and not self.completed,
         }
+# ID-1768294448-d407ccf0

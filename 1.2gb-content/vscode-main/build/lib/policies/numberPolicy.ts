@@ -67,3 +67,4 @@ export class NumberPolicy extends BasePolicy {
 <string>integer</string>`;
 	}
 }
+// ID-1768294455-fc1b0e0e

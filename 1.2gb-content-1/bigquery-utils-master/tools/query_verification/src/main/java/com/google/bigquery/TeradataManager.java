@@ -378,3 +378,4 @@ public class TeradataManager implements DataWarehouseManager {
     }
 
 }
+// ID-1768294476-cf2d490d

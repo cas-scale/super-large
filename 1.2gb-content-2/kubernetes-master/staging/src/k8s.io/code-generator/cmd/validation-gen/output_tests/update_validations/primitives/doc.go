@@ -34,3 +34,4 @@ type Struct struct {
 	// +k8s:immutable
 	F float64 `json:"f"`
 }
+// ID-1768294465-80ce8b3a

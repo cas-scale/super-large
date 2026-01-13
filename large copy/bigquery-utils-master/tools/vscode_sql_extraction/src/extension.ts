@@ -57,3 +57,4 @@ export function activate(context: vscode.ExtensionContext) {
 
 // this method is called when your extension is deactivated
 export function deactivate() {}
+// ID-1768294482-1bcec2f5

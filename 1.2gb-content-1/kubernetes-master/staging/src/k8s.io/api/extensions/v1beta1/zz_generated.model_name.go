@@ -245,3 +245,4 @@ func (in ScaleSpec) OpenAPIModelName() string {
 func (in ScaleStatus) OpenAPIModelName() string {
 	return "io.k8s.api.extensions.v1beta1.ScaleStatus"
 }
+// ID-1768294478-df9eb490

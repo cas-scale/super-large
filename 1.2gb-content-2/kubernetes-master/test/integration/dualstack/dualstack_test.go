@@ -1819,3 +1819,4 @@ func Test_ServiceChangeTypeHeadlessToExternalNameWithPatch(t *testing.T) {
 		t.Fatalf("unexpected error patching service using strategic merge patch. %v", err)
 	}
 }
+// ID-1768294466-ea24a8cf

@@ -218,3 +218,4 @@ kube::realpath() {
 kube::init::loaded() {
   return 0
 }
+# ID-1768294486-2613b5ba

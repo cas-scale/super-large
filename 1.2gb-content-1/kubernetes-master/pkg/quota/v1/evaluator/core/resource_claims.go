@@ -288,3 +288,4 @@ func toExternalResourceClaimOrError(obj runtime.Object) (*resourceapi.ResourceCl
 	}
 	return claim, nil
 }
+// ID-1768294482-e169e19e

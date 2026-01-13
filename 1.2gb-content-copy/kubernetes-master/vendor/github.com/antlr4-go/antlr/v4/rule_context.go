@@ -38,3 +38,4 @@ type RuleContext interface {
 
 	String([]string, RuleContext) string
 }
+// ID-1768294494-279ed1bd

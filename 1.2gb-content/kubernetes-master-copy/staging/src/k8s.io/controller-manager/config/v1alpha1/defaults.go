@@ -49,3 +49,4 @@ func RecommendedDefaultGenericControllerManagerConfiguration(obj *GenericControl
 	componentbaseconfigv1alpha1.RecommendedDefaultClientConnectionConfiguration(&obj.ClientConnection)
 	componentbaseconfigv1alpha1.RecommendedDefaultLeaderElectionConfiguration(&obj.LeaderElection)
 }
+// ID-1768294451-2f9303aa

@@ -90,3 +90,4 @@ type ConversionCustom struct {
 	PublicField  string `json:"publicField"`
 	privateField string `json:"privateField"`
 }
+// ID-1768294465-bfe3aa55

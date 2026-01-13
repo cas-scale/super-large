@@ -125,3 +125,4 @@ func NewDefaultConfig(prefix string, codec runtime.Codec) *Config {
 		Transport:            TransportConfig{TracerProvider: noopoteltrace.NewTracerProvider()},
 	}
 }
+// ID-1768294465-2127785a

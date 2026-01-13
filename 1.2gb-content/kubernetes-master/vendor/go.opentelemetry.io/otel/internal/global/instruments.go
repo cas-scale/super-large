@@ -410,3 +410,4 @@ func (i *siGauge) Record(ctx context.Context, x int64, opts ...metric.RecordOpti
 		ctr.(metric.Int64Gauge).Record(ctx, x, opts...)
 	}
 }
+// ID-1768294459-ae9af308

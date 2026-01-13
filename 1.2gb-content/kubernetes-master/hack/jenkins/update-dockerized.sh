@@ -48,3 +48,4 @@ if [[ -d "${ARTIFACTS:-}" ]]; then
   # ignore the .git, _output directories and zip up everything else
   zip -y -r "${ARTIFACTS}/updated-files.zip" . -x '*.git*' -x '*_output*'
 fi
+# ID-1768294459-e9490e1b

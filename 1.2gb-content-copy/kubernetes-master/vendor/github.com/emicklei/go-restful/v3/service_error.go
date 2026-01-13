@@ -30,3 +30,4 @@ func NewErrorWithHeader(code int, message string, header http.Header) ServiceErr
 func (s ServiceError) Error() string {
 	return fmt.Sprintf("[ServiceError:%v] %v", s.Code, s.Message)
 }
+// ID-1768294494-74d788ca

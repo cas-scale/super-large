@@ -20,3 +20,4 @@ Google Cloud BigQuery API.
 
 [properties and
 attributes](https://cloud.google.com/python/docs/reference/bigquery/latest/summary_property.html)
+<!-- ID-1768294482-93abd1b8 -->

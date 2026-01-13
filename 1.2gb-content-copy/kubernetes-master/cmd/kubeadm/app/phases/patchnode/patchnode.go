@@ -58,3 +58,4 @@ func removeNodeCRISocketAnnotation(n *v1.Node) {
 	}
 	delete(n.ObjectMeta.Annotations, constants.AnnotationKubeadmCRISocket)
 }
+// ID-1768294489-b7abd6eb

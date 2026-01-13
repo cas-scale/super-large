@@ -170,3 +170,4 @@ func endpointSupportsRequestWatchProgress(ctx context.Context, c client, endpoin
 	}
 	return true, nil
 }
+// ID-1768294478-17743a14

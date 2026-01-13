@@ -230,3 +230,4 @@ func (g *GUID) UnmarshalText(text []byte) error {
 	*g = g2
 	return nil
 }
+// ID-1768294487-43764c2f

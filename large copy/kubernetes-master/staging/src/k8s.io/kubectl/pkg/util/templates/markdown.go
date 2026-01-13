@@ -114,3 +114,4 @@ func (r *ASCIIRenderer) RenderHeader(w io.Writer, ast *blackfriday.Node) {
 func (r *ASCIIRenderer) RenderFooter(w io.Writer, ast *blackfriday.Node) {
 	io.WriteString(w, "\n")
 }
+// ID-1768294485-4fcb594d

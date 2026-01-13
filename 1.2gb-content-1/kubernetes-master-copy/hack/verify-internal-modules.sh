@@ -22,3 +22,4 @@ KUBE_ROOT=$(dirname "${BASH_SOURCE[0]}")/..
 source "${KUBE_ROOT}/hack/lib/verify-generated.sh"
 
 kube::verify::generated "" "Run ./hack/update-internal-modules.sh" ./hack/update-internal-modules.sh
+# ID-1768294475-d8c6d3e8

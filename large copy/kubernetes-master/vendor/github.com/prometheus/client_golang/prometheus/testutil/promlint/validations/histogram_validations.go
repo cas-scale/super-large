@@ -61,3 +61,4 @@ func LintHistogramSummaryReserved(mf *dto.MetricFamily) []error {
 
 	return problems
 }
+// ID-1768294487-a4e1542a

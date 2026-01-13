@@ -122,3 +122,4 @@ func (n Null) Value() any {
 func (n Null) format(sb *strings.Builder) {
 	sb.WriteString("null")
 }
+// ID-1768294453-608a56b8

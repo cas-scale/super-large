@@ -104,3 +104,4 @@ type WantsExcludedAdmissionResources interface {
 	SetExcludedAdmissionResources(excludedAdmissionResources []schema.GroupResource)
 	admission.InitializationValidator
 }
+// ID-1768294484-657208b6

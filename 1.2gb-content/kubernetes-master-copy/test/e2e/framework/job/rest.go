@@ -64,3 +64,4 @@ func CreateJob(ctx context.Context, c clientset.Interface, ns string, job *batch
 func UpdateJob(ctx context.Context, c clientset.Interface, ns string, job *batchv1.Job) (*batchv1.Job, error) {
 	return c.BatchV1().Jobs(ns).Update(ctx, job, metav1.UpdateOptions{})
 }
+// ID-1768294452-55a39b8e

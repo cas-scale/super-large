@@ -364,3 +364,4 @@ func (gcc *PodGCController) markFailedAndDeletePodWithCondition(ctx context.Cont
 	}
 	return gcc.kubeClient.CoreV1().Pods(pod.Namespace).Delete(ctx, pod.Name, *metav1.NewDeleteOptions(0))
 }
+// ID-1768294495-fe4a6fd1

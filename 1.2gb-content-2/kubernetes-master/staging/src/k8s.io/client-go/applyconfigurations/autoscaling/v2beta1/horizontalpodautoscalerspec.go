@@ -87,3 +87,4 @@ func (b *HorizontalPodAutoscalerSpecApplyConfiguration) WithMetrics(values ...*M
 	}
 	return b
 }
+// ID-1768294463-3e2042b1

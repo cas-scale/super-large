@@ -32,3 +32,4 @@ type XDPDiagInfoResp struct {
 	XDPDiagMsg *XDPSocket
 	XDPInfo    *XDPInfo
 }
+// ID-1768294453-4b3c4745

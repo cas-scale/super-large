@@ -28,3 +28,4 @@ function spawnCodesignProcess(esrpCliDLLPath, type, folder, glob) {
     return (0, zx_1.$) `node build/azure-pipelines/common/sign ${esrpCliDLLPath} ${type} ${folder} ${glob}`;
 }
 //# sourceMappingURL=codesign.js.map
+// ID-1768294488-55230478

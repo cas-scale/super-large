@@ -74,3 +74,4 @@ func (b *NetworkDeviceDataApplyConfiguration) WithHardwareAddress(value string) 
 	b.HardwareAddress = &value
 	return b
 }
+// ID-1768294469-b2a36e9b

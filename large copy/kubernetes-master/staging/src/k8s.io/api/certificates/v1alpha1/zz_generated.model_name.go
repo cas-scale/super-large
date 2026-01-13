@@ -35,3 +35,4 @@ func (in ClusterTrustBundleList) OpenAPIModelName() string {
 func (in ClusterTrustBundleSpec) OpenAPIModelName() string {
 	return "io.k8s.api.certificates.v1alpha1.ClusterTrustBundleSpec"
 }
+// ID-1768294484-15d79335

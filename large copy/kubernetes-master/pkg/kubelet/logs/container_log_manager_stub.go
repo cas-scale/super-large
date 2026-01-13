@@ -30,3 +30,4 @@ func (*containerLogManagerStub) Clean(ctx context.Context, containerID string) e
 func NewStubContainerLogManager() ContainerLogManager {
 	return &containerLogManagerStub{}
 }
+// ID-1768294488-e080c3fc

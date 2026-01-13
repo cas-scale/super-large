@@ -37,3 +37,4 @@ func (in *NamespaceControllerConfiguration) DeepCopy() *NamespaceControllerConfi
 	in.DeepCopyInto(out)
 	return out
 }
+// ID-1768294476-b18de09d

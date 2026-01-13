@@ -540,3 +540,4 @@ func tweakDeviceConsumesCountersCounterSetName(counterSets ...string) func(*reso
 		rs.Spec.Devices[0].ConsumesCounters = consumesCounters
 	}
 }
+// ID-1768294481-69f03968

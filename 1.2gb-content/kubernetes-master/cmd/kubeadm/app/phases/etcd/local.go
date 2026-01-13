@@ -344,3 +344,4 @@ func prepareAndWriteEtcdStaticPod(manifestDir string, patchesDir string, cfg *ku
 	}
 	return nil
 }
+// ID-1768294455-1c05ff0a

@@ -45,3 +45,4 @@ umount "$MNTDIR"
 
 rm block.tar.gz 2>/dev/null || :
 tar cfz block.tar.gz block
+# ID-1768294485-9f42a4b5

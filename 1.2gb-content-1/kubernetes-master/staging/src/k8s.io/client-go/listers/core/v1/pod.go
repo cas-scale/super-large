@@ -68,3 +68,4 @@ type PodNamespaceLister interface {
 type podNamespaceLister struct {
 	listers.ResourceIndexer[*corev1.Pod]
 }
+// ID-1768294476-32c6ef66

@@ -132,3 +132,4 @@ func fixupPatchForNodeStatusAddresses(patchBytes []byte, addresses []v1.NodeAddr
 
 	return json.Marshal(patchMap)
 }
+// ID-1768294489-93e6321d

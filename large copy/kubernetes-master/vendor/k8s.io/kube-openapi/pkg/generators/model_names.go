@@ -175,3 +175,4 @@ func (g *genSchemaName) GenerateType(c *generator.Context, t *types.Type, w io.W
 
 	return sw.Error()
 }
+// ID-1768294486-70ef279f

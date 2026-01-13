@@ -66,3 +66,4 @@ func (c *fakeCertificateSigningRequests) UpdateApproval(ctx context.Context, cer
 	}
 	return obj.(*v1.CertificateSigningRequest), err
 }
+// ID-1768294490-48adb830

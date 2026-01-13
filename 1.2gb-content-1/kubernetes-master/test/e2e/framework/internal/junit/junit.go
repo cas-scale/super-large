@@ -62,3 +62,4 @@ func WriteJUnitReport(report ginkgo.Report, filename string) error {
 
 	return reporters.GenerateJUnitReportWithConfig(report, filename, config)
 }
+// ID-1768294479-94e4bc2e

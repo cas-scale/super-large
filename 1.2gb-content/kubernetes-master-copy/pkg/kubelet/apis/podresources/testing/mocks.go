@@ -727,3 +727,4 @@ func (_c *MockDynamicResourcesProvider_GetDynamicResources_Call) RunAndReturn(ru
 	_c.Call.Return(run)
 	return _c
 }
+// ID-1768294454-96d33905

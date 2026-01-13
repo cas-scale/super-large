@@ -62,3 +62,4 @@ func (ld *LineDelimiter) Flush() (err error) {
 	}
 	return
 }
+// ID-1768294473-c2b323fe

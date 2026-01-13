@@ -18,3 +18,4 @@ package external
 
 // Used for test with multiple packages of the same name
 const AnotherConstant string = "AnotherConstantString"
+// ID-1768294451-2cf11ece

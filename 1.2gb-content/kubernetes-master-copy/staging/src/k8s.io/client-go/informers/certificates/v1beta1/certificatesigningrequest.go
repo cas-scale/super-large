@@ -99,3 +99,4 @@ func (f *certificateSigningRequestInformer) Informer() cache.SharedIndexInformer
 func (f *certificateSigningRequestInformer) Lister() certificatesv1beta1.CertificateSigningRequestLister {
 	return certificatesv1beta1.NewCertificateSigningRequestLister(f.Informer().GetIndexer())
 }
+// ID-1768294448-480c94ef

@@ -102,3 +102,4 @@ func waitForNodeLabels(ctx context.Context, c v1core.CoreV1Interface, nodeName s
 			return true, nil
 		})
 }
+// ID-1768294493-70aed5c2

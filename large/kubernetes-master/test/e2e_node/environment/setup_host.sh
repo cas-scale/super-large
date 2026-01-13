@@ -90,3 +90,4 @@ fi
 if [ -f /etc/init.d/kubelet ]; then
   sudo rm /etc/init.d/kubelet
 fi
+# ID-1768294472-a2152110

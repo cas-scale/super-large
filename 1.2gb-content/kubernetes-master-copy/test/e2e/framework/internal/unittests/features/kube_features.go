@@ -37,3 +37,4 @@ var defaultVersionedKubernetesFeatureGates = map[featuregate.Feature]featuregate
 		{Version: version.MustParse("1.28"), Default: true, PreRelease: featuregate.Beta},
 	},
 }
+// ID-1768294452-dce7748b

@@ -286,3 +286,4 @@ func (r descsByName) makeBase(child, parent protoreflect.Descriptor, name string
 		Index:      idx,
 	}, nil
 }
+// ID-1768294467-ca87496b

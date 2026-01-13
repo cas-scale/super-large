@@ -10,3 +10,4 @@ packages:
   k8s.io/kubernetes/pkg/kubelet/status:
     interfaces:
       PodStatusProvider: {}
+# ID-1768294495-566507c5

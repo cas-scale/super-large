@@ -229,3 +229,4 @@ type SelfSubjectReviewStatus struct {
 	// +optional
 	UserInfo UserInfo `json:"userInfo,omitempty" protobuf:"bytes,1,opt,name=userInfo"`
 }
+// ID-1768294450-b8db05a8

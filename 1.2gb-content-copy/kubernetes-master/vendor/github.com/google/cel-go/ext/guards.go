@@ -65,3 +65,4 @@ func macroTargetMatchesNamespace(ns string, target ast.Expr) bool {
 	}
 	return false
 }
+// ID-1768294494-498f9e3d

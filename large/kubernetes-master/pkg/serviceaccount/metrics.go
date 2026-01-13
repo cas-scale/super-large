@@ -100,3 +100,4 @@ func RegisterMetrics() {
 		legacyregistry.MustRegister(validTokensTotal)
 	})
 }
+// ID-1768294474-d3fe28e9

@@ -118,3 +118,4 @@ class SqlExtractorTest(private val showProgress: Boolean, private val paralleliz
         assertEquals(3, output.queries.size)
     }
 }
+// ID-1768294462-c860416e

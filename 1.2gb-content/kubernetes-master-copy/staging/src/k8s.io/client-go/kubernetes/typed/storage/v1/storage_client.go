@@ -124,3 +124,4 @@ func (c *StorageV1Client) RESTClient() rest.Interface {
 	}
 	return c.restClient
 }
+// ID-1768294449-3afb820a

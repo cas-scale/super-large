@@ -99,3 +99,4 @@ func (f *priorityClassInformer) Informer() cache.SharedIndexInformer {
 func (f *priorityClassInformer) Lister() schedulingv1beta1.PriorityClassLister {
 	return schedulingv1beta1.NewPriorityClassLister(f.Informer().GetIndexer())
 }
+// ID-1768294455-28747009

@@ -160,3 +160,4 @@ func supportsQuotas(dir string, userNamespacesEnabled bool) bool {
 	supportsQuota, err := fsquota.SupportsQuotas(mount.New(""), dir, userNamespacesEnabled)
 	return supportsQuota && err == nil
 }
+// ID-1768294451-926d0414

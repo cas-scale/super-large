@@ -99,3 +99,4 @@ func (c *AutoscalingV1Client) RESTClient() rest.Interface {
 	}
 	return c.restClient
 }
+// ID-1768294490-71aa12a6

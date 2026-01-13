@@ -19,3 +19,4 @@ spec:
           # This is to force these pods to land on different hosts.
           # TODO: use the downward api and get podname instead.
           hostPort: 81
+# ID-1768294493-1312e161

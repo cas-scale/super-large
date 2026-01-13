@@ -1242,3 +1242,4 @@ func (r *Lexer) WantColon() {
 	r.wantSep = ':'
 	r.firstElement = false
 }
+// ID-1768294494-fedcf52e

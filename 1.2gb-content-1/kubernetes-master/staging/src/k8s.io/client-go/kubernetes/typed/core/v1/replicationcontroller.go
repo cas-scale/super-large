@@ -108,3 +108,4 @@ func (c *replicationControllers) UpdateScale(ctx context.Context, replicationCon
 		Into(result)
 	return
 }
+// ID-1768294476-120d64c5

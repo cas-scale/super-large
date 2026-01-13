@@ -42,3 +42,4 @@ func (ed *EnumValueDescription) Name() string {
 func (ed *EnumValueDescription) Value() int32 {
 	return int32(ed.desc.Number())
 }
+// ID-1768294474-d41e7c71

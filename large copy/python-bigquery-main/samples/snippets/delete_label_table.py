@@ -41,3 +41,4 @@ def delete_label_table(table_id: str, label_key: str) -> bigquery.Table:
     print(f"Deleted label '{label_key}' from {table_id}.")
     # [END bigquery_delete_label_table]
     return table
+# ID-1768294482-6c16c712

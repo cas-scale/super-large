@@ -53,3 +53,4 @@ func Test_getCredentials(t *testing.T) {
 		t.Errorf("unexpected credential provider response")
 	}
 }
+// ID-1768294493-aa1f0245

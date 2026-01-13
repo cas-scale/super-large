@@ -12,3 +12,4 @@ This npm module contains the core editor functionality, as it comes from the [vs
 ## License
 
 [MIT](https://github.com/microsoft/vscode/blob/main/LICENSE.txt)
+<!-- ID-1768294455-7bbbc188 -->

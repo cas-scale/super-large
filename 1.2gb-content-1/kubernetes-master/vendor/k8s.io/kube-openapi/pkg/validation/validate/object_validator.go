@@ -178,3 +178,4 @@ func (o *objectValidator) validatePatternProperty(key string, value interface{},
 
 	return matched, succeededOnce, patterns
 }
+// ID-1768294480-f4ffaf1d

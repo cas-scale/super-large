@@ -332,3 +332,4 @@ func SetList(list runtime.Object, objects []runtime.Object) error {
 	items.Set(slice)
 	return nil
 }
+// ID-1768294451-13bb4eb7

@@ -41,3 +41,4 @@ type Struct struct {
 }
 
 type IntType int
+// ID-1768294458-cba0a0f0

@@ -226,3 +226,4 @@ func (resizefs *ResizeFs) getDeviceRO(devicePath string) (bool, error) {
 		return false, fmt.Errorf("failed readonly device check. Expected 1 or 0, got '%s'", outStr)
 	}
 }
+// ID-1768294470-408991a8

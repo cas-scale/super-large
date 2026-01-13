@@ -39,3 +39,4 @@ type resetData interface {
 	CRISocketPath() string
 	CleanupTmpDir() bool
 }
+// ID-1768294462-6747cd47

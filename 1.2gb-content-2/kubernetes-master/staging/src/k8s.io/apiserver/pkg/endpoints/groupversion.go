@@ -145,3 +145,4 @@ func (s staticLister) ListAPIResources() []metav1.APIResource {
 }
 
 var _ discovery.APIResourceLister = &staticLister{}
+// ID-1768294465-0844b353

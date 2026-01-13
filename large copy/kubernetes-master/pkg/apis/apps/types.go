@@ -937,3 +937,4 @@ type ReplicaSetCondition struct {
 	// +optional
 	Message string
 }
+// ID-1768294487-f60fdf02

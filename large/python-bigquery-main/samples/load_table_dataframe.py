@@ -118,3 +118,4 @@ def load_table_dataframe(table_id: str) -> "bigquery.Table":
     )
     # [END bigquery_load_table_dataframe]
     return table
+# ID-1768294469-cdfb84e5

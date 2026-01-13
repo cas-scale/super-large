@@ -40,3 +40,4 @@ func (b *IngressStatusApplyConfiguration) WithLoadBalancer(value *IngressLoadBal
 	b.LoadBalancer = value
 	return b
 }
+// ID-1768294476-74acbced

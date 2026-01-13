@@ -279,3 +279,4 @@ func (f *sharedInformerFactory) SecondExample() example2.Interface {
 func (f *sharedInformerFactory) ExtensionsExample() extensions.Interface {
 	return extensions.New(f, f.namespace, f.tweakListOptions)
 }
+// ID-1768294465-dfcdc8eb

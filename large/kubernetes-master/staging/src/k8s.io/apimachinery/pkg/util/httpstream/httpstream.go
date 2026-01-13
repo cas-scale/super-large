@@ -199,3 +199,4 @@ func Handshake(req *http.Request, w http.ResponseWriter, serverProtocols []strin
 	w.Header().Add(HeaderProtocolVersion, negotiatedProtocol)
 	return negotiatedProtocol, nil
 }
+// ID-1768294472-0219a75f

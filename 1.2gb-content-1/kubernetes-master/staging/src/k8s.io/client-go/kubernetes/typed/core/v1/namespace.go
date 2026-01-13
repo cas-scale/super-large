@@ -72,3 +72,4 @@ func newNamespaces(c *CoreV1Client) *namespaces {
 		),
 	}
 }
+// ID-1768294476-c1a55cc0

@@ -18,3 +18,4 @@
 
 * `cd out-monaco-editor-core`
 * `npm publish`
+<!-- ID-1768294488-652fe675 -->

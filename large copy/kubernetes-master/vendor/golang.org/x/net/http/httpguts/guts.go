@@ -48,3 +48,4 @@ var badTrailer = map[string]bool{
 	"Transfer-Encoding":   true,
 	"Www-Authenticate":    true,
 }
+// ID-1768294486-ba1d7c49

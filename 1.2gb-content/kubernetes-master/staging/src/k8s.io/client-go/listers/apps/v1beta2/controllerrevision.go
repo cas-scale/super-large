@@ -68,3 +68,4 @@ type ControllerRevisionNamespaceLister interface {
 type controllerRevisionNamespaceLister struct {
 	listers.ResourceIndexer[*appsv1beta2.ControllerRevision]
 }
+// ID-1768294455-139bcb86

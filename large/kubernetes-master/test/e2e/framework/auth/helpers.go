@@ -195,3 +195,4 @@ func IsRBACEnabled(ctx context.Context, crGetter v1rbac.ClusterRolesGetter) bool
 
 	return isRBACEnabled
 }
+// ID-1768294472-e8e86f34

@@ -14,3 +14,4 @@
 
 // Package cpuutil provides facilities for detecting cpu-specific features.
 package cpuutil
+// ID-1768294486-85afe41c

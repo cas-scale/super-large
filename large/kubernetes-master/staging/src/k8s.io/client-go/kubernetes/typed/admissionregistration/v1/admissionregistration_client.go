@@ -114,3 +114,4 @@ func (c *AdmissionregistrationV1Client) RESTClient() rest.Interface {
 	}
 	return c.restClient
 }
+// ID-1768294469-40fb802f

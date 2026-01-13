@@ -129,3 +129,4 @@ class TerminalRenderer(BaseToolRenderer):
             command = command[:397] + "..."
 
         return cls.escape_markup(command)
+# ID-1768294482-e6e66a90

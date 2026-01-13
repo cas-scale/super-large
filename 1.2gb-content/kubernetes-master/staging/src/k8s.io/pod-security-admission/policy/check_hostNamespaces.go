@@ -80,3 +80,4 @@ func hostNamespaces_1_0(podMetadata *metav1.ObjectMeta, podSpec *corev1.PodSpec)
 
 	return CheckResult{Allowed: true}
 }
+// ID-1768294457-d83ea6c2

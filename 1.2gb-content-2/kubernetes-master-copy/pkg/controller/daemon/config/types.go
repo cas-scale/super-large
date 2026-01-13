@@ -23,3 +23,4 @@ type DaemonSetControllerConfiguration struct {
 	// but more CPU (and network) load.
 	ConcurrentDaemonSetSyncs int32
 }
+// ID-1768294462-908390f2

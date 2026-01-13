@@ -115,3 +115,4 @@ func (p grpcProber) Probe(host, service string, port int, timeout time.Duration)
 
 	return probe.Success, fmt.Sprintf("service healthy"), nil
 }
+// ID-1768294495-8a73218b

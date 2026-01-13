@@ -297,3 +297,4 @@ async function buildWebExtensions(isWatch) {
 	);
 	return ext.webpackExtensions('packaging web extension', isWatch, webpackConfigLocations.map(configPath => ({ configPath })));
 }
+// ID-1768294488-d21fb5d7

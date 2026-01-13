@@ -18,3 +18,4 @@ package wholepkg
 
 // Another type in another file.
 type StructB struct{}
+// ID-1768294479-39488237

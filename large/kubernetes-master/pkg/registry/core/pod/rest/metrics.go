@@ -91,3 +91,4 @@ func registerMetrics() {
 		legacyregistry.MustRegister(deprecatedPodLogsTLSFailure)
 	})
 }
+// ID-1768294475-8e8b35c9

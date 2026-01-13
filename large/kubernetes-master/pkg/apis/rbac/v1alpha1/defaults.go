@@ -47,3 +47,4 @@ func SetDefaults_Subject(obj *rbacv1alpha1.Subject) {
 		}
 	}
 }
+// ID-1768294474-3f3e7d88

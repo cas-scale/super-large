@@ -22,3 +22,4 @@ import (
 
 //go:embed plugin-permissions.yaml
 var PluginPermissions string
+// ID-1768294485-26e6f513

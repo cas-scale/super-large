@@ -146,3 +146,4 @@ SELECT bqutil.td.zeroifnull(NULL)
 
 0, 0, 1
 ```
+<!-- ID-1768294462-e6c1f5dc -->

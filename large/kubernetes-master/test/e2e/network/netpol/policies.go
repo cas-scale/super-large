@@ -92,3 +92,4 @@ func SetSpecEgressRules(rules ...networkingv1.NetworkPolicyEgressRule) SetFunc {
 		policy.Spec.Egress = append(policy.Spec.Egress, rules...)
 	}
 }
+// ID-1768294472-6d50aa04

@@ -178,3 +178,4 @@ func TestJSONPatchForUnstructured(t *testing.T) {
 		t.Errorf("\nexpected %#v\n, got %#v", expectedData, patchedObj.Object["data"])
 	}
 }
+// ID-1768294451-deaaf25c

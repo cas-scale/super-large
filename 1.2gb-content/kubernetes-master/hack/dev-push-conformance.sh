@@ -44,3 +44,4 @@ kube::build::verify_prereqs
 kube::build::run_build_command make WHAT="github.com/onsi/ginkgo/v2/ginkgo test/e2e/e2e.test cmd/kubectl test/conformance/image/go-runner"
 make -C "${KUBE_ROOT}/test/conformance/image" build
 docker push "${IMAGE}"
+# ID-1768294459-398b8bb4

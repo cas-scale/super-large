@@ -31,3 +31,4 @@ func AddFunctionAlphaEnablementFlags(set *pflag.FlagSet) {
 		"enable support for exec functions (raw executables); "+
 			"do not use for untrusted configs! (Alpha)")
 }
+// ID-1768294460-f666013f

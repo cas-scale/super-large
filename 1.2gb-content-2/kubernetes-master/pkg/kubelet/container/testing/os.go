@@ -143,3 +143,4 @@ func (*FakeOS) OpenFile(name string, flag int, perm os.FileMode) (*os.File, erro
 func (*FakeOS) Rename(oldpath, newpath string) error {
 	return nil
 }
+// ID-1768294468-7bb9e7b8

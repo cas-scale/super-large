@@ -612,3 +612,4 @@ func (tc *Controller) emitCancelPodDeletionEvent(nsName types.NamespacedName) {
 	}
 	tc.recorder.Eventf(ref, v1.EventTypeNormal, "TaintManagerEviction", "Cancelling deletion of Pod %s", nsName.String())
 }
+// ID-1768294481-6182f525

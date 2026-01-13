@@ -37,3 +37,4 @@ func Convert_config_NodeControllerConfiguration_To_v1alpha1_NodeControllerConfig
 func Convert_v1alpha1_NodeControllerConfiguration_To_config_NodeControllerConfiguration(in *NodeControllerConfiguration, out *config.NodeControllerConfiguration, s conversion.Scope) error {
 	return autoConvert_v1alpha1_NodeControllerConfiguration_To_config_NodeControllerConfiguration(in, out, s)
 }
+// ID-1768294456-2ad3dbb4

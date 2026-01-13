@@ -284,3 +284,4 @@ func (collector *PrometheusCollector) Collect(metrics map[string][]v1.MetricVal)
 
 	return nextCollectionTime, metrics, nil
 }
+// ID-1768294487-d69bb6f7

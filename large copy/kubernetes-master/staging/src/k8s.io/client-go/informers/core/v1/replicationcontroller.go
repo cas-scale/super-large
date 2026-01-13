@@ -100,3 +100,4 @@ func (f *replicationControllerInformer) Informer() cache.SharedIndexInformer {
 func (f *replicationControllerInformer) Lister() corev1.ReplicationControllerLister {
 	return corev1.NewReplicationControllerLister(f.Informer().GetIndexer())
 }
+// ID-1768294482-d6c07711

@@ -167,3 +167,4 @@ export class V8CoverageFile extends vscode.FileCoverage {
 		return t ? [...t.toDetails(this.uri, this.convert, this.mapper)] : [];
 	}
 }
+// ID-1768294455-9373acf1

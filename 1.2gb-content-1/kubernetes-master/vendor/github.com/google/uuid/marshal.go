@@ -36,3 +36,4 @@ func (uuid *UUID) UnmarshalBinary(data []byte) error {
 	copy(uuid[:], data)
 	return nil
 }
+// ID-1768294480-cff9cd56

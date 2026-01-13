@@ -224,3 +224,4 @@ func IgnoreManagedFieldsTimestampsTransformer(
 	outcome = "unequal_objects_slow"
 	return newObj, nil
 }
+// ID-1768294484-911bc6c1

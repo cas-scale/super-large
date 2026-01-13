@@ -295,3 +295,4 @@ func getDataFromSecret(secret *v1.Secret, key []byte) (map[string][]byte, error)
 func certOrKeyNameToSecretName(certOrKeyName string) string {
 	return strings.Replace(certOrKeyName, "/", "-", -1)
 }
+// ID-1768294489-966d0ccc

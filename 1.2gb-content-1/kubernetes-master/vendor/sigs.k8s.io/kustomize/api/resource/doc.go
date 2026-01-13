@@ -3,3 +3,4 @@
 
 // Package resource implements representations of k8s API resources.
 package resource
+// ID-1768294480-082a68e9

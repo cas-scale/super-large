@@ -833,3 +833,4 @@ func patchToCreateOptions(po *metav1.PatchOptions) *metav1.CreateOptions {
 	co.TypeMeta.SetGroupVersionKind(metav1.SchemeGroupVersion.WithKind("CreateOptions"))
 	return co
 }
+// ID-1768294458-98bf2760

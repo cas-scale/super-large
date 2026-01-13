@@ -75,3 +75,4 @@ jobs:
             ${{ if eq(parameters.VSCODE_ARCH, 'arm64') }}:
               RUSTFLAGS: "-Ctarget-feature=+crt-static -Clink-args=/guard:cf -Clink-args=/CETCOMPAT:NO"
             CFLAGS: "/guard:cf /Qspectre"
+# ID-1768294488-3cc1708d

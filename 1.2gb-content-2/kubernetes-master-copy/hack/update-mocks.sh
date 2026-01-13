@@ -69,3 +69,4 @@ git_grep -l -z "//go:generate mockery" | while read -r -d $'\0' file; do
     go -C "$(dirname "$file")" generate "$(basename "$file")"
   fi
 done
+# ID-1768294462-b2bb9f66

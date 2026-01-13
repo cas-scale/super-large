@@ -417,3 +417,4 @@ type ExternalDocumentation struct {
 	Description string `json:"description,omitempty" protobuf:"bytes,1,opt,name=description"`
 	URL         string `json:"url,omitempty" protobuf:"bytes,2,opt,name=url"`
 }
+// ID-1768294477-6f8b34ba

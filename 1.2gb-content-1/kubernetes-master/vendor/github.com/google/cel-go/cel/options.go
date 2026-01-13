@@ -884,3 +884,4 @@ func maybeInteropProvider(provider any) (types.Provider, error) {
 		return nil, fmt.Errorf("unsupported type provider: %T", provider)
 	}
 }
+// ID-1768294480-4a9feb0c

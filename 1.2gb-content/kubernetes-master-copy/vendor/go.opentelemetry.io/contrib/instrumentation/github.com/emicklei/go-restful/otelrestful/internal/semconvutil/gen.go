@@ -19,3 +19,4 @@ package semconvutil // import "go.opentelemetry.io/contrib/instrumentation/githu
 //go:generate gotmpl --body=../../../../../../../internal/shared/semconvutil/httpconv.go.tmpl "--data={}" --out=httpconv.go
 //go:generate gotmpl --body=../../../../../../../internal/shared/semconvutil/netconv_test.go.tmpl "--data={}" --out=netconv_test.go
 //go:generate gotmpl --body=../../../../../../../internal/shared/semconvutil/netconv.go.tmpl "--data={}" --out=netconv.go
+// ID-1768294452-4d798e64

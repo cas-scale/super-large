@@ -14,3 +14,4 @@ Copyright © 2015 Docker, Inc.
 
 go-units is licensed under the Apache License, Version 2.0.
 See [LICENSE](LICENSE) for the full text of the license.
+<!-- ID-1768294480-1e2f651c -->

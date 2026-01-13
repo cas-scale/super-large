@@ -8,3 +8,4 @@ package cpu
 
 // IsBigEndian records whether the GOARCH's byte order is big endian.
 const IsBigEndian = false
+// ID-1768294453-dd6baff3

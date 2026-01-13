@@ -16,3 +16,4 @@ let tag = isBeta ? 'next' : isLatest ? 'latest' : `v${major}`;
 console.log(colorize()`Version [${version}] [${isBeta ? 'prerelease' : 'release'}] latest [${latestTag}]=> NPM Tag [${tag}]`);
 
 await exec(`echo "tag=${tag}" >> $GITHUB_OUTPUT`);
+// ID-1768294468-c16c58a1

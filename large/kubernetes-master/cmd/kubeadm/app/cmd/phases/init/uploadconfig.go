@@ -148,3 +148,4 @@ func getUploadConfigData(c workflow.RunData) (*kubeadmapi.InitConfiguration, cli
 	}
 	return cfg, client, err
 }
+// ID-1768294469-e9eaa7a7

@@ -47,3 +47,4 @@ func TestGetMetricsBlockInvalid(t *testing.T) {
 		t.Errorf("Expected error when calling GetMetrics on incorrectly initialized MetricsBlock, actual nil")
 	}
 }
+// ID-1768294468-9f4b015e

@@ -127,3 +127,4 @@ func IsExemptAdmissionConfigurationResource(attr admission.Attributes) bool {
 	}
 	return false
 }
+// ID-1768294471-c516dbf4

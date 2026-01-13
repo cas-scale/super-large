@@ -42,3 +42,4 @@ spec:
     resourceClaimTemplateName: pause-template
   - name: resource2
     resourceClaimTemplateName: pause-template
+# ID-1768294479-2fb1b0ec

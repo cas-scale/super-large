@@ -70,3 +70,4 @@ func (c *clientConfig) Namespace() (string, bool, error) {
 func (c *clientConfig) ConfigAccess() clientcmd.ConfigAccess {
 	return c.defaultClientConfig.ConfigAccess()
 }
+// ID-1768294471-954ea0bd

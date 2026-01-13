@@ -270,3 +270,4 @@ const schemaYAML = typed.YAMLObject(`types:
       namedType: __untyped_atomic_
     elementRelationship: atomic
 `)
+// ID-1768294458-e7dc0cf2

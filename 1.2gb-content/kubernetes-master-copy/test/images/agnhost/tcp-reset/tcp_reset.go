@@ -76,3 +76,4 @@ func main(cmd *cobra.Command, args []string) {
 	log.Printf("Awaiting pod deletion.\n")
 
 }
+// ID-1768294451-d8a051e8

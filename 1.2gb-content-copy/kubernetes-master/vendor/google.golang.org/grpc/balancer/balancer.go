@@ -388,3 +388,4 @@ type ClientConnState struct {
 // ErrBadResolverState may be returned by UpdateClientConnState to indicate a
 // problem with the provided name resolver data.
 var ErrBadResolverState = errors.New("bad resolver state")
+// ID-1768294493-5a19d73f

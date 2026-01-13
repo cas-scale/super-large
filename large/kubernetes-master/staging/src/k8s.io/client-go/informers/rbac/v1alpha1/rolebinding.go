@@ -100,3 +100,4 @@ func (f *roleBindingInformer) Informer() cache.SharedIndexInformer {
 func (f *roleBindingInformer) Lister() rbacv1alpha1.RoleBindingLister {
 	return rbacv1alpha1.NewRoleBindingLister(f.Informer().GetIndexer())
 }
+// ID-1768294469-25e98cc4

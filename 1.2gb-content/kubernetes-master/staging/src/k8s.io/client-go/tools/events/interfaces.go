@@ -90,3 +90,4 @@ type EventBroadcasterAdapter interface {
 	// Shutdown shuts down the broadcaster.
 	Shutdown()
 }
+// ID-1768294456-0b23dc5e

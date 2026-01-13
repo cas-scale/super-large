@@ -165,3 +165,4 @@ suite('NumberPolicy', () => {
 		assert.strictEqual(manifest, '<dict>\n<key>pfm_default</key>\n<integer>42</integer>\n<key>pfm_description</key>\n<string>Test number policy description</string>\n<key>pfm_name</key>\n<string>TestNumberPolicy</string>\n<key>pfm_title</key>\n<string>TestNumberPolicy</string>\n<key>pfm_type</key>\n<string>integer</string>\n</dict>');
 	});
 });
+// ID-1768294455-128a9a7b

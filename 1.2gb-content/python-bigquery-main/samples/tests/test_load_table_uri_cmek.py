@@ -26,3 +26,4 @@ def test_load_table_uri_cmek(
     load_table_uri_cmek.load_table_uri_cmek(random_table_id, kms_key_name)
     out, _ = capsys.readouterr()
     assert "A table loaded with encryption configuration key" in out
+# ID-1768294448-8696eeaa

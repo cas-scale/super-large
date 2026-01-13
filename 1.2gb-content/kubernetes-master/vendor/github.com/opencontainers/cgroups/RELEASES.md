@@ -49,3 +49,4 @@ Specifications have a variety of different timelines in their lifecycle.
 * Minor and patch releases SHOULD be made on an as-needed basis.
 
 [charter]: https://www.opencontainers.org/about/governance
+<!-- ID-1768294460-5232b6aa -->

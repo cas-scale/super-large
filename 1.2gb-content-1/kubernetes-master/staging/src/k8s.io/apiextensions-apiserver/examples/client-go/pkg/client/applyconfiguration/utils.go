@@ -46,3 +46,4 @@ func ForKind(kind schema.GroupVersionKind) interface{} {
 func NewTypeConverter(scheme *runtime.Scheme) managedfields.TypeConverter {
 	return managedfields.NewSchemeTypeConverter(scheme, internal.Parser())
 }
+// ID-1768294477-9a6b5054

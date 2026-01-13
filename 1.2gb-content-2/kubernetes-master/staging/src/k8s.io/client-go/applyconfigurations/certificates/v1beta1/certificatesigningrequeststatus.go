@@ -55,3 +55,4 @@ func (b *CertificateSigningRequestStatusApplyConfiguration) WithCertificate(valu
 	}
 	return b
 }
+// ID-1768294463-9e0d2c93

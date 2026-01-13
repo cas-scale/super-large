@@ -65,3 +65,4 @@ func (b *TypedLocalObjectReferenceApplyConfiguration) WithName(value string) *Ty
 	b.Name = &value
 	return b
 }
+// ID-1768294476-48d9ca6c

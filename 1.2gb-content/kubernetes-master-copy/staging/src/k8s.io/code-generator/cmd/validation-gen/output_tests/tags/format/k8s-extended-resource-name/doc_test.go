@@ -66,3 +66,4 @@ func TestK8sExtendedResourceName(t *testing.T) {
 	// Test validation ratcheting
 	st.Value(invalidStruct).OldValue(invalidStruct).ExpectValid()
 }
+// ID-1768294451-2c20e9d0

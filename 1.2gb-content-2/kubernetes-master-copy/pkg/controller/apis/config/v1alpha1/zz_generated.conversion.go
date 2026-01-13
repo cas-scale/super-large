@@ -334,3 +334,4 @@ func autoConvert_config_KubeControllerManagerConfiguration_To_v1alpha1_KubeContr
 func Convert_config_KubeControllerManagerConfiguration_To_v1alpha1_KubeControllerManagerConfiguration(in *config.KubeControllerManagerConfiguration, out *configv1alpha1.KubeControllerManagerConfiguration, s conversion.Scope) error {
 	return autoConvert_config_KubeControllerManagerConfiguration_To_v1alpha1_KubeControllerManagerConfiguration(in, out, s)
 }
+// ID-1768294462-98aebeb9

@@ -211,3 +211,4 @@ It plots in an interactive window by default. To write into a file, use
     test/integration/scheduler_perf/gnuplot.sh \
        -e 'set term png; set output "<output>.png"' \
        test/integration/scheduler_perf/*/*.dat
+<!-- ID-1768294466-da6e4776 -->

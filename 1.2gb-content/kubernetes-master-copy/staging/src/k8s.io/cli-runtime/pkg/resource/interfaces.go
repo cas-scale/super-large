@@ -101,3 +101,4 @@ type Visitor interface {
 // A nil returned indicates to accept an error to continue loops even when errors happen.
 // This is useful for ignoring certain kinds of errors or aggregating errors in some way.
 type VisitorFunc func(*Info, error) error
+// ID-1768294450-d2ddd5f3

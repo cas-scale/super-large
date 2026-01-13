@@ -198,3 +198,4 @@ func (SubjectRulesReviewStatus) SwaggerDoc() map[string]string {
 }
 
 // AUTO-GENERATED FUNCTIONS END HERE
+// ID-1768294465-f2d02a9c

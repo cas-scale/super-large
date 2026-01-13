@@ -30,3 +30,4 @@ func (in Policy) OpenAPIModelName() string {
 func (in PolicySpec) OpenAPIModelName() string {
 	return "pkg.apis.abac.v1beta1.PolicySpec"
 }
+// ID-1768294489-8543bc41

@@ -46,3 +46,4 @@ type cSIDriverLister struct {
 func NewCSIDriverLister(indexer cache.Indexer) CSIDriverLister {
 	return &cSIDriverLister{listers.New[*storagev1beta1.CSIDriver](indexer, storagev1beta1.Resource("csidriver"))}
 }
+// ID-1768294489-154a7471

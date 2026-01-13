@@ -70,3 +70,4 @@ def _render_default_tool_widget(tool_data: dict[str, Any]) -> Static:
 
     css_classes = BaseToolRenderer.get_css_classes(status)
     return Static("\n".join(content_parts), classes=css_classes)
+# ID-1768294448-9456e3cb

@@ -56,3 +56,4 @@ func SetObjectDefaults_JoinConfiguration(in *JoinConfiguration) {
 		SetDefaults_APIEndpoint(&in.ControlPlane.LocalAPIEndpoint)
 	}
 }
+// ID-1768294455-4c8999f9

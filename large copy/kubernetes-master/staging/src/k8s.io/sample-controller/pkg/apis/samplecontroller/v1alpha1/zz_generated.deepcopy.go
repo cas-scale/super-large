@@ -122,3 +122,4 @@ func (in *FooStatus) DeepCopy() *FooStatus {
 	in.DeepCopyInto(out)
 	return out
 }
+// ID-1768294484-d59fec81

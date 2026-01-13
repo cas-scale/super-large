@@ -301,3 +301,4 @@ func marshal(t *testing.T, gv schema.GroupVersion, obj runtime.Object) []byte {
 
 	return data
 }
+// ID-1768294456-08050c04

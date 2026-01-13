@@ -321,3 +321,4 @@ type ObjectReference struct {
 	// +optional
 	Subresource string
 }
+// ID-1768294492-a2c508ca

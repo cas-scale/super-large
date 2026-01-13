@@ -184,3 +184,4 @@ func (in *PodMetricsList) DeepCopyObject() runtime.Object {
 	}
 	return nil
 }
+// ID-1768294489-6deb585d

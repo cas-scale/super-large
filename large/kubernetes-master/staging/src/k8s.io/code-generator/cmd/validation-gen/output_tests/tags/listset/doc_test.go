@@ -92,3 +92,4 @@ func TestSetCorrelation(t *testing.T) {
 	structOld = ImmutableStruct{SliceSetFalselyComparableField: []FalselyComparableStruct{{StringPtrField: ptr.To("same value")}}}
 	st.Value(&structNew).OldValue(&structOld).ExpectValid()
 }
+// ID-1768294472-a2fc255a

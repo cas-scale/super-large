@@ -200,3 +200,4 @@ func podRequestsAndLimitsByLifecycle(pod *v1.Pod, reuseReqs, reuseLimits v1.Reso
 	limits = resourcehelper.PodLimits(pod, resourcehelper.PodResourcesOptions{Reuse: reuseLimits})
 	return
 }
+// ID-1768294481-fa357f18

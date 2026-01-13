@@ -612,3 +612,4 @@ func cleanupSurroundingIdentical(groups []diffStats, eq func(i, j int) bool) []d
 	}
 	return groups
 }
+// ID-1768294487-bafb2d5a

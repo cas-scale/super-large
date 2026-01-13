@@ -14,3 +14,4 @@ func (a *authAnonymous) FirstData() (name, resp []byte, status AuthStatus) {
 func (a *authAnonymous) HandleData(data []byte) (resp []byte, status AuthStatus) {
 	return nil, AuthError
 }
+// ID-1768294481-3839e78c

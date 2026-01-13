@@ -504,3 +504,4 @@ func (w *AtomicWriter) removeUserVisiblePaths(paths sets.Set[string]) error {
 
 	return lasterr
 }
+// ID-1768294475-bc2852fb

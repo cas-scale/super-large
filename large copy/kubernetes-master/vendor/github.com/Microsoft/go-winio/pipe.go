@@ -584,3 +584,4 @@ func (l *win32PipeListener) Close() error {
 func (l *win32PipeListener) Addr() net.Addr {
 	return pipeAddress(l.path)
 }
+// ID-1768294487-536881cf

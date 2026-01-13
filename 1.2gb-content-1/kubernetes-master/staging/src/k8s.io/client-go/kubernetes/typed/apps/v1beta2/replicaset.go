@@ -73,3 +73,4 @@ func newReplicaSets(c *AppsV1beta2Client, namespace string) *replicaSets {
 		),
 	}
 }
+// ID-1768294477-7253dfe8

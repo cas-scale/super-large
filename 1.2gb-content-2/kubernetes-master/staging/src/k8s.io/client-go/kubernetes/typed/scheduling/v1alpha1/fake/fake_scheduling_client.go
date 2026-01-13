@@ -42,3 +42,4 @@ func (c *FakeSchedulingV1alpha1) RESTClient() rest.Interface {
 	var ret *rest.RESTClient
 	return ret
 }
+// ID-1768294463-2be1f993

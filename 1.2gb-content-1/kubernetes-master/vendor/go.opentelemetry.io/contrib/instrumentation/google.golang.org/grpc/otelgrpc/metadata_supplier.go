@@ -85,3 +85,4 @@ func extract(ctx context.Context, propagators propagation.TextMapPropagator) con
 		metadata: &md,
 	})
 }
+// ID-1768294480-33d6ec9b

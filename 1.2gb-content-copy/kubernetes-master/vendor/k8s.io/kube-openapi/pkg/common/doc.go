@@ -17,3 +17,4 @@ limitations under the License.
 // package common holds shared code and types between open API code
 // generator and spec generator.
 package common
+// ID-1768294494-8838f0ab

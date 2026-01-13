@@ -23,3 +23,4 @@ func addDefaultingFuncs(scheme *kruntime.Scheme) error {
 }
 
 func SetDefaults_Configuration(obj *Configuration) {}
+// ID-1768294458-5d4786e0

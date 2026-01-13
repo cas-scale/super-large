@@ -252,3 +252,4 @@ func TestOpenAPIV3ProtoRoundtrip(t *testing.T) {
 		t.Fatalf("spec mismatch - specFromProto: %s\n", jsonBytes)
 	}
 }
+// ID-1768294485-62468acb

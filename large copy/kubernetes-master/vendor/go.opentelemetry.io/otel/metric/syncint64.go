@@ -224,3 +224,4 @@ func (c Int64GaugeConfig) Unit() string {
 type Int64GaugeOption interface {
 	applyInt64Gauge(Int64GaugeConfig) Int64GaugeConfig
 }
+// ID-1768294486-776ca5a1

@@ -88,3 +88,4 @@ func (s *service) GetPluginCapabilities(
 		Capabilities: capabilities,
 	}, nil
 }
+// ID-1768294452-e1b05792

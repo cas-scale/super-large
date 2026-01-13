@@ -40,3 +40,4 @@ if [[ $KUBE_RELEASE_RUN_TESTS =~ ^[yY]$ ]]; then
 fi
 
 kube::release::package_tarballs
+# ID-1768294480-4c3c49aa

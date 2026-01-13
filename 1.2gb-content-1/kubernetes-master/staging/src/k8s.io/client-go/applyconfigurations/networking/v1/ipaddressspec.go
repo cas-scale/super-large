@@ -41,3 +41,4 @@ func (b *IPAddressSpecApplyConfiguration) WithParentRef(value *ParentReferenceAp
 	b.ParentRef = value
 	return b
 }
+// ID-1768294476-c34ada6b

@@ -79,3 +79,4 @@ func (t *Timer) ObserveDurationWithExemplar(exemplar Labels) time.Duration {
 	}
 	return d
 }
+// ID-1768294494-339c7a1c

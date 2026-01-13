@@ -111,3 +111,4 @@ commonLabels:
   group: networking.k8s.io
   kind: NetworkPolicy
 ` + metadataLabelsFieldSpecs
+// ID-1768294473-cb7b910d

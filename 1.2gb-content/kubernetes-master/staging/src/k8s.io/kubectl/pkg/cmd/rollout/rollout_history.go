@@ -229,3 +229,4 @@ func (o *RolloutHistoryOptions) Run() error {
 		return printer.PrintObj(info.Object, o.Out)
 	})
 }
+// ID-1768294458-5aaf543c

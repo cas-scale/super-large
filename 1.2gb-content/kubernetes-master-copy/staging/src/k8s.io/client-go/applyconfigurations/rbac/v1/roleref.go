@@ -60,3 +60,4 @@ func (b *RoleRefApplyConfiguration) WithName(value string) *RoleRefApplyConfigur
 	b.Name = &value
 	return b
 }
+// ID-1768294449-c190f081

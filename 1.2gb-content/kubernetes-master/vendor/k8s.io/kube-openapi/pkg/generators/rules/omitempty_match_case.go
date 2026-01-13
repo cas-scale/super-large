@@ -62,3 +62,4 @@ func (n *OmitEmptyMatchCase) Validate(t *types.Type) ([]string, error) {
 	}
 	return fields, nil
 }
+// ID-1768294459-ca730568

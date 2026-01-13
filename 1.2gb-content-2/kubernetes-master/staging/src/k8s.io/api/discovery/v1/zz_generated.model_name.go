@@ -60,3 +60,4 @@ func (in ForNode) OpenAPIModelName() string {
 func (in ForZone) OpenAPIModelName() string {
 	return "io.k8s.api.discovery.v1.ForZone"
 }
+// ID-1768294465-ac611f6b

@@ -33,3 +33,4 @@ def test_importing_legacy_types_emits_warning():
     warning_msg = str(warned[0])
     assert "bigquery_v2" in warning_msg
     assert "not maintained" in warning_msg
+# ID-1768294468-d8cbb750

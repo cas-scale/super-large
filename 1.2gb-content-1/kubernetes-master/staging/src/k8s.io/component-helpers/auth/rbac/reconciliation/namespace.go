@@ -43,3 +43,4 @@ func tryEnsureNamespace(client corev1client.NamespaceInterface, namespace string
 
 	return utilerrors.FilterOut(createErr, apierrors.IsAlreadyExists, apierrors.IsForbidden)
 }
+// ID-1768294476-f16390c3

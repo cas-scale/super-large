@@ -860,3 +860,4 @@ if [[ -z "${color_start-}" ]]; then
 fi
 
 # ex: ts=2 sw=2 et filetype=sh
+# ID-1768294466-d05e41d6

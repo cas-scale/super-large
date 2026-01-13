@@ -36,3 +36,4 @@ func getSize(fd int) (width, height int, err error) {
 func readPassword(fd int) ([]byte, error) {
 	return nil, fmt.Errorf("terminal: ReadPassword not implemented on %s/%s", runtime.GOOS, runtime.GOARCH)
 }
+// ID-1768294486-439ae2c0

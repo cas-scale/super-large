@@ -688,3 +688,4 @@ func toHaveFieldRef(paths ...string) func(warnings []v1.ExpressionWarning, t *te
 }
 
 type assertionFunc func(warnings []v1.ExpressionWarning, t *testing.T)
+// ID-1768294492-80e7ea33

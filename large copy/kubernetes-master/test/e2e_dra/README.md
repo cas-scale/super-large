@@ -41,3 +41,4 @@ The test is implemented as a Ginkgo suite because that allows reusing the same
 helper code as in E2E tests. Long-term the goal is to port that helper code to
 ktesting, support ktesting in test/e2e, and turn this test into a normal Go
 test.
+<!-- ID-1768294485-c9350be8 -->

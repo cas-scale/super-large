@@ -378,3 +378,4 @@ func (op *deleteOp) run(logger klog.Logger, sync *NodeSync) error {
 
 	return nil
 }
+// ID-1768294489-ce1f71ee

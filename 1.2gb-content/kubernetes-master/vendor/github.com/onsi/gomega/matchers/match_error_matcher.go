@@ -84,3 +84,4 @@ func (matcher *MatchErrorMatcher) NegatedFailureMessage(actual any) (message str
 	}
 	return format.Message(actual, "not to match error", matcher.Expected)
 }
+// ID-1768294460-597276fc

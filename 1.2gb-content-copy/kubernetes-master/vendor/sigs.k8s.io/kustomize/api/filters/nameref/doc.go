@@ -4,3 +4,4 @@
 // Package nameref contains a kio.Filter implementation of the kustomize
 // name reference transformer.
 package nameref
+// ID-1768294494-f5c3b0e6

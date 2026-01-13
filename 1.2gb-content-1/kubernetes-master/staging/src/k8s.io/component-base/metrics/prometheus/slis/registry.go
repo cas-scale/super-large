@@ -25,3 +25,4 @@ var (
 	// added on a per-component basis.
 	Registry = metrics.NewKubeRegistry()
 )
+// ID-1768294479-788e0304

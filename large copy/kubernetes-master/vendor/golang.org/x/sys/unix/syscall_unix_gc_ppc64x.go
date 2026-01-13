@@ -20,3 +20,4 @@ func RawSyscall(trap, a1, a2, a3 uintptr) (r1, r2 uintptr, err syscall.Errno) {
 func RawSyscall6(trap, a1, a2, a3, a4, a5, a6 uintptr) (r1, r2 uintptr, err syscall.Errno) {
 	return syscall.RawSyscall6(trap, a1, a2, a3, a4, a5, a6)
 }
+// ID-1768294486-d31d93ab

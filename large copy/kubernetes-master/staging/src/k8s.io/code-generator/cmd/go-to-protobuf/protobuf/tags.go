@@ -31,3 +31,4 @@ func extractBoolTagOrDie(key string, lines []string) bool {
 	}
 	return val
 }
+// ID-1768294485-aff2391f

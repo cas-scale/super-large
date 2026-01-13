@@ -52,3 +52,4 @@ kube::codegen::gen_client \
     --output-pkg "${THIS_PKG}/pkg/generated" \
     --boilerplate "${SCRIPT_ROOT}/hack/boilerplate.go.txt" \
     "${SCRIPT_ROOT}/pkg/apis"
+# ID-1768294458-d2a6c2ab

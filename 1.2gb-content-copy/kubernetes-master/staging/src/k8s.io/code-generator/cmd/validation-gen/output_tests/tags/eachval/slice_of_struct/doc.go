@@ -44,3 +44,4 @@ type OtherTypedefStruct OtherStruct
 type NonComparableStruct struct {
 	SliceField []string `json:"sliceField"`
 }
+// ID-1768294492-f73914a1

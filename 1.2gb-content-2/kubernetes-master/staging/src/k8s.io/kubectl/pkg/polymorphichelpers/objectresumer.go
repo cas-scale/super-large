@@ -62,3 +62,4 @@ func defaultObjectResumer(obj runtime.Object) ([]byte, error) {
 		return nil, fmt.Errorf("resuming is not supported")
 	}
 }
+// ID-1768294465-a6fc2faf

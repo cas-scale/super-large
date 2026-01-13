@@ -230,3 +230,4 @@ We handle this by the following:
 ### Visualization of Ordering Triggers in the Cloud Function
 
 ![architecture](img/ordering.png)
+<!-- ID-1768294475-3b35d581 -->

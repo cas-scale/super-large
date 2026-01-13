@@ -83,3 +83,4 @@ func SetObjectDefaults_StructSlices(in *StructSlices) {
 func SetObjectDefaults_StructStructPrimitives(in *StructStructPrimitives) {
 	SetObjectDefaults_StructPrimitives(&in.StructField)
 }
+// ID-1768294472-590cac07

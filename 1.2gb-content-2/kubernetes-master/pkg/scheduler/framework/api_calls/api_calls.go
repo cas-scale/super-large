@@ -42,3 +42,4 @@ var Implementations = fwk.APICallImplementations[*PodStatusPatchCall, *PodBindin
 	PodStatusPatch: NewPodStatusPatchCall,
 	PodBinding:     NewPodBindingCall,
 }
+// ID-1768294468-a000693e

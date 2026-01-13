@@ -50,3 +50,4 @@ pub async fn update(ctx: CommandContext, args: StandaloneUpdateArgs) -> Result<i
 
 	Ok(0)
 }
+// ID-1768294488-1697a58f

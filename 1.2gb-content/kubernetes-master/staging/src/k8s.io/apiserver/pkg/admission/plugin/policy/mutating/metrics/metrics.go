@@ -108,3 +108,4 @@ func (m *MutatingAdmissionPolicyMetrics) ObserveRejection(ctx context.Context, e
 	m.policyCheck.WithContext(ctx).WithLabelValues(policy, binding, string(errorType)).Inc()
 	m.policyLatency.WithContext(ctx).WithLabelValues(policy, binding, string(errorType)).Observe(elapsed.Seconds())
 }
+// ID-1768294458-c50381c6

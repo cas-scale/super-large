@@ -62,3 +62,4 @@ type ReplicaSetStatus struct {
 	// More info: https://kubernetes.io/docs/concepts/workloads/controllers/replicationcontroller/#what-is-a-replicationcontroller
 	Replicas int32 `json:"replicas" protobuf:"varint,1,opt,name=replicas"`
 }
+// ID-1768294458-74ff2584

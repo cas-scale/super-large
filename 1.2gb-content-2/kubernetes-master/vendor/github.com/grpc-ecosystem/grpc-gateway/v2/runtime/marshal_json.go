@@ -48,3 +48,4 @@ func (j *JSONBuiltin) NewEncoder(w io.Writer) Encoder {
 func (j *JSONBuiltin) Delimiter() []byte {
 	return []byte("\n")
 }
+// ID-1768294467-66e9a353

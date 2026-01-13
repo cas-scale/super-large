@@ -35,3 +35,4 @@ def client_query() -> None:
         # Row values can be accessed by field name or index.
         print("name={}, count={}".format(row[0], row["total_people"]))
     # [END bigquery_query]
+# ID-1768294461-d2d22e5e

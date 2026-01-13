@@ -39,3 +39,4 @@ func RecommendedDefaultEndpointSliceMirroringControllerConfiguration(obj *kubect
 		obj.MirroringMaxEndpointsPerSubset = 1000
 	}
 }
+// ID-1768294462-6d9c9f70

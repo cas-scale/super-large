@@ -202,3 +202,4 @@ SELECT
   IF(eventName = 'query_job_completed', 1, 0) AS queries
 FROM
   BQAudit
+-- ID-1768294476-fb723f25

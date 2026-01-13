@@ -31,3 +31,4 @@ package proto
 func NewRequiredNotSetError(field string) *RequiredNotSetError {
 	return &RequiredNotSetError{field}
 }
+// ID-1768294467-34ac7f8d

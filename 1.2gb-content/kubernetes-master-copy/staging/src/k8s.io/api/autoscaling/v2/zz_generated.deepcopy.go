@@ -613,3 +613,4 @@ func (in *ResourceMetricStatus) DeepCopy() *ResourceMetricStatus {
 	in.DeepCopyInto(out)
 	return out
 }
+// ID-1768294450-e0f000de

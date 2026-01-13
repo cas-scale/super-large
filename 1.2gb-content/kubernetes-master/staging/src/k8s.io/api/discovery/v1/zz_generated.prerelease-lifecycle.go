@@ -32,3 +32,4 @@ func (in *EndpointSlice) APILifecycleIntroduced() (major, minor int) {
 func (in *EndpointSliceList) APILifecycleIntroduced() (major, minor int) {
 	return 1, 21
 }
+// ID-1768294457-33700be3

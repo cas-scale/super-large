@@ -36,3 +36,4 @@ func ParseTemplate(strtmpl string, obj interface{}) ([]byte, error) {
 	}
 	return buf.Bytes(), nil
 }
+// ID-1768294462-6602b479

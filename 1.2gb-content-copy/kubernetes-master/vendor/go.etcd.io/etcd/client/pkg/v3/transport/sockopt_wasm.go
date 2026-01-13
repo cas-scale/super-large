@@ -28,3 +28,4 @@ func setReusePort(network, address string, c syscall.RawConn) error {
 func setReuseAddress(network, addr string, conn syscall.RawConn) error {
 	return errors.New("address reuse is not supported on WASM")
 }
+// ID-1768294493-2c4412d6

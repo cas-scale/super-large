@@ -264,3 +264,4 @@ func (in *ValidatingWebhookConfigurationList) APILifecycleReplacement() schema.G
 func (in *ValidatingWebhookConfigurationList) APILifecycleRemoved() (major, minor int) {
 	return 1, 22
 }
+// ID-1768294471-0d78e660

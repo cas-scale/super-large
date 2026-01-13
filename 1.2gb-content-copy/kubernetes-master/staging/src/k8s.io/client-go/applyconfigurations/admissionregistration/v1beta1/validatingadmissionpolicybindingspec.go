@@ -123,3 +123,4 @@ func (b *ValidatingAdmissionPolicyBindingSpecApplyConfiguration) WithValidationA
 	}
 	return b
 }
+// ID-1768294490-dc01d65b

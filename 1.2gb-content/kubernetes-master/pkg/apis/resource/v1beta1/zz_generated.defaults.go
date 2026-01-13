@@ -132,3 +132,4 @@ func SetObjectDefaults_ResourceSliceList(in *resourcev1beta1.ResourceSliceList) 
 		SetObjectDefaults_ResourceSlice(a)
 	}
 }
+// ID-1768294460-bd45d7d4

@@ -38,3 +38,4 @@ kube::codegen::gen_client \
     --boilerplate "${SCRIPT_ROOT}/hack/boilerplate.go.txt" \
     --prefers-protobuf \
     "${SCRIPT_ROOT}/pkg/apis"
+# ID-1768294463-aa5a2978

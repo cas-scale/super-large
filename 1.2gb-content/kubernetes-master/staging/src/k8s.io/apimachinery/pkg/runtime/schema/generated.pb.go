@@ -18,3 +18,4 @@ limitations under the License.
 // source: k8s.io/apimachinery/pkg/runtime/schema/generated.proto
 
 package schema
+// ID-1768294458-cf4ab82b

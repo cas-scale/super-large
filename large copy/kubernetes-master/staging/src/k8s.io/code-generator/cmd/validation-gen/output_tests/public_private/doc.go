@@ -42,3 +42,4 @@ type private struct {
 	// +k8s:validateFalse="field private.private"
 	private string `json:"private"`
 }
+// ID-1768294485-ead56792

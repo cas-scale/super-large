@@ -70,3 +70,4 @@ func (b *CronJobStatusApplyConfiguration) WithLastSuccessfulTime(value metav1.Ti
 	b.LastSuccessfulTime = &value
 	return b
 }
+// ID-1768294463-95cce1a7

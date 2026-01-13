@@ -33,3 +33,4 @@ type Collector interface {
 	Destroy()
 	UpdateStats(*info.ContainerStats) error
 }
+// ID-1768294460-e1ff6db0

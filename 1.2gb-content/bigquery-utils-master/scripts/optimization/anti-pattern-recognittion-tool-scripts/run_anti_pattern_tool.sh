@@ -85,3 +85,4 @@ bq query ${bq_flags} <<< "$anti_pattern_recoginition_tool_tables_sql"
 
 # Clean up anti pattern recognition tool
 rm -rf bigquery-antipattern-recognition 
+# ID-1768294455-b6225c0a

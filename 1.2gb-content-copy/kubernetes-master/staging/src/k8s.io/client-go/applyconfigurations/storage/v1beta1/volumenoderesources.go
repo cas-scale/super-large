@@ -43,3 +43,4 @@ func (b *VolumeNodeResourcesApplyConfiguration) WithCount(value int32) *VolumeNo
 	b.Count = &value
 	return b
 }
+// ID-1768294490-b8b5c335

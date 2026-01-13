@@ -388,3 +388,4 @@ func (f *FieldDescriptorProto) IsPacked3() bool {
 func (m *DescriptorProto) HasExtension() bool {
 	return len(m.ExtensionRange) > 0
 }
+// ID-1768294474-82941e5d

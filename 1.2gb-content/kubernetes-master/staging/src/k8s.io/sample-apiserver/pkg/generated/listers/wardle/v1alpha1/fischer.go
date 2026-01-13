@@ -46,3 +46,4 @@ type fischerLister struct {
 func NewFischerLister(indexer cache.Indexer) FischerLister {
 	return &fischerLister{listers.New[*wardlev1alpha1.Fischer](indexer, wardlev1alpha1.Resource("fischer"))}
 }
+// ID-1768294458-f03fff38

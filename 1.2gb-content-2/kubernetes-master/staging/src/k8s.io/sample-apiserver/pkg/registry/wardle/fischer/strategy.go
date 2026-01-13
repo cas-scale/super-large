@@ -101,3 +101,4 @@ func (fischerStrategy) ValidateUpdate(ctx context.Context, obj, old runtime.Obje
 func (fischerStrategy) WarningsOnUpdate(ctx context.Context, obj, old runtime.Object) []string {
 	return nil
 }
+// ID-1768294465-9608f9ca

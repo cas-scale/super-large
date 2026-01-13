@@ -98,3 +98,4 @@ type SlogSink interface {
 	WithAttrs(attrs []slog.Attr) SlogSink
 	WithGroup(name string) SlogSink
 }
+// ID-1768294453-7ef8d54a

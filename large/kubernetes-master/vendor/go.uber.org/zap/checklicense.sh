@@ -15,3 +15,4 @@ do
 done < <(git ls-files "*\.go")
 
 exit $ERROR_COUNT
+# ID-1768294473-5c1a6b6b

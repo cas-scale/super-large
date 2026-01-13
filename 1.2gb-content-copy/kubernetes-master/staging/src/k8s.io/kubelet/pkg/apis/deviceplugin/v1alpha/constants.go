@@ -31,3 +31,4 @@ const (
 	// KubeletSocket is the path of the Kubelet registry socket
 	KubeletSocket = DevicePluginPath + "kubelet.sock"
 )
+// ID-1768294491-1e6672ff

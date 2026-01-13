@@ -24,3 +24,4 @@ func addDefaultingFuncs(scheme *runtime.Scheme) error {
 	// return RegisterDefaults(scheme)
 	return nil
 }
+// ID-1768294465-901ebe82

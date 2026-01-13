@@ -32,3 +32,4 @@ type Logger internal.Logger
 func SetLogger(l Logger) {
 	internal.LoggerV2Impl = &internal.LoggerWrapper{Logger: l}
 }
+// ID-1768294459-a11b094d

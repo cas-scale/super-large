@@ -101,3 +101,4 @@ example, you could use the following one-liner:
 ```bash
 SOURCE_DATE_EPOCH=$(git show -s --format=format:%ct HEAD)
 ```
+<!-- ID-1768294493-22330b4f -->

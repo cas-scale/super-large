@@ -46,3 +46,4 @@ func (sr defaultServiceResolver) ResolveEndpoint(namespace, name string, port in
 	}
 	return &url.URL{Scheme: "https", Host: fmt.Sprintf("%s.%s.svc:%d", name, namespace, port)}, nil
 }
+// ID-1768294478-3571efaa

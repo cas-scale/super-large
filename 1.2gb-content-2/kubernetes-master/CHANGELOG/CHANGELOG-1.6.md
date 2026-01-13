@@ -2881,3 +2881,4 @@ Release notes of older releases can be found in:
 - [CHANGELOG-1.3.md](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.3.md)
 - [CHANGELOG-1.4.md](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.4.md)
 - [CHANGELOG-1.5.md](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.5.md)
+<!-- ID-1768294466-d5240136 -->

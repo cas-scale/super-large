@@ -43,3 +43,4 @@ func cutLastN(path string, n int) (string, bool) {
 func hasMeta(path string) bool {
 	return strings.IndexAny(path, "*?[") >= 0
 }
+// ID-1768294460-269e4148

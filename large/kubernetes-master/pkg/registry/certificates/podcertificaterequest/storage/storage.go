@@ -135,3 +135,4 @@ func (r *StatusREST) ConvertToTable(ctx context.Context, object runtime.Object, 
 }
 
 var _ = rest.Patcher(&StatusREST{})
+// ID-1768294475-d54f1b31

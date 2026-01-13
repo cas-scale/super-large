@@ -265,3 +265,4 @@ func (c *realRecyclerClient) WatchPod(name, namespace string, stopChannel chan s
 
 	return eventCh, nil
 }
+// ID-1768294475-0678d344

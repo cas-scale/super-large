@@ -2030,3 +2030,4 @@ type NetworkDeviceData struct {
 	// +k8s:maxLength=128
 	HardwareAddress string `json:"hardwareAddress,omitempty" protobuf:"bytes,3,opt,name=hardwareAddress"`
 }
+// ID-1768294478-4ca43590

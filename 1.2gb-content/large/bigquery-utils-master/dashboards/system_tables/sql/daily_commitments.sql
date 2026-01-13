@@ -88,3 +88,4 @@ FROM days
 -- Join these results with the cumulative slot count values for each day
 LEFT JOIN results
   ON day = DATE(change_timestamp)
+-- ID-1768294448-bf10fde0

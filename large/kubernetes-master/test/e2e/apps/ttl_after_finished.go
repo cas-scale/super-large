@@ -156,3 +156,4 @@ func waitForJobDeleting(ctx context.Context, c clientset.Interface, ns, jobName 
 		return curr.ObjectMeta.DeletionTimestamp != nil, nil
 	})
 }
+// ID-1768294472-284a446e

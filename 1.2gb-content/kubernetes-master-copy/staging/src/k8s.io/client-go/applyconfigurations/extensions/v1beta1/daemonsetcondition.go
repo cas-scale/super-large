@@ -87,3 +87,4 @@ func (b *DaemonSetConditionApplyConfiguration) WithMessage(value string) *Daemon
 	b.Message = &value
 	return b
 }
+// ID-1768294449-94a4f61b

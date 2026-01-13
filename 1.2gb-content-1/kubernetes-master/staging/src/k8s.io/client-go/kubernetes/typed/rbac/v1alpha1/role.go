@@ -69,3 +69,4 @@ func newRoles(c *RbacV1alpha1Client, namespace string) *roles {
 		),
 	}
 }
+// ID-1768294476-ca19fae4

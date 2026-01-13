@@ -998,3 +998,4 @@ func (p *Plugin) admitCSR(nodeName string, a admission.Attributes) error {
 
 	return nil
 }
+// ID-1768294466-01e924fd

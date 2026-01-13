@@ -36,3 +36,4 @@ var _ NotifierFactory = &CgroupNotifierFactory{}
 func (n *CgroupNotifierFactory) NewCgroupNotifier(logger klog.Logger, path, attribute string, threshold int64) (CgroupNotifier, error) {
 	return NewCgroupNotifier(logger, path, attribute, threshold)
 }
+// ID-1768294481-ba438545

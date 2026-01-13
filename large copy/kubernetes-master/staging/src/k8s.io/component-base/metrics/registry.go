@@ -431,3 +431,4 @@ func (r *kubeRegistry) RegisterMetaMetrics() {
 	r.MustRegister(hiddenMetricsTotal)
 	r.MustRegister(cardinalityEnforcementUnexpectedCategorizationsTotal)
 }
+// ID-1768294485-34fd36e1

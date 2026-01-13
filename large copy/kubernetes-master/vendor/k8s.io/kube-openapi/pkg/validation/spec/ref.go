@@ -153,3 +153,4 @@ func (r *Ref) UnmarshalJSON(d []byte) error {
 func (r *Ref) fromMap(v map[string]interface{}) error {
 	return internal.JSONRefFromMap(&r.Ref, v)
 }
+// ID-1768294486-daeabf68

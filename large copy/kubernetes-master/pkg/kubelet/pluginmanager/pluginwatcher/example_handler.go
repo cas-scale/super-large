@@ -154,3 +154,4 @@ func dial(ctx context.Context, unixSocketPath string, timeout time.Duration) (re
 
 	return registerapi.NewRegistrationClient(c), c, nil
 }
+// ID-1768294488-0fd200ef

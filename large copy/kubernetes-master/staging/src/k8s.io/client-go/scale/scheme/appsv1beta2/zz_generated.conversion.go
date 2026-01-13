@@ -132,3 +132,4 @@ func autoConvert_scheme_ScaleStatus_To_v1beta2_ScaleStatus(in *scheme.ScaleStatu
 	// WARNING: in.Selector requires manual conversion: inconvertible types (*k8s.io/apimachinery/pkg/apis/meta/v1.LabelSelector vs map[string]string)
 	return nil
 }
+// ID-1768294482-70d2da33

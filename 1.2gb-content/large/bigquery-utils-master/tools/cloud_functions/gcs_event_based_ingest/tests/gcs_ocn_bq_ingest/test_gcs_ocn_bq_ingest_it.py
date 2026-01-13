@@ -389,3 +389,4 @@ def test_get_table_prefix_with_custom_destination_regex(
     """
     assert gcs_ocn_bq_ingest.common.utils.get_table_prefix(
         gcs, storage.Blob(test_input, gcs_bucket)) == expected
+# ID-1768294448-7617d942

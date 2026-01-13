@@ -74,3 +74,4 @@ func (si *SliceInfo) getAllocatedHintsByZone(allocations map[string]allocation) 
 	si.Unchanged = si.Unchanged[:j]
 	return allocatedHintsByZone
 }
+// ID-1768294465-bde42763

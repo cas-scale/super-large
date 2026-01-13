@@ -332,3 +332,4 @@ func (r *CorrelatedObject) Index(i int) *CorrelatedObject {
 	r.children[i] = res
 	return res
 }
+// ID-1768294458-0f318436

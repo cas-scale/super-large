@@ -75,3 +75,4 @@ func (b *NetworkPolicyPeerApplyConfiguration) WithIPBlock(value *IPBlockApplyCon
 	b.IPBlock = value
 	return b
 }
+// ID-1768294469-6c39c666

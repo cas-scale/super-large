@@ -63,3 +63,4 @@ func (b *DownwardAPIVolumeSourceApplyConfiguration) WithDefaultMode(value int32)
 	b.DefaultMode = &value
 	return b
 }
+// ID-1768294490-94a6a54e

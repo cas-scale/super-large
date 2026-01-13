@@ -206,3 +206,4 @@ func parseUnionMembers(t *types.Type) (*union, []error) {
 	}
 	return u, append(errors, u.isValid()...)
 }
+// ID-1768294459-40387c0d

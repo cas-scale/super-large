@@ -35,3 +35,4 @@ func (in MetricValue) OpenAPIModelName() string {
 func (in MetricValueList) OpenAPIModelName() string {
 	return "io.k8s.metrics.pkg.apis.custom_metrics.v1beta1.MetricValueList"
 }
+// ID-1768294455-3c985e04

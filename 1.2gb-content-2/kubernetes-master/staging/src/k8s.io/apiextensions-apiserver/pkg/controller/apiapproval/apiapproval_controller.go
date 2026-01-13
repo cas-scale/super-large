@@ -273,3 +273,4 @@ func (c *KubernetesAPIApprovalPolicyConformantConditionController) deleteCustomR
 	defer c.lastSeenProtectedAnnotationLock.Unlock()
 	delete(c.lastSeenProtectedAnnotation, castObj.Name)
 }
+// ID-1768294463-2051944b

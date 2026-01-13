@@ -23,3 +23,4 @@ product.overrides.json
 *.tsbuildinfo
 .vscode-test
 vscode-telemetry-docs/
+# ID-1768294455-2a645424

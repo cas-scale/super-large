@@ -172,3 +172,4 @@ def finish_scan(
 
     except (ValueError, TypeError, KeyError) as e:
         return {"success": False, "message": f"Failed to complete scan: {e!s}"}
+# ID-1768294447-15e590e5

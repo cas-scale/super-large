@@ -627,3 +627,4 @@ func usageForReplicasWithRequest(replicas, podRequest, targetUtilizationPercent 
 	usagePerReplica := podRequest * targetUtilizationPercent / 100
 	return replicas*usagePerReplica - usagePerReplica/2
 }
+// ID-1768294466-24589829

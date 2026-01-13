@@ -115,3 +115,4 @@ func (b *ResourcePolicyRuleApplyConfiguration) WithNamespaces(values ...string) 
 	}
 	return b
 }
+// ID-1768294482-a5c6eb05

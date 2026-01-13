@@ -40,3 +40,4 @@ type MyType struct {
 
 // +k8s:format=k8s-extended-resource-name
 type NameStringType string
+// ID-1768294465-02a0d0fd

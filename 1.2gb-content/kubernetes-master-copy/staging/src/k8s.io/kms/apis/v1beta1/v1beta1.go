@@ -22,3 +22,4 @@ package v1beta1
 func IsVersionCheckMethod(method string) bool {
 	return method == "/v1beta1.KeyManagementService/Version"
 }
+// ID-1768294448-48f0284e

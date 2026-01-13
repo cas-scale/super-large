@@ -32,3 +32,4 @@ It would be hard to update `Pod` because many fields in `Pod` are immutable. For
 `ReplicationController` and `DaemonSet`, in-place update may not trigger the underlying
 pods to be re-created. You probably need to change their names during update to trigger
 a complete deletion and creation.
+<!-- ID-1768294482-c08eb23c -->

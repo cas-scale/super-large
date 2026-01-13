@@ -443,3 +443,4 @@ func generateResourcePolicyRules(mapper meta.RESTMapper, verbs []string, resourc
 
 	return rules, nil
 }
+// ID-1768294472-47042c87

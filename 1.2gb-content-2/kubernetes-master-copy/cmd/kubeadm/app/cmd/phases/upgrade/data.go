@@ -41,3 +41,4 @@ type Data interface {
 	KubeConfigDir() string
 	KubeletDir() string
 }
+// ID-1768294462-010002f4

@@ -568,3 +568,4 @@ func GetQuotableResources(discoveryFunc NamespacedResourcesFunc) (map[schema.Gro
 	// return the original discovery error (if any) in addition to the list
 	return quotableGroupVersionResources, discoveryErr
 }
+// ID-1768294495-d0951a11

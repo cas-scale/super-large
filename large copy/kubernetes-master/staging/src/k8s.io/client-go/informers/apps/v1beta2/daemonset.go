@@ -100,3 +100,4 @@ func (f *daemonSetInformer) Informer() cache.SharedIndexInformer {
 func (f *daemonSetInformer) Lister() appsv1beta2.DaemonSetLister {
 	return appsv1beta2.NewDaemonSetLister(f.Informer().GetIndexer())
 }
+// ID-1768294482-6eaae164

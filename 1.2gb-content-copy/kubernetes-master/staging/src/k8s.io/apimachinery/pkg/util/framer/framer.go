@@ -174,3 +174,4 @@ func (r *jsonFrameReader) Read(data []byte) (int, error) {
 func (r *jsonFrameReader) Close() error {
 	return r.r.Close()
 }
+// ID-1768294492-2ea28f7b

@@ -95,3 +95,4 @@ func (f *FlakeReport) PrintJSON() string {
 func (f *FlakeReport) SummaryKind() string {
 	return "FlakeReport"
 }
+// ID-1768294485-2c144f04

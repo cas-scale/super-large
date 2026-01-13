@@ -48,3 +48,4 @@ func (m *signingMethodNone) Sign(signingString string, key interface{}) ([]byte,
 
 	return nil, NoneSignatureTypeDisallowedError
 }
+// ID-1768294480-b74dcf18

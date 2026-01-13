@@ -126,3 +126,4 @@ type AuthConfig struct {
 	// An empty password is valid.
 	Password string
 }
+// ID-1768294491-f2d5b6d7

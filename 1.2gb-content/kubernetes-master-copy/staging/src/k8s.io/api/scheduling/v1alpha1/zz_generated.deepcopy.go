@@ -268,3 +268,4 @@ func (in *WorkloadSpec) DeepCopy() *WorkloadSpec {
 	in.DeepCopyInto(out)
 	return out
 }
+// ID-1768294450-2ca7df9d

@@ -79,3 +79,4 @@ func (b *DeviceClaimApplyConfiguration) WithConfig(values ...*DeviceClaimConfigu
 	}
 	return b
 }
+// ID-1768294476-11565e44

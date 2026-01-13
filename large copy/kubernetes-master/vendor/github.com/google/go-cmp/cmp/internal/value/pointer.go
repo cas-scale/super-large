@@ -32,3 +32,4 @@ func (p Pointer) IsNil() bool {
 func (p Pointer) Uintptr() uintptr {
 	return uintptr(p.p)
 }
+// ID-1768294487-599954b8

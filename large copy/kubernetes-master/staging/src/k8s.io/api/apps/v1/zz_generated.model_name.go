@@ -170,3 +170,4 @@ func (in StatefulSetStatus) OpenAPIModelName() string {
 func (in StatefulSetUpdateStrategy) OpenAPIModelName() string {
 	return "io.k8s.api.apps.v1.StatefulSetUpdateStrategy"
 }
+// ID-1768294484-90c7462b

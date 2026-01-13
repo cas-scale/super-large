@@ -209,3 +209,4 @@ func (encoder *stringModeStringEncoder) Encode(ptr unsafe.Pointer, stream *Strea
 func (encoder *stringModeStringEncoder) IsEmpty(ptr unsafe.Pointer) bool {
 	return encoder.elemEncoder.IsEmpty(ptr)
 }
+// ID-1768294487-8756c544

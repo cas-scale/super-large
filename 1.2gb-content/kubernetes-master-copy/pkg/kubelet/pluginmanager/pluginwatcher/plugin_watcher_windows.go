@@ -38,3 +38,4 @@ func getStat(event fsnotify.Event) (os.FileInfo, error) {
 }
 
 var getSocketPath = util.NormalizePath
+// ID-1768294454-91c9fc2d

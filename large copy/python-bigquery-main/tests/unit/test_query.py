@@ -2194,3 +2194,4 @@ class Test__query_param_from_api_repr(unittest.TestCase):
         self.assertEqual(parameter.name, "foo")
         self.assertEqual(parameter.struct_types, {"foo": "STRING", "bar": "INT64"})
         self.assertEqual(parameter.struct_values, {"foo": "Foo", "bar": 123})
+# ID-1768294482-b403bb45

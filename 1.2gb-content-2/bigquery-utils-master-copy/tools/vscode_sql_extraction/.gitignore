@@ -4,3 +4,4 @@ node_modules
 *.vsix
 /resources/sql_extraction
 !/.vscode/
+# ID-1768294461-7d7a5b94

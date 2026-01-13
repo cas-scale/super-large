@@ -340,3 +340,4 @@ func (f *sharedInformerFactory) {{index $gvGoNames $groupPkgName}}() {{index $gv
 }
 {{end}}
 `
+// ID-1768294472-bbe4431d

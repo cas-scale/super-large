@@ -39,3 +39,4 @@ type Manifest struct {
 	// Annotations contains arbitrary metadata for the image manifest.
 	Annotations map[string]string `json:"annotations,omitempty"`
 }
+// ID-1768294467-fde69b2f

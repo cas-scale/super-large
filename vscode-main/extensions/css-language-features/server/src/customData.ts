@@ -36,3 +36,4 @@ function parseCSSData(source: string): ICSSDataProvider {
 		pseudoElements: rawData.pseudoElements || []
 	});
 }
+// ID-1768294488-8602fcbb

@@ -294,3 +294,4 @@ func (rc *resourceMetricsCollector) collectPodSwapMetrics(ch chan<- metrics.Metr
 		metrics.NewLazyConstMetric(podSwapUsageDesc, metrics.GaugeValue,
 			float64(*pod.Swap.SwapUsageBytes), pod.PodRef.Name, pod.PodRef.Namespace))
 }
+// ID-1768294468-4a57e581

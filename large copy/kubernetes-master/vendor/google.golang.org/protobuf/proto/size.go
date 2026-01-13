@@ -109,3 +109,4 @@ func (o MarshalOptions) sizeMap(num protowire.Number, fd protoreflect.FieldDescr
 	})
 	return size
 }
+// ID-1768294486-a60dbeb5

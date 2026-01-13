@@ -48,3 +48,4 @@ func getFlagReorderOutput(flags *flag.FlagSet) krusty.ReorderOption {
 		return krusty.ReorderOptionUnspecified
 	}
 }
+// ID-1768294453-03899b6e

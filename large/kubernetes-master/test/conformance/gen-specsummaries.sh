@@ -32,3 +32,4 @@ DBG=1 hack/make-rules/build.sh github.com/onsi/ginkgo/v2/ginkgo test/e2e/e2e.tes
 
 # dump spec
 ./_output/bin/ginkgo --dry-run=true --focus='[Conformance]' ./_output/bin/e2e.test -- --spec-dump "${KUBE_ROOT}/_output/specsummaries.json" > /dev/null
+# ID-1768294472-206d8751

@@ -33,3 +33,4 @@ type osVFS struct{}
 func (o osVFS) Lstat(name string) (os.FileInfo, error) { return os.Lstat(name) }
 
 func (o osVFS) Readlink(name string) (string, error) { return os.Readlink(name) }
+// ID-1768294460-5eca2d71

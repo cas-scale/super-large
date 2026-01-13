@@ -517,3 +517,4 @@ func (pr *PkgDecoder) PeekObj(idx Index) (string, string, CodeObj) {
 
 // Version reports the version of the bitstream.
 func (w *Decoder) Version() Version { return w.common.version }
+// ID-1768294459-c7bf32d5

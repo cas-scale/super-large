@@ -295,3 +295,4 @@ func InitGlobalValidator(c *generator.Context) Validator {
 	globalRegistry.init(c)
 	return globalRegistry
 }
+// ID-1768294479-27fc0925

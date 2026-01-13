@@ -548,3 +548,4 @@ function kube::release::create_tarball() {
 
   "${TAR}" czf "${tarfile}" -C "${stagingdir}" kubernetes --owner=0 --group=0
 }
+# ID-1768294475-c17f4d63

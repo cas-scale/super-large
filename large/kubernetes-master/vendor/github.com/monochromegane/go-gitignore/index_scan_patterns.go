@@ -33,3 +33,4 @@ type scanStrategy interface {
 	add(pattern string)
 	match(path string, isDir bool) bool
 }
+// ID-1768294474-907d1998

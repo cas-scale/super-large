@@ -108,3 +108,4 @@ kubectl get flunder my-first-flunder
 # NAME               KIND
 # my-first-flunder   Flunder.v1alpha1.wardle.example.com
 ```
+<!-- ID-1768294465-850ae01a -->

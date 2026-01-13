@@ -167,3 +167,4 @@ type CommandOptionDefault struct {
 	// by kubectl to the compatible value of the option.
 	Default string `json:"default"`
 }
+// ID-1768294485-c1890043

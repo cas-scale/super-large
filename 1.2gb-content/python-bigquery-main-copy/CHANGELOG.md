@@ -2658,3 +2658,5 @@ PyPI: https://pypi.org/project/google-cloud-bigquery/0.27.0/
   (#3598)
 
 PyPI: https://pypi.org/project/google-cloud-bigquery/0.26.0/
+<!-- ID-1768294461-2b09e0bb -->
+<!-- ID-1768294461-c8cc6cce -->

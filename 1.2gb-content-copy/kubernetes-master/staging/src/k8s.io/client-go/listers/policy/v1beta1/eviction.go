@@ -68,3 +68,4 @@ type EvictionNamespaceLister interface {
 type evictionNamespaceLister struct {
 	listers.ResourceIndexer[*policyv1beta1.Eviction]
 }
+// ID-1768294489-1ebc9a52

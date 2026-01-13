@@ -139,3 +139,4 @@ func (re RawExtension) MarshalCBOR() ([]byte, error) {
 	}
 	return cbor.Marshal(u)
 }
+// ID-1768294465-02a7b59d

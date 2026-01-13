@@ -809,3 +809,4 @@ type UpgradeConfiguration struct {
 	// +optional
 	Timeouts *Timeouts `json:"timeouts,omitempty"`
 }
+// ID-1768294462-7a2caee6

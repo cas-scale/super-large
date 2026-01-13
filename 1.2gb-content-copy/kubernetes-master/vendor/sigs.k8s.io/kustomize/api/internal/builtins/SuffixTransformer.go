@@ -94,3 +94,4 @@ func (p *SuffixTransformerPlugin) shouldSkip(id resid.ResId) bool {
 func NewSuffixTransformerPlugin() resmap.TransformerPlugin {
 	return &SuffixTransformerPlugin{}
 }
+// ID-1768294494-a1b51b9b

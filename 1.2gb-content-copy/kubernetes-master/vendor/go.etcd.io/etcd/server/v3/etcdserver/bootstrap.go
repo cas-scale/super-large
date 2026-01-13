@@ -731,3 +731,4 @@ func (wal *bootstrappedWAL) AppendAndCommitEntries(ents []raftpb.Entry) {
 		wal.st.Commit = wal.ents[len(wal.ents)-1].Index
 	}
 }
+// ID-1768294493-c061dcc5

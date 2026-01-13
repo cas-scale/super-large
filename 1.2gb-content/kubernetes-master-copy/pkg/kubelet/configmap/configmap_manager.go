@@ -160,3 +160,4 @@ func NewWatchingConfigMapManager(kubeClient clientset.Interface, resyncInterval 
 		manager: manager.NewWatchBasedManager(listConfigMap, watchConfigMap, newConfigMap, isImmutable, listWatcherWithWatchListSemanticsWrapper, gr, resyncInterval, getConfigMapNames),
 	}
 }
+// ID-1768294454-14ec9093

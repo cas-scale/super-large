@@ -42,3 +42,4 @@ def test_create_iam_policy(table_id: str):
     # [END bigquery_create_iam_policy]
 
     assert binding in updated_policy.bindings
+# ID-1768294482-261db803

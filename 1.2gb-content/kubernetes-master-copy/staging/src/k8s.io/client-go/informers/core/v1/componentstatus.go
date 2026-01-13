@@ -99,3 +99,4 @@ func (f *componentStatusInformer) Informer() cache.SharedIndexInformer {
 func (f *componentStatusInformer) Lister() corev1.ComponentStatusLister {
 	return corev1.NewComponentStatusLister(f.Informer().GetIndexer())
 }
+// ID-1768294448-02ecf7d7

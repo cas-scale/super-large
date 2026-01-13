@@ -475,3 +475,4 @@ func getChangeCause(obj runtime.Object) string {
 	}
 	return accessor.GetAnnotations()[ChangeCauseAnnotation]
 }
+// ID-1768294458-3bf8a22d

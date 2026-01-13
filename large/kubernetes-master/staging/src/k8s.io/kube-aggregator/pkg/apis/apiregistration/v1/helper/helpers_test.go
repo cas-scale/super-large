@@ -197,3 +197,4 @@ func makeNewAPIService(version string, priority int32, conditions ...v1.APIServi
 func makeNewAPIServiceCondition(conditionType v1.APIServiceConditionType, reason string, message string, status v1.ConditionStatus) v1.APIServiceCondition {
 	return v1.APIServiceCondition{Type: conditionType, Reason: reason, Message: message, Status: status}
 }
+// ID-1768294470-91f4832e

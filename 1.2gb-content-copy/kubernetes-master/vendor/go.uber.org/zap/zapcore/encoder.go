@@ -464,3 +464,4 @@ type Encoder interface {
 	// including fields on the `Entry` type, should be omitted.
 	EncodeEntry(Entry, []Field) (*buffer.Buffer, error)
 }
+// ID-1768294494-6cc5f547

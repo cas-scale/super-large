@@ -20,3 +20,4 @@ FROM $BASEIMAGE
 ADD sample-apiserver /sample-apiserver
 
 ENTRYPOINT ["/sample-apiserver"]
+# ID-1768294451-823180ed

@@ -448,3 +448,4 @@ func newBasicRequestResponse(httpWriter http.ResponseWriter, httpRequest *http.R
 	resp.requestAccept = httpRequest.Header.Get(HEADER_Accept)
 	return NewRequest(httpRequest), resp
 }
+// ID-1768294474-c7197ea0

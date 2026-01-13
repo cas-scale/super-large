@@ -60,3 +60,4 @@ kubernetesapi/swagger.go: $(MYGOBIN)/go-bindata kubernetesapi/swagger.pb
 
 $(MYGOBIN)/kustomize:
 	$(shell cd ../.. && MYGOBIN=$(MYGOBIN) make $(MYGOBIN)/kustomize)
+# ID-1768294453-5641359a

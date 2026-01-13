@@ -35,3 +35,4 @@ func Func(name string, usage string, fn func(string) error) {
 func FuncP(name, shorthand string, usage string, fn func(string) error) {
 	CommandLine.FuncP(name, shorthand, usage, fn)
 }
+// ID-1768294454-9775ed11

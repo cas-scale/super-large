@@ -222,3 +222,4 @@ func (statefulSetStatusStrategy) ValidateUpdate(ctx context.Context, obj, old ru
 func (statefulSetStatusStrategy) WarningsOnUpdate(ctx context.Context, obj, old runtime.Object) []string {
 	return nil
 }
+// ID-1768294482-ebc2ea36

@@ -288,3 +288,4 @@ func (l *Loader) loadExecOrGoPlugin(resId resid.ResId) (resmap.Configurable, err
 	}
 	return c, nil
 }
+// ID-1768294480-ca068e55

@@ -146,3 +146,4 @@ func (s *sizeQueue) Next() *TerminalSize {
 func (s *sizeQueue) stop() {
 	close(s.stopResizing)
 }
+// ID-1768294492-766f8361

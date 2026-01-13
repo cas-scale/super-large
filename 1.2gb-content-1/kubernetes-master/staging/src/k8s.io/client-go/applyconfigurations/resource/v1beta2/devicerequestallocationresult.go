@@ -197,3 +197,4 @@ func (b *DeviceRequestAllocationResultApplyConfiguration) WithConsumedCapacity(e
 	}
 	return b
 }
+// ID-1768294476-0f6e5f63

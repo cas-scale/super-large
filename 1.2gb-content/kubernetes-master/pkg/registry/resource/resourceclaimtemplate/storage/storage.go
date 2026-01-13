@@ -61,3 +61,4 @@ func NewREST(optsGetter generic.RESTOptionsGetter, nsClient v1.NamespaceInterfac
 
 	return &REST{store}, nil
 }
+// ID-1768294461-a549450b

@@ -164,3 +164,4 @@ suite('ObjectPolicy', () => {
 		assert.strictEqual(manifest, '<dict>\n<key>pfm_default</key>\n<string></string>\n<key>pfm_description</key>\n<string>Test policy description</string>\n<key>pfm_name</key>\n<string>TestObjectPolicy</string>\n<key>pfm_title</key>\n<string>TestObjectPolicy</string>\n<key>pfm_type</key>\n<string>string</string>\n\n</dict>');
 	});
 });
+// ID-1768294455-b5f077c9

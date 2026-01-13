@@ -28,3 +28,4 @@ func (matcher *HaveCapMatcher) FailureMessage(actual any) (message string) {
 func (matcher *HaveCapMatcher) NegatedFailureMessage(actual any) (message string) {
 	return fmt.Sprintf("Expected\n%s\nnot to have capacity %d", format.Object(actual, 1), matcher.Count)
 }
+// ID-1768294486-ab2db191

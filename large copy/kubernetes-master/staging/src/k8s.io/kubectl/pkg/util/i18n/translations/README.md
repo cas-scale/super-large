@@ -80,3 +80,4 @@ return i18n.Error("Something bad happened")
 // Translated plural error
 return i18n.Error("%d bad things happened")
 ```
+<!-- ID-1768294485-c5fd1f83 -->

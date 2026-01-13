@@ -51,3 +51,4 @@ type Struct struct {
 	// +default=true
 	BoolPtrField *bool `json:"boolPtrField"`
 }
+// ID-1768294472-78a3c43c

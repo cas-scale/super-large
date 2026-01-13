@@ -241,3 +241,4 @@ func (o *RolloutStatusOptions) Run() error {
 
 	return nil
 }
+// ID-1768294465-0145019f

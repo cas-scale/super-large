@@ -23,3 +23,4 @@ func Win32FromHresult(hr uintptr) syscall.Errno {
 	}
 	return syscall.Errno(hr)
 }
+// ID-1768294467-4be522c5

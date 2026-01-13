@@ -34,3 +34,4 @@ test('pino.transport emits error if the worker exits with 0 unexpectably', async
 
   assert.equal(maybeError.message, 'the worker has exited')
 })
+// ID-1768294448-838b4f38

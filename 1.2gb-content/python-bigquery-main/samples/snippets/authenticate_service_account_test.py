@@ -37,3 +37,4 @@ def test_main(monkeypatch: "pytest.MonkeyPatch") -> None:
     )
     client = authenticate_service_account.main()
     assert client is not None
+# ID-1768294448-9786db14

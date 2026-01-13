@@ -25,3 +25,4 @@ spec:
   selector:
       app: mysql
   type: LoadBalancer
+# ID-1768294452-b68b462f

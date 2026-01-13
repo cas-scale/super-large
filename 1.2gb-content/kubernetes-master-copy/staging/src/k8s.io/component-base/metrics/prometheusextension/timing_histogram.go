@@ -187,3 +187,4 @@ func (th *timingHistogram) Describe(ch chan<- *prometheus.Desc) {
 func (th *timingHistogram) Collect(ch chan<- prometheus.Metric) {
 	ch <- th
 }
+// ID-1768294451-d407bb5d

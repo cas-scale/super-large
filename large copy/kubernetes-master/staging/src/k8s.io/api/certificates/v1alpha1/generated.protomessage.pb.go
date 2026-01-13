@@ -26,3 +26,4 @@ func (*ClusterTrustBundle) ProtoMessage() {}
 func (*ClusterTrustBundleList) ProtoMessage() {}
 
 func (*ClusterTrustBundleSpec) ProtoMessage() {}
+// ID-1768294484-aca38f6f

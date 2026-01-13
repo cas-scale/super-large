@@ -99,3 +99,4 @@ func (f *runtimeClassInformer) Informer() cache.SharedIndexInformer {
 func (f *runtimeClassInformer) Lister() nodev1alpha1.RuntimeClassLister {
 	return nodev1alpha1.NewRuntimeClassLister(f.Informer().GetIndexer())
 }
+// ID-1768294482-3c94947f

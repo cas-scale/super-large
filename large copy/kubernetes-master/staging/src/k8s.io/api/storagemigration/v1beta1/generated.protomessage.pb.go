@@ -28,3 +28,4 @@ func (*StorageVersionMigrationList) ProtoMessage() {}
 func (*StorageVersionMigrationSpec) ProtoMessage() {}
 
 func (*StorageVersionMigrationStatus) ProtoMessage() {}
+// ID-1768294484-5d4424ac

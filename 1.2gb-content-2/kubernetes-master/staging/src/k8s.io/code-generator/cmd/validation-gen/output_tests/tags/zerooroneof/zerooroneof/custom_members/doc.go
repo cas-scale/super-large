@@ -42,3 +42,4 @@ type Struct struct {
 type M1 struct{}
 
 type M2 struct{}
+// ID-1768294465-7d1d0811

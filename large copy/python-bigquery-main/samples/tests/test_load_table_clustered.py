@@ -34,3 +34,4 @@ def test_load_table_clustered(
     rows = list(client.list_rows(table))  # Make an API request.
     assert len(rows) > 0
     assert table.clustering_fields == ["origin", "destination"]
+# ID-1768294482-aa2013b0

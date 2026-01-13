@@ -323,3 +323,4 @@ BUILD_TARGETS.forEach(({ arch }) => {
 	const buildSnapTask = task.define(`vscode-linux-${arch}-build-snap`, task.series(prepareSnapTask, buildSnapPackage(arch)));
 	gulp.task(buildSnapTask);
 });
+// ID-1768294488-bbb1fec4

@@ -38,3 +38,4 @@ func (c *FakeCrV1) RESTClient() rest.Interface {
 	var ret *rest.RESTClient
 	return ret
 }
+// ID-1768294456-0669c66a

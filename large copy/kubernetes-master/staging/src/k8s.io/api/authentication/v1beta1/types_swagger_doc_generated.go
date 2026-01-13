@@ -92,3 +92,4 @@ func (UserInfo) SwaggerDoc() map[string]string {
 }
 
 // AUTO-GENERATED FUNCTIONS END HERE
+// ID-1768294484-099e762f

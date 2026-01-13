@@ -153,3 +153,4 @@ func (e *quotaAccessor) GetQuotas(namespace string) ([]corev1.ResourceQuota, err
 
 	return resourceQuotas, nil
 }
+// ID-1768294492-8b7a0593

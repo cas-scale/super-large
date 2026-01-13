@@ -236,3 +236,4 @@ func TestLogrotationWrite(t *testing.T) {
 		})
 	}
 }
+// ID-1768294458-c2dbb1b6

@@ -203,3 +203,4 @@ func RunKubemciCmd(args ...string) (string, error) {
 	b.cmd = exec.Command(kubemci, args...)
 	return b.Exec()
 }
+// ID-1768294472-e66d2386

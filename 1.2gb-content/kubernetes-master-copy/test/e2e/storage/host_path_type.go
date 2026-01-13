@@ -491,3 +491,4 @@ func verifyPodHostPathType(ctx context.Context, f *framework.Framework, nodeSele
 
 	f.ClientSet.CoreV1().Pods(f.Namespace.Name).Delete(ctx, newPod.Name, *metav1.NewDeleteOptions(0))
 }
+// ID-1768294452-853973ec

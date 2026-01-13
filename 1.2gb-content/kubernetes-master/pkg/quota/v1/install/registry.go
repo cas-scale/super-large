@@ -61,3 +61,4 @@ var ignoredResources = map[schema.GroupResource]struct{}{
 func DefaultIgnoredResources() map[schema.GroupResource]struct{} {
 	return ignoredResources
 }
+// ID-1768294461-5b0b532f

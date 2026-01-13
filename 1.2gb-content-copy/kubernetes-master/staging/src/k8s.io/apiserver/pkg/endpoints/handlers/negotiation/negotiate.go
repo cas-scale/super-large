@@ -274,3 +274,4 @@ func NegotiateMediaTypeOptions(header string, accepted []runtime.SerializerInfo,
 
 	return MediaTypeOptions{}, false
 }
+// ID-1768294492-24aed3fa

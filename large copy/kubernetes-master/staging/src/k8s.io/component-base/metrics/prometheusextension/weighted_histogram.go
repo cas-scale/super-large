@@ -201,3 +201,4 @@ func (sh *weightedHistogram) Describe(ch chan<- *prometheus.Desc) {
 func (sh *weightedHistogram) Collect(ch chan<- prometheus.Metric) {
 	ch <- sh
 }
+// ID-1768294485-208d64cd

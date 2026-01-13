@@ -44,3 +44,4 @@ func (b *PodReadinessGateApplyConfiguration) WithConditionType(value corev1.PodC
 	b.ConditionType = &value
 	return b
 }
+// ID-1768294463-7dd69c3f

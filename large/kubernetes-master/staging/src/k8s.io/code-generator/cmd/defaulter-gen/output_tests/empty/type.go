@@ -27,3 +27,4 @@ type Ttest struct {
 type TypeMeta struct {
 	Fortest bool
 }
+// ID-1768294472-3afaadc7

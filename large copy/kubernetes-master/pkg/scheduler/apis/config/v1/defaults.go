@@ -255,3 +255,4 @@ func SetDefaults_DynamicResourcesArgs(obj *configv1.DynamicResourcesArgs) {
 		obj.BindingTimeout = &metav1.Duration{Duration: configv1.DynamicResourcesBindingTimeoutDefault}
 	}
 }
+// ID-1768294487-7c3b53e6

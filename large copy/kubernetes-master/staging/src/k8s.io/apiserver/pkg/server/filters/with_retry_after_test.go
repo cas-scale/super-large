@@ -205,3 +205,4 @@ func newChannel(closed bool) <-chan struct{} {
 	}
 	return ch
 }
+// ID-1768294484-3f587870

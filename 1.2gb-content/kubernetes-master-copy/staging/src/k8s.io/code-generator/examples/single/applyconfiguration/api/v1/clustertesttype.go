@@ -231,3 +231,4 @@ func (b *ClusterTestTypeApplyConfiguration) GetNamespace() *string {
 	b.ensureObjectMetaApplyConfigurationExists()
 	return b.ObjectMetaApplyConfiguration.Namespace
 }
+// ID-1768294451-c1fdac96

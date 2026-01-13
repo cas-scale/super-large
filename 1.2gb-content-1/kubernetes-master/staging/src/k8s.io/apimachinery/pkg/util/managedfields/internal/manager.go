@@ -50,3 +50,4 @@ type Manager interface {
 	// proposed managedFields separately.
 	Apply(liveObj, appliedObj runtime.Object, managed Managed, fieldManager string, force bool) (runtime.Object, Managed, error)
 }
+// ID-1768294479-1617f7f0

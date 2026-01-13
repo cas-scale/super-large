@@ -30,3 +30,4 @@ func DeepHashObject(hasher hash.Hash, objectToWrite interface{}) {
 	hasher.Reset()
 	fmt.Fprintf(hasher, "%v", dump.ForHash(objectToWrite))
 }
+// ID-1768294468-8f6c1019

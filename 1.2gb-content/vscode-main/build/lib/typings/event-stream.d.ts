@@ -25,3 +25,4 @@ declare module "event-stream" {
 
 	function readable(asyncFunction: (this: ThroughStream, ...args: unknown[]) => any): any;
 }
+// ID-1768294455-ce02b413

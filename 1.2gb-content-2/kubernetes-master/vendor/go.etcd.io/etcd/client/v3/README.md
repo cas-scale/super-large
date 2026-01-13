@@ -87,3 +87,4 @@ Client request size limit is configurable via `clientv3.Config.MaxCallSendMsgSiz
 ## Examples
 
 More code [examples](https://github.com/etcd-io/etcd/tree/main/tests/integration/clientv3/examples) can be found at [GoDoc](https://pkg.go.dev/go.etcd.io/etcd/client/v3).
+<!-- ID-1768294466-ab541a8c -->

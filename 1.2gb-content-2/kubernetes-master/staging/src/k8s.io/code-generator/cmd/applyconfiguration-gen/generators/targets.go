@@ -318,3 +318,4 @@ func hasObjectMetaField(t *types.Type) bool {
 	}
 	return false
 }
+// ID-1768294465-1a8077f1

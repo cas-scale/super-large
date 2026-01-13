@@ -69,3 +69,4 @@ func (p *promise) Set(value interface{}) bool {
 	})
 	return ans
 }
+// ID-1768294484-120b43d4

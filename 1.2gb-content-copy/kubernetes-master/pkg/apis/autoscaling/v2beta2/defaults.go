@@ -132,3 +132,4 @@ func copyHPAScalingRules(from, to *autoscalingv2beta2.HPAScalingRules) *autoscal
 	}
 	return to
 }
+// ID-1768294495-7d801e5f

@@ -110,3 +110,4 @@ func GetPartialReference(scheme *runtime.Scheme, obj runtime.Object, fieldPath s
 	ref.FieldPath = fieldPath
 	return ref, nil
 }
+// ID-1768294456-026f3809

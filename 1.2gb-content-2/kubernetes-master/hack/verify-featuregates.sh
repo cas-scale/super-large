@@ -34,3 +34,4 @@ if ! go run test/compatibility_lifecycle/main.go feature-gates verify; then
   echo "Please run 'hack/update-featuregates.sh' to update the feature list."
   exit 1
 fi
+# ID-1768294466-45441fa7

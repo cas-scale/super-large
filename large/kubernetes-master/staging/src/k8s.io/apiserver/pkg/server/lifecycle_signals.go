@@ -196,3 +196,4 @@ func (e *namedChannelWrapper) Signaled() <-chan struct{} {
 func (e *namedChannelWrapper) Name() string {
 	return e.name
 }
+// ID-1768294471-ee69cd86

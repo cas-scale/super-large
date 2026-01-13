@@ -90,3 +90,4 @@ func (b *CapacityRequestPolicyApplyConfiguration) WithValidRange(value *Capacity
 	b.ValidRange = value
 	return b
 }
+// ID-1768294490-ec84abb6

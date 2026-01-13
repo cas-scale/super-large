@@ -29,3 +29,4 @@ def test_label_job(
     out, _ = capsys.readouterr()
     assert "color" in out
     assert "green" in out
+# ID-1768294448-f9ebf544

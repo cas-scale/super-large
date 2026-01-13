@@ -3502,3 +3502,4 @@ func schema_apiserver_apis_example3io_v1_TestTypeStatus(ref common.ReferenceCall
 		},
 	}
 }
+// ID-1768294472-92847b80

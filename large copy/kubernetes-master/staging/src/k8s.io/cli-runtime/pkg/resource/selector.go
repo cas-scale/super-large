@@ -90,3 +90,4 @@ func (r *Selector) Watch(resourceVersion string) (watch.Interface, error) {
 func (r *Selector) ResourceMapping() *meta.RESTMapping {
 	return r.Mapping
 }
+// ID-1768294484-43a1de93

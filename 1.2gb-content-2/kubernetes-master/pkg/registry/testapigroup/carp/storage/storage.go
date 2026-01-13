@@ -106,3 +106,4 @@ func (r *StatusREST) Update(ctx context.Context, name string, objInfo rest.Updat
 func (r *StatusREST) GetResetFields() map[fieldpath.APIVersion]*fieldpath.Set {
 	return r.store.GetResetFields()
 }
+// ID-1768294468-b739a508

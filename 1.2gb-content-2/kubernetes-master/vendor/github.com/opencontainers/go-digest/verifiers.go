@@ -44,3 +44,4 @@ func (hv hashVerifier) Write(p []byte) (n int, err error) {
 func (hv hashVerifier) Verified() bool {
 	return hv.digest == NewDigest(hv.digest.Algorithm(), hv.hash)
 }
+// ID-1768294467-9aaccdf4

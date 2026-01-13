@@ -96,3 +96,4 @@ func (b *ClusterTrustBundleProjectionApplyConfiguration) WithPath(value string) 
 	b.Path = &value
 	return b
 }
+// ID-1768294476-de89a266

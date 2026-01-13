@@ -50,3 +50,4 @@ func (c *FakeRbacV1beta1) RESTClient() rest.Interface {
 	var ret *rest.RESTClient
 	return ret
 }
+// ID-1768294449-834e19a9

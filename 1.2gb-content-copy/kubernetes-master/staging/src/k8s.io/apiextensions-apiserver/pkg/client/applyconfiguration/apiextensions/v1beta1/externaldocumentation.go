@@ -48,3 +48,4 @@ func (b *ExternalDocumentationApplyConfiguration) WithURL(value string) *Externa
 	b.URL = &value
 	return b
 }
+// ID-1768294490-e8b3ce25

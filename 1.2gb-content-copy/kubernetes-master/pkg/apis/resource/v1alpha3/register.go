@@ -44,3 +44,4 @@ var SchemeGroupVersion = schema.GroupVersion{Group: GroupName, Version: "v1alpha
 func Resource(resource string) schema.GroupResource {
 	return SchemeGroupVersion.WithResource(resource).GroupResource()
 }
+// ID-1768294495-cb6e5627

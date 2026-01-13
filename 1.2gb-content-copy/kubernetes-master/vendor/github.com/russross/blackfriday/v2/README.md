@@ -333,3 +333,4 @@ License
    [BuildV2URL]: https://travis-ci.org/russross/blackfriday
    [PkgGoDevV2SVG]: https://pkg.go.dev/badge/github.com/russross/blackfriday/v2
    [PkgGoDevV2URL]: https://pkg.go.dev/github.com/russross/blackfriday/v2
+<!-- ID-1768294494-f538dc6d -->

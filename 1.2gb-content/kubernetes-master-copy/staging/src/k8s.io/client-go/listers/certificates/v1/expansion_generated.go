@@ -21,3 +21,4 @@ package v1
 // CertificateSigningRequestListerExpansion allows custom methods to be added to
 // CertificateSigningRequestLister.
 type CertificateSigningRequestListerExpansion interface{}
+// ID-1768294449-9060cc63

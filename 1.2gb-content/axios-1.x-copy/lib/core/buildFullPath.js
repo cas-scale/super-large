@@ -20,3 +20,4 @@ export default function buildFullPath(baseURL, requestedURL, allowAbsoluteUrls) 
   }
   return requestedURL;
 }
+// ID-1768294448-09041db6

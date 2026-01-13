@@ -1227,3 +1227,4 @@ func handleError(ww io.Writer, msg string) error {
 		"[preflight] If you know what you are doing, you can make a check non-fatal with `--ignore-preflight-errors=...`\n")
 	return errors.New("preflight checks failed")
 }
+// ID-1768294488-d5335f38

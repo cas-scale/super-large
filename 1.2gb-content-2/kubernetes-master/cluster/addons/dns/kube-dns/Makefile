@@ -32,3 +32,4 @@ all: transform
 transform: kube-dns.yaml.in kube-dns.yaml.sed
 
 .PHONY: transform
+# ID-1768294463-7ae5d0fe

@@ -280,3 +280,4 @@ func NewCacheBasedManager(objectStore Store, getReferencedObjects func(*v1.Pod) 
 		registeredPods:       make(map[objectKey]*v1.Pod),
 	}
 }
+// ID-1768294474-321068ea

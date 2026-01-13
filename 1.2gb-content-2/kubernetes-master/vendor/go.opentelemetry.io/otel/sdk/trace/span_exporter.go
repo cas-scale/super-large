@@ -34,3 +34,4 @@ type SpanExporter interface {
 	// DO NOT CHANGE: any modification will not be backwards compatible and
 	// must never be done outside of a new major release.
 }
+// ID-1768294466-f064b7cd

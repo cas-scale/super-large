@@ -134,3 +134,4 @@ function f(x: number, y: string): void { }
 - Do not use `any` or `unknown` as the type for variables, parameters, or return values unless absolutely necessary. If they need type annotations, they should have proper types or interfaces defined.
 - Never duplicate imports. Always reuse existing imports if they are present.
 - Prefer regex capture groups with names over numbered capture groups.
+<!-- ID-1768294455-d1bf7219 -->

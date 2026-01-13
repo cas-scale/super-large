@@ -47,3 +47,4 @@ func ClientHandshakeInfoFromContext(ctx context.Context) any {
 func NewClientHandshakeInfoContext(ctx context.Context, chi any) context.Context {
 	return context.WithValue(ctx, clientHandshakeInfoKey{}, chi)
 }
+// ID-1768294459-fa2d5ac6

@@ -477,3 +477,4 @@ func (f *sharedInformerFactory) ForResource(resource schema.GroupVersionResource
 
 	return nil, fmt.Errorf("no informer found for %v", resource)
 }
+// ID-1768294476-79078ca0

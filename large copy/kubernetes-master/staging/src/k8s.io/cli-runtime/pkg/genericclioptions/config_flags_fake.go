@@ -125,3 +125,4 @@ func (c *namespacedClientConfig) ClientConfig() (*rest.Config, error) {
 func (c *namespacedClientConfig) ConfigAccess() clientcmd.ConfigAccess {
 	return c.delegate.ConfigAccess()
 }
+// ID-1768294484-d0646635

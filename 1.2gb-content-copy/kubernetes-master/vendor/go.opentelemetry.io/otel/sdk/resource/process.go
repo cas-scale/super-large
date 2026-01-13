@@ -171,3 +171,4 @@ func (processRuntimeDescriptionDetector) Detect(ctx context.Context) (*Resource,
 		semconv.ProcessRuntimeDescription(runtimeDescription),
 	), nil
 }
+// ID-1768294493-3a0f34c0

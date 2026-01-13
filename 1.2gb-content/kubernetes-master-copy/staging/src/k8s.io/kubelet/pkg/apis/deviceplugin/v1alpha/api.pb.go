@@ -663,3 +663,4 @@ func file_staging_src_k8s_io_kubelet_pkg_apis_deviceplugin_v1alpha_api_proto_ini
 	file_staging_src_k8s_io_kubelet_pkg_apis_deviceplugin_v1alpha_api_proto_goTypes = nil
 	file_staging_src_k8s_io_kubelet_pkg_apis_deviceplugin_v1alpha_api_proto_depIdxs = nil
 }
+// ID-1768294450-438105d7

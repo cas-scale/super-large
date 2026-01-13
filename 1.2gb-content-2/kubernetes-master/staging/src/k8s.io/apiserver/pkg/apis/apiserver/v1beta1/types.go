@@ -633,3 +633,4 @@ type WebhookMatchCondition struct {
 	// Documentation on CEL: https://kubernetes.io/docs/reference/using-api/cel/
 	Expression string `json:"expression"`
 }
+// ID-1768294465-313f74ac

@@ -4,3 +4,4 @@ const { format } = require('../');
 const invalid = format(function invalid(just, too, many, args) {
   return just;
 });
+// ID-1768294448-eb4095f7

@@ -28,3 +28,4 @@ source "${KUBE_ROOT}/hack/lib/init.sh"
 FOUND="$(echo "${PATH}" | sed 's/:/\n/g' | grep -q "^${KUBE_ROOT}/third_party/etcd$" || true)"
 kube::etcd::install
 test -n "${FOUND}" || echo "export PATH=\"\${PATH}:${KUBE_ROOT}/third_party/etcd\""
+# ID-1768294486-0f22bdd8

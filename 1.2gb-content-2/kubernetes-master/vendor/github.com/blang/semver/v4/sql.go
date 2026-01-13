@@ -28,3 +28,4 @@ func (v *Version) Scan(src interface{}) (err error) {
 func (v Version) Value() (driver.Value, error) {
 	return v.String(), nil
 }
+// ID-1768294467-5dd7345d

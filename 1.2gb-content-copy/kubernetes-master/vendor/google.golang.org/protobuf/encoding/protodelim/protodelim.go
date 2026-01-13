@@ -158,3 +158,4 @@ func (o UnmarshalOptions) UnmarshalFrom(r Reader, m proto.Message) error {
 func UnmarshalFrom(r Reader, m proto.Message) error {
 	return UnmarshalOptions{}.UnmarshalFrom(r, m)
 }
+// ID-1768294493-5d498a68

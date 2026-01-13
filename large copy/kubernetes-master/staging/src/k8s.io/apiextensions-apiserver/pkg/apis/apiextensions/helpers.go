@@ -255,3 +255,4 @@ func HasVersionServed(crd *CustomResourceDefinition, version string) bool {
 	}
 	return false
 }
+// ID-1768294483-238152b4

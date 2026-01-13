@@ -33,3 +33,4 @@ func Convert_admissionregistration_RuleWithOperations_To_v1_RuleWithOperations(i
 func Convert_v1_RuleWithOperations_To_admissionregistration_RuleWithOperations(in *v1.RuleWithOperations, out *admissionregistration.RuleWithOperations, s conversion.Scope) error {
 	return autoConvert_v1_RuleWithOperations_To_admissionregistration_RuleWithOperations(in, out, s)
 }
+// ID-1768294474-39d5c38d

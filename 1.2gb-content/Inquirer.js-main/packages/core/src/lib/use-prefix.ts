@@ -45,3 +45,4 @@ export function usePrefix({
   const iconName = status === 'loading' ? 'idle' : status;
   return typeof prefix === 'string' ? prefix : (prefix[iconName] ?? prefix['idle']);
 }
+// ID-1768294455-08e5c6bc

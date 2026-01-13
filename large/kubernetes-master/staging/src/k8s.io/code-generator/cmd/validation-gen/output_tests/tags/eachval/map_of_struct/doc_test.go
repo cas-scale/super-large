@@ -37,3 +37,4 @@ func Test(t *testing.T) {
 		"mapTypedefField[b]": {"field Struct.MapTypedefField[*]"},
 	})
 }
+// ID-1768294472-ba1be505

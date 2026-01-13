@@ -419,3 +419,4 @@ func lookupGorootExport(pkgDir string) (string, error) {
 
 	return f.(func() (string, error))()
 }
+// ID-1768294494-0f64e67e

@@ -89,3 +89,4 @@ kube::etcd::start
 kube::log::status "performance test (IPAM) start"
 go test "${PROFILE_OPTS}" -test.run="${RUN_PATTERN}" -test.timeout=60m -test.short=false -v -args "${TEST_ARGS}"
 kube::log::status "... IPAM tests finished."
+# ID-1768294485-712ac7e0

@@ -60,3 +60,4 @@ export class ObjectPolicy extends BasePolicy {
 `;
 	}
 }
+// ID-1768294488-a36ae484

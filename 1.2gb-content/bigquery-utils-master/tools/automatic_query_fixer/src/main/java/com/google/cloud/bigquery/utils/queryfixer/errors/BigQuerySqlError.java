@@ -34,3 +34,4 @@ public abstract class BigQuerySqlError {
     this.errorPosition = errorPosition;
   }
 }
+// ID-1768294455-4c89675f

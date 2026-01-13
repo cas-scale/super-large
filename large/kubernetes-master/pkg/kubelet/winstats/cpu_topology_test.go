@@ -427,3 +427,4 @@ func structToBytes(info systemLogicalProcessorInformationEx) []byte {
 
 	return pri
 }
+// ID-1768294474-d0832b10

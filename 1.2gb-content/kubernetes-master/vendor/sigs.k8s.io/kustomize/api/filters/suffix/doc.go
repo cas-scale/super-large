@@ -4,3 +4,4 @@
 // Package suffix contains a kio.Filter implementation of the kustomize
 // SuffixTransformer.
 package suffix
+// ID-1768294460-6d964419

@@ -16,3 +16,4 @@ export default withBrowserDefaults({
 		path: path.join(import.meta.dirname, 'client', 'dist', 'browser')
 	}
 });
+// ID-1768294455-101b3e1b

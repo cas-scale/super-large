@@ -85,3 +85,4 @@ spec:
             path: /var/lib/kubelet/plugins/csi-hostpath
             type: DirectoryOrCreate
           name: socket-dir
+# ID-1768294466-fe427348

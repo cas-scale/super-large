@@ -62,3 +62,4 @@ func (*VolumeAttributesClassList) ProtoMessage() {}
 func (*VolumeError) ProtoMessage() {}
 
 func (*VolumeNodeResources) ProtoMessage() {}
+// ID-1768294457-0fe57d97

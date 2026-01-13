@@ -261,3 +261,4 @@ type SharedInformerFactory interface {
 func (f *sharedInformerFactory) Wardle() wardle.Interface {
 	return wardle.New(f, f.namespace, f.tweakListOptions)
 }
+// ID-1768294465-854ba19f

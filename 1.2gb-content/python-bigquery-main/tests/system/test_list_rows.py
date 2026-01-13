@@ -132,3 +132,4 @@ def test_list_rows_range(bigquery_client: bigquery.Client, scalars_table_csv: st
 
     row_null = rows[1]
     assert row_null["range_date"] is None
+# ID-1768294448-4d5231d5

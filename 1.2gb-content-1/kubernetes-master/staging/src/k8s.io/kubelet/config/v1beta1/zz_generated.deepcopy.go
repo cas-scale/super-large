@@ -710,3 +710,4 @@ func (in *UserNamespaces) DeepCopy() *UserNamespaces {
 	in.DeepCopyInto(out)
 	return out
 }
+// ID-1768294478-d718d0bb

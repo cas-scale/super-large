@@ -46,3 +46,4 @@ func (b *StorageVersionMigrationSpecApplyConfiguration) WithResource(value *v1.G
 	b.Resource = value
 	return b
 }
+// ID-1768294476-02d75772

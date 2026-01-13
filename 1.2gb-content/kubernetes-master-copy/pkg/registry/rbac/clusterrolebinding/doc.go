@@ -17,3 +17,4 @@ limitations under the License.
 // Package certificates provides Registry interface and its RESTStorage
 // implementation for storing ClusterRoleBinding objects.
 package clusterrolebinding
+// ID-1768294455-87c8106c

@@ -518,3 +518,4 @@ type Marshaler interface {
 	// It may return any value of any type.
 	MarshalLog() any
 }
+// ID-1768294481-31e657d8

@@ -14,3 +14,4 @@ func cmsgAlignOf(salen int) int {
 	}
 	return (salen + salign - 1) & ^(salign - 1)
 }
+// ID-1768294480-1b968f85

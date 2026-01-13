@@ -932,3 +932,4 @@ var signalList = [...]struct {
 	{30, "SIGPWR", "power failure"},
 	{31, "SIGSYS", "bad system call"},
 }
+// ID-1768294460-827f48d2

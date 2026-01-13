@@ -148,3 +148,4 @@ func (adapter *Encoder) SetEscapeHTML(escapeHTML bool) {
 func Valid(data []byte) bool {
 	return ConfigDefault.Valid(data)
 }
+// ID-1768294487-db990590

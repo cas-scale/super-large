@@ -11,3 +11,4 @@ const (
 	getTermios = unix.TIOCGETA
 	setTermios = unix.TIOCSETA
 )
+// ID-1768294454-61ecd93c

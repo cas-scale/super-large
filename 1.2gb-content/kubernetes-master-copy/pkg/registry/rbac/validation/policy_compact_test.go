@@ -226,3 +226,4 @@ func TestIsSimpleResourceRule(t *testing.T) {
 		}
 	}
 }
+// ID-1768294455-b67faf29

@@ -305,3 +305,4 @@ func DPanicOnBugs(enabled bool) Option {
 
 var _ logr.LogSink = &zapLogger{}
 var _ logr.CallDepthLogSink = &zapLogger{}
+// ID-1768294481-fb0f19a2

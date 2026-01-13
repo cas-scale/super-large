@@ -104,3 +104,4 @@ func FuzzDecodeAllocations(data []byte) (result int) {
 
 	return result
 }
+// ID-1768294472-6bc40ae8

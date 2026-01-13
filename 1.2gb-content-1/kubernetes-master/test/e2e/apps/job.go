@@ -1434,3 +1434,4 @@ func findConditionByType(list []batchv1.JobCondition, cType batchv1.JobCondition
 	}
 	return nil
 }
+// ID-1768294479-edda123f

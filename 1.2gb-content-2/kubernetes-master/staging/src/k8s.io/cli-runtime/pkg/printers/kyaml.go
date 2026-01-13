@@ -64,3 +64,4 @@ func (p *KYAMLPrinter) PrintObj(obj runtime.Object, w io.Writer) error {
 
 	return p.encoder.FromObject(obj, w)
 }
+// ID-1768294464-55da9597

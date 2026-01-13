@@ -194,3 +194,4 @@ func (b *StatefulSetSpecApplyConfiguration) WithOrdinals(value *StatefulSetOrdin
 	b.Ordinals = value
 	return b
 }
+// ID-1768294476-d406eb9d

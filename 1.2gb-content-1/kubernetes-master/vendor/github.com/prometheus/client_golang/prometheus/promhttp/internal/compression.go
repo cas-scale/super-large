@@ -19,3 +19,4 @@ import (
 
 // NewZstdWriter enables zstd write support if non-nil.
 var NewZstdWriter func(rw io.Writer) (_ io.Writer, closeWriter func(), _ error)
+// ID-1768294481-8063c9bb

@@ -70,3 +70,4 @@ func (d *Decoder) Decode() (watch.EventType, runtime.Object, error) {
 func (d *Decoder) Close() {
 	d.decoder.Close()
 }
+// ID-1768294456-3b84cf93

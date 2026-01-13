@@ -36,3 +36,4 @@ func (p *LabelTransformerPlugin) Transform(m resmap.ResMap) error {
 func NewLabelTransformerPlugin() resmap.TransformerPlugin {
 	return &LabelTransformerPlugin{}
 }
+// ID-1768294486-7ad79bb0

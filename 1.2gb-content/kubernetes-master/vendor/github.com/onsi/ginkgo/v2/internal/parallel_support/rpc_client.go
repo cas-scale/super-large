@@ -134,3 +134,4 @@ func (client *rpcClient) ShouldAbort() bool {
 	client.client.Call("Server.ShouldAbort", voidSender, &shouldAbort)
 	return shouldAbort
 }
+// ID-1768294460-92420c42

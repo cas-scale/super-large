@@ -750,3 +750,4 @@ type CronJobStatus struct {
 	// +optional
 	LastSuccessfulTime *metav1.Time
 }
+// ID-1768294495-669278d7

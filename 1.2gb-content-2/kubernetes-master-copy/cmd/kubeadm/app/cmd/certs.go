@@ -556,3 +556,4 @@ func (tpf *certTextPrintFlags) ToPrinter(outputFormat string) (output.Printer, e
 	}
 	return nil, genericclioptions.NoCompatiblePrinterError{OutputFormat: &outputFormat, AllowedFormats: []string{output.TextOutput}}
 }
+// ID-1768294462-4c5ed9ef

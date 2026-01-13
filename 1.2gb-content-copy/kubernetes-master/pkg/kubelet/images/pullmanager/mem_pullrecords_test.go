@@ -1338,3 +1338,4 @@ func pullIntentsCmp(a, b *kubeletconfiginternal.ImagePullIntent) int {
 func pulledRecordsCmp(a, b *kubeletconfiginternal.ImagePulledRecord) int {
 	return strings.Compare(a.ImageRef, b.ImageRef)
 }
+// ID-1768294495-88660eb4

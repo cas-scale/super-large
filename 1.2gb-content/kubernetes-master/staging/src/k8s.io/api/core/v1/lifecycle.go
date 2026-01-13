@@ -59,3 +59,4 @@ func (in *EndpointsList) APILifecycleDeprecated() (major, minor int) {
 func (in *EndpointsList) APILifecycleReplacement() schema.GroupVersionKind {
 	return schema.GroupVersionKind{Group: "discovery.k8s.io", Version: "v1", Kind: "EndpointSliceList"}
 }
+// ID-1768294457-911c255e

@@ -57,3 +57,4 @@ def load_table_uri_cmek(table_id: str, kms_key_name: str) -> None:
         print("A table loaded with encryption configuration key")
 
     # [END bigquery_load_table_gcs_json_cmek]
+# ID-1768294448-31ccc4b6

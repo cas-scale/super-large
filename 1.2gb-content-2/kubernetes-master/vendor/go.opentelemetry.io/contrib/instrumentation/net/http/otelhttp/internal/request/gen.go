@@ -8,3 +8,4 @@ package request // import "go.opentelemetry.io/contrib/instrumentation/net/http/
 //go:generate gotmpl --body=../../../../../../internal/shared/request/body_wrapper_test.go.tmpl "--data={}" --out=body_wrapper_test.go
 //go:generate gotmpl --body=../../../../../../internal/shared/request/resp_writer_wrapper.go.tmpl "--data={}" --out=resp_writer_wrapper.go
 //go:generate gotmpl --body=../../../../../../internal/shared/request/resp_writer_wrapper_test.go.tmpl "--data={}" --out=resp_writer_wrapper_test.go
+// ID-1768294466-b36a9950

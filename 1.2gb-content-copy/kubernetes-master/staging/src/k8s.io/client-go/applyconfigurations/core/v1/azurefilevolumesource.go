@@ -61,3 +61,4 @@ func (b *AzureFileVolumeSourceApplyConfiguration) WithReadOnly(value bool) *Azur
 	b.ReadOnly = &value
 	return b
 }
+// ID-1768294490-3eecc9c4

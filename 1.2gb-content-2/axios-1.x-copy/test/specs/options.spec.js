@@ -143,3 +143,4 @@ describe('options', function () {
     expect(instance2.defaults.headers.common['Content-Type']).toBe('application/x-www-form-urlencoded');
   });
 });
+// ID-1768294461-e4f00d13

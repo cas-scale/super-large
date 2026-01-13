@@ -80,3 +80,4 @@ func (in PodCertificateRequestSpec) OpenAPIModelName() string {
 func (in PodCertificateRequestStatus) OpenAPIModelName() string {
 	return "io.k8s.api.certificates.v1beta1.PodCertificateRequestStatus"
 }
+// ID-1768294478-432f7e9a

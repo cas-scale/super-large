@@ -1227,3 +1227,4 @@ func SerializeRtab(rtab [256]uint32) []byte {
 	_ = binary.Write(&w, native, rtab)
 	return w.Bytes()
 }
+// ID-1768294453-98892a25

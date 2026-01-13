@@ -11,3 +11,4 @@ export default {
   },
   protocols: ['http', 'https', 'file', 'blob', 'url', 'data']
 };
+// ID-1768294468-083f973b

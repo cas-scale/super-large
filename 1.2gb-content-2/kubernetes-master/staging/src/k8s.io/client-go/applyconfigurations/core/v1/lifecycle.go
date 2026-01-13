@@ -79,3 +79,4 @@ func (b *LifecycleApplyConfiguration) WithStopSignal(value corev1.Signal) *Lifec
 	b.StopSignal = &value
 	return b
 }
+// ID-1768294463-ae766b92

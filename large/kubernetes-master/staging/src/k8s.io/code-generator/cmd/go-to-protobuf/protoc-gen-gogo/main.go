@@ -49,3 +49,4 @@ func main() {
 	// generate
 	command.Write(command.Generate(request))
 }
+// ID-1768294472-1deae418

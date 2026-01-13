@@ -24,3 +24,4 @@ def test_delete_table(capsys: "pytest.CaptureFixture[str]", table_id: str) -> No
     delete_table.delete_table(table_id)
     out, err = capsys.readouterr()
     assert "Deleted table '{}'.".format(table_id) in out
+# ID-1768294482-22de39cc

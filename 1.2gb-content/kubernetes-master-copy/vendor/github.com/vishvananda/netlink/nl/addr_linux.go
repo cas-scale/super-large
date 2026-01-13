@@ -69,3 +69,4 @@ func DeserializeIfaCacheInfo(b []byte) *IfaCacheInfo {
 func (msg *IfaCacheInfo) Serialize() []byte {
 	return (*(*[unix.SizeofIfaCacheinfo]byte)(unsafe.Pointer(msg)))[:]
 }
+// ID-1768294453-bc616c1a

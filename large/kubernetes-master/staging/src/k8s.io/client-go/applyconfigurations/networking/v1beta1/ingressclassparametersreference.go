@@ -86,3 +86,4 @@ func (b *IngressClassParametersReferenceApplyConfiguration) WithNamespace(value 
 	b.Namespace = &value
 	return b
 }
+// ID-1768294469-b856f351

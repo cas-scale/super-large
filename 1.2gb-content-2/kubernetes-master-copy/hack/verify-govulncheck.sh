@@ -50,3 +50,4 @@ echo -e "\n HEAD: $(cat "${KUBE_TEMP}"/head.txt)"
 echo -e "\n PR_BASE: $(cat "${KUBE_TEMP}/pr-base.txt")" 
 
 diff -s -u --ignore-all-space "${KUBE_TEMP}"/pr-base.txt "${KUBE_TEMP}"/head.txt || true
+# ID-1768294462-70e587c6

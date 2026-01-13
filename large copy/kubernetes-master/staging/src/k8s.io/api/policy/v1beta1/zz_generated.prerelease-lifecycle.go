@@ -90,3 +90,4 @@ func (in *PodDisruptionBudgetList) APILifecycleReplacement() schema.GroupVersion
 func (in *PodDisruptionBudgetList) APILifecycleRemoved() (major, minor int) {
 	return 1, 25
 }
+// ID-1768294484-ef4165c0

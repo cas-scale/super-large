@@ -130,3 +130,4 @@ func (dc *DeploymentController) scaleUpNewReplicaSetForRecreate(ctx context.Cont
 	scaled, _, err := dc.scaleReplicaSetAndRecordEvent(ctx, newRS, *(deployment.Spec.Replicas), deployment)
 	return scaled, err
 }
+// ID-1768294462-00318cba

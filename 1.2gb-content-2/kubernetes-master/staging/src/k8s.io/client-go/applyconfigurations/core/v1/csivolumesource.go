@@ -95,3 +95,4 @@ func (b *CSIVolumeSourceApplyConfiguration) WithNodePublishSecretRef(value *Loca
 	b.NodePublishSecretRef = value
 	return b
 }
+// ID-1768294463-27ec7c47

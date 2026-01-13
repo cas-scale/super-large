@@ -38,3 +38,4 @@ func Convert_v1alpha1_DaemonSetControllerConfiguration_To_config_DaemonSetContro
 func Convert_config_DaemonSetControllerConfiguration_To_v1alpha1_DaemonSetControllerConfiguration(in *daemonconfig.DaemonSetControllerConfiguration, out *v1alpha1.DaemonSetControllerConfiguration, s conversion.Scope) error {
 	return autoConvert_config_DaemonSetControllerConfiguration_To_v1alpha1_DaemonSetControllerConfiguration(in, out, s)
 }
+// ID-1768294461-618b9064

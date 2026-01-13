@@ -455,3 +455,4 @@ func (h *HTTPExtender) hasManagedResources(containers []v1.Container) bool {
 	}
 	return false
 }
+// ID-1768294454-bb61c40c

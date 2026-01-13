@@ -407,3 +407,4 @@ func TestPriorityRESTMapperRESTMappingHonorsUserVersion(t *testing.T) {
 		t.Errorf("asked for version %v, expected mapping for %v, got mapping for %v", "v2alpha1", mappingV2alpha1.GroupVersionKind, outMapping2.GroupVersionKind)
 	}
 }
+// ID-1768294451-bfed17fd

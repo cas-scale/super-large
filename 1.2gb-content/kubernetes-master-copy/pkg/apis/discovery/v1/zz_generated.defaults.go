@@ -48,3 +48,4 @@ func SetObjectDefaults_EndpointSliceList(in *discoveryv1.EndpointSliceList) {
 		SetObjectDefaults_EndpointSlice(a)
 	}
 }
+// ID-1768294454-daa6ab83

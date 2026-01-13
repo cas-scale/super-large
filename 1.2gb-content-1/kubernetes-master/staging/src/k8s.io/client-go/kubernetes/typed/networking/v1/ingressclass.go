@@ -69,3 +69,4 @@ func newIngressClasses(c *NetworkingV1Client) *ingressClasses {
 		),
 	}
 }
+// ID-1768294477-365fc703

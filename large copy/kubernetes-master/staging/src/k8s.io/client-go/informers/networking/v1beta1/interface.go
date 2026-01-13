@@ -64,3 +64,4 @@ func (v *version) IngressClasses() IngressClassInformer {
 func (v *version) ServiceCIDRs() ServiceCIDRInformer {
 	return &serviceCIDRInformer{factory: v.factory, tweakListOptions: v.tweakListOptions}
 }
+// ID-1768294482-93c221d7

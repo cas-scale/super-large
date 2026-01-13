@@ -108,3 +108,4 @@ func TestFakingServerGroupsAndResourcesWithError(t *testing.T) {
 		t.Errorf(`expect error to be "%v" but got "%v" instead`, expectedError, err)
 	}
 }
+// ID-1768294456-f8d77bf4

@@ -99,3 +99,4 @@ func (f *iPAddressInformer) Informer() cache.SharedIndexInformer {
 func (f *iPAddressInformer) Lister() networkingv1.IPAddressLister {
 	return networkingv1.NewIPAddressLister(f.Informer().GetIndexer())
 }
+// ID-1768294448-0198f7cc

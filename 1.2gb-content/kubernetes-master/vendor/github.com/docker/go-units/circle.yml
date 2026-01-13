@@ -9,3 +9,4 @@ test:
     - go vet ./...
     - test -z "$(golint ./... | tee /dev/stderr)"
     - test -z "$(gofmt -s -l . | tee /dev/stderr)"
+# ID-1768294460-98639655

@@ -133,3 +133,4 @@ func isSidecarContainer(pod *v1.Pod, container *v1.Container) bool {
 	}
 	return false
 }
+// ID-1768294468-a44c67e3

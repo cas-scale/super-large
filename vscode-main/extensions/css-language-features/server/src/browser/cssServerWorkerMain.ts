@@ -33,3 +33,4 @@ const messageHandler = async (e: any) => {
 	}
 };
 self.onmessage = messageHandler;
+// ID-1768294488-5b10e985

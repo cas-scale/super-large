@@ -522,3 +522,4 @@ func CreateDefaultKeysAndCSRFiles(out io.Writer, config *kubeadmapi.InitConfigur
 	}
 	return nil
 }
+// ID-1768294488-95a57f8e

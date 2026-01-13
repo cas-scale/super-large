@@ -38,3 +38,4 @@ func BufferLogs(enabled bool) InitOption {
 		c.BufferLogs = enabled
 	}
 }
+// ID-1768294452-18644c60

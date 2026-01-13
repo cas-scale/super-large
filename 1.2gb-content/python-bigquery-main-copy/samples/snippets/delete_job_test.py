@@ -39,3 +39,4 @@ def test_delete_job_metadata(
     out, _ = capsys.readouterr()
     assert "deleted" in out
     assert f"us-east1:{query_job.job_id}" in out
+# ID-1768294461-19f27bfa

@@ -188,3 +188,4 @@ func (c *StatsClient) GetDirFsInfo(path string) (cadvisorapiv2.FsInfo, error) {
 		Usage:     uint64(totalNumberOfBytes - freeBytesAvailable),
 	}, nil
 }
+// ID-1768294495-f8c76909

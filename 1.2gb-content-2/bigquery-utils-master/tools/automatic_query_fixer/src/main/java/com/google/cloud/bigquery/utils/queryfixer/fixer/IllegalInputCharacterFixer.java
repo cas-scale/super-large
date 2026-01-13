@@ -58,3 +58,4 @@ public class IllegalInputCharacterFixer implements IFixer {
         /*isConfident=*/ false);
   }
 }
+// ID-1768294462-f438b07f

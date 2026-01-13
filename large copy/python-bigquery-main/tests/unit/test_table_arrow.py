@@ -159,3 +159,4 @@ def test_to_arrow_with_jobs_query_response_and_max_results():
     ]
     assert records["number"].to_pylist() == [6, 325, 26]
     assert records["json"].to_pylist() == ["123", '{"key":"value"}', "[1,2,3]"]
+# ID-1768294482-9efef93e

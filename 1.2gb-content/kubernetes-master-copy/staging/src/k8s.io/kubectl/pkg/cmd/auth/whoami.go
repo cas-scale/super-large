@@ -260,3 +260,4 @@ func printTableSelfSubjectAccessReview(obj runtime.Object, out io.Writer) error 
 	}
 	return nil
 }
+// ID-1768294451-13e9ff65

@@ -260,3 +260,4 @@ func autoConvert_authentication_UserInfo_To_v1beta1_UserInfo(in *authentication.
 func Convert_authentication_UserInfo_To_v1beta1_UserInfo(in *authentication.UserInfo, out *authenticationv1beta1.UserInfo, s conversion.Scope) error {
 	return autoConvert_authentication_UserInfo_To_v1beta1_UserInfo(in, out, s)
 }
+// ID-1768294489-1a37dc52

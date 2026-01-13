@@ -127,3 +127,4 @@ function confirmPdbsExist(destinationExe, destinationPdb) {
 	});
 	return Promise.resolve();
 }
+// ID-1768294455-9d1d05fb

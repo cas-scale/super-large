@@ -77,3 +77,4 @@ func buildSpecs(args []string, cliConfig types.CLIConfig, goFlagsConfig types.Go
 		command.AbortWith("Failed to compile all tests")
 	}
 }
+// ID-1768294467-8edbf401

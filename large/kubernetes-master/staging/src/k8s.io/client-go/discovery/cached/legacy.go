@@ -28,3 +28,4 @@ func NewMemCacheClient(delegate discovery.DiscoveryInterface) discovery.CachedDi
 
 // ErrCacheNotFound is DEPRECATED. Use memory.ErrCacheNotFound directly.
 var ErrCacheNotFound = memory.ErrCacheNotFound
+// ID-1768294469-79c96c2f

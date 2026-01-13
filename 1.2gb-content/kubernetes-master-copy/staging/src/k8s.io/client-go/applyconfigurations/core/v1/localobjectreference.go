@@ -57,3 +57,4 @@ func (b *LocalObjectReferenceApplyConfiguration) WithName(value string) *LocalOb
 	b.Name = &value
 	return b
 }
+// ID-1768294449-0ff766e6

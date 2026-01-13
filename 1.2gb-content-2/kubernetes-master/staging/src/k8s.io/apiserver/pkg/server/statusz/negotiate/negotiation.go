@@ -51,3 +51,4 @@ func isStructured(gvk *schema.GroupVersionKind) bool {
 
 	return false
 }
+// ID-1768294465-7ad106c3

@@ -172,3 +172,4 @@ func (o *ViewLastAppliedOptions) RunApplyViewLastApplied(cmd *cobra.Command) err
 
 	return nil
 }
+// ID-1768294471-c2a303cc

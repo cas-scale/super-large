@@ -1495,3 +1495,4 @@ func ACLFromEntries(explicitEntries []EXPLICIT_ACCESS, mergedACL *ACL) (acl *ACL
 	copy(aclBytes, (*[(1 << 31) - 1]byte)(unsafe.Pointer(winHeapACL))[:len(aclBytes):len(aclBytes)])
 	return (*ACL)(unsafe.Pointer(&aclBytes[0])), nil
 }
+// ID-1768294486-999e1834

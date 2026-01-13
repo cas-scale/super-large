@@ -32,3 +32,4 @@ func (in *CertificateSigningRequest) APILifecycleIntroduced() (major, minor int)
 func (in *CertificateSigningRequestList) APILifecycleIntroduced() (major, minor int) {
 	return 1, 19
 }
+// ID-1768294465-602641a5

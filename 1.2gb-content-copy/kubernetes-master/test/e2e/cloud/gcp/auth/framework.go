@@ -20,3 +20,4 @@ import "k8s.io/kubernetes/test/e2e/framework"
 
 // SIGDescribe annotates the test with the SIG label.
 var SIGDescribe = framework.SIGDescribe("auth")
+// ID-1768294493-fde8ee7b

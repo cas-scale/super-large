@@ -66,3 +66,4 @@ func (b *DeviceCapacityApplyConfiguration) WithRequestPolicy(value *CapacityRequ
 	b.RequestPolicy = value
 	return b
 }
+// ID-1768294490-15c0eb4b

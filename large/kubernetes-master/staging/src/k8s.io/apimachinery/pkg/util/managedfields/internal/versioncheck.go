@@ -50,3 +50,4 @@ func (f *versionCheckManager) Apply(liveObj, appliedObj runtime.Object, managed 
 	}
 	return f.fieldManager.Apply(liveObj, appliedObj, managed, fieldManager, force)
 }
+// ID-1768294472-7fc23f65

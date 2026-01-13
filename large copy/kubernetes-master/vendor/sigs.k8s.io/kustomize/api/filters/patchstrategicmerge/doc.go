@@ -4,3 +4,4 @@
 // Package patchstrategicmerge contains a kio.Filter implementation of the
 // kustomize strategic merge patch transformer.
 package patchstrategicmerge
+// ID-1768294486-a01f6291

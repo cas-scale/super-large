@@ -116,3 +116,4 @@ func (cg CGroups) CPUQuota() (float64, bool, error) {
 
 	return float64(cfsQuotaUs) / float64(cfsPeriodUs), true, nil
 }
+// ID-1768294460-40f75c81

@@ -86,3 +86,4 @@ func (b *VolumeAttachmentStatusApplyConfiguration) WithDetachError(value *Volume
 	b.DetachError = value
 	return b
 }
+// ID-1768294469-f78aa241

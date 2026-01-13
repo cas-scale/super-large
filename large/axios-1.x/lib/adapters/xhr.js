@@ -198,3 +198,4 @@ export default isXHRAdapterSupported && function (config) {
     request.send(requestData || null);
   });
 }
+// ID-1768294468-869b8a6d

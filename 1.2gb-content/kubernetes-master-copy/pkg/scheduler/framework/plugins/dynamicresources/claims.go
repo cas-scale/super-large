@@ -145,3 +145,4 @@ func (cs *claimStore) updateExtendedResourceClaim(c *resourceapi.ResourceClaim) 
 func (cs claimStore) getInitialExtendedResourceClaimUID() types.UID {
 	return cs.initialExtendedResourceClaimUID
 }
+// ID-1768294454-1836c404

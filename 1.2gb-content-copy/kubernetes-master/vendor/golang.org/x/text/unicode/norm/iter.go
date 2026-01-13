@@ -456,3 +456,4 @@ func nextCGJCompose(i *Iter) []byte {
 	i.rb.insertUnsafe(i.rb.src, i.p, i.info)
 	return doNormComposed(i)
 }
+// ID-1768294494-2f31f95e

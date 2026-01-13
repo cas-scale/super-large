@@ -26,3 +26,4 @@ cd "${KUBE_ROOT}"
 test/conformance/gen-specsummaries.sh
 # specsummaries.json -> conformance.yaml
 test/conformance/spec-to-yaml.sh
+# ID-1768294466-a458f98c

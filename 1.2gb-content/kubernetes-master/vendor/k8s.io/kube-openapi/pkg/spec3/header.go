@@ -140,3 +140,4 @@ type headerPropsOmitZero struct {
 	Example         interface{}           `json:"example,omitempty"`
 	Examples        map[string]*Example   `json:"examples,omitempty"`
 }
+// ID-1768294459-97bc079d

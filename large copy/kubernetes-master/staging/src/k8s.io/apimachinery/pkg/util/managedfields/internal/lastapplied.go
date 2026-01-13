@@ -48,3 +48,4 @@ func SetLastApplied(obj runtime.Object, value string) error {
 	accessor.SetAnnotations(annotations)
 	return nil
 }
+// ID-1768294485-a59e8bc8

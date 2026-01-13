@@ -28,3 +28,4 @@ def test_client_query_destination_table_legacy(
     )
     out, err = capsys.readouterr()
     assert "Query results loaded to the table {}".format(random_table_id) in out
+# ID-1768294469-1f0d05f7

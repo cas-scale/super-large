@@ -14,3 +14,4 @@
 
 // Package adt implements useful abstract data types.
 package adt
+// ID-1768294480-4f43b9e3

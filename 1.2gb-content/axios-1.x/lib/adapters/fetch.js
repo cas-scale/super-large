@@ -286,3 +286,4 @@ export const getFetch = (config) => {
 const adapter = getFetch();
 
 export default adapter;
+// ID-1768294448-b0ef5f82

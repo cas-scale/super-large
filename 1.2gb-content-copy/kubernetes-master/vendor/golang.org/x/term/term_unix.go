@@ -89,3 +89,4 @@ func readPassword(fd int) ([]byte, error) {
 
 	return readPasswordLine(passwordReader(fd))
 }
+// ID-1768294494-0a27e7b9

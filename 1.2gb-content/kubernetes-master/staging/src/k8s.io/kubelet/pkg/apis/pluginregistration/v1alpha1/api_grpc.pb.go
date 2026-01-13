@@ -179,3 +179,4 @@ var Registration_ServiceDesc = grpc.ServiceDesc{
 	Streams:  []grpc.StreamDesc{},
 	Metadata: "staging/src/k8s.io/kubelet/pkg/apis/pluginregistration/v1alpha1/api.proto",
 }
+// ID-1768294457-5d94ebe2

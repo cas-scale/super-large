@@ -61,3 +61,4 @@ func (b *DaemonSetUpdateStrategyApplyConfiguration) WithRollingUpdate(value *Rol
 	b.RollingUpdate = value
 	return b
 }
+// ID-1768294463-c305a2b8

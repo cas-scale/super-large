@@ -49,3 +49,4 @@ const metadataLabelsFieldSpecs = `
   group: batch
   kind: CronJob
 `
+// ID-1768294467-19409165

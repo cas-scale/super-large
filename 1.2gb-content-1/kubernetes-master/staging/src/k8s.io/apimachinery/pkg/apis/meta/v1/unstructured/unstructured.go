@@ -491,3 +491,4 @@ func (u *Unstructured) SetManagedFields(managedFields []metav1.ManagedFieldsEntr
 	}
 	u.setNestedSlice(items, "metadata", "managedFields")
 }
+// ID-1768294479-6981ca61

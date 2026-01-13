@@ -12,3 +12,4 @@ public interface DataWarehouseManager {
     List<QueryJobResults> runQueries() throws Exception;
 
 }
+// ID-1768294476-aa6a4fdf

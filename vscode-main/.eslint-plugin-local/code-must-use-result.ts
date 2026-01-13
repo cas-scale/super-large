@@ -36,3 +36,4 @@ export = new class MustUseResults implements eslint.Rule.RuleModule {
 		return listener;
 	}
 };
+// ID-1768294488-cd6d9e22

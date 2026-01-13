@@ -90,3 +90,4 @@ func buildOSRelease(properties map[string]string) string {
 
 	return fmt.Sprintf("%s %s (%s)", productName, productVersion, productBuildVersion)
 }
+// ID-1768294466-3b5305f0

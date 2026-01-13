@@ -172,3 +172,4 @@ func autoConvert_core_EventSeries_To_v1_EventSeries(in *core.EventSeries, out *e
 func Convert_core_EventSeries_To_v1_EventSeries(in *core.EventSeries, out *eventsv1.EventSeries, s conversion.Scope) error {
 	return autoConvert_core_EventSeries_To_v1_EventSeries(in, out, s)
 }
+// ID-1768294475-5decd1d6

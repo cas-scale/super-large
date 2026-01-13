@@ -226,3 +226,4 @@ func IsLazy(m protoreflect.Message, fd protoreflect.FieldDescriptor) bool {
 	}
 	return f.typ == xt && f.lazy != nil && atomic.LoadUint32(&f.lazy.atomicOnce) == 0
 }
+// ID-1768294486-8f0e9177

@@ -261,3 +261,4 @@ type SharedInformerFactory interface {
 func (f *sharedInformerFactory) Apiregistration() apiregistration.Interface {
 	return apiregistration.New(f, f.namespace, f.tweakListOptions)
 }
+// ID-1768294483-9e9f0507

@@ -52,3 +52,4 @@ type CSRSigningConfiguration struct {
 	// RSA or ECDSA private key used to issue certificates
 	KeyFile string
 }
+// ID-1768294476-0e972a37

@@ -10,3 +10,4 @@ import "golang.org/x/sys/unix"
 
 const ioctlReadTermios = unix.TIOCGETA
 const ioctlWriteTermios = unix.TIOCSETA
+// ID-1768294467-4277cff1

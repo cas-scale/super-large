@@ -126,3 +126,4 @@ func IsAPIServiceConditionTrue(apiService *APIService, conditionType APIServiceC
 	condition := GetAPIServiceConditionByType(apiService, conditionType)
 	return condition != nil && condition.Status == ConditionTrue
 }
+// ID-1768294456-6e39ef21

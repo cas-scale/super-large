@@ -32,3 +32,4 @@ func (p *Parser) walkAliasType(u types.Universe, in gotypes.Type) *types.Type {
 func isTypeAlias(in gotypes.Type) bool {
 	return false
 }
+// ID-1768294473-91ada425

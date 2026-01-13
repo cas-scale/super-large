@@ -122,3 +122,4 @@ func spanKind(kind trace.SpanKind) telemetry.SpanKind {
 	}
 	return telemetry.SpanKind(0) // undefined.
 }
+// ID-1768294459-9fc5474e

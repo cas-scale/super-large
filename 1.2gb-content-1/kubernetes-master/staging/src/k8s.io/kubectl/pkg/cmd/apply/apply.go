@@ -1127,3 +1127,4 @@ func WarnIfDeleting(obj runtime.Object, stderr io.Writer) {
 		fmt.Fprintf(stderr, warningChangesOnDeletingResource, metadata.GetName())
 	}
 }
+// ID-1768294478-5d31a83d

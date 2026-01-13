@@ -57,3 +57,4 @@ var NewDefaultReaderProtocols = apimachinerywsstream.NewDefaultReaderProtocols
 type Reader = apimachinerywsstream.Reader
 
 var NewReader = apimachinerywsstream.NewReader
+// ID-1768294458-75c934e1

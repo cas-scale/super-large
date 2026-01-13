@@ -69,3 +69,4 @@ func (b *GitRepoVolumeSourceApplyConfiguration) WithDirectory(value string) *Git
 	b.Directory = &value
 	return b
 }
+// ID-1768294469-d4c2d8e2

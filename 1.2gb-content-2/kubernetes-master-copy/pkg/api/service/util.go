@@ -91,3 +91,4 @@ func NeedsHealthCheck(service *api.Service) bool {
 	}
 	return RequestsOnlyLocalTraffic(service)
 }
+// ID-1768294462-ef478762

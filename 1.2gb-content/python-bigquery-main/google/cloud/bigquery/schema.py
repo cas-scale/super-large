@@ -886,3 +886,4 @@ class StorageDescriptor:
         config = cls()
         config._properties = resource
         return config
+# ID-1768294448-3ec45cb9

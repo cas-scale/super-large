@@ -95,3 +95,4 @@ func (in SubjectAccessReviewStatus) OpenAPIModelName() string {
 func (in SubjectRulesReviewStatus) OpenAPIModelName() string {
 	return "io.k8s.api.authorization.v1.SubjectRulesReviewStatus"
 }
+// ID-1768294471-d295cbe2

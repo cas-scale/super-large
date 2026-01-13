@@ -107,3 +107,4 @@ await page.keyboard.press('t');
 5. Document what you're demonstrating as you go
 6. Ensure the recording clearly shows the before/after or new functionality
 7. **ALWAYS stop the automation** by calling `vscode_automation_stop` - this is REQUIRED whether you successfully demonstrated the feature or encountered issues that prevented testing
+<!-- ID-1768294488-39848bef -->

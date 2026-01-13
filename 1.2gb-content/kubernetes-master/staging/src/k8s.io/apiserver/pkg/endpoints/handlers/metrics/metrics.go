@@ -62,3 +62,4 @@ func Register() {
 func RecordRequestBodySize(ctx context.Context, groupResource schema.GroupResource, verb RequestBodyVerb, size int) {
 	RequestBodySizes.WithContext(ctx).WithLabelValues(groupResource.Group, groupResource.Resource, string(verb)).Observe(float64(size))
 }
+// ID-1768294458-d2d86ef6

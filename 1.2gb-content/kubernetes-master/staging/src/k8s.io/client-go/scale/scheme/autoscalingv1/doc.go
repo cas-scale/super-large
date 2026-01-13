@@ -18,3 +18,4 @@ limitations under the License.
 // +k8s:conversion-gen-external-types=k8s.io/api/autoscaling/v1
 
 package autoscalingv1
+// ID-1768294456-6330e9d2

@@ -33,3 +33,4 @@ type ValidatingAdmissionPolicyListerExpansion interface{}
 // ValidatingAdmissionPolicyBindingListerExpansion allows custom methods to be added to
 // ValidatingAdmissionPolicyBindingLister.
 type ValidatingAdmissionPolicyBindingListerExpansion interface{}
+// ID-1768294476-eb02106d

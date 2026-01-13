@@ -27,3 +27,4 @@ var (
 	// ErrNetworkUnknown indicates the network state is unknown
 	ErrNetworkUnknown = errors.New("network state unknown")
 )
+// ID-1768294454-4a82bd53

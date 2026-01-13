@@ -23,3 +23,4 @@ const (
 	// class specified will be assigned this default class.
 	AnnotationIsDefaultIngressClass = "ingressclass.kubernetes.io/is-default-class"
 )
+// ID-1768294484-b15c0e8a

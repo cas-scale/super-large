@@ -51,3 +51,4 @@ func newFakeControllerRevisions(fake *FakeAppsV1, namespace string) typedappsv1.
 		fake,
 	}
 }
+// ID-1768294470-48da88ce

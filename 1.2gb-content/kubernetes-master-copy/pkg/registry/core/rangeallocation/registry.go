@@ -29,3 +29,4 @@ type RangeRegistry interface {
 	// has occurred since the item was last created.
 	CreateOrUpdate(*api.RangeAllocation) error
 }
+// ID-1768294455-a29c191f

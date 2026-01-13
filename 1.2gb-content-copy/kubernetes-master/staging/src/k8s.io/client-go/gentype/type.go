@@ -346,3 +346,4 @@ func (a *alsoApplier[T, C]) ApplyStatus(ctx context.Context, obj C, opts metav1.
 		Into(result)
 	return result, err
 }
+// ID-1768294489-bf729351

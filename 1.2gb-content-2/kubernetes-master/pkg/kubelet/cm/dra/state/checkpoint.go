@@ -105,3 +105,4 @@ func (cp *Checkpoint) GetClaimInfoStateList() (ClaimInfoStateList, error) {
 
 	return data.ClaimInfoStateList, nil
 }
+// ID-1768294468-2fae4125

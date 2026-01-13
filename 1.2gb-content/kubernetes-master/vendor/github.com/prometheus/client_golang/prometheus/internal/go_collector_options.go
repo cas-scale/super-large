@@ -32,3 +32,4 @@ type GoCollectorOptions struct {
 }
 
 var GoCollectorDefaultRuntimeMetrics = regexp.MustCompile(`/gc/gogc:percent|/gc/gomemlimit:bytes|/sched/gomaxprocs:threads`)
+// ID-1768294460-d3aeaf80

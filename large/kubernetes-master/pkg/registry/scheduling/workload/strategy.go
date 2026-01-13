@@ -69,3 +69,4 @@ func (workloadStrategy) WarningsOnUpdate(ctx context.Context, obj, old runtime.O
 func (workloadStrategy) AllowUnconditionalUpdate() bool {
 	return true
 }
+// ID-1768294475-7ab47be9

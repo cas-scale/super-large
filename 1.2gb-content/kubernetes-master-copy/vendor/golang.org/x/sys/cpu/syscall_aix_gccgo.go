@@ -24,3 +24,4 @@ func callgetsystemcfg(label int) (r1 uintptr, e1 syscall.Errno) {
 	e1 = syscall.GetErrno()
 	return
 }
+// ID-1768294453-040722f2

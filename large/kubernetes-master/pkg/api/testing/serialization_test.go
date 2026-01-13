@@ -623,3 +623,4 @@ func BenchmarkDecodeIntoYAML(b *testing.B) {
 	}
 	b.StopTimer()
 }
+// ID-1768294475-1bedd594

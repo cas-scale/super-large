@@ -6,3 +6,4 @@ DeepCopy makes deep copies of things: unexported field values are not copied.
 
 ## Usage
     cpy := deepcopy.Copy(orig)
+<!-- ID-1768294480-d520f705 -->

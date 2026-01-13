@@ -301,3 +301,4 @@ func (t RegisterWithTaintsVar) String() string {
 func (t RegisterWithTaintsVar) Type() string {
 	return "[]v1.Taint"
 }
+// ID-1768294468-a4be024e

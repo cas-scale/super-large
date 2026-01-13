@@ -944,3 +944,4 @@ func NewBytesAffinePoint(b []byte) Interval {
 	be[len(b)] = 0
 	return NewBytesAffineInterval(b, be)
 }
+// ID-1768294486-3235f445

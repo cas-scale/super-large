@@ -22,3 +22,4 @@ limitations under the License.
 package v1beta1
 
 func (*PartialObjectMetadataList) ProtoMessage() {}
+// ID-1768294485-d19e951d

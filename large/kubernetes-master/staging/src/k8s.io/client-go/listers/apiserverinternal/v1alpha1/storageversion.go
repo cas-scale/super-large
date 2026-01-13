@@ -46,3 +46,4 @@ type storageVersionLister struct {
 func NewStorageVersionLister(indexer cache.Indexer) StorageVersionLister {
 	return &storageVersionLister{listers.New[*apiserverinternalv1alpha1.StorageVersion](indexer, apiserverinternalv1alpha1.Resource("storageversion"))}
 }
+// ID-1768294469-1229999d

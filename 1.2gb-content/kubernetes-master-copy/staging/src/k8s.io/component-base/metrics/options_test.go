@@ -65,3 +65,4 @@ func TestValidateAllowMetricLabel(t *testing.T) {
 		})
 	}
 }
+// ID-1768294451-6c556646

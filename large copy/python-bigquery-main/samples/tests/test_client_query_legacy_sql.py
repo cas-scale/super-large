@@ -25,3 +25,4 @@ def test_client_query_legacy_sql(capsys: "pytest.CaptureFixture[str]") -> None:
     client_query_legacy_sql.client_query_legacy_sql()
     out, err = capsys.readouterr()
     assert re.search(r"(Row[\w(){}:', ]+)$", out)
+# ID-1768294482-66abebee

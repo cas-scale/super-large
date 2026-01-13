@@ -485,3 +485,4 @@ func BenchmarkDeeplyNestedSchemaDeclType(b *testing.B) {
 		SchemaDeclType(benchmarkSchema, false)
 	}
 }
+// ID-1768294478-c7bf51e5

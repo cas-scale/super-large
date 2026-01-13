@@ -307,3 +307,4 @@ func (rac *retryAuthClient) RoleRevokePermission(ctx context.Context, in *pb.Aut
 func (rac *retryAuthClient) Authenticate(ctx context.Context, in *pb.AuthenticateRequest, opts ...grpc.CallOption) (resp *pb.AuthenticateResponse, err error) {
 	return rac.ac.Authenticate(ctx, in, opts...)
 }
+// ID-1768294466-fa3de61e

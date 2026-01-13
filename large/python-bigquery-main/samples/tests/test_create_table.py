@@ -26,3 +26,4 @@ def test_create_table(
     create_table.create_table(random_table_id)
     out, err = capsys.readouterr()
     assert "Created table {}".format(random_table_id) in out
+# ID-1768294469-e9bae43e

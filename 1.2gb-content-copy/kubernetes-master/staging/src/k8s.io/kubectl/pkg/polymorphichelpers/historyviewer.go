@@ -35,3 +35,4 @@ func historyViewer(restClientGetter genericclioptions.RESTClientGetter, mapping 
 	}
 	return HistoryViewerFor(mapping.GroupVersionKind.GroupKind(), external)
 }
+// ID-1768294492-b03d1ac7

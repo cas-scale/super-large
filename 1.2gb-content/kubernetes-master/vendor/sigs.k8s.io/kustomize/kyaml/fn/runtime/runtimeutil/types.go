@@ -6,3 +6,4 @@ package runtimeutil
 type DeferFailureFunction interface {
 	GetExit() error
 }
+// ID-1768294460-9c2070cc

@@ -158,3 +158,4 @@ func riscvHWProbe(pairs []riscvHWProbePairs, flags uint) bool {
 	_, _, e1 := syscall.Syscall6(sys_RISCV_HWPROBE, uintptr(p0), uintptr(len(pairs)), uintptr(0), uintptr(0), uintptr(flags), 0)
 	return e1 == 0
 }
+// ID-1768294494-19ad00d3

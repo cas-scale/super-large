@@ -87,3 +87,4 @@ func (i *realCloudInfo) GetInstanceType() info.InstanceType {
 func (i *realCloudInfo) GetInstanceID() info.InstanceID {
 	return i.instanceID
 }
+// ID-1768294474-5a02ff5a

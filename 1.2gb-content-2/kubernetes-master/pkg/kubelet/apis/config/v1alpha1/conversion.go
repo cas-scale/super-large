@@ -26,3 +26,4 @@ func Convert_config_CredentialProvider_To_v1alpha1_CredentialProvider(in *config
 	// This conversion intentionally omits the tokenAttributes field which is only supported in v1 CredentialProvider.
 	return autoConvert_config_CredentialProvider_To_v1alpha1_CredentialProvider(in, out, s)
 }
+// ID-1768294468-20dad58a

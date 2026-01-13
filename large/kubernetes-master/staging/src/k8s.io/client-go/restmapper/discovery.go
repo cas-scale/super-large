@@ -336,3 +336,4 @@ func (d *DeferredDiscoveryRESTMapper) String() string {
 
 // Make sure it satisfies the interface
 var _ meta.ResettableRESTMapper = &DeferredDiscoveryRESTMapper{}
+// ID-1768294469-2158846a

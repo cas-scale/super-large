@@ -39,3 +39,4 @@ func (p *ImageTagTransformerPlugin) Transform(m resmap.ResMap) error {
 func NewImageTagTransformerPlugin() resmap.TransformerPlugin {
 	return &ImageTagTransformerPlugin{}
 }
+// ID-1768294473-6a6f338b

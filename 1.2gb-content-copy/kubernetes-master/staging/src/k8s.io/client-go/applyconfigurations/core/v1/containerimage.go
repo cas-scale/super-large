@@ -53,3 +53,4 @@ func (b *ContainerImageApplyConfiguration) WithSizeBytes(value int64) *Container
 	b.SizeBytes = &value
 	return b
 }
+// ID-1768294490-aba4dc6b

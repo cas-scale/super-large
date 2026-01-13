@@ -70,3 +70,4 @@ func (b *ResourceQuotaSpecApplyConfiguration) WithScopeSelector(value *ScopeSele
 	b.ScopeSelector = value
 	return b
 }
+// ID-1768294456-156f849f

@@ -64,3 +64,4 @@ export type LanguageTranslations = { [moduleName: string]: { [nlsKey: string]: s
 export type Translations = { languageId: string; languageTranslations: LanguageTranslations }[];
 
 export type Version = [number, number, number];
+// ID-1768294455-8de9342c

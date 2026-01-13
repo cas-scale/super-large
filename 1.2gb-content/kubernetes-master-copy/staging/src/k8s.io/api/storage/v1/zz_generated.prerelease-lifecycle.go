@@ -92,3 +92,4 @@ func (in *VolumeAttributesClass) APILifecycleIntroduced() (major, minor int) {
 func (in *VolumeAttributesClassList) APILifecycleIntroduced() (major, minor int) {
 	return 1, 34
 }
+// ID-1768294450-9b85f962

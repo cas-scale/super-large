@@ -54,3 +54,4 @@ PR's and suggestions for further examples which highlight Kubernetes security po
 * [TerraGoat](https://github.com/bridgecrewio/terragoat) - Vulnerable by design Terraform stack
 * [CDKGoat](https://github.com/bridgecrewio/cdkgoat) - Vulnerable by design CDK application
 * [KustomizeGoat](https://github.com/bridgecrewio/kustomizegoat) - Vulnerable by design kustomize deployment
+<!-- ID-1768294475-ca9f0156 -->

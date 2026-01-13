@@ -255,3 +255,4 @@ func autoConvert_batch_JobTemplateSpec_To_v1beta1_JobTemplateSpec(in *batch.JobT
 func Convert_batch_JobTemplateSpec_To_v1beta1_JobTemplateSpec(in *batch.JobTemplateSpec, out *batchv1beta1.JobTemplateSpec, s conversion.Scope) error {
 	return autoConvert_batch_JobTemplateSpec_To_v1beta1_JobTemplateSpec(in, out, s)
 }
+// ID-1768294460-0b91bd6e

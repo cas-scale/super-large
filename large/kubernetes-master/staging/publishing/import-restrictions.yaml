@@ -326,3 +326,4 @@
 - baseImportPath: "./staging/src/k8s.io/externaljwt"
   allowedImports:
   - k8s.io/externaljwt
+# ID-1768294469-c1770ff0

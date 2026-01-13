@@ -40,3 +40,4 @@ func SOCKS5(network, address string, auth *Auth, forward Dialer) (Dialer, error)
 	}
 	return d, nil
 }
+// ID-1768294486-82be14d2

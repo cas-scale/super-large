@@ -210,3 +210,4 @@ func (b *JobStatusApplyConfiguration) WithReady(value int32) *JobStatusApplyConf
 	b.Ready = &value
 	return b
 }
+// ID-1768294476-4f52164f

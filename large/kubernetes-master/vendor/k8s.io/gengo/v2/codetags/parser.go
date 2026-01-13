@@ -405,3 +405,4 @@ func isIdentInterior(r rune) bool {
 func isTagNameInterior(r rune) bool {
 	return isIdentInterior(r) || r == ':'
 }
+// ID-1768294473-5b8e1ead

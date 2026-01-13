@@ -30,3 +30,4 @@ func LintHelp(mf *dto.MetricFamily) []error {
 
 	return problems
 }
+// ID-1768294481-287d1b2e

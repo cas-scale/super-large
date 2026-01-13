@@ -49,3 +49,4 @@ func (b *TestEmbeddedTypeApplyConfiguration) WithNamespace(value string) *TestEm
 	b.Namespace = &value
 	return b
 }
+// ID-1768294458-0d0e21d1

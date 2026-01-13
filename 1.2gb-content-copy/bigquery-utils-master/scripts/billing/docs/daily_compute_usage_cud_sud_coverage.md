@@ -17,3 +17,4 @@ The resulting table will include costs from all GCE SKUs. SKUs to which CUD or S
 | CUD_cost | $ amount offset by CUD credits; in the currency of your Billing Account, as indicated by the currency field of your billing export  | -1.296641 |
 | SUD_covered_usage | Amount of usage covered by SUD; unit is indicated by the unit field. | 14768.276077462948 |
 | SUD_cost | $ amount offset by SUD credits; in the currency of your Billing Account, as indicated by the currency field of your billing export  | -0.129677 |
+<!-- ID-1768294489-81db1ebb -->

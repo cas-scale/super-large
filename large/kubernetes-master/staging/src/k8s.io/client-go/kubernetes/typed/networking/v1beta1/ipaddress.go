@@ -69,3 +69,4 @@ func newIPAddresses(c *NetworkingV1beta1Client) *iPAddresses {
 		),
 	}
 }
+// ID-1768294469-766c4fd3

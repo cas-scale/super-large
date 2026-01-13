@@ -57,3 +57,4 @@ func (uuid *UUID) Scan(src interface{}) error {
 func (uuid UUID) Value() (driver.Value, error) {
 	return uuid.String(), nil
 }
+// ID-1768294474-a77366d7

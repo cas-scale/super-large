@@ -37,3 +37,4 @@ var (
 	// AddToScheme is a common registration function for mapping packaged scoped group & version keys to a scheme
 	AddToScheme = localSchemeBuilder.AddToScheme
 )
+// ID-1768294489-02f74bf3

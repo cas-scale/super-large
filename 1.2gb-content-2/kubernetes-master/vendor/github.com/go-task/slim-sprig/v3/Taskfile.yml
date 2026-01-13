@@ -10,3 +10,4 @@ tasks:
   test:
     cmds:
       - go test -v .
+# ID-1768294467-3233e0a5

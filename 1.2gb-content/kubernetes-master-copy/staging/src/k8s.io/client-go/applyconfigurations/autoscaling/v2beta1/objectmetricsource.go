@@ -89,3 +89,4 @@ func (b *ObjectMetricSourceApplyConfiguration) WithAverageValue(value resource.Q
 	b.AverageValue = &value
 	return b
 }
+// ID-1768294449-ee8d1ddc

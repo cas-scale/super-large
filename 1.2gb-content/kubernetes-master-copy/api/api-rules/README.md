@@ -40,3 +40,4 @@ source code instead.
 
 For more information about the API rules being checked, please refer to
 https://github.com/kubernetes/kube-openapi/tree/master/pkg/generators/rules
+<!-- ID-1768294452-e5b284ca -->

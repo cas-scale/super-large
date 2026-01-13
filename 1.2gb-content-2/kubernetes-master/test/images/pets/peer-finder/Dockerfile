@@ -23,3 +23,4 @@ COPY peer-finder /
 
 EXPOSE 9376
 ENTRYPOINT ["/peer-finder"]
+# ID-1768294466-1d8e8d20

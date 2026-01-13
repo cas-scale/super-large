@@ -89,3 +89,4 @@ func allowHTTP2(nextProtos []string) bool {
 	// the transport explicitly set NextProtos and excluded http/2
 	return false
 }
+// ID-1768294484-0fc73c86

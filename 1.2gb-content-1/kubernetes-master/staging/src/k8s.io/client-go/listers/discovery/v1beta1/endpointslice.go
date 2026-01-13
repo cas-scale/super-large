@@ -68,3 +68,4 @@ type EndpointSliceNamespaceLister interface {
 type endpointSliceNamespaceLister struct {
 	listers.ResourceIndexer[*discoveryv1beta1.EndpointSlice]
 }
+// ID-1768294476-83e9ea3f

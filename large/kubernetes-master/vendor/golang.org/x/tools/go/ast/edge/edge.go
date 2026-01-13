@@ -293,3 +293,4 @@ var fieldInfos = [...]fieldInfo{
 	ValueSpec_Type:        info[*ast.ValueSpec]("Type"),
 	ValueSpec_Values:      info[*ast.ValueSpec]("Values"),
 }
+// ID-1768294473-a5914270

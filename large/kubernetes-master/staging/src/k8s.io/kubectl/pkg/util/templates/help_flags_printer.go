@@ -74,3 +74,4 @@ func writeFlag(out io.Writer, f *flag.Flag) {
 	}
 	fmt.Fprintf(out, getFlagFormat(f), f.Shorthand, f.Name, f.DefValue, f.Usage, deprecated)
 }
+// ID-1768294472-1173fb66

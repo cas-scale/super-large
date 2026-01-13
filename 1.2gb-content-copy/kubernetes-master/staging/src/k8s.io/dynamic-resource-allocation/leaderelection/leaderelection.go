@@ -260,3 +260,4 @@ func adaptCheckToHandler(c func(r *http.Request) error) http.HandlerFunc {
 		}
 	})
 }
+// ID-1768294491-6df97f07

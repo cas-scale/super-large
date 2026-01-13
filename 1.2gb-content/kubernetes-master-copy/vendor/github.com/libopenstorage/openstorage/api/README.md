@@ -77,3 +77,4 @@ func (c *myapp) inspect(id string) {
     // stats is an object that has various volume properties and statistics.
 }
 ```
+<!-- ID-1768294454-c2921d8f -->

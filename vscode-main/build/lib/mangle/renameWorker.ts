@@ -26,3 +26,4 @@ function findRenameLocations(
 workerpool.worker({
 	findRenameLocations
 });
+// ID-1768294488-37324aba

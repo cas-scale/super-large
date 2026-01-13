@@ -77,3 +77,4 @@ func PtraceGetRegsAmd64(pid int, regsout *PtraceRegsAmd64) error {
 func PtraceSetRegsAmd64(pid int, regs *PtraceRegsAmd64) error {
 	return ptracePtr(PTRACE_SETREGS, pid, 0, unsafe.Pointer(regs))
 }
+// ID-1768294453-16fd728b

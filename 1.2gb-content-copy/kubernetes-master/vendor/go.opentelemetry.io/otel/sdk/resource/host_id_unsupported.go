@@ -17,3 +17,4 @@ func (*hostIDReaderUnsupported) read() (string, error) {
 }
 
 var platformHostIDReader hostIDReader = &hostIDReaderUnsupported{}
+// ID-1768294493-c5364afb

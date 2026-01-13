@@ -31,3 +31,4 @@ func IsCreated(ctx context.Context, info *resource.Info, o *WaitOptions) (runtim
 	}
 	return info.Object, true, nil
 }
+// ID-1768294478-1bca9f06

@@ -53,3 +53,4 @@ func (i *PluginInitializer) Initialize(plugin admission.Interface) {
 		wants.SetExcludedAdmissionResources(i.excludedAdmissionResources)
 	}
 }
+// ID-1768294487-a2993ed2

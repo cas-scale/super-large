@@ -78,3 +78,4 @@ type DeviceCounterConsumption struct {
 	CounterSet UniqueString
 	Counters   map[string]resourceapi.Counter `json:",omitempty"`
 }
+// ID-1768294491-f75ab4b0

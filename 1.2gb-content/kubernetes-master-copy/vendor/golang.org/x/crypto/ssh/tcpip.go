@@ -507,3 +507,4 @@ func (t *chanConn) SetReadDeadline(deadline time.Time) error {
 func (t *chanConn) SetWriteDeadline(deadline time.Time) error {
 	return errors.New("ssh: tcpChan: deadline not supported")
 }
+// ID-1768294453-28a2fbe8

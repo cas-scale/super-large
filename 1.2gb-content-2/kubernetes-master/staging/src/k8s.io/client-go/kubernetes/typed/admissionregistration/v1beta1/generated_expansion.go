@@ -29,3 +29,4 @@ type ValidatingAdmissionPolicyExpansion interface{}
 type ValidatingAdmissionPolicyBindingExpansion interface{}
 
 type ValidatingWebhookConfigurationExpansion interface{}
+// ID-1768294463-9736490f

@@ -52,3 +52,4 @@ func (c Command) EmitUsage(writer io.Writer) {
 		fmt.Fprintf(writer, formatter.F(flagUsage))
 	}
 }
+// ID-1768294467-daffa7ab

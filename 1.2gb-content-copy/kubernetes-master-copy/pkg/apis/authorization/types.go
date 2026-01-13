@@ -276,3 +276,4 @@ type NonResourceRule struct {
 	// final step in the path.  "*" means all.
 	NonResourceURLs []string
 }
+// ID-1768294489-b9852529

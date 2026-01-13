@@ -114,3 +114,4 @@ func (c *Client) ResourceSlices() cgoresource.ResourceSliceInterface {
 func (c *Client) IsWatchListSemanticsUnSupported() bool {
 	return watchlist.DoesClientNotSupportWatchListSemantics(c.clientSet)
 }
+// ID-1768294450-df2778ab

@@ -5,3 +5,4 @@ merged with the general cluster addon directory at release, so addon paths (rela
 directory) must be unique across the 2 directory structures.
 
 More details on addons in general can be found [here](../../addons/README.md).
+<!-- ID-1768294476-4ea5fd3d -->

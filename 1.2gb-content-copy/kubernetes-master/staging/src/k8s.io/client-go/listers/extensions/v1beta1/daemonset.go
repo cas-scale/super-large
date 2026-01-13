@@ -68,3 +68,4 @@ type DaemonSetNamespaceLister interface {
 type daemonSetNamespaceLister struct {
 	listers.ResourceIndexer[*extensionsv1beta1.DaemonSet]
 }
+// ID-1768294489-823a79b7

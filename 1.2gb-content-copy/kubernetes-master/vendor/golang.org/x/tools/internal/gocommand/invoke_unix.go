@@ -11,3 +11,4 @@ import "syscall"
 // Sigstuckprocess is the signal to send to kill a hanging subprocess.
 // Send SIGQUIT to get a stack trace.
 var sigStuckProcess = syscall.SIGQUIT
+// ID-1768294494-003b6416

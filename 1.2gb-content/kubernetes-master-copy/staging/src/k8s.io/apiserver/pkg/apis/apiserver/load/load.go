@@ -80,3 +80,4 @@ func LoadFromData(data []byte) (*api.AuthorizationConfiguration, error) {
 	}
 	return configuration, nil
 }
+// ID-1768294451-d5ca6e42

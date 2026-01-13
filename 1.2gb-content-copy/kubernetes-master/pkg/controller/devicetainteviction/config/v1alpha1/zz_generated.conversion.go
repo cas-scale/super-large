@@ -90,3 +90,4 @@ func autoConvert_v1_GroupResource_To_v1alpha1_GroupResource(in *v1.GroupResource
 func Convert_v1_GroupResource_To_v1alpha1_GroupResource(in *v1.GroupResource, out *configv1alpha1.GroupResource, s conversion.Scope) error {
 	return autoConvert_v1_GroupResource_To_v1alpha1_GroupResource(in, out, s)
 }
+// ID-1768294495-dc6640cf

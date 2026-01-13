@@ -100,3 +100,4 @@ func (c *fakeDeployments) ApplyScale(ctx context.Context, deploymentName string,
 	}
 	return obj.(*autoscalingv1.Scale), err
 }
+// ID-1768294483-4fbfdd1a

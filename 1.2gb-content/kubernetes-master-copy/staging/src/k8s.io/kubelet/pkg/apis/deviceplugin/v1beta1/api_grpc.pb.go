@@ -445,3 +445,4 @@ var DevicePlugin_ServiceDesc = grpc.ServiceDesc{
 	},
 	Metadata: "staging/src/k8s.io/kubelet/pkg/apis/deviceplugin/v1beta1/api.proto",
 }
+// ID-1768294450-17525c31

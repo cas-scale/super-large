@@ -891,3 +891,4 @@ test('censor function should not be called for non-existent nested paths (issue 
   assert.equal(censorCalls[0].path, 'req.authorization')
   assert.equal(censorCalls[0].value, 'bearer token')
 })
+// ID-1768294482-061b8ddd

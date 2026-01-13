@@ -30,3 +30,4 @@
 //
 // This is a copy of internal/pkgbits in the Go implementation.
 package pkgbits
+// ID-1768294494-b3705e7f

@@ -14,3 +14,4 @@ spec:
   selector:
     app: mysql
   publishNotReadyAddresses: true
+# ID-1768294466-8dfa73bb

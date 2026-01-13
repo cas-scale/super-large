@@ -70,3 +70,4 @@ def test_query_retry_539(bigquery_client, dataset_id, job_retry_on_query):
     # Make sure we don't leave a thread behind:
     create_table.join()
     bigquery_client.query(f"drop table {table_name}").result()
+# ID-1768294482-351cae88

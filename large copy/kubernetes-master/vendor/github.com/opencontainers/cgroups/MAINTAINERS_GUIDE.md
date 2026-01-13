@@ -90,3 +90,4 @@ The final vote to add a new maintainer should be approved by the [governance pro
 
 When a maintainer is unable to perform the [required duties](#what-are-a-maintainers-responsibilities) they can be removed by the [governance procedure](GOVERNANCE.md).
 Issues related to a maintainer's performance should be discussed with them among the other maintainers so that they are not surprised by a pull request removing them.
+<!-- ID-1768294487-b4c09fe8 -->

@@ -2234,3 +2234,4 @@ var entities = map[string]bool{
 	"&zwj;":                             true,
 	"&zwnj;":                            true,
 }
+// ID-1768294467-e67a846b

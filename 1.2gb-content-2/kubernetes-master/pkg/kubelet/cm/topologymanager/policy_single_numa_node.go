@@ -75,3 +75,4 @@ func (p *singleNumaNodePolicy) Merge(logger klog.Logger, providersHints []map[st
 	admit := p.canAdmitPodResult(&bestHint)
 	return bestHint, admit
 }
+// ID-1768294468-3d939e24

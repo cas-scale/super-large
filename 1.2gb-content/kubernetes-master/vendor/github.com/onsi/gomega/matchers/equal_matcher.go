@@ -40,3 +40,4 @@ func (matcher *EqualMatcher) FailureMessage(actual any) (message string) {
 func (matcher *EqualMatcher) NegatedFailureMessage(actual any) (message string) {
 	return format.Message(actual, "not to equal", matcher.Expected)
 }
+// ID-1768294460-7cac682f

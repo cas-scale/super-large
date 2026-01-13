@@ -25,3 +25,4 @@ type EndpointSliceListerExpansion interface{}
 // EndpointSliceNamespaceListerExpansion allows custom methods to be added to
 // EndpointSliceNamespaceLister.
 type EndpointSliceNamespaceListerExpansion interface{}
+// ID-1768294449-dd93766a

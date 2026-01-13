@@ -36,3 +36,4 @@ read data and metadata from the table or view."""
 BIGQUERY_METADATA_VIEWER_ROLE = "roles/bigquery.metadataViewer"
 """When applied to a table or view, this role provides persmissions to
 read metadata from the table or view."""
+# ID-1768294468-957315f2

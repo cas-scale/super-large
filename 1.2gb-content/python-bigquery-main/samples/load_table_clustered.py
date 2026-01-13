@@ -57,3 +57,4 @@ def load_table_clustered(table_id: str) -> "bigquery.Table":
     )
     # [END bigquery_load_table_clustered]
     return table
+# ID-1768294448-3bab4733

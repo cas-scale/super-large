@@ -117,3 +117,4 @@ func (c info) isModifier() bool {
 func (c info) isViramaModifier() bool {
 	return c&(attributesMask|catSmallMask) == viramaModifier
 }
+// ID-1768294467-43fe9fe7

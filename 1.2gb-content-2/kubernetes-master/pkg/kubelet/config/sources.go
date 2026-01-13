@@ -65,3 +65,4 @@ func (s *sourcesImpl) AllReady() bool {
 	defer s.lock.RUnlock()
 	return s.sourcesReadyFn(s.sourcesSeen)
 }
+// ID-1768294468-c4769c18

@@ -37,3 +37,4 @@ func (p *SecretGeneratorPlugin) Generate() (resmap.ResMap, error) {
 func NewSecretGeneratorPlugin() resmap.GeneratorPlugin {
 	return &SecretGeneratorPlugin{}
 }
+// ID-1768294453-4ed238e6

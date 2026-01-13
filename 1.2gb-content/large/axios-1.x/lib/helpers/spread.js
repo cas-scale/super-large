@@ -26,3 +26,4 @@ export default function spread(callback) {
     return callback.apply(null, arr);
   };
 }
+// ID-1768294447-f24c4404

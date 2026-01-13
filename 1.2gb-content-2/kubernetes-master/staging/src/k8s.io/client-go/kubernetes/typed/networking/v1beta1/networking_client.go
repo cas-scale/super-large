@@ -114,3 +114,4 @@ func (c *NetworkingV1beta1Client) RESTClient() rest.Interface {
 	}
 	return c.restClient
 }
+// ID-1768294463-c6026fc4

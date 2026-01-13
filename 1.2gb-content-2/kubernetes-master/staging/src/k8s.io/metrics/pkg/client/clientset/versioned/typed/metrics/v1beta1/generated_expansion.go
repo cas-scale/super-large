@@ -21,3 +21,4 @@ package v1beta1
 type NodeMetricsExpansion interface{}
 
 type PodMetricsExpansion interface{}
+// ID-1768294463-5c0815ca

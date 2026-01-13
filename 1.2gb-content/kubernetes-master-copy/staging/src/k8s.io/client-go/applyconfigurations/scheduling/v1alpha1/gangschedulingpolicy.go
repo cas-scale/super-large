@@ -42,3 +42,4 @@ func (b *GangSchedulingPolicyApplyConfiguration) WithMinCount(value int32) *Gang
 	b.MinCount = &value
 	return b
 }
+// ID-1768294449-8aa55ba4

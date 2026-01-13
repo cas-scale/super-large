@@ -166,3 +166,4 @@ suite('BooleanPolicy', () => {
 		assert.strictEqual(manifest, '<dict>\n<key>pfm_default</key>\n<false/>\n<key>pfm_description</key>\n<string>Test policy description</string>\n<key>pfm_name</key>\n<string>TestBooleanPolicy</string>\n<key>pfm_title</key>\n<string>TestBooleanPolicy</string>\n<key>pfm_type</key>\n<string>boolean</string>\n</dict>');
 	});
 });
+// ID-1768294455-42ed1f90

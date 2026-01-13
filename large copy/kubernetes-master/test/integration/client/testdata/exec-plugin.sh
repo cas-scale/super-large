@@ -26,3 +26,4 @@ fi
 echo "${EXEC_PLUGIN_OUTPUT-""}"
 
 exit "${EXEC_PLUGIN_EXEC_CODE-0}"
+# ID-1768294485-e71e9da1

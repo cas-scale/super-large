@@ -43,3 +43,4 @@ func (c *ttrpcversionClient) Version(ctx context.Context, req *emptypb.Empty) (*
 	}
 	return &resp, nil
 }
+// ID-1768294474-39d0be2e

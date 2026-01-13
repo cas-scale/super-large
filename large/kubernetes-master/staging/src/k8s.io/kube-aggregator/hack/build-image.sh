@@ -31,3 +31,4 @@ pushd "${KUBE_ROOT}/staging/src/k8s.io/kube-aggregator"
 cp -v ../../../../_output/local/bin/linux/amd64/kube-aggregator ./artifacts/simple-image/kube-aggregator
 docker build -t kube-aggregator:latest ./artifacts/simple-image
 popd
+# ID-1768294470-538251e2

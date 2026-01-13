@@ -162,3 +162,4 @@ func (s *TimedStore) getData(index int) timedStoreData {
 func (s *TimedStore) Size() int {
 	return len(s.buffer)
 }
+// ID-1768294460-446fcf5b

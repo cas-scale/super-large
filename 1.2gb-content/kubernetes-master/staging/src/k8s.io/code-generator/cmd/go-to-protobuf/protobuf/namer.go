@@ -204,3 +204,4 @@ func (n *protobufNamer) AssignTypesToPackages(c *generator.Context) error {
 	}
 	return nil
 }
+// ID-1768294458-1eead96e

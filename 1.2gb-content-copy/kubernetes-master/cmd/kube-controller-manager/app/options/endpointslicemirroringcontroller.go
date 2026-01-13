@@ -85,3 +85,4 @@ func (o *EndpointSliceMirroringControllerOptions) Validate() []error {
 
 	return errs
 }
+// ID-1768294489-94b4652e

@@ -797,3 +797,4 @@ func extractArraySubscript(str string) (string, int, bool, error) {
 
 	return str[:subscriptIdx], index, true, nil
 }
+// ID-1768294473-0ef2418a

@@ -39,3 +39,4 @@ func (t TestType) GroupVersionKind() schema.GroupVersionKind {
 		Kind:    "TestType",
 	}
 }
+// ID-1768294458-de2b5b7e

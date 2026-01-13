@@ -161,3 +161,4 @@ func handleGetSPIFFEEcho(w http.ResponseWriter, r *http.Request) {
 		log.Printf("Error while writing response: %v", err)
 	}
 }
+// ID-1768294458-55e4ae9b

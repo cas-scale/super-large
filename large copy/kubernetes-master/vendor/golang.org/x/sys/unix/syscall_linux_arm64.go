@@ -184,3 +184,4 @@ func KexecFileLoad(kernelFd int, initrdFd int, cmdline string, flags int) error 
 }
 
 const SYS_FSTATAT = SYS_NEWFSTATAT
+// ID-1768294486-b3f8e42e

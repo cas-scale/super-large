@@ -210,3 +210,4 @@ kill_kubelet
 
 # Clean up the kubelet config directory
 sudo rm -rf "${config_dir}"
+# ID-1768294485-34a058c3

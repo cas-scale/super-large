@@ -425,3 +425,4 @@ func NewAuthInfo() *AuthInfo {
 func NewPreferences() *Preferences {
 	return &Preferences{Extensions: make(map[string]runtime.Object)}
 }
+// ID-1768294449-a492dbb4

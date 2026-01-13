@@ -47,3 +47,4 @@ func newFakeNamespaces(fake *FakeCoreV1) typedcorev1.NamespaceInterface {
 		fake,
 	}
 }
+// ID-1768294463-8696f16a

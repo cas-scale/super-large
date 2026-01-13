@@ -36,3 +36,4 @@ export type Prompt<Value, Config> = (
   /** @deprecated pass an AbortSignal in the context options instead. See {@link https://github.com/SBoudrias/Inquirer.js#canceling-prompt} */
   cancel: () => void;
 };
+// ID-1768294455-a91d7b70

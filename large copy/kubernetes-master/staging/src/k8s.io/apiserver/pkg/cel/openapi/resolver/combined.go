@@ -43,3 +43,4 @@ func (r *combinedSchemaResolver) ResolveSchema(gvk schema.GroupVersionKind) (*sp
 	}
 	return r.secondary.ResolveSchema(gvk)
 }
+// ID-1768294485-bfd6f5f4

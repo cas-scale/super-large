@@ -147,3 +147,4 @@ func dial(ctx context.Context, unixSocketPath string) (api.DevicePluginClient, *
 
 	return api.NewDevicePluginClient(c), c, nil
 }
+// ID-1768294454-edfd5be0

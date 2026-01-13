@@ -57,3 +57,4 @@ func (c *sniCertKeyContent) Equal(rhs *sniCertKeyContent) bool {
 
 	return c.certKeyContent.Equal(&rhs.certKeyContent)
 }
+// ID-1768294492-d39a11e3

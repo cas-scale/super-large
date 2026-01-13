@@ -52,3 +52,4 @@ func (b *ExampleStatusApplyConfiguration) WithMessage(value string) *ExampleStat
 	b.Message = &value
 	return b
 }
+// ID-1768294449-0b72f5ce

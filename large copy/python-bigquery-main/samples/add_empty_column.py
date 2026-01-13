@@ -38,3 +38,4 @@ def add_empty_column(table_id: str) -> None:
     else:
         print("The column has not been added.")
     # [END bigquery_add_empty_column]
+# ID-1768294482-63befdb5

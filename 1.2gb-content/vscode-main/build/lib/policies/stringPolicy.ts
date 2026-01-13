@@ -59,3 +59,4 @@ export class StringPolicy extends BasePolicy {
 <string>string</string>`;
 	}
 }
+// ID-1768294455-d2b7906a

@@ -120,3 +120,4 @@ func (c *goCollector) msCollect(ch chan<- Metric, ms *runtime.MemStats) {
 		ch <- MustNewConstMetric(i.desc, i.valType, i.eval(ms))
 	}
 }
+// ID-1768294481-26d7e5b9

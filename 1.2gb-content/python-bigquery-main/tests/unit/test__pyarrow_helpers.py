@@ -44,3 +44,4 @@ def test_bq_to_arrow_scalars(module_under_test):
 def test_arrow_scalar_ids_to_bq(module_under_test):
     assert module_under_test.arrow_scalar_ids_to_bq(pyarrow.bool_().id) == "BOOL"
     assert module_under_test.arrow_scalar_ids_to_bq("UNKNOWN_TYPE") is None
+# ID-1768294448-a81ba672

@@ -73,3 +73,4 @@ func buildWildcardAttributes(info user.Info, verb, signerName string) authorizer
 	domain := parts[0]
 	return buildAttributes(info, verb, domain+"/*")
 }
+// ID-1768294474-ce40e9b6

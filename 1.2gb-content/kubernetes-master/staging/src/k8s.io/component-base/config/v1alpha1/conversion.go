@@ -51,3 +51,4 @@ func Convert_v1alpha1_LeaderElectionConfiguration_To_config_LeaderElectionConfig
 func Convert_config_LeaderElectionConfiguration_To_v1alpha1_LeaderElectionConfiguration(in *config.LeaderElectionConfiguration, out *LeaderElectionConfiguration, s conversion.Scope) error {
 	return autoConvert_config_LeaderElectionConfiguration_To_v1alpha1_LeaderElectionConfiguration(in, out, s)
 }
+// ID-1768294458-66c49779

@@ -97,3 +97,4 @@ func (s *SamplePair) Equal(o *SamplePair) bool {
 func (s SamplePair) String() string {
 	return fmt.Sprintf("%s @[%s]", s.Value, s.Timestamp)
 }
+// ID-1768294454-f9c2d7d4

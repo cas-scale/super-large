@@ -448,3 +448,4 @@ func RemoveNamespaceEndpoint(namespaceID string, endpointID string) error {
 
 	return ModifyNamespaceSettings(namespaceID, requestMessage)
 }
+// ID-1768294460-6990da13

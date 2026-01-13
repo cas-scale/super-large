@@ -1,2 +1,3 @@
 kind: CredentialProviderConfig
 apiVersion: kubelet.config.k8s.io/v1
+# ID-1768294488-3f7ada30

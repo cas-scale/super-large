@@ -47,3 +47,4 @@ function getVersion(root) {
     return version;
 }
 //# sourceMappingURL=getVersion.js.map
+// ID-1768294488-0765d600

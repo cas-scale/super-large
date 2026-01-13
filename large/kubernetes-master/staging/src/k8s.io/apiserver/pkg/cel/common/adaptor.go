@@ -104,3 +104,4 @@ type SchemaOrBool interface {
 	Schema() Schema
 	Allows() bool
 }
+// ID-1768294471-94d03ac2

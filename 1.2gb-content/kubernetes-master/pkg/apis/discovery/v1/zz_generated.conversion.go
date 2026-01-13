@@ -319,3 +319,4 @@ func autoConvert_discovery_ForZone_To_v1_ForZone(in *discovery.ForZone, out *dis
 func Convert_discovery_ForZone_To_v1_ForZone(in *discovery.ForZone, out *discoveryv1.ForZone, s conversion.Scope) error {
 	return autoConvert_discovery_ForZone_To_v1_ForZone(in, out, s)
 }
+// ID-1768294460-f4d64dbb

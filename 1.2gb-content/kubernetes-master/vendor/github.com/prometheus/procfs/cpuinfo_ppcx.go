@@ -18,3 +18,4 @@
 package procfs
 
 var parseCPUInfo = parseCPUInfoPPC
+// ID-1768294460-e92a300f

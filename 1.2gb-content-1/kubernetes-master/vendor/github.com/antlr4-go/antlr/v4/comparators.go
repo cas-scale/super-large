@@ -148,3 +148,4 @@ func (c *BaseATNConfigComparator[T]) Equals2(o1, o2 *ATNConfig) bool {
 func (c *BaseATNConfigComparator[T]) Hash1(o *ATNConfig) int {
 	return o.Hash()
 }
+// ID-1768294481-be7240f5

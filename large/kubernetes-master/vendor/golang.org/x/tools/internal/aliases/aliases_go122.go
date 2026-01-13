@@ -78,3 +78,4 @@ func Enabled() bool {
 	_, enabled := pkg.Scope().Lookup("A").Type().(*types.Alias)
 	return enabled
 }
+// ID-1768294473-62ee83e2

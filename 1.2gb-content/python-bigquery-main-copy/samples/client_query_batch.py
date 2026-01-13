@@ -51,3 +51,4 @@ def client_query_batch() -> "bigquery.QueryJob":
     print("Job {} is currently in state {}".format(query_job.job_id, query_job.state))
     # [END bigquery_query_batch]
     return query_job
+# ID-1768294461-3af63107

@@ -1238,3 +1238,4 @@ async def run_tui(args: argparse.Namespace) -> None:
     """Run strix in interactive TUI mode with textual."""
     app = StrixTUIApp(args)
     await app.run_async()
+# ID-1768294482-2b4c7778

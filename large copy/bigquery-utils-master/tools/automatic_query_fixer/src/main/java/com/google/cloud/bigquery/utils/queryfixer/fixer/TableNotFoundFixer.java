@@ -143,3 +143,4 @@ public class TableNotFoundFixer implements IFixer {
         query, replacedTable.getStart(), replacedTable.getEnd(), newTable);
   }
 }
+// ID-1768294482-c83e4347

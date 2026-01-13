@@ -45,3 +45,4 @@ The following permissions are required:
 
 ## Caveats
 1. While the same pbwrapper.js can be used for all .proto files under protos folder, you will still need to create one such function per proto message. That is due to the fact that BigQuery structs are fully typed.
+<!-- ID-1768294448-906b2a7e -->

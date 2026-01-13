@@ -196,3 +196,4 @@ func (cronJobStatusStrategy) ValidateUpdate(ctx context.Context, obj, old runtim
 func (cronJobStatusStrategy) WarningsOnUpdate(ctx context.Context, obj, old runtime.Object) []string {
 	return nil
 }
+// ID-1768294495-8bf96780

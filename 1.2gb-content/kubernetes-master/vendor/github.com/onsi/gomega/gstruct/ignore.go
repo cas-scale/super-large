@@ -39,3 +39,4 @@ func (m *IgnoreMatcher) FailureMessage(_ any) (message string) {
 func (m *IgnoreMatcher) NegatedFailureMessage(_ any) (message string) {
 	return "Unconditional success"
 }
+// ID-1768294460-c0f8b4dc

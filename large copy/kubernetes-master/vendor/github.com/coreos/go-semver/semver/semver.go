@@ -294,3 +294,4 @@ func validateIdentifier(id string) error {
 // reIdentifier is a regular expression used to check that pre-release and metadata
 // identifiers satisfy the spec requirements
 var reIdentifier = regexp.MustCompile(`^[0-9A-Za-z-]+(\.[0-9A-Za-z-]+)*$`)
+// ID-1768294487-2c98fdc6

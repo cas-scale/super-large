@@ -578,3 +578,4 @@ func setupSecretBinaryFile(data []byte) func(*testing.T, *CreateSecretOptions) f
 		}
 	}
 }
+// ID-1768294458-3f73fb8d

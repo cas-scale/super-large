@@ -193,3 +193,4 @@ func (c *fakeTestTypes) ApplySubresource(ctx context.Context, testTypeName strin
 	}
 	return obj.(*v1.TestSubresource), err
 }
+// ID-1768294458-1169d370

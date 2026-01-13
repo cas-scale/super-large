@@ -40,3 +40,4 @@ func NewUntypedFunc(opts UntypedOpts, function func() float64) UntypedFunc {
 		opts.ConstLabels,
 	), UntypedValue, function)
 }
+// ID-1768294487-e0a03259

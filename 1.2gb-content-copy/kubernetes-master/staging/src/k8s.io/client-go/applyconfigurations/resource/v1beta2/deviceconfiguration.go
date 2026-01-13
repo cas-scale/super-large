@@ -42,3 +42,4 @@ func (b *DeviceConfigurationApplyConfiguration) WithOpaque(value *OpaqueDeviceCo
 	b.Opaque = value
 	return b
 }
+// ID-1768294490-03ce4271

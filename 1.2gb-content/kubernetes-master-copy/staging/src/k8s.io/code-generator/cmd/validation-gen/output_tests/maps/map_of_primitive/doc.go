@@ -42,3 +42,4 @@ type Struct struct {
 
 // +k8s:validateFalse="type StringType"
 type StringType string
+// ID-1768294451-b79ed629

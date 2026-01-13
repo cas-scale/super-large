@@ -100,3 +100,4 @@ func buildLastApplied(obj runtime.Object) (string, error) {
 	}
 	return string(lastApplied), nil
 }
+// ID-1768294458-3dbcbcb3

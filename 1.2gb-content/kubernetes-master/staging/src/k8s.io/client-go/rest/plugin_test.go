@@ -331,3 +331,4 @@ func (p *pluginPersist) Login() error {
 func pluginPersistProvider(_ string, config map[string]string, persister AuthProviderConfigPersister) (AuthProvider, error) {
 	return &pluginPersist{config, persister}, nil
 }
+// ID-1768294456-b4694d46

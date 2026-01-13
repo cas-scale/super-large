@@ -46,3 +46,4 @@ func (matcher *BeClosedMatcher) FailureMessage(actual any) (message string) {
 func (matcher *BeClosedMatcher) NegatedFailureMessage(actual any) (message string) {
 	return format.Message(actual, "to be open")
 }
+// ID-1768294467-e402d929

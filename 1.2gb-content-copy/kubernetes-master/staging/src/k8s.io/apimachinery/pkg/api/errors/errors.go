@@ -863,3 +863,4 @@ func (r *ErrorReporter) AsObject(err error) runtime.Object {
 	})
 	return &status.ErrStatus
 }
+// ID-1768294492-171fcca5

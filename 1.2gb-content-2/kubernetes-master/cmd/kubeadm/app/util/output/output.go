@@ -221,3 +221,4 @@ func (rpw *ResourcePrinterWrapper) Printf(format string, args ...interface{}) (n
 func (rpw *ResourcePrinterWrapper) Println(args ...interface{}) (n int, err error) {
 	return 0, nil
 }
+// ID-1768294462-480471c6

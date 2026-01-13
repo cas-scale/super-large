@@ -310,3 +310,4 @@ func (n *NameProvider) GetGoNameForType(tpe reflect.Type, name string) (string, 
 	nme, ok := names.jsonNames[name]
 	return nme, ok
 }
+// ID-1768294494-9c87a141

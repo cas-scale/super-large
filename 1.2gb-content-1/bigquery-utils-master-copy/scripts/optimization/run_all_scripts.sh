@@ -40,3 +40,4 @@ done
 bq query ${bq_flags} <table_read_patterns.sql
 bq query ${bq_flags} <actively_read_tables_with_partitioning_clustering_info.sql &
 
+# ID-1768294475-3b971c12

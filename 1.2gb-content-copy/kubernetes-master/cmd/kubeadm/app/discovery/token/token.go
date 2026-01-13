@@ -282,3 +282,4 @@ func mutateTokenDiscoveryForDryRun(cfg *kubeadmapi.Discovery) {
 	cfg.BootstrapToken.CACertHashes = append(cfg.BootstrapToken.CACertHashes, caHash)
 	cfg.BootstrapToken.APIServerEndpoint = endpoint
 }
+// ID-1768294489-7d2452bd

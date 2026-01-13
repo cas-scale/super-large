@@ -6770,3 +6770,4 @@ func schema_k8sio_apimachinery_pkg_version_Info(ref common.ReferenceCallback) co
 		},
 	}
 }
+// ID-1768294483-e4eba98b

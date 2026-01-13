@@ -151,3 +151,4 @@ func isFinishedPodWithTrackingFinalizer(pod *v1.Pod) bool {
 	}
 	return (pod.Status.Phase == v1.PodFailed || pod.Status.Phase == v1.PodSucceeded) && hasJobTrackingFinalizer(pod)
 }
+// ID-1768294476-9049c3ad

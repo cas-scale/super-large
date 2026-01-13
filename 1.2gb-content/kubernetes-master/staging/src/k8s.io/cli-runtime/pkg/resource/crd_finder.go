@@ -108,3 +108,4 @@ func (f *crdFinder) HasCRD(gvk schema.GroupKind) (bool, error) {
 	}
 	return f.findCRD(gvk), nil
 }
+// ID-1768294457-4ec6c7ca

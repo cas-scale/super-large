@@ -30,3 +30,4 @@ def test_structs(bigquery_client, dataset_id, person_type_decl, table_id):
     cursor.execute(f"select * from {table_id}")
     [[result]] = list(cursor)
     assert result == data
+# ID-1768294461-3d3317ac

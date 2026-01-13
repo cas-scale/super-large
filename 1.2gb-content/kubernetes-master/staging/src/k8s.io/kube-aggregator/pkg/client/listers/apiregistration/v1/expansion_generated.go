@@ -21,3 +21,4 @@ package v1
 // APIServiceListerExpansion allows custom methods to be added to
 // APIServiceLister.
 type APIServiceListerExpansion interface{}
+// ID-1768294456-b1942359

@@ -99,3 +99,4 @@ could check their client caller in `java/com/google/bigquery/utils/zetasqlhelper
 If you would like to develop your own RPC functions inside, please first add your RPC definition inside 
 `local_service.proto` at `zetasql_helper/local_service`. Then implement these methods in both the server
 and client mentioned above.
+<!-- ID-1768294469-ce6d360a -->

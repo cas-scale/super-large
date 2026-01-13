@@ -289,3 +289,4 @@ func NewImagePolicyWebhook(configFile io.Reader) (*Plugin, error) {
 		defaultAllow:  whConfig.DefaultAllow,
 	}, nil
 }
+// ID-1768294466-1fc43fb5

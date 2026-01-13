@@ -99,3 +99,4 @@ func (f *deviceTaintRuleInformer) Informer() cache.SharedIndexInformer {
 func (f *deviceTaintRuleInformer) Lister() resourcev1alpha3.DeviceTaintRuleLister {
 	return resourcev1alpha3.NewDeviceTaintRuleLister(f.Informer().GetIndexer())
 }
+// ID-1768294448-7b495904

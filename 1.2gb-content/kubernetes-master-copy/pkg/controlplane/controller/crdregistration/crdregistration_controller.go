@@ -226,3 +226,4 @@ func (c *crdRegistrationController) handleVersionUpdate(groupVersion schema.Grou
 	c.apiServiceRegistration.RemoveAPIServiceToSync(apiServiceName)
 	return nil
 }
+// ID-1768294454-fc2a3f3a

@@ -29,3 +29,4 @@ type RegistryConfigEntry struct {
 	Password string
 	Email    string
 }
+// ID-1768294456-b35b6712

@@ -58,3 +58,4 @@ func NewStorage(optsGetter generic.RESTOptionsGetter) (*CSIStorageCapacityStorag
 		CSIStorageCapacity: &REST{store},
 	}, nil
 }
+// ID-1768294455-d85674f3

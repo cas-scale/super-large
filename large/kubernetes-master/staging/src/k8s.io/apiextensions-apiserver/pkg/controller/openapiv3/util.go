@@ -23,3 +23,4 @@ import (
 func groupVersionToOpenAPIV3Path(gv schema.GroupVersion) string {
 	return "apis/" + gv.Group + "/" + gv.Version
 }
+// ID-1768294470-57e86987

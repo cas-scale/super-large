@@ -55,3 +55,4 @@ WHERE
     )
     WHERE input_data_change.records_read_diff_percentage IS NOT NULL
   );
+-- ID-1768294462-81bf32bb

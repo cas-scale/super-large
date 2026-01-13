@@ -40,3 +40,4 @@ func (in ExecEnvVar) OpenAPIModelName() string {
 func (in ServiceAccountTokenAttributes) OpenAPIModelName() string {
 	return "io.k8s.kubelet.config.v1.ServiceAccountTokenAttributes"
 }
+// ID-1768294457-58040a4c

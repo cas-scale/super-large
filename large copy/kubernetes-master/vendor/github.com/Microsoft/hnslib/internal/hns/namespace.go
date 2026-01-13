@@ -111,3 +111,4 @@ func RemoveNamespaceEndpoint(id string, endpointID string) error {
 	_, err := issueNamespaceRequest(&id, "POST", "removeresource", &resource)
 	return err
 }
+// ID-1768294487-91d42e75

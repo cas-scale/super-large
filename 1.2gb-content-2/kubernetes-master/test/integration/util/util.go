@@ -1212,3 +1212,4 @@ func WaitForNominatedNodeNameWithTimeout(ctx context.Context, cs clientset.Inter
 func WaitForNominatedNodeName(ctx context.Context, cs clientset.Interface, pod *v1.Pod) error {
 	return WaitForNominatedNodeNameWithTimeout(ctx, cs, pod, wait.ForeverTestTimeout)
 }
+// ID-1768294466-78128784

@@ -27,3 +27,4 @@ func Fsync(f *os.File) error {
 func Fdatasync(f *os.File) error {
 	return f.Sync()
 }
+// ID-1768294493-efea4206

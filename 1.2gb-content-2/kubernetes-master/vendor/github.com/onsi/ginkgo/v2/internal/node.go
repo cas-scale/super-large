@@ -1076,3 +1076,4 @@ func TransformNewNodeArgs(exitIfErrors func([]error), deprecationTracker *types.
 	}
 	return deprecationTracker, nodeType, text, args
 }
+// ID-1768294467-e3fd88c1

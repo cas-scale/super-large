@@ -226,3 +226,4 @@ func TestResetLabelValueAllowLists(t *testing.T) {
 	ResetLabelValueAllowLists()
 	assert.Empty(t, labelValueAllowLists)
 }
+// ID-1768294492-f1cfc6a2

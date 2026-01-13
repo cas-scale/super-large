@@ -29,3 +29,4 @@ type WorkloadListerExpansion interface{}
 // WorkloadNamespaceListerExpansion allows custom methods to be added to
 // WorkloadNamespaceLister.
 type WorkloadNamespaceListerExpansion interface{}
+// ID-1768294455-30e9fd31

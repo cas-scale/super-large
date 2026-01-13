@@ -166,3 +166,4 @@ func (lw *wrappedListWatch) SetClient(ctx context.Context, clientSet kubernetes.
 		return clientSet.CoreV1().Secrets(ns.Name).Watch(ctx, options)
 	}
 }
+// ID-1768294493-b21d01fe

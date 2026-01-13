@@ -709,3 +709,4 @@ func getVolumeSpecFromGlobalMapPath(volumeName, globalMapPath string) (*volume.S
 	)
 	return volume.NewSpecFromPersistentVolume(iscsiPV, false), nil
 }
+// ID-1768294495-e0d6fd95

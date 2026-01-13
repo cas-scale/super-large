@@ -104,3 +104,4 @@ def delete_materialized_view(override_values: Optional[Dict[str, str]] = None) -
     # Make an API request to delete the materialized view.
     bigquery_client.delete_table(view_id)
     # [END bigquery_delete_materialized_view]
+# ID-1768294482-4bb75179

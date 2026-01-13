@@ -303,3 +303,4 @@ func (o metricAttributesOption) apply(c *config) {
 func WithMetricAttributes(a ...attribute.KeyValue) Option {
 	return metricAttributesOption{a: a}
 }
+// ID-1768294480-d7a8ec8e

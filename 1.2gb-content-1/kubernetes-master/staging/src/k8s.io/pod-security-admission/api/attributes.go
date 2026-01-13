@@ -144,3 +144,4 @@ func (a *attributes) decode(in runtime.RawExtension) (runtime.Object, error) {
 }
 
 var _ Attributes = &attributes{}
+// ID-1768294478-f0b21a77

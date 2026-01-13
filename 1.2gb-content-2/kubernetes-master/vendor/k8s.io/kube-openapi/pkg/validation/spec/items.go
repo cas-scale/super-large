@@ -178,3 +178,4 @@ func (i Items) MarshalNextJSON(opts jsonv2.MarshalOptions, enc *jsonv2.Encoder) 
 	x.Extensions = internal.SanitizeExtensions(i.Extensions)
 	return opts.MarshalNext(enc, x)
 }
+// ID-1768294467-b1a88cf5

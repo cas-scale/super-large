@@ -13,3 +13,4 @@ directory will be automatically synchronized to the `bqutil` project within the
 
 ### [round_datetime(d DATETIME, format STRING)](round_datetime.sqlx)
 Emulates the `ROUND(DATE, VARCHAR)` function from Oracle as [documented here](https://docs.oracle.com/cd/B14117_01/server.101/b10759/functions121.htm).
+<!-- ID-1768294489-eef69578 -->

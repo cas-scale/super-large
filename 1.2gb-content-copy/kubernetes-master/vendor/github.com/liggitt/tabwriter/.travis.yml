@@ -9,3 +9,4 @@ go:
   - master
 
 script: go test -v ./...
+# ID-1768294494-dc07fdc3

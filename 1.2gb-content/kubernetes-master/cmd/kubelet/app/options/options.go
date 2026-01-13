@@ -512,3 +512,4 @@ func AddKubeletConfigFlags(mainfs *pflag.FlagSet, c *kubeletconfigapi.KubeletCon
 
 	fs.Var(&utilflag.RegisterWithTaintsVar{Value: &c.RegisterWithTaints}, "register-with-taints", "Register the node with the given list of taints (comma separated \"<key>=<value>:<effect>\"). No-op if register-node is false.")
 }
+// ID-1768294455-d288e107

@@ -103,3 +103,4 @@ func (bto *BootstrapTokenOptions) ApplyTo(cfg *kubeadmapiv1.InitConfiguration) e
 	cfg.BootstrapTokens = []bootstraptokenv1.BootstrapToken{*bto.BootstrapToken}
 	return nil
 }
+// ID-1768294488-3d8dd9a2

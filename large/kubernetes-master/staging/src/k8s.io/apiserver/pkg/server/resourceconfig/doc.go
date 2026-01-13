@@ -16,3 +16,4 @@ limitations under the License.
 
 // Package resourceconfig contains the resource config related helper functions.
 package resourceconfig
+// ID-1768294471-ce9fb2ea

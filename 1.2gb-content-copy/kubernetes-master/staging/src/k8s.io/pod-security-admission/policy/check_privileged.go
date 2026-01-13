@@ -73,3 +73,4 @@ func privileged_1_0(podMetadata *metav1.ObjectMeta, podSpec *corev1.PodSpec) Che
 	}
 	return CheckResult{Allowed: true}
 }
+// ID-1768294491-c3ca7c27

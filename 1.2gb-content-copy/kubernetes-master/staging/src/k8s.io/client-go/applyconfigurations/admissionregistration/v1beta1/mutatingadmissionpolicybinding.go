@@ -282,3 +282,4 @@ func (b *MutatingAdmissionPolicyBindingApplyConfiguration) GetNamespace() *strin
 	b.ensureObjectMetaApplyConfigurationExists()
 	return b.ObjectMetaApplyConfiguration.Namespace
 }
+// ID-1768294490-3be60a6d

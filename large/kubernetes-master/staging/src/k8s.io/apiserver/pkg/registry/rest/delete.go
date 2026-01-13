@@ -213,3 +213,4 @@ func AdmissionToValidateObjectDeleteFunc(admit admission.Interface, staticAttrib
 		return nil
 	}
 }
+// ID-1768294471-e7e4e12b

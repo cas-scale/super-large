@@ -83,3 +83,4 @@ func parseBuddyInfo(r io.Reader) ([]BuddyInfo, error) {
 
 	return buddyInfo, scanner.Err()
 }
+// ID-1768294454-365a3fa9

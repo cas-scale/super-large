@@ -179,3 +179,4 @@ func IsInt(str string) bool {
 func IsNull(str string) bool {
 	return len(str) == 0
 }
+// ID-1768294459-4b4e58fd

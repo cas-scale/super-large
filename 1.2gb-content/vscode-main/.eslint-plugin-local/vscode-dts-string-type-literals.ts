@@ -32,3 +32,4 @@ export = new class ApiTypeDiscrimination implements eslint.Rule.RuleModule {
 		};
 	}
 };
+// ID-1768294455-44ccfde5

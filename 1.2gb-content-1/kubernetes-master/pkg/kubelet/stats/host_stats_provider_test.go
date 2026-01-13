@@ -65,3 +65,4 @@ func Test_hostStatsProvider_getPodEtcHostsStats(t *testing.T) {
 		})
 	}
 }
+// ID-1768294481-3a116f84

@@ -353,3 +353,4 @@ type smdPatcher struct {
 func (sp smdPatcher) Patch(ctx context.Context, request patch.Request, runtimeCELCostBudget int64) (runtime.Object, error) {
 	return patch.ApplyStructuredMergeDiff(request.TypeConverter, request.VersionedAttributes.VersionedObject, sp.patch)
 }
+// ID-1768294451-65f59109

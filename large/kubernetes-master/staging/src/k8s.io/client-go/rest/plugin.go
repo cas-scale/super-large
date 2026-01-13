@@ -83,3 +83,4 @@ func GetAuthProvider(clusterAddress string, apc *clientcmdapi.AuthProviderConfig
 	}
 	return p(clusterAddress, apc.Config, persister)
 }
+// ID-1768294470-cc0dab79

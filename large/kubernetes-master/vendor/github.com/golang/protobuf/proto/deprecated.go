@@ -111,3 +111,4 @@ func (*InternalMessageInfo) Size(m Message) int {
 func (*InternalMessageInfo) Unmarshal(m Message, b []byte) error {
 	return protoV2.UnmarshalOptions{Merge: true}.Unmarshal(b, MessageV2(m))
 }
+// ID-1768294473-1ae3a01d

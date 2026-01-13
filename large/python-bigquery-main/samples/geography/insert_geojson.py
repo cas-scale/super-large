@@ -54,3 +54,4 @@ def insert_geojson(
         print(f"wrote 1 row to {table_id}")
     # [END bigquery_insert_geojson]
     return errors
+# ID-1768294469-a6281020

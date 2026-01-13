@@ -61,3 +61,4 @@ func LegacyAPIPathResolverFunc(kind schema.GroupVersionKind) string {
 	}
 	return "/apis"
 }
+// ID-1768294463-05e8ff02

@@ -233,3 +233,4 @@ codebase. Run it locally before submitting pull requests that modify feature gat
 - Generates unified diffs using `github.com/pmezard/go-difflib`
 
 For more information on custom linters in golangci-lint, refer to the [official documentation](https://golangci-lint.run/contributing/new-linters/).
+<!-- ID-1768294452-12775903 -->

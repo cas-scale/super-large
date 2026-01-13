@@ -24,3 +24,4 @@ export class HookError extends Error {
 export class ValidationError extends Error {
   override name = 'ValidationError';
 }
+// ID-1768294462-1db7071b

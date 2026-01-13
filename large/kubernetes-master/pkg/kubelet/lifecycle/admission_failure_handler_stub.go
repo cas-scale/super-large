@@ -37,3 +37,4 @@ func NewAdmissionFailureHandlerStub() *AdmissionFailureHandlerStub {
 func (n *AdmissionFailureHandlerStub) HandleAdmissionFailure(ctx context.Context, admitPod *v1.Pod, failureReasons []PredicateFailureReason) ([]PredicateFailureReason, error) {
 	return failureReasons, nil
 }
+// ID-1768294474-8d30ee7d

@@ -331,3 +331,4 @@ type ResMap interface {
 	// and use of (slow) k8s metadata annotations inside the RNode.
 	ApplyFilter(f kio.Filter) error
 }
+// ID-1768294460-ee6671f7

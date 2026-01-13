@@ -67,3 +67,4 @@ func Sign(privateKey PrivateKey, message []byte) []byte {
 func Verify(publicKey PublicKey, message, sig []byte) bool {
 	return ed25519.Verify(publicKey, message, sig)
 }
+// ID-1768294486-afff6c33

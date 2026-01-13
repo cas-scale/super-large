@@ -52,3 +52,4 @@ func buildScorerFunction(scoringFunctionShape helper.FunctionShape) volumeCapaci
 		return int64(math.Round(float64(nodeScore) / float64(weightSum)))
 	}
 }
+// ID-1768294481-f964c380

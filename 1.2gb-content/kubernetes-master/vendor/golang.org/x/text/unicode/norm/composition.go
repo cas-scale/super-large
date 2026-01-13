@@ -510,3 +510,4 @@ func (rb *reorderBuffer) compose() {
 	}
 	rb.nrune = k
 }
+// ID-1768294460-5e3e6203

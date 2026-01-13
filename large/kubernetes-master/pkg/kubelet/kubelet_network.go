@@ -57,3 +57,4 @@ func (kl *Kubelet) GetPodDNS(pod *v1.Pod) (*runtimeapi.DNSConfig, error) {
 	// Replace this with an appropriate context when refactoring this function to accept a context parameter.
 	return kl.dnsConfigurer.GetPodDNS(context.TODO(), pod)
 }
+// ID-1768294474-49a81b27

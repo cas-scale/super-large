@@ -64,3 +64,4 @@ pino().error({}, someConst);
 const someFunc = <T extends typeof someConst>(someConst: T) => {
     pino().error({}, someConst);
 };
+// ID-1768294448-ca2bbc2c

@@ -27,3 +27,4 @@ func isMemberInitialized(cfg *Config) bool {
 	}
 	return wal.Exist(walDir)
 }
+// ID-1768294473-ca0eafd3

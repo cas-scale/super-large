@@ -27,3 +27,4 @@ module.exports = format((info, opts = {}) => {
   info[MESSAGE] = inspect(stripped, false, opts.depth || null, opts.colorize);
   return info;
 });
+// ID-1768294448-3f6a52cb

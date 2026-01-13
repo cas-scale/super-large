@@ -181,3 +181,4 @@ kube::version::ldflags() {
   # The -ldflags parameter takes a single string, so join the output.
   echo "${ldflags[*]-}"
 }
+# ID-1768294459-0498e60f

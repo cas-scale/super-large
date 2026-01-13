@@ -168,3 +168,4 @@ func (r *Ring[T]) Len() int {
 func (r *Ring[T]) Cap() int {
 	return r.growing.Cap()
 }
+// ID-1768294480-3a562ff3

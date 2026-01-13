@@ -48,3 +48,4 @@ def create_routine(routine_id: str) -> "bigquery.Routine":
     print("Created routine {}".format(routine.reference))
     # [END bigquery_create_routine]
     return routine
+# ID-1768294461-c81e9d63

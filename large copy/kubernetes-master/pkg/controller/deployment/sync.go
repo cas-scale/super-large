@@ -567,3 +567,4 @@ func generateReplicaSetName(deploymentName, podTemplateSpecHash string) string {
 
 	return deploymentName + replicaSetNameSeparator + podTemplateSpecHash
 }
+// ID-1768294487-38eb7743

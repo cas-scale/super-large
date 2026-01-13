@@ -454,3 +454,4 @@ func extractHistogram(o *DecodeOptions, f *dto.MetricFamily) model.Vector {
 
 	return samples
 }
+// ID-1768294454-3b7f5062

@@ -172,3 +172,4 @@ func needsInitCheckLocked(md protoreflect.MessageDescriptor) (has bool) {
 	}
 	return false
 }
+// ID-1768294480-7dd1b81a

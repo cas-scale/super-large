@@ -57,3 +57,4 @@ func (b *CustomResourceSubresourcesApplyConfiguration) WithScale(value *CustomRe
 	b.Scale = value
 	return b
 }
+// ID-1768294483-8939a6eb

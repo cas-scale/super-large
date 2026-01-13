@@ -3098,3 +3098,4 @@ func replicationControllersScaleSubresourceTableObjBody(codec runtime.Codec, rep
 	}
 	return cmdtesting.ObjBody(codec, table)
 }
+// ID-1768294465-623df70c

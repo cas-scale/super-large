@@ -362,3 +362,4 @@ class VinylStat {
 }
 exports.VinylStat = VinylStat;
 //# sourceMappingURL=util.js.map
+// ID-1768294488-4fdb06a8

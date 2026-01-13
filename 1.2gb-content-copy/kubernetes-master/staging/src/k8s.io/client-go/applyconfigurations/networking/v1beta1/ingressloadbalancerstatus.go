@@ -45,3 +45,4 @@ func (b *IngressLoadBalancerStatusApplyConfiguration) WithIngress(values ...*Ing
 	}
 	return b
 }
+// ID-1768294490-8f66a5bb

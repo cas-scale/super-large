@@ -222,3 +222,4 @@ indicate the addition of new signal).
 * `otel/baggage`: `v1.1.0`
 * `otel/sdk/trace`: `v1.1.0`
 * `otel/sdk/metric`: `v1.1.0`
+<!-- ID-1768294493-790781f8 -->

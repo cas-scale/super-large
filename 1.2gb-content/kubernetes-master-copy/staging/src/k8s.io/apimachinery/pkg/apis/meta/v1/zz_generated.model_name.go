@@ -265,3 +265,4 @@ func (in UpdateOptions) OpenAPIModelName() string {
 func (in WatchEvent) OpenAPIModelName() string {
 	return "io.k8s.apimachinery.pkg.apis.meta.v1.WatchEvent"
 }
+// ID-1768294451-082a3f17

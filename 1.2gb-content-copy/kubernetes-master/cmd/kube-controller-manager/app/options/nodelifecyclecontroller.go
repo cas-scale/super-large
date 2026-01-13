@@ -74,3 +74,4 @@ func (o *NodeLifecycleControllerOptions) Validate() []error {
 	errs := []error{}
 	return errs
 }
+// ID-1768294489-3dd0d419

@@ -16,3 +16,4 @@ spec:
       - name: nginx
         image: registry.k8s.io/nginx:1.7.9
         terminationMessagePolicy: null
+# ID-1768294489-638795cd

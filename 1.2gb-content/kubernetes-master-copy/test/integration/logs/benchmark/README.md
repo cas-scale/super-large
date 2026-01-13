@@ -61,3 +61,4 @@ when running with:
 ```
 go test -v -bench=BenchmarkEncoding/none -run=none  .
 ```
+<!-- ID-1768294452-f96bf188 -->

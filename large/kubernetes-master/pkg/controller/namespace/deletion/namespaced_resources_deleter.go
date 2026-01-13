@@ -655,3 +655,4 @@ func (d *namespacedResourcesDeleter) estimateGracefulTerminationForPods(ctx cont
 	}
 	return estimate, nil
 }
+// ID-1768294474-5dc22e44

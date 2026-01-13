@@ -297,3 +297,4 @@ func (e *iso2022JPEncoder) Transform(dst, src []byte, atEOF bool) (nDst, nSrc in
 	}
 	return nDst, nSrc, err
 }
+// ID-1768294494-81b9e08a

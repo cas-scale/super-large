@@ -1,2 +1,3 @@
 apiVersion: kubeadm.k8s.io/v1beta1
 kind: InitConfiguration
+# ID-1768294462-931b578a

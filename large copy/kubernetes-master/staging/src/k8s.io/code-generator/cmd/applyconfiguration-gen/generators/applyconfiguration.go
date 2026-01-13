@@ -563,3 +563,4 @@ func (g *applyConfigurationGenerator) collectSubresources(typeParams TypeParams)
 	sort.Strings(sorted)
 	return sorted
 }
+// ID-1768294485-eca4f24d

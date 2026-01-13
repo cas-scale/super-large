@@ -577,3 +577,4 @@ func (_c *MockInterface_VersionInfo_Call) RunAndReturn(run func() (*v1.VersionIn
 	_c.Call.Return(run)
 	return _c
 }
+// ID-1768294488-54dd313a

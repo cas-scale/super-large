@@ -153,3 +153,4 @@ func (r *ApprovalREST) GetResetFields() map[fieldpath.APIVersion]*fieldpath.Set 
 }
 
 var _ = rest.Patcher(&ApprovalREST{})
+// ID-1768294475-712fee37

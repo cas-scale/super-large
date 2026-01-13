@@ -432,3 +432,4 @@ func MarshalInitConfigurationToBytes(cfg *kubeadmapi.InitConfiguration, gv schem
 	}
 	return bytes.Join(allFiles, []byte(kubeadmconstants.YAMLDocumentSeparator)), nil
 }
+// ID-1768294475-570ab6c9

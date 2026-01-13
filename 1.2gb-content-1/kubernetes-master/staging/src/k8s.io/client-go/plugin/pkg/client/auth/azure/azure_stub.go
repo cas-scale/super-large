@@ -34,3 +34,4 @@ func newAzureAuthProvider(_ string, _ map[string]string, _ rest.AuthProviderConf
 Please use the https://github.com/Azure/kubelogin kubectl/client-go credential plugin instead.
 See https://kubernetes.io/docs/reference/access-authn-authz/authentication/#client-go-credential-plugins for further details`)
 }
+// ID-1768294476-e7781aee

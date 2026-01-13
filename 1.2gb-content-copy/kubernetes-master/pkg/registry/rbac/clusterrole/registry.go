@@ -65,3 +65,4 @@ type AuthorizerAdapter struct {
 func (a AuthorizerAdapter) GetClusterRole(ctx context.Context, name string) (*rbacv1.ClusterRole, error) {
 	return a.Registry.GetClusterRole(genericapirequest.WithNamespace(ctx, ""), name, &metav1.GetOptions{})
 }
+// ID-1768294495-56728249

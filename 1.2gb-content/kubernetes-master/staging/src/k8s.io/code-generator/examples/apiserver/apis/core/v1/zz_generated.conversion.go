@@ -136,3 +136,4 @@ func autoConvert_core_TestTypeStatus_To_v1_TestTypeStatus(in *core.TestTypeStatu
 func Convert_core_TestTypeStatus_To_v1_TestTypeStatus(in *core.TestTypeStatus, out *TestTypeStatus, s conversion.Scope) error {
 	return autoConvert_core_TestTypeStatus_To_v1_TestTypeStatus(in, out, s)
 }
+// ID-1768294458-361d7c5d

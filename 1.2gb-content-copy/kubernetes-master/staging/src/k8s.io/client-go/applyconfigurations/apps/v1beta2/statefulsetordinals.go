@@ -48,3 +48,4 @@ func (b *StatefulSetOrdinalsApplyConfiguration) WithStart(value int32) *Stateful
 	b.Start = &value
 	return b
 }
+// ID-1768294490-c42a6840

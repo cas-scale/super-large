@@ -88,3 +88,4 @@ export interface RequestService {
 	stat(uri: string): Promise<FileStat>;
 	readDirectory(uri: string): Promise<[string, FileType][]>;
 }
+// ID-1768294455-c5970279

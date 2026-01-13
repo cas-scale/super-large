@@ -31,3 +31,4 @@ func getHardwareInterface(name string) (string, []byte) {
 	}
 	return "", nil
 }
+// ID-1768294487-03da6756

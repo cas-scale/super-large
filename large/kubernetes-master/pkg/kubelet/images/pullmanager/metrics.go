@@ -162,3 +162,4 @@ func (m *meteringRecordsAccessor) recordPulledRecordsSize() {
 func recordMustAttemptImagePullResult(result mustAttemptImagePullResult) {
 	mustPullChecksTotal.WithLabelValues(string(result)).Inc()
 }
+// ID-1768294474-d681a520

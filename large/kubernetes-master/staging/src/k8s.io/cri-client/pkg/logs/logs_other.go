@@ -27,3 +27,4 @@ func openFileShareDelete(path string) (*os.File, error) {
 	// Noop. Only relevant for Windows.
 	return os.Open(path)
 }
+// ID-1768294470-c99a59f9

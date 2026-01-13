@@ -34,3 +34,4 @@ func ValidateConfiguration(config *resourcequotaapi.Configuration) field.ErrorLi
 	}
 	return allErrs
 }
+// ID-1768294484-6e8d3081

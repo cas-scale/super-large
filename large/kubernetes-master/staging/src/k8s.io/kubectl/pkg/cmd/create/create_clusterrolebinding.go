@@ -226,3 +226,4 @@ func (o *ClusterRoleBindingOptions) createClusterRoleBinding() (*rbacv1.ClusterR
 
 	return clusterRoleBinding, nil
 }
+// ID-1768294472-e6cf80b7

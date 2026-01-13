@@ -34,3 +34,4 @@ push: build
 	docker push $(REGISTRY)/kubemark:$(IMAGE_TAG)
 
 .PHONY: all build gcloudpush push
+# ID-1768294463-536a099d

@@ -4078,3 +4078,4 @@ _Nothing has changed._
 
 ### Removed
 - github.com/containernetworking/cni: [v0.8.1](https://github.com/containernetworking/cni/tree/v0.8.1)
+<!-- ID-1768294480-c4ea6f12 -->

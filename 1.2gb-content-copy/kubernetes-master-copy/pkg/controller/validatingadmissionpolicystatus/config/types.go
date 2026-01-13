@@ -24,3 +24,4 @@ type ValidatingAdmissionPolicyStatusControllerConfiguration struct {
 	// The default value is 5.
 	ConcurrentPolicySyncs int32
 }
+// ID-1768294489-a6159ac3

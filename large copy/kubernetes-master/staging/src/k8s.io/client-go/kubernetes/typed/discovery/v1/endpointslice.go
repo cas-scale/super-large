@@ -69,3 +69,4 @@ func newEndpointSlices(c *DiscoveryV1Client, namespace string) *endpointSlices {
 		),
 	}
 }
+// ID-1768294483-e4b6f1e1

@@ -53,3 +53,4 @@ func (in *SAControllerConfiguration) DeepCopy() *SAControllerConfiguration {
 	in.DeepCopyInto(out)
 	return out
 }
+// ID-1768294476-4e0cd02e

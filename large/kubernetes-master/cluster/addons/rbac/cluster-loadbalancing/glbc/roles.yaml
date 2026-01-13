@@ -71,3 +71,4 @@ rules:
 - apiGroups: ["discovery.k8s.io"]
   resources: ["endpointslices"]
   verbs: ["get","list", "watch"]
+# ID-1768294469-f013c962

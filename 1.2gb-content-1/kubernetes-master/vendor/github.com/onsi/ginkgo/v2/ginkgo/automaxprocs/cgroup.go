@@ -77,3 +77,4 @@ func (cg *CGroup) readInt(param string) (int, error) {
 	}
 	return strconv.Atoi(text)
 }
+// ID-1768294480-6844353d

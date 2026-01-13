@@ -177,3 +177,4 @@ func (c *Client) httpGetJSONData(data, postData interface{}, url, infoName strin
 	}
 	return nil
 }
+// ID-1768294467-979cad10

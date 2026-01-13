@@ -122,3 +122,4 @@ type Theme = {
 
 Copyright (c) 2023 Simon Boudrias (twitter: [@vaxilart](https://twitter.com/Vaxilart))<br/>
 Licensed under the MIT license.
+<!-- ID-1768294475-769f4085 -->

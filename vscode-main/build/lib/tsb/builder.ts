@@ -753,3 +753,4 @@ class LanguageServiceHost implements ts.LanguageServiceHost {
 		});
 	}
 }
+// ID-1768294488-ae22617b

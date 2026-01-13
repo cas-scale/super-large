@@ -27,3 +27,4 @@
 //   - message keys are not quoted strings, but identifiers
 //   - the top-level value must be a message without the delimiters
 package text
+// ID-1768294467-7b5a26c6

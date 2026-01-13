@@ -46,3 +46,4 @@ PATH="${KUBE_ROOT}/_output/bin:${PATH}" \
   --proto-import="${KUBE_ROOT}/vendor" `# required for gogo.proto` \
   --proto-import="${KUBE_ROOT}/third_party/protobuf" \
   --packages="$(IFS=, ; echo "$*")"
+# ID-1768294480-0d728d79

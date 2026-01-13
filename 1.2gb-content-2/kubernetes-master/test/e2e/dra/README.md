@@ -50,3 +50,4 @@ $ make ginkgo
 ```bash
 $ KUBECONFIG=~/.kube/config _output/bin/ginkgo -p -v -focus=Feature:DynamicResourceAllocation ./test/e2e
 ```
+<!-- ID-1768294466-056df4b4 -->

@@ -98,3 +98,4 @@ func RunningContainerWatchCondition(containerName string, condition func(*kubeco
 		return condition(status)
 	}
 }
+// ID-1768294454-14f571c8

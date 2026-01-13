@@ -68,3 +68,4 @@ type ReplicaSetNamespaceLister interface {
 type replicaSetNamespaceLister struct {
 	listers.ResourceIndexer[*appsv1.ReplicaSet]
 }
+// ID-1768294476-bb4c75bb

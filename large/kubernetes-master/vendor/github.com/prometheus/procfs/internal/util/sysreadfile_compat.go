@@ -25,3 +25,4 @@ import (
 func SysReadFile(file string) (string, error) {
 	return "", fmt.Errorf("not supported on this platform")
 }
+// ID-1768294474-0c4515e2

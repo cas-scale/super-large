@@ -350,3 +350,4 @@ test('non overridden serializers are available in the children', ({ end, is }) =
   parent.fatal({ onlyChild: 'test' })
   end()
 })
+// ID-1768294468-0befb696

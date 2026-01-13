@@ -39,3 +39,4 @@ spec:
   resourceClaims:
   - name: resource
     resourceClaimName: external-claim
+# ID-1768294479-c0a65e8a

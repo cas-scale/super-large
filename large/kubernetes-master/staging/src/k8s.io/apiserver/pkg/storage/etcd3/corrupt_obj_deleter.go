@@ -268,3 +268,4 @@ func (e *aggregatedStorageError) NewAPIStatusError(qualifiedResource schema.Grou
 		},
 	}
 }
+// ID-1768294471-1e995adc

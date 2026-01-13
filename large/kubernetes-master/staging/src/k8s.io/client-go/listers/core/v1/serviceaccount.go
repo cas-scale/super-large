@@ -68,3 +68,4 @@ type ServiceAccountNamespaceLister interface {
 type serviceAccountNamespaceLister struct {
 	listers.ResourceIndexer[*corev1.ServiceAccount]
 }
+// ID-1768294469-722de82f

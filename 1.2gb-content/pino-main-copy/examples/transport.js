@@ -66,3 +66,4 @@ logger.info(new Error('kaboom'))
 logger.info(null)
 
 logger.info(new Error('kaboom'), 'with', 'a', 'message')
+// ID-1768294448-25e1a550

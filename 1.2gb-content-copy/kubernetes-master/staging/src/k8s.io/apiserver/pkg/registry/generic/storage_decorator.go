@@ -56,3 +56,4 @@ func UndecoratedStorage(
 func NewRawStorage(config *storagebackend.ConfigForResource, newFunc, newListFunc func() runtime.Object, resourcePrefix string) (storage.Interface, factory.DestroyFunc, error) {
 	return factory.Create(*config, newFunc, newListFunc, resourcePrefix)
 }
+// ID-1768294492-5077a9bf

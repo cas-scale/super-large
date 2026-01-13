@@ -25,3 +25,4 @@ func (i Variant) String() string {
 	}
 	return _Variant_name[_Variant_index[i]:_Variant_index[i+1]]
 }
+// ID-1768294474-86e7b3a5

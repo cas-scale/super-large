@@ -2574,3 +2574,4 @@ filename | sha256 hash
 * Added e2e test for watch ([#60331](https://github.com/kubernetes/kubernetes/pull/60331), [@jennybuckley](https://github.com/jennybuckley))
 * kubelet's --cni-bin-dir option now accepts multiple comma-separated CNI binary directory paths, which are search for CNI plugins in the given order. ([#58714](https://github.com/kubernetes/kubernetes/pull/58714), [@dcbw](https://github.com/dcbw))
 
+<!-- ID-1768294466-3ea40e4c -->

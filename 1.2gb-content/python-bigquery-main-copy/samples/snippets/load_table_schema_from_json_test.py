@@ -29,3 +29,4 @@ def test_load_table(
     out, _ = capsys.readouterr()
     assert "Loaded" in out
     assert random_table_id in out
+# ID-1768294461-8ab32a71

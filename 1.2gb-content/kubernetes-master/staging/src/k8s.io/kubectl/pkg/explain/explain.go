@@ -166,3 +166,4 @@ func PrintModelDescription(fieldsPath []string, w io.Writer, schema proto.Schema
 	f := &Formatter{Writer: w, Wrap: 80}
 	return PrintModel(fieldName, f, b, schema, gvk)
 }
+// ID-1768294458-ba233bf6

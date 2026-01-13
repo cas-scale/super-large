@@ -856,3 +856,4 @@ func (in *StatefulSetUpdateStrategy) DeepCopy() *StatefulSetUpdateStrategy {
 	in.DeepCopyInto(out)
 	return out
 }
+// ID-1768294462-142bb2e6

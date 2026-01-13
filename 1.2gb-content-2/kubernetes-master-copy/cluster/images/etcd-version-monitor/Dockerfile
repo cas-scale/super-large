@@ -17,3 +17,4 @@ FROM gcr.io/distroless/static:latest
 COPY etcd-version-monitor /etcd-version-monitor
 
 EXPOSE 9101
+# ID-1768294462-d7919a18

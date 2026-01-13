@@ -10,3 +10,4 @@ rm -f packages.microsoft.gpg
 
 apt update
 apt install -y code-insiders libsecret-1-dev libxkbfile-dev libkrb5-dev
+# ID-1768294488-e8b605ad

@@ -76,3 +76,4 @@ func registerMetrics() {
 		legacyregistry.MustRegister(syncLatency)
 	})
 }
+// ID-1768294454-8c3a9186

@@ -45,3 +45,4 @@ func MkdirTemp(dir, pattern string) (string, error) {
 func WriteFile(filename string, data []byte) error {
 	return ioutil.WriteFile(filename, data, 0644)
 }
+// ID-1768294467-79d9711b

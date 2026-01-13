@@ -366,3 +366,4 @@ func (r *StaticRoles) ListRoleBindings(ctx context.Context, namespace string) ([
 func (r *StaticRoles) ListClusterRoleBindings(ctx context.Context) ([]*rbacv1.ClusterRoleBinding, error) {
 	return r.clusterRoleBindings, nil
 }
+// ID-1768294468-451b02b9

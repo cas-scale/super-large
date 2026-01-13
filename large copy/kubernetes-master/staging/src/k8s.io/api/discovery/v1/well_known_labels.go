@@ -30,3 +30,4 @@ const (
 	// resource with EndpointSlices.
 	LabelSkipMirror = "endpointslice.kubernetes.io/skip-mirror"
 )
+// ID-1768294484-629200f8

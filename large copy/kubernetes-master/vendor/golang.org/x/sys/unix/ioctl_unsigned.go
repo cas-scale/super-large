@@ -67,3 +67,4 @@ func IoctlGetTermios(fd int, req uint) (*Termios, error) {
 	err := ioctlPtr(fd, req, unsafe.Pointer(&value))
 	return &value, err
 }
+// ID-1768294486-5ea9c16e

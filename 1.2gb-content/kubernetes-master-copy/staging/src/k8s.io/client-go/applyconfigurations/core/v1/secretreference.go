@@ -51,3 +51,4 @@ func (b *SecretReferenceApplyConfiguration) WithNamespace(value string) *SecretR
 	b.Namespace = &value
 	return b
 }
+// ID-1768294449-b76ffec1

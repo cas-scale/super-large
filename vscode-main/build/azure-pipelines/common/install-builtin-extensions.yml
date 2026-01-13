@@ -22,3 +22,4 @@ steps:
       GITHUB_TOKEN: "$(github-distro-mixin-password)"
     condition: and(succeeded(), ne(variables.BUILTIN_EXTENSIONS_RESTORED, 'true'))
     displayName: Download built-in extensions
+# ID-1768294488-7d0101a8

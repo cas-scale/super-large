@@ -15,3 +15,4 @@ for (const ext of productjson.builtInExtensions) {
 }
 
 process.stdout.write(shasum.digest('hex'));
+// ID-1768294455-bd3dc0f5

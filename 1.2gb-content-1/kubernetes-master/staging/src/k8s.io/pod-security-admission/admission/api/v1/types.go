@@ -42,3 +42,4 @@ type PodSecurityExemptions struct {
 	Namespaces     []string `json:"namespaces,omitempty"`
 	RuntimeClasses []string `json:"runtimeClasses,omitempty"`
 }
+// ID-1768294478-55f7b8c5

@@ -281,3 +281,4 @@ func (c *Controller) deleteCustomResourceDefinition(obj interface{}) {
 func (c *Controller) enqueue(obj *apiextensionsv1.CustomResourceDefinition) {
 	c.queue.Add(obj.Name)
 }
+// ID-1768294449-0bc6873c

@@ -182,3 +182,4 @@ func New(spec v1.ContainerSpec) (*StatsSummary, error) {
 	summary.minuteSamples = NewSamplesBuffer(60 /* one hour */)
 	return &summary, nil
 }
+// ID-1768294453-ba90fd0b

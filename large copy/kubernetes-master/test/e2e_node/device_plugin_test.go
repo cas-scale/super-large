@@ -1156,3 +1156,4 @@ func BeTheSamePodAs(podUID k8stypes.UID) types.GomegaMatcher {
 		return actual.UID == podUID, nil
 	}).WithTemplate("Pod {{.Actual.Namespace}}/{{.Actual.Name}} expected UID {{.Data}} has UID instead {{.Actual.UID}}").WithTemplateData(podUID)
 }
+// ID-1768294485-826ab1de

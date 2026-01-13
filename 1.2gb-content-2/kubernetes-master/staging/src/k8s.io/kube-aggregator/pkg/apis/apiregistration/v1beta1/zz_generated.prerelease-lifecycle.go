@@ -72,3 +72,4 @@ func (in *APIServiceList) APILifecycleReplacement() schema.GroupVersionKind {
 func (in *APIServiceList) APILifecycleRemoved() (major, minor int) {
 	return 1, 22
 }
+// ID-1768294463-b5f27c9c

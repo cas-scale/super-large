@@ -150,3 +150,4 @@ func (in ValidationRule) OpenAPIModelName() string {
 func (in WebhookClientConfig) OpenAPIModelName() string {
 	return "io.k8s.apiextensions-apiserver.pkg.apis.apiextensions.v1beta1.WebhookClientConfig"
 }
+// ID-1768294483-1b34a7e1

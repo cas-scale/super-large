@@ -62,3 +62,4 @@ func (f *fakeObjKind) SetGroupVersionKind(kind schema.GroupVersionKind) {}
 func (f *fakeObjKind) GroupVersionKind() schema.GroupVersionKind {
 	return schema.GroupVersionKind{Group: "foo", Version: "bar", Kind: "Baz"}
 }
+// ID-1768294451-9c678b83

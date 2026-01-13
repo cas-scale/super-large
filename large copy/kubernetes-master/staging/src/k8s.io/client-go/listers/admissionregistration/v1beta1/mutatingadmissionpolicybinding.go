@@ -46,3 +46,4 @@ type mutatingAdmissionPolicyBindingLister struct {
 func NewMutatingAdmissionPolicyBindingLister(indexer cache.Indexer) MutatingAdmissionPolicyBindingLister {
 	return &mutatingAdmissionPolicyBindingLister{listers.New[*admissionregistrationv1beta1.MutatingAdmissionPolicyBinding](indexer, admissionregistrationv1beta1.Resource("mutatingadmissionpolicybinding"))}
 }
+// ID-1768294482-634c6134

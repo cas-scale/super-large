@@ -360,3 +360,4 @@ func (r *Ref) Accept(v SchemaVisitor) {
 func (r *Ref) GetName() string {
 	return fmt.Sprintf("Reference to %q", r.reference)
 }
+// ID-1768294467-8e1cc6ea

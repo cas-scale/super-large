@@ -86,3 +86,4 @@ func (JobTemplateSpec) SwaggerDoc() map[string]string {
 }
 
 // AUTO-GENERATED FUNCTIONS END HERE
+// ID-1768294484-44437e88

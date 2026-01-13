@@ -58,3 +58,4 @@ func NewBuilder() resolver.Builder {
 func SetMinResolutionInterval(d time.Duration) {
 	dns.MinResolutionInterval = d
 }
+// ID-1768294459-95dc7e35

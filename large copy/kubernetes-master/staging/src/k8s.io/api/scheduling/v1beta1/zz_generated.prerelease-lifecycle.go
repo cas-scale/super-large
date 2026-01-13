@@ -72,3 +72,4 @@ func (in *PriorityClassList) APILifecycleReplacement() schema.GroupVersionKind {
 func (in *PriorityClassList) APILifecycleRemoved() (major, minor int) {
 	return 1, 22
 }
+// ID-1768294484-7d9e3d51

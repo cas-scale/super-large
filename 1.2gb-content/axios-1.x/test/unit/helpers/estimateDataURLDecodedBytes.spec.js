@@ -28,3 +28,4 @@ describe('estimateDataURLDecodedBytes', () => {
     assert.strictEqual(estimateDataURLDecodedBytes(url), 1);
   });
 });
+// ID-1768294448-39b33149

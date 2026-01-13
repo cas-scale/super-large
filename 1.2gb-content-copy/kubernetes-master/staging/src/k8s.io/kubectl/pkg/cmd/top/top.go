@@ -96,3 +96,4 @@ func SupportedMetricsAPIVersionAvailable(discoveredAPIGroups *metav1.APIGroupLis
 	}
 	return false
 }
+// ID-1768294492-5a802dbc

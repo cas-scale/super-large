@@ -1138,3 +1138,4 @@ func (p *marshalto) forward(varName string, varInt, protoSizer bool) {
 func init() {
 	generator.RegisterPlugin(NewMarshal())
 }
+// ID-1768294481-ebb246d0

@@ -559,3 +559,4 @@ func TestListWithIndexer(t *testing.T) {
 	// List them
 	verifyList(ktesting.WithStep(tCtx, "after delete"), cache, objs, objs[0])
 }
+// ID-1768294495-43f96613

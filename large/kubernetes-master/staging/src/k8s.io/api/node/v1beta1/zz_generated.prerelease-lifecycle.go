@@ -56,3 +56,4 @@ func (in *RuntimeClassList) APILifecycleDeprecated() (major, minor int) {
 func (in *RuntimeClassList) APILifecycleRemoved() (major, minor int) {
 	return 1, 25
 }
+// ID-1768294471-287f5cc3

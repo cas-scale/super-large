@@ -241,3 +241,5 @@ from google.cloud.bigquery_v2 import types
 
 distance_type = types.Model.DistanceType.COSINE
 ```
+<!-- ID-1768294468-5ab2e646 -->
+<!-- ID-1768294469-f7cf0245 -->

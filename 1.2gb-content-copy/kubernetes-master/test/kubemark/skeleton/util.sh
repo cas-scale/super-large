@@ -60,3 +60,4 @@ if [[ -z "${color_start-}" ]]; then
   # shellcheck disable=SC2034
   declare -r color_norm="${color_start}0m"
 fi
+# ID-1768294493-660caa1f

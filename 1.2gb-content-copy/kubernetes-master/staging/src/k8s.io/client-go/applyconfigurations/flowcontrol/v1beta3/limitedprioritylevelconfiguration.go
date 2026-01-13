@@ -107,3 +107,4 @@ func (b *LimitedPriorityLevelConfigurationApplyConfiguration) WithBorrowingLimit
 	b.BorrowingLimitPercent = &value
 	return b
 }
+// ID-1768294490-a3d0fe76

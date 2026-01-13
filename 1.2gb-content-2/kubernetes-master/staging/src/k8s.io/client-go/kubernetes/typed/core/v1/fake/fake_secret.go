@@ -47,3 +47,4 @@ func newFakeSecrets(fake *FakeCoreV1, namespace string) typedcorev1.SecretInterf
 		fake,
 	}
 }
+// ID-1768294463-05854ef4

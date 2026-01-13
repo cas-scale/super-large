@@ -68,3 +68,4 @@ type LeaseCandidateNamespaceLister interface {
 type leaseCandidateNamespaceLister struct {
 	listers.ResourceIndexer[*coordinationv1beta1.LeaseCandidate]
 }
+// ID-1768294449-a912ed31

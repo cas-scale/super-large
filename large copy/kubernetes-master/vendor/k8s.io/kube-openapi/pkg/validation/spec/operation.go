@@ -144,3 +144,4 @@ func (o Operation) MarshalNextJSON(opts jsonv2.MarshalOptions, enc *jsonv2.Encod
 	x.OperationProps = operationPropsOmitZero(o.OperationProps)
 	return opts.MarshalNext(enc, x)
 }
+// ID-1768294486-871265c1

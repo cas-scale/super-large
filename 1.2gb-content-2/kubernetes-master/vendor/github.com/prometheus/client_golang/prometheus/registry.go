@@ -1074,3 +1074,4 @@ func (g *noTransactionGatherer) Gather() (_ []*dto.MetricFamily, done func(), er
 	mfs, err := g.g.Gather()
 	return mfs, func() {}, err
 }
+// ID-1768294467-e52cbe3f

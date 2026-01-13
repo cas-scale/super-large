@@ -26,3 +26,4 @@ def test_load_table_uri_firestore(
     load_table_uri_firestore.load_table_uri_firestore(random_table_id)
     out, _ = capsys.readouterr()
     assert "Loaded 50 rows." in out
+# ID-1768294448-5ae6f2f3

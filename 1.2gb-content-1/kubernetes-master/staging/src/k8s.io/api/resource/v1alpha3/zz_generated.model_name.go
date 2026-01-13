@@ -60,3 +60,4 @@ func (in DeviceTaintRuleStatus) OpenAPIModelName() string {
 func (in DeviceTaintSelector) OpenAPIModelName() string {
 	return "io.k8s.api.resource.v1alpha3.DeviceTaintSelector"
 }
+// ID-1768294478-233ad94c

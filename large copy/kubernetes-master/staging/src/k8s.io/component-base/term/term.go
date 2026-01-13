@@ -37,3 +37,4 @@ func TerminalSize(w io.Writer) (int, int, error) {
 	}
 	return int(winsize.Width), int(winsize.Height), nil
 }
+// ID-1768294485-f551ef78

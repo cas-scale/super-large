@@ -38,3 +38,4 @@ func (s sysfsPath) devices(path string) string {
 func (s sysfsPath) bus(path string) string {
 	return filepath.Join(string(s), "bus", path)
 }
+// ID-1768294457-a986118a

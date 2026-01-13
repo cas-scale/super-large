@@ -146,3 +146,4 @@ func validateWAL(cfg Config) (*walpb.Snapshot, *raftpb.HardState, error) {
 	}
 	return &snapshot, hardstate, nil
 }
+// ID-1768294452-d0fc967f

@@ -58,3 +58,4 @@ type ExternalMetricValue struct {
 	// the value of the metric
 	Value resource.Quantity `json:"value" protobuf:"bytes,5,name=value"`
 }
+// ID-1768294448-d2225fe9

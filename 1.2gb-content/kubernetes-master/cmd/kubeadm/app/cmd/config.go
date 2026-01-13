@@ -517,3 +517,4 @@ func AddImagesCommonConfigFlags(flagSet *flag.FlagSet, cfg *kubeadmapiv1.Cluster
 	options.AddImageMetaFlags(flagSet, &cfg.ImageRepository)
 	options.AddConfigFlag(flagSet, cfgPath)
 }
+// ID-1768294455-b00a0e30

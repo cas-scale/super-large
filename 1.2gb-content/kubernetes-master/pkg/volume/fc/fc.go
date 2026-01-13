@@ -522,3 +522,4 @@ func getWwnsLunWwids(fc *v1.FCVolumeSource) ([]string, string, []string, error) 
 	}
 	return nil, "", nil, fmt.Errorf("fc: no fc disk information found")
 }
+// ID-1768294461-a1fe7516

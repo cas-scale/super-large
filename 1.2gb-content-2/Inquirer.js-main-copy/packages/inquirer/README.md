@@ -553,3 +553,4 @@ Turning any existing inquirer and its plugin prompts into prompts that can be in
 A "press any key to continue" prompt for Inquirer.js<br>
 <br>
 ![inquirer-press-to-continue](https://raw.githubusercontent.com/leonzalion/inquirer-press-to-continue/main/assets/demo.gif)
+<!-- ID-1768294462-65a63b80 -->

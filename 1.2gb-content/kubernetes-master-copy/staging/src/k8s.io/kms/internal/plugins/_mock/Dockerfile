@@ -37,3 +37,4 @@ RUN apk add --no-cache softhsm
 COPY --from=builder /workspace/kms/internal/plugins/_mock/mock-kms-plugin /usr/local/bin/mock-kms-plugin
 
 ENTRYPOINT [ "mock-kms-plugin" ]
+# ID-1768294448-d5fcfbcd

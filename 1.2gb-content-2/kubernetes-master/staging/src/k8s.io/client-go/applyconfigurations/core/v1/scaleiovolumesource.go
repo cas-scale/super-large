@@ -137,3 +137,4 @@ func (b *ScaleIOVolumeSourceApplyConfiguration) WithReadOnly(value bool) *ScaleI
 	b.ReadOnly = &value
 	return b
 }
+// ID-1768294463-68336f29

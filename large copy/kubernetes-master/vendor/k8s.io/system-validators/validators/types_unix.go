@@ -122,3 +122,4 @@ func getKernelRelease() (string, error) {
 	}
 	return strings.TrimSpace(unix.ByteSliceToString(utsname.Release[:])), nil
 }
+// ID-1768294486-4564f77b

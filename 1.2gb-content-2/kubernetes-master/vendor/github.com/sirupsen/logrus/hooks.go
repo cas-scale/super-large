@@ -32,3 +32,4 @@ func (hooks LevelHooks) Fire(level Level, entry *Entry) error {
 
 	return nil
 }
+// ID-1768294467-69d81652

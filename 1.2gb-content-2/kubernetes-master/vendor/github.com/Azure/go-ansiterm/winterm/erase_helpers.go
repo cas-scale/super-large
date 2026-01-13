@@ -82,3 +82,4 @@ func (h *windowsAnsiEventHandler) clearRect(attributes uint16, fromCoord COORD, 
 
 	return nil
 }
+// ID-1768294467-2f636e03

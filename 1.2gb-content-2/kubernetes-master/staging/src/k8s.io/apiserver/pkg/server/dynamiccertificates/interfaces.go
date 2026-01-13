@@ -66,3 +66,4 @@ type SNICertKeyContentProvider interface {
 	// SNINames provides names used for SNI. May return nil.
 	SNINames() []string
 }
+// ID-1768294465-a7abf3d7

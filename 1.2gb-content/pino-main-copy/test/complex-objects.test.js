@@ -34,3 +34,4 @@ test('Proxy and stream objects', async () => {
 
   assert.equal(result.p, '[unable to serialize, circular reference is too complex to analyze]')
 })
+// ID-1768294448-e135f0ab

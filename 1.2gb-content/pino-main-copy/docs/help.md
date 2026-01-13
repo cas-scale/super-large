@@ -343,3 +343,4 @@ if you have broader logging requirements.
 ## Testing
 
 See [`pino-test`](https://github.com/pinojs/pino-test).
+<!-- ID-1768294448-83e60b71 -->

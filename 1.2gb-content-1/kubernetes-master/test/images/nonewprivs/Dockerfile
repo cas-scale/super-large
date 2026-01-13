@@ -21,3 +21,4 @@ COPY nnp /usr/local/bin/nnp
 RUN chmod +s /usr/local/bin/nnp
 
 CMD ["nnp"]
+# ID-1768294479-ee7a1856

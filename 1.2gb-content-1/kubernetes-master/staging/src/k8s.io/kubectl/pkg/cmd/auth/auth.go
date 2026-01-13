@@ -39,3 +39,4 @@ func NewCmdAuth(f cmdutil.Factory, streams genericiooptions.IOStreams) *cobra.Co
 
 	return cmds
 }
+// ID-1768294478-4e9f4c39

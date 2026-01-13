@@ -255,3 +255,4 @@ test('custom serializer for messageKey', async () => {
   const { msg } = await once(stream, 'data')
   assert.equal(msg, '422')
 })
+// ID-1768294482-23da472b

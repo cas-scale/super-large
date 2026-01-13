@@ -69,3 +69,4 @@ func (e *Event) Clone() *Event {
 func (e *Event) SetRefresh() {
 	e.Refresh = true
 }
+// ID-1768294459-12ed75c8

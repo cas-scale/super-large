@@ -45,3 +45,4 @@ func SetObjectDefaults_PriorityClassList(in *schedulingv1beta1.PriorityClassList
 		SetObjectDefaults_PriorityClass(a)
 	}
 }
+// ID-1768294495-4b69d9a5

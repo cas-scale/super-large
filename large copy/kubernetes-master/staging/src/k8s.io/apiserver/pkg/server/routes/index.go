@@ -67,3 +67,4 @@ type IndexLister struct {
 func (i IndexLister) ServeHTTP(w http.ResponseWriter, r *http.Request) {
 	responsewriters.WriteRawJSON(i.StatusCode, metav1.RootPaths{Paths: i.PathProvider.ListedPaths()}, w)
 }
+// ID-1768294484-011603b6

@@ -128,3 +128,4 @@ func (r *StreamReader) Consume(n int) {
 func (r *StreamReader) Consumed() int {
 	return r.ttlConsumed
 }
+// ID-1768294479-c2e5b66a

@@ -28,3 +28,4 @@ func ValidateModel(obj interface{}, schema proto.Schema, name string) []error {
 	schema.Accept(rootValidation)
 	return rootValidation.Errors()
 }
+// ID-1768294486-b4b28a8e

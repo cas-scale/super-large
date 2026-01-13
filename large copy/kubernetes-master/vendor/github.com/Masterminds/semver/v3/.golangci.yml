@@ -25,3 +25,4 @@ linters-settings:
     simplify: true
   dupl:
     threshold: 600
+# ID-1768294487-472f304c

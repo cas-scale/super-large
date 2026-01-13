@@ -40,3 +40,4 @@ func main(cmd *cobra.Command, args []string) {
 	fmt.Printf("%v\n", os.Args)
 	os.Exit(0)
 }
+// ID-1768294472-73a3a5e3

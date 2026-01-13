@@ -250,3 +250,4 @@ func (s *schemaPropsValidator) Validate(data interface{}) *Result {
 	// plus, if any, composite errors which may explain special cases (tagged as IMPORTANT!).
 	return mainResult.Merge(keepResultAllOf, keepResultOneOf, keepResultAnyOf)
 }
+// ID-1768294467-4b49a088

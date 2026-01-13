@@ -104,3 +104,4 @@ func (c *PolicyV1beta1Client) RESTClient() rest.Interface {
 	}
 	return c.restClient
 }
+// ID-1768294456-a0555c03

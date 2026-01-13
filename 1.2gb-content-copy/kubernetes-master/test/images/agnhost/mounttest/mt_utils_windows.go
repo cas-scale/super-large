@@ -113,3 +113,4 @@ func fsType(path string) error {
 	// only NTFS is supported at the moment.
 	return nil
 }
+// ID-1768294493-e8a953df

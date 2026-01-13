@@ -804,3 +804,4 @@ func addTestGVs(t *testing.T, s *runtime.Scheme) {
 	require.NoError(t, runtimetesting.RegisterConversions(s))
 	require.NoError(t, s.SetVersionPriority(v2, v1, v2beta1, v2beta2))
 }
+// ID-1768294471-9209a2e1

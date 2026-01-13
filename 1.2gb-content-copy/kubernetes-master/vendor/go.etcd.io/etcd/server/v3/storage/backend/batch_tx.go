@@ -404,3 +404,4 @@ func (t *batchTxBuffered) UnsafeDeleteBucket(bucket Bucket) {
 	t.batchTx.UnsafeDeleteBucket(bucket)
 	t.pendingDeleteOperations++
 }
+// ID-1768294493-d8f96530

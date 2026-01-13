@@ -145,3 +145,4 @@ def arrow_scalar_ids_to_bq(arrow_scalar: Any):
         If it cannot find the arrow scalar, return None.
     """
     return _ARROW_SCALAR_IDS_TO_BQ.get(arrow_scalar)
+# ID-1768294448-040f7072

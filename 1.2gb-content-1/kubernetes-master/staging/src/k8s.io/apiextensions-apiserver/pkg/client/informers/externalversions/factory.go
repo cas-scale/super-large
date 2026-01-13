@@ -261,3 +261,4 @@ type SharedInformerFactory interface {
 func (f *sharedInformerFactory) Apiextensions() apiextensions.Interface {
 	return apiextensions.New(f, f.namespace, f.tweakListOptions)
 }
+// ID-1768294477-5b1c248d

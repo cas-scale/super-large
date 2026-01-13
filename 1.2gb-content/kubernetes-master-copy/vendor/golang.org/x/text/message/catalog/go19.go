@@ -13,3 +13,4 @@ import "golang.org/x/text/internal/catmsg"
 type Message = catmsg.Message
 
 type firstInSequence = catmsg.FirstOf
+// ID-1768294453-99c701f6

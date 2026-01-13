@@ -78,3 +78,4 @@ func (dr *StreamReporter) Report(key, value string, resultType ValidationResultT
 var DefaultReporter = &StreamReporter{
 	WriteStream: os.Stdout,
 }
+// ID-1768294473-ac1b4aea

@@ -289,3 +289,4 @@ func (f *FakeControllerSource) Shutdown() {
 	f.lock.Lock() // Purposely no unlock.
 	f.Broadcaster.Shutdown()
 }
+// ID-1768294490-f4e8bd8b

@@ -10,3 +10,4 @@ spec:
   - image: registry.k8s.io/pause:3.10.1
     name: pause
   terminationGracePeriodSeconds: 0
+# ID-1768294493-40a39a04

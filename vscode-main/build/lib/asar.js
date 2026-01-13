@@ -154,3 +154,4 @@ function createAsar(folderPath, unpackGlobs, skipGlobs, duplicateGlobs, destFile
     });
 }
 //# sourceMappingURL=asar.js.map
+// ID-1768294488-e9ddc6bf

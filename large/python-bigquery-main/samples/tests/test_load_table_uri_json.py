@@ -26,3 +26,4 @@ def test_load_table_uri_json(
     load_table_uri_json.load_table_uri_json(random_table_id)
     out, _ = capsys.readouterr()
     assert "Loaded 50 rows." in out
+# ID-1768294469-9b10dbef

@@ -89,3 +89,4 @@ func setScaleSpecReplicas(val int32) func(rc *autoscaling.Scale) {
 		rc.Spec.Replicas = val
 	}
 }
+// ID-1768294454-c61e1447

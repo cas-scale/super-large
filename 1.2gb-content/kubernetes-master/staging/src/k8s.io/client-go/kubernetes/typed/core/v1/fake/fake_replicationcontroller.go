@@ -80,3 +80,4 @@ func (c *fakeReplicationControllers) UpdateScale(ctx context.Context, replicatio
 	}
 	return obj.(*autoscalingv1.Scale), err
 }
+// ID-1768294456-f389e5e1

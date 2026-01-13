@@ -158,3 +158,4 @@ func meetPreconditions(patchObj map[string]interface{}, fns ...mergepatch.Precon
 	}
 	return true, nil
 }
+// ID-1768294479-ecd4e50d

@@ -56,3 +56,4 @@ func ValidateManagedFields(encodedManagedFields []metav1.ManagedFieldsEntry) err
 	_, err := internal.DecodeManagedFields(encodedManagedFields)
 	return err
 }
+// ID-1768294485-dac2ef88

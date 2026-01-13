@@ -207,3 +207,4 @@ func (p *union) Generate(file *generator.FileDescriptor) {
 func init() {
 	generator.RegisterPlugin(NewUnion())
 }
+// ID-1768294467-2ba119ad

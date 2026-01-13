@@ -526,3 +526,5 @@ A modern multiselect checkbox prompt with search and filter capabilities, highli
 
 Copyright (c) 2023 Simon Boudrias (twitter: [@vaxilart](https://twitter.com/Vaxilart))<br/>
 Licensed under the MIT license.
+<!-- ID-1768294448-0969f959 -->
+<!-- ID-1768294448-d9d384bd -->

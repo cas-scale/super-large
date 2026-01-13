@@ -100,3 +100,4 @@ func (f *resourceQuotaInformer) Informer() cache.SharedIndexInformer {
 func (f *resourceQuotaInformer) Lister() corev1.ResourceQuotaLister {
 	return corev1.NewResourceQuotaLister(f.Informer().GetIndexer())
 }
+// ID-1768294448-b81f1bc1

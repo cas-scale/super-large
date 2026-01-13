@@ -58,3 +58,4 @@ func (b *ResourceMetricStatusApplyConfiguration) WithCurrent(value *MetricValueS
 	b.Current = value
 	return b
 }
+// ID-1768294463-02c201e5

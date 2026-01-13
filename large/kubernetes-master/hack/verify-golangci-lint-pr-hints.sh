@@ -29,3 +29,4 @@ fi
 KUBE_ROOT=$(dirname "${BASH_SOURCE[0]}")/..
 
 "${KUBE_ROOT}/hack/verify-golangci-lint.sh" -r "${PULL_BASE_SHA}" -n
+# ID-1768294473-1b1c6e50

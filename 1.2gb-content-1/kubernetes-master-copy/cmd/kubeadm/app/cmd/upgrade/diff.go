@@ -194,3 +194,4 @@ func runDiff(fs *pflag.FlagSet, flags *diffFlags, args []string, fetchInitConfig
 	}
 	return nil
 }
+// ID-1768294475-4e16ee8c

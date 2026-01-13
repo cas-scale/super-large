@@ -22,3 +22,4 @@ test('UnionToIntersection', () => {
     { x: string } & { y: number }
   >();
 });
+// ID-1768294455-d0d39b77

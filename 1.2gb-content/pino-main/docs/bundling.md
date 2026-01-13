@@ -38,3 +38,4 @@ If you are a Webpack user, you can achieve this with [pino-webpack-plugin](https
 ## Bun Plugin
 
 [bun-plugin-pino](https://github.com/vktrl/bun-plugin-pino) is the Bun plugin to generate extra pino files for bundling.
+<!-- ID-1768294447-74140450 -->

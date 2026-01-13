@@ -28,3 +28,4 @@ type NodeIdentifier interface {
 	// isNode is true if the user.Info represents an identity issued to a node.
 	NodeIdentity(user.Info) (nodeName string, isNode bool)
 }
+// ID-1768294495-d20140bf

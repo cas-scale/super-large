@@ -148,3 +148,4 @@ reconciliation code that performs a "read/modify-in-place/update" (or patch) wor
 	    applied, err := deploymentClient.Apply(ctx, extractedDeployment, metav1.ApplyOptions{FieldManager: fieldMgr})
 */
 package applyconfigurations
+// ID-1768294463-96b5f3da

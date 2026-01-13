@@ -87,3 +87,4 @@ func (c *fakeClusterTestTypes) CreateScale(ctx context.Context, clusterTestTypeN
 	}
 	return obj.(*autoscalingv1.Scale), err
 }
+// ID-1768294458-9878f7f3

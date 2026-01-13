@@ -67,3 +67,4 @@ func (b *MetricValueStatusApplyConfiguration) WithAverageUtilization(value int32
 	b.AverageUtilization = &value
 	return b
 }
+// ID-1768294449-63935f3d

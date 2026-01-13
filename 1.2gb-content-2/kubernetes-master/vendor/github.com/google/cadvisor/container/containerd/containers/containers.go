@@ -123,3 +123,4 @@ type Store interface {
 	// store, ErrNotFound will be returned.
 	Delete(ctx context.Context, id string) error
 }
+// ID-1768294467-36f53dc1

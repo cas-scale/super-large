@@ -488,3 +488,4 @@ func (r *resourceAllocationScorer) deviceMatchesClass(ctx context.Context, devic
 
 	return true, nil
 }
+// ID-1768294454-d996729d

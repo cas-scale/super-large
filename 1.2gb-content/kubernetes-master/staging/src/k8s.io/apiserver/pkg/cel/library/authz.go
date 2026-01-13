@@ -788,3 +788,4 @@ func (a receiverOnlyObjectVal) Type() ref.Type {
 func (a receiverOnlyObjectVal) Value() any {
 	return types.NoSuchOverloadErr()
 }
+// ID-1768294458-8b67205e

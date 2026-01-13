@@ -68,3 +68,4 @@ type PodDisruptionBudgetNamespaceLister interface {
 type podDisruptionBudgetNamespaceLister struct {
 	listers.ResourceIndexer[*policyv1beta1.PodDisruptionBudget]
 }
+// ID-1768294463-b48508d5

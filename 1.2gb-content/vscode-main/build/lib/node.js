@@ -19,3 +19,4 @@ const node = platform === 'win32' ? 'node.exe' : 'node';
 const nodePath = path_1.default.join(root, '.build', 'node', `v${version}`, `${platform}-${arch}`, node);
 console.log(nodePath);
 //# sourceMappingURL=node.js.map
+// ID-1768294455-e6a3ba1d

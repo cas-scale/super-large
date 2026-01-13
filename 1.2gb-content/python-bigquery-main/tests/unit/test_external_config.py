@@ -1187,3 +1187,4 @@ class TestExternalCatalogTableOptions:
 
         assert isinstance(result, external_config.ExternalCatalogTableOptions)
         assert result._properties == api_repr
+# ID-1768294448-b83e9df3

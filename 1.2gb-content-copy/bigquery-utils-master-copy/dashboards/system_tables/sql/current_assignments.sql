@@ -69,3 +69,4 @@ GROUP BY
 -- Assignments that have been deleted have two entries in this table,
 -- one where the action is CREATE and one where the action is DELETE.
 HAVING COUNT(assignment_id) = 1
+-- ID-1768294488-874e2944

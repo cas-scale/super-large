@@ -42,3 +42,4 @@ def client_query_w_positional_params() -> None:
     for row in results:
         print("{}: \t{}".format(row.word, row.word_count))
     # [END bigquery_query_params_positional]
+# ID-1768294482-f2b07cf4

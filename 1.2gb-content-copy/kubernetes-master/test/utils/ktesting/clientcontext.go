@@ -120,3 +120,4 @@ func (cCtx clientContext) Dynamic() dynamic.Interface {
 func (cCtx clientContext) APIExtensions() apiextensions.Interface {
 	return cCtx.apiextensions
 }
+// ID-1768294493-c2e0820e

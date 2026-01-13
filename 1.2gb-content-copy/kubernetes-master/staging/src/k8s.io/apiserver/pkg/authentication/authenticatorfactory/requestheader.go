@@ -37,3 +37,4 @@ type RequestHeaderConfig struct {
 	// AllowedClientNames is a list of common names that may be presented by the authenticating front proxy.  Empty means: accept any.
 	AllowedClientNames headerrequest.StringSliceProvider
 }
+// ID-1768294492-17f67c11

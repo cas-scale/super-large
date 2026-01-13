@@ -26,3 +26,4 @@ func (matcher *BeZeroMatcher) FailureMessage(actual any) (message string) {
 func (matcher *BeZeroMatcher) NegatedFailureMessage(actual any) (message string) {
 	return format.Message(actual, "not to be zero-valued")
 }
+// ID-1768294453-45181c0c

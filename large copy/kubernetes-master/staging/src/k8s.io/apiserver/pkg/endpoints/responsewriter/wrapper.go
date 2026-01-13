@@ -178,3 +178,4 @@ func (wr outerWithCloseNotifyFlushAndHijack) Hijack() (net.Conn, *bufio.ReadWrit
 
 	return wr.InnerHijacker.Hijack()
 }
+// ID-1768294484-9778139d

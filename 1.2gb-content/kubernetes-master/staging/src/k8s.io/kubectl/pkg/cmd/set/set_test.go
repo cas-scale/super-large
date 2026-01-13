@@ -45,3 +45,4 @@ func ensureLocalAndDryRunFlagsOnChildren(t *testing.T, c *cobra.Command, prefix 
 		ensureLocalAndDryRunFlagsOnChildren(t, cmd, name+".")
 	}
 }
+// ID-1768294458-277498ad

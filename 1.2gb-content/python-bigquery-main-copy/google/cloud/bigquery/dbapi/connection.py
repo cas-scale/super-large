@@ -126,3 +126,4 @@ def connect(client=None, bqstorage_client=None, prefer_bqstorage_client=True):
         google.cloud.bigquery.dbapi.Connection: A new DB-API connection to BigQuery.
     """
     return Connection(client, bqstorage_client, prefer_bqstorage_client)
+# ID-1768294461-89574ef0

@@ -89,3 +89,4 @@ func (l *metadataNamespaceLister) Get(name string) (*metav1.PartialObjectMetadat
 	}
 	return obj.(*metav1.PartialObjectMetadata), nil
 }
+// ID-1768294463-1a8745f4

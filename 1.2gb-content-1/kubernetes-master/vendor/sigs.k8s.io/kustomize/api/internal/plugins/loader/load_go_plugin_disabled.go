@@ -23,3 +23,4 @@ import (
 func (l *Loader) loadGoPlugin(_ resid.ResId, _ string) (resmap.Configurable, error) {
 	return nil, fmt.Errorf("plugin load is disabled")
 }
+// ID-1768294480-bd20561a

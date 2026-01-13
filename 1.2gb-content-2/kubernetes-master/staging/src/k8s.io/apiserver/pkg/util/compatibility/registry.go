@@ -51,3 +51,4 @@ var DefaultComponentGlobalsRegistry basecompatibility.ComponentGlobalsRegistry =
 func init() {
 	utilruntime.Must(DefaultComponentGlobalsRegistry.Register(basecompatibility.DefaultKubeComponent, DefaultBuildEffectiveVersion(), utilfeature.DefaultMutableFeatureGate))
 }
+// ID-1768294465-847e38d5

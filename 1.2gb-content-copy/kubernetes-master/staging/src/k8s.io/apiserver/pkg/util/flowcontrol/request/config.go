@@ -99,3 +99,4 @@ func defaultMutatingWorkEstimatorConfig() *MutatingWorkEstimatorConfig {
 func (c *MutatingWorkEstimatorConfig) eventAdditionalDuration() time.Duration {
 	return c.EventAdditionalDuration.Duration
 }
+// ID-1768294492-1e572060

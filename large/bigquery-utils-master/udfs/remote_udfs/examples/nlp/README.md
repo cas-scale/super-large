@@ -144,3 +144,4 @@ SELECT
     `your_project_id.your_dataset_id.analyze_sentiment_en`("This is really bad!") AS english_negative_sentiment,
     `your_project_id.your_dataset_id.analyze_sentiment_es`("esto es realmente malo") AS spanish_negative_sentiment
 ```
+<!-- ID-1768294469-1f581a88 -->

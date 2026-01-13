@@ -40,3 +40,4 @@ func SetDefaults_EndpointPort(obj *discoveryv1beta1.EndpointPort) {
 		obj.Protocol = &defaultProtocol
 	}
 }
+// ID-1768294462-3a4956c8

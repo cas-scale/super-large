@@ -2903,3 +2903,4 @@ func (WorkloadReference) SwaggerDoc() map[string]string {
 }
 
 // AUTO-GENERATED FUNCTIONS END HERE
+// ID-1768294484-acc6d30b

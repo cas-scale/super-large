@@ -132,3 +132,4 @@ func (b *DeploymentStatusApplyConfiguration) WithCollisionCount(value int32) *De
 	b.CollisionCount = &value
 	return b
 }
+// ID-1768294476-fa354af4

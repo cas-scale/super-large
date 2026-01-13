@@ -83,3 +83,4 @@ func calculateETag(resources interface{}) (string, error) {
 
 	return fmt.Sprintf("%X", sha512.Sum512(serialized)), nil
 }
+// ID-1768294478-4fc20de9

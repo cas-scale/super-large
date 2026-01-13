@@ -50,3 +50,4 @@ exposeFormat('simple', function () { return require('./simple'); });
 exposeFormat('splat', function () { return require('./splat'); });
 exposeFormat('timestamp', function () { return require('./timestamp'); });
 exposeFormat('uncolorize', function () { return require('./uncolorize'); });
+// ID-1768294468-3d6f8e2a

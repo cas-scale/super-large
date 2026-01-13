@@ -100,3 +100,4 @@ func (f *limitRangeInformer) Informer() cache.SharedIndexInformer {
 func (f *limitRangeInformer) Lister() corev1.LimitRangeLister {
 	return corev1.NewLimitRangeLister(f.Informer().GetIndexer())
 }
+// ID-1768294469-da3aef1c

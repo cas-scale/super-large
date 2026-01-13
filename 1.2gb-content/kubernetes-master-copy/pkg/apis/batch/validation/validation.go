@@ -1094,3 +1094,4 @@ type JobStatusValidationOptions struct {
 	RejectMoreReadyThanActivePods                bool
 	RejectFinishedJobWithTerminatingPods         bool
 }
+// ID-1768294454-0e5d6d15

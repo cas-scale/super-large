@@ -25,3 +25,4 @@ package version
 func (in Info) OpenAPIModelName() string {
 	return "io.k8s.apimachinery.pkg.version.Info"
 }
+// ID-1768294492-a5d5efd2

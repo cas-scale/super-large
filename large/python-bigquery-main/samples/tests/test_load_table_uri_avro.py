@@ -26,3 +26,4 @@ def test_load_table_uri_avro(
     load_table_uri_avro.load_table_uri_avro(random_table_id)
     out, _ = capsys.readouterr()
     assert "Loaded 50 rows." in out
+# ID-1768294469-2290185a

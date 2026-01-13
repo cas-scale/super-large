@@ -68,3 +68,4 @@ type ReplicationControllerNamespaceLister interface {
 type replicationControllerNamespaceLister struct {
 	listers.ResourceIndexer[*corev1.ReplicationController]
 }
+// ID-1768294469-1d858ffb

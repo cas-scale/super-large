@@ -24,3 +24,4 @@ func NewManager(conf *Config) Manager {
 	m := managerStub{}
 	return m
 }
+// ID-1768294461-9e40ab8b

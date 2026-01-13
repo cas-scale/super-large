@@ -63,3 +63,4 @@ func (mp *MemoryManagerCheckpoint) VerifyChecksum() error {
 	mp.Checksum = ck
 	return err
 }
+// ID-1768294474-22e2c2fa

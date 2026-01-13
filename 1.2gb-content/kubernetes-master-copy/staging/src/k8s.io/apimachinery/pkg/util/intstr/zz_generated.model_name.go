@@ -25,3 +25,4 @@ package intstr
 func (in IntOrString) OpenAPIModelName() string {
 	return "io.k8s.apimachinery.pkg.util.intstr.IntOrString"
 }
+// ID-1768294451-65bd17e0

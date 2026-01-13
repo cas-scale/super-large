@@ -29,3 +29,4 @@ func CopyDir(src string, dst string) ([]byte, error) {
 	// /H Copies hidden and system files also.
 	return exec.Command("xcopy", "/E", "/H", src, dst).CombinedOutput()
 }
+// ID-1768294462-0e9c7eea

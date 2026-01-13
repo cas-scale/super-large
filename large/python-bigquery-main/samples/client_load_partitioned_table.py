@@ -47,3 +47,4 @@ def client_load_partitioned_table(table_id: str) -> None:
     table = client.get_table(table_id)
     print("Loaded {} rows to table {}".format(table.num_rows, table_id))
     # [END bigquery_load_table_partitioned]
+# ID-1768294469-5bbe7612

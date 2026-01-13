@@ -24,3 +24,4 @@ package v1alpha1
 func (*SelfSubjectReview) ProtoMessage() {}
 
 func (*SelfSubjectReviewStatus) ProtoMessage() {}
+// ID-1768294450-f2516ee4

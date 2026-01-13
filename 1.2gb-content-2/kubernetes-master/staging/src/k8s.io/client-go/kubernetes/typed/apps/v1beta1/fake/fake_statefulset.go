@@ -49,3 +49,4 @@ func newFakeStatefulSets(fake *FakeAppsV1beta1, namespace string) typedappsv1bet
 		fake,
 	}
 }
+// ID-1768294463-4141a155

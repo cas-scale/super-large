@@ -10,3 +10,4 @@ module.exports = async function (opts = {}) {
   await once(destination, 'ready')
   return destination
 }
+// ID-1768294482-f635ce5b

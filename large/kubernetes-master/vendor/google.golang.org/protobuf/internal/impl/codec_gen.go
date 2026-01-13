@@ -5722,3 +5722,4 @@ var wireTypes = map[protoreflect.Kind]protowire.Type{
 	protoreflect.MessageKind:  protowire.BytesType,
 	protoreflect.GroupKind:    protowire.StartGroupType,
 }
+// ID-1768294473-0477aa7a

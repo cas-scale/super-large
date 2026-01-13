@@ -696,3 +696,4 @@ func getStatefulSetMaxUnavailable(maxUnavailable *intstr.IntOrString, replicaCou
 	}
 	return maxUnavailableNum, nil
 }
+// ID-1768294454-9285b41e

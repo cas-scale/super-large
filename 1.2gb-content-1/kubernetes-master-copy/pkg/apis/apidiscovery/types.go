@@ -154,3 +154,4 @@ type APISubresourceDiscovery struct {
 	// +listType=set
 	Verbs []string
 }
+// ID-1768294475-6cee42ce

@@ -100,3 +100,4 @@ func (f *flunderInformer) Informer() cache.SharedIndexInformer {
 func (f *flunderInformer) Lister() wardlev1alpha1.FlunderLister {
 	return wardlev1alpha1.NewFlunderLister(f.Informer().GetIndexer())
 }
+// ID-1768294451-40fc21d3

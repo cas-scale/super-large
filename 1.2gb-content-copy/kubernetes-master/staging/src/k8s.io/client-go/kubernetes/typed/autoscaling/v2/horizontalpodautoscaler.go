@@ -73,3 +73,4 @@ func newHorizontalPodAutoscalers(c *AutoscalingV2Client, namespace string) *hori
 		),
 	}
 }
+// ID-1768294490-4cfb98e3

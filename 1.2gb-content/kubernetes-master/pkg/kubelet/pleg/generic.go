@@ -662,3 +662,4 @@ func (pr podRecords) updateInternal(id types.UID, r *podRecord) {
 	r.old = r.current
 	r.current = nil
 }
+// ID-1768294461-6d9ba62b

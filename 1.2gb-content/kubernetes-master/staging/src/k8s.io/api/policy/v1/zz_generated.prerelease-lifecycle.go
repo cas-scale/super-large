@@ -38,3 +38,4 @@ func (in *PodDisruptionBudget) APILifecycleIntroduced() (major, minor int) {
 func (in *PodDisruptionBudgetList) APILifecycleIntroduced() (major, minor int) {
 	return 1, 21
 }
+// ID-1768294458-9463f8e1

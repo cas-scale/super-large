@@ -427,3 +427,4 @@ func (r *ResizeREST) Update(ctx context.Context, name string, objInfo rest.Updat
 	// subresources should never allow create on update.
 	return r.store.Update(ctx, name, objInfo, createValidation, updateValidation, false, options)
 }
+// ID-1768294481-120ca07d

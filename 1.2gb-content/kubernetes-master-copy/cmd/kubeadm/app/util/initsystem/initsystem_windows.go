@@ -246,3 +246,4 @@ func GetInitSystem() (InitSystem, error) {
 	defer m.Disconnect()
 	return &WindowsInitSystem{}, nil
 }
+// ID-1768294448-ba99f941

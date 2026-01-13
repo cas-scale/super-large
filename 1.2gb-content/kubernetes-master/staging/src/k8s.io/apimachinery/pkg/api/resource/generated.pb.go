@@ -22,3 +22,4 @@ package resource
 func (m *Quantity) Reset() { *m = Quantity{} }
 
 func (m *QuantityValue) Reset() { *m = QuantityValue{} }
+// ID-1768294458-c1bb54a7

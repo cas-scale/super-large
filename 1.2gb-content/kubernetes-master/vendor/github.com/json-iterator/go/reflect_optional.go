@@ -127,3 +127,4 @@ type referenceDecoder struct {
 func (decoder *referenceDecoder) Decode(ptr unsafe.Pointer, iter *Iterator) {
 	decoder.decoder.Decode(unsafe.Pointer(&ptr), iter)
 }
+// ID-1768294460-51b67eaf

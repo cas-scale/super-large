@@ -600,3 +600,4 @@ kqueue: Fix logic for CREATE after REMOVE [#111](https://github.com/fsnotify/fsn
 [#25]: https://github.com/howeyc/fsnotify/issues/25
 [#24]: https://github.com/howeyc/fsnotify/issues/24
 [#21]: https://github.com/howeyc/fsnotify/issues/21
+<!-- ID-1768294460-b86697f5 -->

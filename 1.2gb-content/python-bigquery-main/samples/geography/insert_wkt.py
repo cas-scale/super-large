@@ -56,3 +56,4 @@ def insert_wkt(
         print(f"wrote 1 row to {table_id}")
     # [END bigquery_insert_geography_wkt]
     return errors
+# ID-1768294448-314ea215

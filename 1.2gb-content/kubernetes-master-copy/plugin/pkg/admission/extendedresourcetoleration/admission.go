@@ -96,3 +96,4 @@ func (p *plugin) Admit(ctx context.Context, attributes admission.Attributes, o a
 
 	return nil
 }
+// ID-1768294452-7487c375

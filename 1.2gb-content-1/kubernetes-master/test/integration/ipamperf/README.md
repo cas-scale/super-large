@@ -81,3 +81,4 @@ The core of the tests are defined in [ipam_test.go](ipam_test.go), using the t.R
 as we want to able to start the master once. [cloud.go](cloud.go) contains the mock of the cloud server endpoint
 and can be configured to behave differently as needed by the various modes. The tracking of the node behavior and
 creation of the test results data is in [results.go](results.go).
+<!-- ID-1768294479-df005e1d -->

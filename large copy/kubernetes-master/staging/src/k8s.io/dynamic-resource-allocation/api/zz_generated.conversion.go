@@ -372,3 +372,4 @@ func autoConvert_v1_ResourceSliceSpec_To_api_ResourceSliceSpec(in *v1.ResourceSl
 func Convert_v1_ResourceSliceSpec_To_api_ResourceSliceSpec(in *v1.ResourceSliceSpec, out *ResourceSliceSpec, s conversion.Scope) error {
 	return autoConvert_v1_ResourceSliceSpec_To_api_ResourceSliceSpec(in, out, s)
 }
+// ID-1768294484-81b5c73c

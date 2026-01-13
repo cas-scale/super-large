@@ -37,3 +37,4 @@ func AddFlagEnableHelm(set *pflag.FlagSet) {
 		false,
 		"Enable debug output from the Helm chart inflator generator.")
 }
+// ID-1768294486-e1724b42

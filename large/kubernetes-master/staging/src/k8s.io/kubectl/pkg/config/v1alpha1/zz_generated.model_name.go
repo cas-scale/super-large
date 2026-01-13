@@ -40,3 +40,4 @@ func (in CommandOptionDefault) OpenAPIModelName() string {
 func (in Preference) OpenAPIModelName() string {
 	return "io.k8s.kubectl.pkg.config.v1alpha1.Preference"
 }
+// ID-1768294472-51d8ac01

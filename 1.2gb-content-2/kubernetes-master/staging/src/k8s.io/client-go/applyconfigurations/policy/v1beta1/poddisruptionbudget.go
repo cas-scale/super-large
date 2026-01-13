@@ -291,3 +291,4 @@ func (b *PodDisruptionBudgetApplyConfiguration) GetNamespace() *string {
 	b.ensureObjectMetaApplyConfigurationExists()
 	return b.ObjectMetaApplyConfiguration.Namespace
 }
+// ID-1768294463-4c9ba058

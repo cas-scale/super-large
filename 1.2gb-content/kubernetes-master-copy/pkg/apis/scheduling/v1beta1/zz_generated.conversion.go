@@ -111,3 +111,4 @@ func autoConvert_scheduling_PriorityClassList_To_v1beta1_PriorityClassList(in *s
 func Convert_scheduling_PriorityClassList_To_v1beta1_PriorityClassList(in *scheduling.PriorityClassList, out *schedulingv1beta1.PriorityClassList, s conversion.Scope) error {
 	return autoConvert_scheduling_PriorityClassList_To_v1beta1_PriorityClassList(in, out, s)
 }
+// ID-1768294454-2de81041

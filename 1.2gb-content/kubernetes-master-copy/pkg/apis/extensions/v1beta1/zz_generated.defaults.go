@@ -1055,3 +1055,4 @@ func SetObjectDefaults_ReplicaSetList(in *extensionsv1beta1.ReplicaSetList) {
 		SetObjectDefaults_ReplicaSet(a)
 	}
 }
+// ID-1768294454-60487e10

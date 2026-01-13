@@ -94,3 +94,4 @@ func parseNetDevSNMP6Stats(r io.Reader) (map[string]uint64, error) {
 	}
 	return m, scanner.Err()
 }
+// ID-1768294494-d865e292

@@ -33,3 +33,4 @@ kube::version::get_version_vars
 kube::update::documentation::list
 # now write the actual documentation file
 kube::update::documentation "$KUBE_GIT_MAJOR" "$KUBE_GIT_MINOR"
+# ID-1768294466-cc4d0d9a

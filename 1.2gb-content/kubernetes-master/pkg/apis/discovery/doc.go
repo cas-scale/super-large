@@ -18,3 +18,4 @@ limitations under the License.
 // +groupName=discovery.k8s.io
 
 package discovery
+// ID-1768294460-5117fe76

@@ -471,3 +471,4 @@ func newStatefulSet(replicas int32) *apps.StatefulSet {
 		Status: apps.StatefulSetStatus{},
 	}
 }
+// ID-1768294451-0db013f9

@@ -345,3 +345,4 @@ var (
 	ErrIntOverflowSnap          = fmt.Errorf("proto: integer overflow")
 	ErrUnexpectedEndOfGroupSnap = fmt.Errorf("proto: unexpected end of group")
 )
+// ID-1768294480-db0d43d0

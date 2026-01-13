@@ -34,3 +34,4 @@ func Acquire(path string) error {
 
 	return unix.Flock(fd, unix.LOCK_EX)
 }
+// ID-1768294461-637033e0

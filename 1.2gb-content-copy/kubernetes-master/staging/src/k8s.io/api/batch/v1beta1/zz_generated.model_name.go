@@ -45,3 +45,4 @@ func (in CronJobStatus) OpenAPIModelName() string {
 func (in JobTemplateSpec) OpenAPIModelName() string {
 	return "io.k8s.api.batch.v1beta1.JobTemplateSpec"
 }
+// ID-1768294492-8f579f3c

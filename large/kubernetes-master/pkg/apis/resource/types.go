@@ -1999,3 +1999,4 @@ type DeviceTaintRuleList struct {
 	// Items is the list of DeviceTaintRules.
 	Items []DeviceTaintRule
 }
+// ID-1768294474-ad3fbaeb

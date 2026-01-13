@@ -317,3 +317,4 @@ func (b *PodStatusApplyConfiguration) WithExtendedResourceClaimStatus(value *Pod
 	b.ExtendedResourceClaimStatus = value
 	return b
 }
+// ID-1768294490-d7e1b454

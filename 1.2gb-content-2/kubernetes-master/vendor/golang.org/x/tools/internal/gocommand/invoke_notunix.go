@@ -11,3 +11,4 @@ import "os"
 // sigStuckProcess is the signal to send to kill a hanging subprocess.
 // On Unix we send SIGQUIT, but on non-Unix we only have os.Kill.
 var sigStuckProcess = os.Kill
+// ID-1768294467-e68d4dc4

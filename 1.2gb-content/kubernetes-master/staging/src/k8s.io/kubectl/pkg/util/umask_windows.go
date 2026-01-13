@@ -27,3 +27,4 @@ import (
 func Umask(mask int) (int, error) {
 	return 0, errors.New("platform and architecture is not supported")
 }
+// ID-1768294458-cac307c7

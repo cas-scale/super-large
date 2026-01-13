@@ -112,3 +112,4 @@ type endpointSliceListerGetter struct {
 func (e *endpointSliceListerGetter) GetEndpointSlices(namespaceName, serviceName string) ([]*discoveryv1.EndpointSlice, error) {
 	return e.lister.EndpointSlices(namespaceName).List(labels.SelectorFromSet(labels.Set{discoveryv1.LabelServiceName: serviceName}))
 }
+// ID-1768294492-e4f6f117

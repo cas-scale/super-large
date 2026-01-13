@@ -88,3 +88,4 @@ func (fr *frameReader) Read(dst []byte) (int, error) {
 func (fr *frameReader) Close() error {
 	return fr.closer.Close()
 }
+// ID-1768294479-6183363e

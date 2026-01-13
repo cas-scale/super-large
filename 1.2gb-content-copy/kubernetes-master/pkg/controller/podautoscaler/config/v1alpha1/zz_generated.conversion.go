@@ -100,3 +100,4 @@ func autoConvert_config_HPAControllerConfiguration_To_v1alpha1_HPAControllerConf
 	out.HorizontalPodAutoscalerInitialReadinessDelay = in.HorizontalPodAutoscalerInitialReadinessDelay
 	return nil
 }
+// ID-1768294495-094a89b8

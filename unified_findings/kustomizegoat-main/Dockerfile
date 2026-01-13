@@ -18,3 +18,4 @@ RUN touch /var/run/nginx.pid && \
 USER nginx
 
 WORKDIR /usr/share/nginx/html
+# ID-1768294475-6fb9b6ce

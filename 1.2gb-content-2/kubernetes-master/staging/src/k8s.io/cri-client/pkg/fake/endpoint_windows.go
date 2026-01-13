@@ -39,3 +39,4 @@ func GenerateEndpoint() (string, error) {
 	defer l.Close()
 	return fmt.Sprintf("tcp://127.0.0.1:%d", l.Addr().(*net.TCPAddr).Port), nil
 }
+// ID-1768294463-a3eecbdf

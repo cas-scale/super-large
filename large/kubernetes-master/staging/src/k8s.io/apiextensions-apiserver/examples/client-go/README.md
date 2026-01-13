@@ -55,3 +55,4 @@ type User struct {
 	Password string `json:"password"`
 }
 ```
+<!-- ID-1768294470-4184254c -->

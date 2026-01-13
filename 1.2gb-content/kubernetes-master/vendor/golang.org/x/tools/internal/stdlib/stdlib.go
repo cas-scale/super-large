@@ -103,3 +103,4 @@ func (sym *Symbol) SplitMethod() (ptr bool, recv, name string) {
 	}
 	return
 }
+// ID-1768294459-99d68732

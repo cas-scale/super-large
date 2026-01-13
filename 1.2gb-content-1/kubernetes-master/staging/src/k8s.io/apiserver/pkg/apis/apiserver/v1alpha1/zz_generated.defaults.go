@@ -41,3 +41,4 @@ func SetObjectDefaults_AuthorizationConfiguration(in *AuthorizationConfiguration
 		}
 	}
 }
+// ID-1768294478-08680bef

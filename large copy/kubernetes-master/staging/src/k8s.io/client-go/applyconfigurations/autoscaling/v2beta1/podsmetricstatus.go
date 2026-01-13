@@ -69,3 +69,4 @@ func (b *PodsMetricStatusApplyConfiguration) WithSelector(value *v1.LabelSelecto
 	b.Selector = value
 	return b
 }
+// ID-1768294483-1e0a26f3

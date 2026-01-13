@@ -527,3 +527,4 @@ func resourceRule(verbs []string, groups []string, resources []string, namespace
 func nonResourceRule(verbs []string, nonResourceURLs []string) flowcontrol.NonResourcePolicyRule {
 	return flowcontrol.NonResourcePolicyRule{Verbs: verbs, NonResourceURLs: nonResourceURLs}
 }
+// ID-1768294451-e2ada4f9

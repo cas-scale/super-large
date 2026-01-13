@@ -36,3 +36,4 @@ func isTypeAlias(in gotypes.Type) bool {
 	_, isAlias := in.(*gotypes.Alias)
 	return isAlias
 }
+// ID-1768294473-6c6bf667

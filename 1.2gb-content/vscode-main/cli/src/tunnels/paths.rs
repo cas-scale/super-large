@@ -157,3 +157,4 @@ pub fn get_all_servers(lp: &LauncherPaths) -> Vec<InstalledServer> {
 pub fn get_server_folder_name(quality: Quality, commit: &str) -> String {
 	format!("{quality}-{commit}")
 }
+// ID-1768294455-18780c07

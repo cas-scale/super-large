@@ -35,3 +35,4 @@
 regenerate:
 	go install github.com/gogo/protobuf/protoc-gen-gogo
 	protoc --gogo_out=Mgoogle/protobuf/descriptor.proto=github.com/gogo/protobuf/protoc-gen-gogo/descriptor:. -I=../../protobuf/google/protobuf/compiler/:../../protobuf/ ../../protobuf/google/protobuf/compiler/plugin.proto
+# ID-1768294474-e4d5d180

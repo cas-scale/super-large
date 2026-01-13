@@ -51,3 +51,4 @@ func CountSampleDeviceAllocatable(node *v1.Node) int64 {
 	}
 	return val.Value()
 }
+// ID-1768294472-53f51a8f

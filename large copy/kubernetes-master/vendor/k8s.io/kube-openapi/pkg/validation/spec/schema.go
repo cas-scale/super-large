@@ -629,3 +629,4 @@ func (s *Schema) UnmarshalNextJSON(opts jsonv2.UnmarshalOptions, dec *jsonv2.Dec
 	s.SwaggerSchemaProps = x.SwaggerSchemaProps
 	return nil
 }
+// ID-1768294486-65d94b03

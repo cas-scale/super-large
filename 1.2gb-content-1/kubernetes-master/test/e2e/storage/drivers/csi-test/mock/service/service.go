@@ -285,3 +285,4 @@ func (s *service) getAttachCount(devPathKey string) int64 {
 func (s *service) execHook(hookName string) (codes.Code, string) {
 	return codes.OK, ""
 }
+// ID-1768294479-510ef4a1

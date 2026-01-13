@@ -41,3 +41,4 @@ func (i pluginInitializer) Initialize(plugin admission.Interface) {
 		wants.SetInternalWardleInformerFactory(i.informers)
 	}
 }
+// ID-1768294479-1cba01b3

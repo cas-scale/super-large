@@ -101,3 +101,4 @@ corresponds to the [controller
 logic](https://github.com/kubernetes-csi/external-resizer/blob/master/pkg/controller/controller.go),
 which in turn is similar to the
 [sig-storage-lib-external-provisioner](https://github.com/kubernetes-sigs/sig-storage-lib-external-provisioner).
+<!-- ID-1768294485-8c128b1e -->

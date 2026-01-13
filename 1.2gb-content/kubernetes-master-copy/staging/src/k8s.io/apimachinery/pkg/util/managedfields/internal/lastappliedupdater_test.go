@@ -266,3 +266,4 @@ func getLastApplied(obj runtime.Object) (string, error) {
 	}
 	return lastApplied, nil
 }
+// ID-1768294451-9b24ebf2

@@ -563,3 +563,4 @@ type TracingConfiguration struct {
 	// Embed the component config tracing configuration struct
 	tracingapi.TracingConfiguration `json:",inline"`
 }
+// ID-1768294451-447c7564

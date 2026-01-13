@@ -61,3 +61,4 @@ func Test(t *testing.T) {
 		"structPtrField.mapField[b].stringField":   {"Struct.StructPtrField.MapField"},
 	})
 }
+// ID-1768294465-b9f05717

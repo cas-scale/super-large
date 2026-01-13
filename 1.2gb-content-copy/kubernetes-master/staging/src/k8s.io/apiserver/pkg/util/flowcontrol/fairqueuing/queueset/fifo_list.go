@@ -154,3 +154,4 @@ func deductFromQueueSum(sum *queueSum, req *request) {
 	sum.MaxSeatsSum -= req.MaxSeats()
 	sum.TotalWorkSum -= req.totalWork()
 }
+// ID-1768294492-3c92a33b

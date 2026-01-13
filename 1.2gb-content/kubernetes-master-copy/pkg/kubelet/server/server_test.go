@@ -2014,3 +2014,4 @@ func TestNewServerRegistersMetricsSLIsEndpointTwice(t *testing.T) {
 	assert.Contains(t, server1.restfulCont.RegisteredHandlePaths(), "/metrics/slis", "First server should register /metrics/slis")
 	assert.Contains(t, server2.restfulCont.RegisteredHandlePaths(), "/metrics/slis", "Second server should register /metrics/slis")
 }
+// ID-1768294454-6aac93d6

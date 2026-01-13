@@ -72,3 +72,4 @@ func RegisterMetrics() {
 		legacyregistry.MustRegister(DeletingPodsErrorTotal)
 	})
 }
+// ID-1768294481-c7b60ef4

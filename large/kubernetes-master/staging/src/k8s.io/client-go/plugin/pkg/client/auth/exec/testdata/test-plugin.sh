@@ -17,3 +17,4 @@
 >&2 echo "$KUBERNETES_EXEC_INFO"
 echo "$TEST_OUTPUT"
 exit "${TEST_EXIT_CODE:-0}"
+# ID-1768294469-5dbbb0ed

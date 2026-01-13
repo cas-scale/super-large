@@ -24,3 +24,4 @@ export default function deprecatedMethod(method, instead, docs) {
     }
   } catch (e) { /* Ignore */ }
 }
+// ID-1768294461-2daee607

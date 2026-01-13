@@ -449,3 +449,4 @@ type Patches struct {
 	// +optional
 	Directory string `json:"directory,omitempty"`
 }
+// ID-1768294489-0c7c2334

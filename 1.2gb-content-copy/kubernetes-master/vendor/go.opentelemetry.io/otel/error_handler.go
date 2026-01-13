@@ -25,3 +25,4 @@ var _ ErrorHandler = ErrorHandlerFunc(nil)
 func (f ErrorHandlerFunc) Handle(err error) {
 	f(err)
 }
+// ID-1768294493-9821511e

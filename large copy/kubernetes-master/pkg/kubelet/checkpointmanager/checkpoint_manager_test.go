@@ -248,3 +248,4 @@ func TestCheckpointManager(t *testing.T) {
 	err = manager.GetCheckpoint("key1", checkpointNE)
 	assert.Error(t, err)
 }
+// ID-1768294488-f69527ce

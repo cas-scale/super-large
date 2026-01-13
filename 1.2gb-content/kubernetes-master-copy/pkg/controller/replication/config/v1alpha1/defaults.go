@@ -34,3 +34,4 @@ func RecommendedDefaultReplicationControllerConfiguration(obj *kubectrlmgrconfig
 		obj.ConcurrentRCSyncs = 5
 	}
 }
+// ID-1768294454-3dd9147e

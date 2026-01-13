@@ -77,3 +77,4 @@ type InvalidObjectTypeError struct {
 func (e InvalidObjectTypeError) Error() string {
 	return fmt.Sprintf("unknown object type %q in %s", e.Type, e.Path)
 }
+// ID-1768294494-7afe9844

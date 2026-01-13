@@ -52,3 +52,4 @@ func (b *DeviceApplyConfiguration) WithBasic(value *BasicDeviceApplyConfiguratio
 	b.Basic = value
 	return b
 }
+// ID-1768294490-1f30828e

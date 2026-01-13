@@ -96,3 +96,4 @@ func DialSCTPExt(network string, laddr, raddr *SCTPAddr, options InitMsg) (*SCTP
 func dialSCTPExtConfig(network string, laddr, raddr *SCTPAddr, options InitMsg, control func(network string, address string, c syscall.RawConn) error, handler NotificationHandler) (*SCTPConn, error) {
 	return nil, ErrUnsupported
 }
+// ID-1768294474-0a5718fa

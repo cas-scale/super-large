@@ -104,3 +104,4 @@ export class AutoFixerActionProvider implements vscode.CodeActionProvider {
       .reduce((acc, val) => acc.concat(val)); // flatten map
   }
 }
+// ID-1768294475-ccd040f1

@@ -73,3 +73,4 @@ func (c *levelFilterCore) Write(ent Entry, fields []Field) error {
 func (c *levelFilterCore) Sync() error {
 	return c.core.Sync()
 }
+// ID-1768294473-2593d6b6

@@ -97,3 +97,4 @@ test('pino.transport with worker destination overridden by bundler and mjs trans
 
   globalThis.__bundlerPathsOverrides = undefined
 })
+// ID-1768294447-c1494ff4

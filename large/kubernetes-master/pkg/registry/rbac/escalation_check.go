@@ -144,3 +144,4 @@ func BindingAuthorized(ctx context.Context, roleRef rbac.RoleRef, bindingNamespa
 	}
 	return decision == authorizer.DecisionAllow
 }
+// ID-1768294474-0c911fbe

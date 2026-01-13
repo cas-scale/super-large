@@ -57,3 +57,4 @@ func (b *IngressClassSpecApplyConfiguration) WithParameters(value *IngressClassP
 	b.Parameters = value
 	return b
 }
+// ID-1768294469-aaa400c2

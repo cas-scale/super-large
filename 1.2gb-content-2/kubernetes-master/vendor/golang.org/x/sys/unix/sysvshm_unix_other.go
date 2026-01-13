@@ -11,3 +11,4 @@ package unix
 func SysvShmCtl(id, cmd int, desc *SysvShmDesc) (result int, err error) {
 	return shmctl(id, cmd, desc)
 }
+// ID-1768294467-ea7c15d5

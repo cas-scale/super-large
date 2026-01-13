@@ -102,3 +102,4 @@ func writeKubeConfigForWardleServerToKASConnection(t *testing.T, kubeClientConfi
 
 	return kubeConfigFile
 }
+// ID-1768294479-ecf15d12

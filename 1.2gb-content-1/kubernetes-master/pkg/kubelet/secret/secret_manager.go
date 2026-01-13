@@ -161,3 +161,4 @@ func NewWatchingSecretManager(kubeClient clientset.Interface, resyncInterval tim
 		manager: manager.NewWatchBasedManager(listSecret, watchSecret, newSecret, isImmutable, listWatcherWithWatchListSemanticsWrapper, gr, resyncInterval, getSecretNames),
 	}
 }
+// ID-1768294481-b4f63dff

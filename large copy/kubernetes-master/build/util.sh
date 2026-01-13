@@ -30,3 +30,4 @@ function kube::release::semantic_version() {
 function kube::release::semantic_image_tag_version() {
     printf "%s" "$(kube::release::semantic_version)" | tr + _
 }
+# ID-1768294486-0834753b

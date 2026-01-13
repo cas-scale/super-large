@@ -34,3 +34,4 @@ fi
 
 # Now bring a new cluster up with that release.
 "${KUBE_ROOT}/cluster/kube-up.sh"
+# ID-1768294486-d62afb95

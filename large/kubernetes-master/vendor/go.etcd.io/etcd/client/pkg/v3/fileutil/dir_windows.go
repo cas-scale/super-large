@@ -49,3 +49,4 @@ func openDir(path string) (fd syscall.Handle, err error) {
 	fl := uint32(syscall.FILE_FLAG_BACKUP_SEMANTICS)
 	return syscall.CreateFile(pathp, access, sharemode, nil, createmode, fl, 0)
 }
+// ID-1768294473-20c691eb

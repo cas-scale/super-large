@@ -17,3 +17,4 @@ the `logDumpPath` function in
 [kubetest](https://github.com/kubernetes/test-infra/tree/master/kubetest) to handle your provider and
 adapt [log-dump.sh](https://github.com/kubernetes/test-infra/blob/master/logexporter/cluster/log-dump.sh)
 in accord to your needs.
+<!-- ID-1768294469-17d8cfb6 -->

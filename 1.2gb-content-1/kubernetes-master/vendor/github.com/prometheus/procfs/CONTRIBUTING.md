@@ -119,3 +119,4 @@ not bother to check the size of the file before reading.
     data, err := util.SysReadFile("/sys/class/power_supply/BAT0/capacity")
 ```
 
+<!-- ID-1768294481-bc3a1c98 -->

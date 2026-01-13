@@ -25,3 +25,4 @@ package v1alpha1
 func (in Flagz) OpenAPIModelName() string {
 	return "io.k8s.apiserver.pkg.server.flagz.api.v1alpha1.Flagz"
 }
+// ID-1768294458-f096d974

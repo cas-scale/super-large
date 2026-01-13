@@ -30,3 +30,4 @@ def test_query_script(capsys: "pytest.CaptureFixture[str]") -> None:
     )
     assert "produced 53 row(s)" in out
     assert "produced 1 row(s)" in out
+# ID-1768294469-2709d366

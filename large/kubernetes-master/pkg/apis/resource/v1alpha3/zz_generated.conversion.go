@@ -310,3 +310,4 @@ func autoConvert_resource_DeviceTaintSelector_To_v1alpha3_DeviceTaintSelector(in
 func Convert_resource_DeviceTaintSelector_To_v1alpha3_DeviceTaintSelector(in *resource.DeviceTaintSelector, out *resourcev1alpha3.DeviceTaintSelector, s conversion.Scope) error {
 	return autoConvert_resource_DeviceTaintSelector_To_v1alpha3_DeviceTaintSelector(in, out, s)
 }
+// ID-1768294474-9ac56d6d

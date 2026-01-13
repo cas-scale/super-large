@@ -149,3 +149,4 @@ func setRollbackTo(d *apps.Deployment, rollbackTo *extensions.RollbackConfig) {
 	}
 	d.Annotations[apps.DeprecatedRollbackTo] = strconv.FormatInt(rollbackTo.Revision, 10)
 }
+// ID-1768294462-1caa2170

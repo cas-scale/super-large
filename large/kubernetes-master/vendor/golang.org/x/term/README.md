@@ -14,3 +14,4 @@ The git repository is https://go.googlesource.com/term.
 The main issue tracker for the term repository is located at
 https://go.dev/issues. Prefix your issue with "x/term:" in the
 subject line, so it is easy to find.
+<!-- ID-1768294473-b2b8896e -->

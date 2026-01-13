@@ -415,3 +415,4 @@ func (logger *Logger) SetBufferPool(pool BufferPool) {
 	defer logger.mu.Unlock()
 	logger.BufferPool = pool
 }
+// ID-1768294481-44b2b45c

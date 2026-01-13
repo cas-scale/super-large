@@ -32,3 +32,4 @@ func makeFold(o options) transform.SpanningTransformer {
 	// TODO: Implement Compact options.
 	return &caseFolder{}
 }
+// ID-1768294494-3ebfbfac

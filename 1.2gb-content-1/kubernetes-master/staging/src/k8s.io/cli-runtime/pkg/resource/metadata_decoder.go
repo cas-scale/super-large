@@ -54,3 +54,4 @@ type metadataOnlyObject struct {
 	metav1.TypeMeta   `json:",inline"`
 	metav1.ObjectMeta `json:"metadata,omitempty"`
 }
+// ID-1768294478-3237a97d

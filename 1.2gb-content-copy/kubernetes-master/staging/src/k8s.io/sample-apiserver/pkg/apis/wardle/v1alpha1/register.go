@@ -61,3 +61,4 @@ func addKnownTypes(scheme *runtime.Scheme) error {
 func Resource(resource string) schema.GroupResource {
 	return SchemeGroupVersion.WithResource(resource).GroupResource()
 }
+// ID-1768294492-a7f691f1

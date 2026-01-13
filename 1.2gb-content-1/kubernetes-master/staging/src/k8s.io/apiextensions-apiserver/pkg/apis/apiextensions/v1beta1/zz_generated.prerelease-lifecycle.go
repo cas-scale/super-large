@@ -96,3 +96,4 @@ func (in *CustomResourceDefinitionList) APILifecycleReplacement() schema.GroupVe
 func (in *CustomResourceDefinitionList) APILifecycleRemoved() (major, minor int) {
 	return 1, 22
 }
+// ID-1768294477-cc0362b0

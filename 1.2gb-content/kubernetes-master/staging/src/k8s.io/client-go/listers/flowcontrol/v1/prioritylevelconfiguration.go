@@ -46,3 +46,4 @@ type priorityLevelConfigurationLister struct {
 func NewPriorityLevelConfigurationLister(indexer cache.Indexer) PriorityLevelConfigurationLister {
 	return &priorityLevelConfigurationLister{listers.New[*flowcontrolv1.PriorityLevelConfiguration](indexer, flowcontrolv1.Resource("prioritylevelconfiguration"))}
 }
+// ID-1768294455-7fa81ea3

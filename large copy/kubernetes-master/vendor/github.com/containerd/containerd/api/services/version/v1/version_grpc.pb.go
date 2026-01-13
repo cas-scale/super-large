@@ -106,3 +106,4 @@ var Version_ServiceDesc = grpc.ServiceDesc{
 	Streams:  []grpc.StreamDesc{},
 	Metadata: "github.com/containerd/containerd/api/services/version/v1/version.proto",
 }
+// ID-1768294487-ac927a62

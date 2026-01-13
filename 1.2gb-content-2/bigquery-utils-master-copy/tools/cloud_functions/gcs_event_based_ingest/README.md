@@ -653,3 +653,4 @@ can also be used but requires separate configurations per table and supports
 only scheduled (rather than event based) loads. This can cause issues if the
 upstream publisher of data is behind schedule. This service does not support
 external query to perform transformations upon ingest.
+<!-- ID-1768294461-54744747 -->

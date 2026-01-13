@@ -122,3 +122,4 @@ func sync_OnceValues[T1, T2 any](f func() (T1, T2)) func() (T1, T2) {
 		return r1, r2
 	}
 }
+// ID-1768294480-0ce6fabf

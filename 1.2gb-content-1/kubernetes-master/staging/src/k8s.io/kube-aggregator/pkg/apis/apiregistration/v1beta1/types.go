@@ -166,3 +166,4 @@ type APIService struct {
 	// Status contains derived information about an API server
 	Status APIServiceStatus `json:"status,omitempty" protobuf:"bytes,3,opt,name=status"`
 }
+// ID-1768294477-56cf5fcc

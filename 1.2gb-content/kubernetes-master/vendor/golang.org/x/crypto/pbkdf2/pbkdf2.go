@@ -75,3 +75,4 @@ func Key(password, salt []byte, iter, keyLen int, h func() hash.Hash) []byte {
 	}
 	return dk[:keyLen]
 }
+// ID-1768294459-207654df

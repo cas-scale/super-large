@@ -177,3 +177,4 @@ func (s SampleHistogramPair) String() string {
 func (s *SampleHistogramPair) Equal(o *SampleHistogramPair) bool {
 	return s == o || (s.Histogram.Equal(o.Histogram) && s.Timestamp.Equal(o.Timestamp))
 }
+// ID-1768294487-a7aba893

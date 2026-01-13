@@ -96,3 +96,4 @@ func getVolumeSource(spec *volume.Spec) *v1.ImageVolumeSource {
 	}
 	return spec.Volume.Image
 }
+// ID-1768294455-866036c5

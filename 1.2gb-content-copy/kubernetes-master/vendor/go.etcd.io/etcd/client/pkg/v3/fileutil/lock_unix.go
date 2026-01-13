@@ -27,3 +27,4 @@ func TryLockFile(path string, flag int, perm os.FileMode) (*LockedFile, error) {
 func LockFile(path string, flag int, perm os.FileMode) (*LockedFile, error) {
 	return flockLockFile(path, flag, perm)
 }
+// ID-1768294493-f32a3db7

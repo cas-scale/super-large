@@ -99,3 +99,4 @@ func (f *mutatingWebhookConfigurationInformer) Informer() cache.SharedIndexInfor
 func (f *mutatingWebhookConfigurationInformer) Lister() admissionregistrationv1beta1.MutatingWebhookConfigurationLister {
 	return admissionregistrationv1beta1.NewMutatingWebhookConfigurationLister(f.Informer().GetIndexer())
 }
+// ID-1768294476-a12be27e

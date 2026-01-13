@@ -7,3 +7,4 @@ package otel // import "go.opentelemetry.io/otel"
 func Version() string {
 	return "1.36.0"
 }
+// ID-1768294473-bb24ce00

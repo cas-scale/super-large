@@ -38,3 +38,4 @@ def client_query_legacy_sql() -> None:
     for row in results:
         print(row)
     # [END bigquery_query_legacy]
+# ID-1768294482-0d244b32

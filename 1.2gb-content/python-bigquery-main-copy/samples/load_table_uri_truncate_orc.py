@@ -52,3 +52,4 @@ def load_table_uri_truncate_orc(table_id: str) -> None:
     destination_table = client.get_table(table_id)
     print("Loaded {} rows.".format(destination_table.num_rows))
     # [END bigquery_load_table_gcs_orc_truncate]
+# ID-1768294461-7f77b9bc

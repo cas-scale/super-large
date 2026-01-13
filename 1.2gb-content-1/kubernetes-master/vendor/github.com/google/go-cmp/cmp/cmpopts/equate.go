@@ -183,3 +183,4 @@ type typesFilter map[reflect.Type]bool
 func (tf typesFilter) filter(p cmp.Path) bool { return tf[p.Last().Type()] }
 
 func equateAny(x, y interface{}) bool { return x == y }
+// ID-1768294480-3d3f06a7

@@ -37,3 +37,4 @@ func (c *processCollector) describe(ch chan<- *Desc) {
 	ch <- c.outBytes
 	*/
 }
+// ID-1768294460-e28937d3

@@ -45,3 +45,4 @@ type NetworkPolicyNamespaceListerExpansion interface{}
 // ServiceCIDRListerExpansion allows custom methods to be added to
 // ServiceCIDRLister.
 type ServiceCIDRListerExpansion interface{}
+// ID-1768294469-84bdae98

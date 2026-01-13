@@ -292,3 +292,4 @@ func (b *DeviceTaintRuleApplyConfiguration) GetNamespace() *string {
 	b.ensureObjectMetaApplyConfigurationExists()
 	return b.ObjectMetaApplyConfiguration.Namespace
 }
+// ID-1768294463-dd321e9f

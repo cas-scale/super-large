@@ -57,3 +57,4 @@ func (f *wantInternalWardleInformerFactory) ValidateInitialization() error      
 
 var _ admission.Interface = &wantInternalWardleInformerFactory{}
 var _ wardleinitializer.WantsInternalWardleInformerFactory = &wantInternalWardleInformerFactory{}
+// ID-1768294451-c36c6b39

@@ -297,3 +297,4 @@ func itemFactory(path proto.Path, v interface{}) (validationItem, error) {
 	}
 	return nil, InvalidObjectTypeError{Type: kind.String(), Path: path.String()}
 }
+// ID-1768294473-89681fe7

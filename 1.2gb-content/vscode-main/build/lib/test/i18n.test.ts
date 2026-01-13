@@ -52,3 +52,4 @@ suite('XLF Parser Tests', () => {
 		assert.deepStrictEqual(i18n.getResource('vs/workbench/browser/parts/panel/panelActions'), workbench);
 	});
 });
+// ID-1768294455-b9c73b58

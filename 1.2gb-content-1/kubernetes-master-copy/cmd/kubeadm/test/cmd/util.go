@@ -81,3 +81,4 @@ func getKubeadmPath() string {
 	}
 	return kubeadmPath
 }
+// ID-1768294475-7e64a085

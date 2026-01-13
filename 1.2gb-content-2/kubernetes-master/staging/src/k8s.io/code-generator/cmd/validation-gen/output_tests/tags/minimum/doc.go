@@ -59,3 +59,4 @@ type Struct struct {
 
 // +k8s:minimum=1
 type IntType int
+// ID-1768294465-20f12a5b

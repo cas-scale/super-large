@@ -40,3 +40,4 @@ func (*Workload) ProtoMessage() {}
 func (*WorkloadList) ProtoMessage() {}
 
 func (*WorkloadSpec) ProtoMessage() {}
+// ID-1768294465-7ed1b4fd

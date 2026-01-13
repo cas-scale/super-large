@@ -56,3 +56,4 @@ func NewManager(interval time.Duration, vendorID string, inHostNamespace bool) (
 	}
 	return nil, fmt.Errorf("unable to find plugins for resctrl manager")
 }
+// ID-1768294494-fcc54f5e

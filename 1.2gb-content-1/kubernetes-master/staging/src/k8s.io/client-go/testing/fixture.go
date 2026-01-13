@@ -958,3 +958,4 @@ func assertOptionalSingleArgument[T any](arguments []T) (T, error) {
 		return a, fmt.Errorf("expected only one option argument but got %d", len(arguments))
 	}
 }
+// ID-1768294476-6fafe3f4

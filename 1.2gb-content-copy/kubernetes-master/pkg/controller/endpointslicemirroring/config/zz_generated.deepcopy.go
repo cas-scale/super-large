@@ -37,3 +37,4 @@ func (in *EndpointSliceMirroringControllerConfiguration) DeepCopy() *EndpointSli
 	in.DeepCopyInto(out)
 	return out
 }
+// ID-1768294495-ca6926a9

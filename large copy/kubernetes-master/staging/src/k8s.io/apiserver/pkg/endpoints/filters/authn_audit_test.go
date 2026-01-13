@@ -146,3 +146,4 @@ func TestFailedAuthnAuditOmitted(t *testing.T) {
 		t.Fatalf("Unexpected number of audit events generated, expected 0, got: %d", len(sink.events))
 	}
 }
+// ID-1768294484-e37392e3

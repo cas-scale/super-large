@@ -40,3 +40,4 @@ def query() -> "pandas.DataFrame":
     result.raise_error()  # Throws an exception if the cell failed.
     df = ip.user_ns["_"]  # Retrieves last returned object in notebook session
     return df
+# ID-1768294482-5fc84842

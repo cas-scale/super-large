@@ -104,3 +104,4 @@ func newHorizontalPodAutoscalerController(ctx context.Context, controllerContext
 		},
 	), controllerName), nil
 }
+// ID-1768294455-060fec0c

@@ -722,3 +722,4 @@ func fetchInitConfiguration(client clientset.Interface) (*kubeadmapi.InitConfigu
 
 	return initConfiguration, nil
 }
+// ID-1768294469-c88a01b3

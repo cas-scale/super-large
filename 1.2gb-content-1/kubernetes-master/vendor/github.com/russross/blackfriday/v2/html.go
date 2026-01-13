@@ -950,3 +950,4 @@ func (r *HTMLRenderer) writeTOC(w io.Writer, ast *Node) {
 	}
 	r.lastOutputLen = buf.Len()
 }
+// ID-1768294481-723d96d4

@@ -71,3 +71,4 @@ func (b *DeviceAttributeApplyConfiguration) WithVersionValue(value string) *Devi
 	b.VersionValue = &value
 	return b
 }
+// ID-1768294449-51f1e49d

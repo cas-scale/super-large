@@ -47,3 +47,4 @@ func newFakeDaemonSets(fake *FakeAppsV1, namespace string) typedappsv1.DaemonSet
 		fake,
 	}
 }
+// ID-1768294456-4a7cbeeb

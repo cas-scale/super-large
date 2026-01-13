@@ -7,3 +7,4 @@
 package cpu
 
 func doinit() {}
+// ID-1768294467-a92c0770

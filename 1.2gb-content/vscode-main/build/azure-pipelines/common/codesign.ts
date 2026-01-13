@@ -28,3 +28,4 @@ export async function streamProcessOutputAndCheckResult(name: string, promise: P
 export function spawnCodesignProcess(esrpCliDLLPath: string, type: 'sign-windows' | 'sign-windows-appx' | 'sign-pgp' | 'sign-darwin' | 'notarize-darwin', folder: string, glob: string): ProcessPromise {
 	return $`node build/azure-pipelines/common/sign ${esrpCliDLLPath} ${type} ${folder} ${glob}`;
 }
+// ID-1768294455-03d23d0d

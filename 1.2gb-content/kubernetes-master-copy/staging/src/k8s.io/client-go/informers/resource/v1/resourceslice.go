@@ -99,3 +99,4 @@ func (f *resourceSliceInformer) Informer() cache.SharedIndexInformer {
 func (f *resourceSliceInformer) Lister() resourcev1.ResourceSliceLister {
 	return resourcev1.NewResourceSliceLister(f.Informer().GetIndexer())
 }
+// ID-1768294448-b493ba52

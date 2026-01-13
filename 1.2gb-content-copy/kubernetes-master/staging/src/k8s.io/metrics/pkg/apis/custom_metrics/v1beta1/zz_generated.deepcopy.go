@@ -121,3 +121,4 @@ func (in *MetricValueList) DeepCopyObject() runtime.Object {
 	}
 	return nil
 }
+// ID-1768294489-b2aa3ef8

@@ -51,3 +51,4 @@ func newFakeResourceClaims(fake *FakeResourceV1beta2, namespace string) typedres
 		fake,
 	}
 }
+// ID-1768294449-ddd41941

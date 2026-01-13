@@ -416,3 +416,4 @@ func TestProtocolSupportsStreamClose(t *testing.T) {
 			"%s: expected (%t), got (%t)", name, test.expected, actual)
 	}
 }
+// ID-1768294479-26232d39

@@ -19,3 +19,4 @@ limitations under the License.
 // +groupName=example-group.hyphens.code-generator.k8s.io
 // +groupGoName=ExampleGroup
 package v1
+// ID-1768294465-82b84afb

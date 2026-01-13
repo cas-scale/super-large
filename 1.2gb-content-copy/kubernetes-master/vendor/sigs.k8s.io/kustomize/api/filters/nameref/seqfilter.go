@@ -58,3 +58,4 @@ func applyFilterToSeq(filter yaml.Filter, node *yaml.RNode) error {
 
 	return nil
 }
+// ID-1768294494-8a3f59f3

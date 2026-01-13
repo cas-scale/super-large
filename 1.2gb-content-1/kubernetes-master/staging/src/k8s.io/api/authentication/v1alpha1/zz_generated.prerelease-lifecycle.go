@@ -38,3 +38,4 @@ func (in *SelfSubjectReview) APILifecycleDeprecated() (major, minor int) {
 func (in *SelfSubjectReview) APILifecycleRemoved() (major, minor int) {
 	return 1, 32
 }
+// ID-1768294478-11478552

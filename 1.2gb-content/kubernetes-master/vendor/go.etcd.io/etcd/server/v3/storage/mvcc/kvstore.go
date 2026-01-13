@@ -542,3 +542,4 @@ func (s *store) setupMetricsReporter() {
 func (s *store) HashStorage() HashStorage {
 	return s.hashes
 }
+// ID-1768294459-09fccbf6

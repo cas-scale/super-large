@@ -262,3 +262,4 @@ func (o *ExplainOptions) renderOpenAPIV2(
 
 	return explain.PrintModelDescription(fieldsPath, o.Out, schema, gvk, o.Recursive)
 }
+// ID-1768294478-566494d4

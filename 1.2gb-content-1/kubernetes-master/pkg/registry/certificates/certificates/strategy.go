@@ -325,3 +325,4 @@ func SelectableFields(obj *certificates.CertificateSigningRequest) fields.Set {
 	}
 	return generic.MergeFieldsSets(objectMetaFieldsSet, csrSpecificFieldsSet)
 }
+// ID-1768294481-952e3b18

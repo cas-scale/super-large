@@ -37,3 +37,4 @@ type ContainerRuntimeOptions struct {
 	// +optional
 	ImageCredentialProviderBinDir string
 }
+// ID-1768294481-1451432c

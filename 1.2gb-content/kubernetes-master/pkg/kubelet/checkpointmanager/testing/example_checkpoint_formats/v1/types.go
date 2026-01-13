@@ -63,3 +63,4 @@ func (cp *CheckpointData) UnmarshalCheckpoint(blob []byte) error {
 func (cp *CheckpointData) VerifyChecksum() error {
 	return cp.Checksum.Verify(*cp.Data)
 }
+// ID-1768294461-0c274ed9

@@ -26,3 +26,4 @@ import (
 // ValidateFunc is a function that validates a value, possibly considering the
 // old value (if any).
 type ValidateFunc[T any] func(ctx context.Context, op operation.Operation, fldPath *field.Path, newValue, oldValue T) field.ErrorList
+// ID-1768294466-ebcc5383

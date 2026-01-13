@@ -117,3 +117,4 @@ func printJoinCommand(out io.Writer, adminKubeConfigPath, token string, i InitDa
 
 	return initDoneTempl.Execute(out, ctx)
 }
+// ID-1768294462-0668da46

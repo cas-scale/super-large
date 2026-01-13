@@ -71,3 +71,4 @@ func Convert_v1beta2_ScaleStatus_To_scheme_ScaleStatus(in *v1beta2.ScaleStatus, 
 
 	return nil
 }
+// ID-1768294469-721adf76

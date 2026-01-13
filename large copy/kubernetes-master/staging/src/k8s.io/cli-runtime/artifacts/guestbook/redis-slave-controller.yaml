@@ -32,3 +32,4 @@ spec:
           # value: env
         ports:
         - containerPort: 6379
+# ID-1768294484-e2100325

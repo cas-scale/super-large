@@ -456,3 +456,4 @@ type CustomResourceSubresourceScale struct {
 	// +optional
 	LabelSelectorPath *string
 }
+// ID-1768294477-04cc2e95

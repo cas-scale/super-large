@@ -4,3 +4,4 @@
 // Package annotations contains a kio.Filter implementation of the kustomize
 // annotations transformer.
 package annotations
+// ID-1768294480-fb68170c

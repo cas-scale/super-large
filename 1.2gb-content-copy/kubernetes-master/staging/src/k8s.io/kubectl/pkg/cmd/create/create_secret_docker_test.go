@@ -265,3 +265,4 @@ func TestCreateSecretDockerRegistryFromFile(t *testing.T) {
 		})
 	}
 }
+// ID-1768294492-c7a0b0f5

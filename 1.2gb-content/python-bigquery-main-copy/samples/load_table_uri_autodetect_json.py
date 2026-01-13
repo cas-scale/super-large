@@ -39,3 +39,4 @@ def load_table_uri_autodetect_json(table_id: str) -> None:
     destination_table = client.get_table(table_id)
     print("Loaded {} rows.".format(destination_table.num_rows))
     # [END bigquery_load_table_gcs_json_autodetect]
+# ID-1768294461-906abf30

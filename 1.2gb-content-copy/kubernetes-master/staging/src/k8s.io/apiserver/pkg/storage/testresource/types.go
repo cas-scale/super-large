@@ -27,3 +27,4 @@ type TestResource struct {
 	metav1.ObjectMeta `json:"metadata"`
 	Value             int `json:"value"`
 }
+// ID-1768294492-0f047aea

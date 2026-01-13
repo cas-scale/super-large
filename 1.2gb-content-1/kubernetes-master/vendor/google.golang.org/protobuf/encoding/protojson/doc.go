@@ -9,3 +9,4 @@
 // This package produces a different output than the standard [encoding/json]
 // package, which does not operate correctly on protocol buffer messages.
 package protojson
+// ID-1768294480-f80f9de7

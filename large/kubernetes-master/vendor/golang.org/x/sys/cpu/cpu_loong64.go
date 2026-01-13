@@ -48,3 +48,4 @@ func get_cpucfg(reg uint32) uint32
 func cfgIsSet(cfg uint32, val uint32) bool {
 	return cfg&val != 0
 }
+// ID-1768294473-691048f4

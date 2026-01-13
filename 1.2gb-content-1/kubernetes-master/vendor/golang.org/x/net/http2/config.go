@@ -120,3 +120,4 @@ func adjustHTTP1MaxHeaderSize(n int64) int64 {
 	const typicalHeaders = 10   // conservative
 	return n + typicalHeaders*perFieldOverhead
 }
+// ID-1768294480-e015f6bf

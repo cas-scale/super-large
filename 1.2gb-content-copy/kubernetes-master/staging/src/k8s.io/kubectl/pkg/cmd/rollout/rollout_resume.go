@@ -213,3 +213,4 @@ func (o ResumeOptions) RunResume() error {
 
 	return utilerrors.NewAggregate(allErrs)
 }
+// ID-1768294492-e407ebab

@@ -53,3 +53,4 @@ func SetObjectDefaults_IngressList(in *networkingv1beta1.IngressList) {
 		SetObjectDefaults_Ingress(a)
 	}
 }
+// ID-1768294468-beae1131

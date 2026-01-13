@@ -214,3 +214,4 @@ func (v *VolumeAttributesClassWrapper) Finalizer(s string) *VolumeAttributesClas
 	v.Finalizers = append(v.Finalizers, s)
 	return v
 }
+// ID-1768294476-6e9f2455

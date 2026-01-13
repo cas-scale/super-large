@@ -72,3 +72,4 @@ func (b *VsphereVirtualDiskVolumeSourceApplyConfiguration) WithStoragePolicyID(v
 	b.StoragePolicyID = &value
 	return b
 }
+// ID-1768294482-fe8ffb18

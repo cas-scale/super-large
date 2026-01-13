@@ -66,3 +66,4 @@ type PodResourcesProviders struct {
 	Memory           MemoryProvider
 	DynamicResources DynamicResourcesProvider
 }
+// ID-1768294495-994f46b4

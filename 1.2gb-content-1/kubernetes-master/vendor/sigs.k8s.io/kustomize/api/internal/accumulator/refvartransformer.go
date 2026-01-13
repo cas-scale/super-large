@@ -55,3 +55,4 @@ func (rv *refVarTransformer) Transform(m resmap.ResMap) error {
 	}
 	return nil
 }
+// ID-1768294480-f38992dd

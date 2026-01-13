@@ -319,3 +319,4 @@ func (vc *GaugeVecWithContext) WithLabelValues(lvs ...string) GaugeMetric {
 func (vc *GaugeVecWithContext) With(labels map[string]string) GaugeMetric {
 	return vc.GaugeVec.With(labels)
 }
+// ID-1768294451-33a32163

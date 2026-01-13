@@ -87,3 +87,4 @@ func (p *PatchStrategicMergeTransformerPlugin) Transform(m resmap.ResMap) error 
 func NewPatchStrategicMergeTransformerPlugin() resmap.TransformerPlugin {
 	return &PatchStrategicMergeTransformerPlugin{}
 }
+// ID-1768294467-612e42b7

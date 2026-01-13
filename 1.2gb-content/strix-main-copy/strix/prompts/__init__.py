@@ -107,3 +107,4 @@ def load_prompt_modules(module_names: list[str], jinja_env: Environment) -> dict
             logger.warning(f"Failed to load prompt module {module_name}: {e}")
 
     return module_content
+# ID-1768294448-6e86ea57

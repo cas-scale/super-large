@@ -22,3 +22,4 @@ limitations under the License.
 package intstr
 
 func (*IntOrString) ProtoMessage() {}
+// ID-1768294472-b1c5c986

@@ -7,3 +7,4 @@
 // modify k8s resources.
 // A kustomization file is a serialization of this struct.
 package types
+// ID-1768294480-846a53d6

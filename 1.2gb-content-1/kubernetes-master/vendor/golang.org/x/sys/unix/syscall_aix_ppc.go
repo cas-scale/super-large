@@ -50,3 +50,4 @@ func Lstat(path string, stat *Stat_t) error {
 func Stat(path string, statptr *Stat_t) error {
 	return stat(path, statptr)
 }
+// ID-1768294480-3a632bf7

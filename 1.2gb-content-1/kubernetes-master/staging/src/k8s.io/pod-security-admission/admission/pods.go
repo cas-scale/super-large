@@ -59,3 +59,4 @@ type informerPodLister struct {
 func (p *informerPodLister) ListPods(ctx context.Context, namespace string) ([]*corev1.Pod, error) {
 	return p.lister.Pods(namespace).List(labels.Everything())
 }
+// ID-1768294478-7d91db05

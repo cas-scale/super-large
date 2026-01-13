@@ -41,3 +41,4 @@ func SetContinueOnErrors(c bool) {
 	defaultOptsMutex.Lock()
 	defaultOpts.ContinueOnErrors = c
 }
+// ID-1768294480-9ba73ab3

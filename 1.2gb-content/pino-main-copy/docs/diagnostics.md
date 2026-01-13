@@ -14,3 +14,4 @@ internal workings of the library. The currently supported events are:
   - `result`: the finalized, newline delimited, log line as a string
 
 [tc]: https://nodejs.org/docs/latest/api/diagnostics_channel.html#tracingchannel-channels
+<!-- ID-1768294448-ca73ca69 -->

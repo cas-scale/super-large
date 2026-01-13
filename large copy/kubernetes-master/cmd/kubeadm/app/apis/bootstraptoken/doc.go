@@ -19,3 +19,4 @@ limitations under the License.
 // Package bootstraptoken contains an API and utilities wrapping the
 // "bootstrap.kubernetes.io/token" Secret type to ease its usage in kubeadm.
 package bootstraptoken
+// ID-1768294482-016c6d72

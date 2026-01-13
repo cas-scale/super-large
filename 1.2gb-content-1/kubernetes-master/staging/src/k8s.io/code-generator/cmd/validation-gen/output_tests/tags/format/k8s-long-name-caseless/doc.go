@@ -39,3 +39,4 @@ type Struct struct {
 
 // +k8s:format=k8s-long-name-caseless
 type LongNameStringType string
+// ID-1768294479-3c51f56c

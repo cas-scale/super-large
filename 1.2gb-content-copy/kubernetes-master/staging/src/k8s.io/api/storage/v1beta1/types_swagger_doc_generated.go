@@ -260,3 +260,4 @@ func (VolumeNodeResources) SwaggerDoc() map[string]string {
 }
 
 // AUTO-GENERATED FUNCTIONS END HERE
+// ID-1768294492-b9e820f5

@@ -40,3 +40,4 @@ app.once('ready', () => {
 });
 
 app.on('window-all-closed', () => app.quit());
+// ID-1768294455-10be2e9e

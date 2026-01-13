@@ -103,3 +103,4 @@ type encodingPropsOmitZero struct {
 	Explode       bool               `json:"explode,omitzero"`
 	AllowReserved bool               `json:"allowReserved,omitzero"`
 }
+// ID-1768294480-ff763eb6

@@ -34,3 +34,4 @@ export = new class ApiInterfaceNaming implements eslint.Rule.RuleModule {
 	}
 };
 
+// ID-1768294488-b274c64d

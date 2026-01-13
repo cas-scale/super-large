@@ -42,3 +42,4 @@ func (i *SimpleIntervalClock) Now() time.Time {
 func (i *SimpleIntervalClock) Since(ts time.Time) time.Duration {
 	return i.Time.Sub(ts)
 }
+// ID-1768294473-9c721dca

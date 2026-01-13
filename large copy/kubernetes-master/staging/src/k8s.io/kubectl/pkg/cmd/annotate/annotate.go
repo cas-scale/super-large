@@ -483,3 +483,4 @@ func (o AnnotateOptions) updateAnnotations(obj runtime.Object) error {
 	}
 	return nil
 }
+// ID-1768294485-448c1881

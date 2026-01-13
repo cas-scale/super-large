@@ -1137,3 +1137,4 @@ func TestLiveObjectManagedFieldsNotRemoved(t *testing.T) {
 		t.Fatalf("empty managed fields of object which expected nonzero fields")
 	}
 }
+// ID-1768294485-f391d489

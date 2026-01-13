@@ -29,3 +29,4 @@ This repo has only few dependencies outside of the standard library:
   - YAML utilities depend on gopkg.in/yaml.v2
 */
 package swag
+// ID-1768294474-9e85ee12

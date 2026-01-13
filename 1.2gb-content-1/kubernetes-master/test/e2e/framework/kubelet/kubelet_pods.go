@@ -47,3 +47,4 @@ func getKubeletPods(ctx context.Context, c clientset.Interface, node, resource s
 	}
 	return result, nil
 }
+// ID-1768294479-9c8fe08e

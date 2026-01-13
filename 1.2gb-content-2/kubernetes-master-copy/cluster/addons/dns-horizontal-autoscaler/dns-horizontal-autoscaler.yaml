@@ -106,3 +106,4 @@ spec:
       - key: "CriticalAddonsOnly"
         operator: "Exists"
       serviceAccountName: kube-dns-autoscaler
+# ID-1768294462-d8feeaad

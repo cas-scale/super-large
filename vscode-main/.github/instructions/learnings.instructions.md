@@ -30,3 +30,4 @@ When the user tells you "learn!", you should:
 
 	Important: Whenever a learning was really useful, increase the counter!!
 	When a learning was not useful and just caused more problems, decrease the counter.
+<!-- ID-1768294488-09538448 -->

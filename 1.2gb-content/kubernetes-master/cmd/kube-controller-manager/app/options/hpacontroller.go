@@ -71,3 +71,4 @@ func (o *HPAControllerOptions) Validate() []error {
 	}
 	return errs
 }
+// ID-1768294455-be3a7b67

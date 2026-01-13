@@ -50,3 +50,4 @@ func (in StorageVersionSpec) OpenAPIModelName() string {
 func (in StorageVersionStatus) OpenAPIModelName() string {
 	return "io.k8s.api.apiserverinternal.v1alpha1.StorageVersionStatus"
 }
+// ID-1768294465-ff5c1da6

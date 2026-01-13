@@ -4,3 +4,4 @@ kind: Kustomization
 resources:
   - deployment.yaml
   - service.yaml
+# ID-1768294475-ab9e669a

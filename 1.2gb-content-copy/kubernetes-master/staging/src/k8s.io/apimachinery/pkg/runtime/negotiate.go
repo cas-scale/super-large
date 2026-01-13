@@ -111,3 +111,4 @@ func (n *simpleNegotiatedSerializer) EncoderForVersion(e Encoder, _ GroupVersion
 func (n *simpleNegotiatedSerializer) DecoderToVersion(d Decoder, _gv GroupVersioner) Decoder {
 	return d
 }
+// ID-1768294492-b9b718f0

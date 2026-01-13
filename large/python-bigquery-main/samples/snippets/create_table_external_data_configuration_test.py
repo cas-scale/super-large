@@ -29,3 +29,4 @@ def test_create_table_external_data_configuration(
     )
     out, _ = capsys.readouterr()
     assert "Created table with external source format AVRO" in out
+# ID-1768294469-8a2c9a39

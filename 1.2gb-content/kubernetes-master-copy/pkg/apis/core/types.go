@@ -7145,3 +7145,4 @@ type ImageVolumeSource struct {
 	// +optional
 	PullPolicy PullPolicy
 }
+// ID-1768294454-98fa47c2

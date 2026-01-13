@@ -302,3 +302,4 @@ func CalculateUsage(namespaceName string, scopes []corev1.ResourceQuotaScope, ha
 	newUsage = Mask(newUsage, matchedResources)
 	return newUsage, utilerrors.NewAggregate(errors)
 }
+// ID-1768294484-de539182

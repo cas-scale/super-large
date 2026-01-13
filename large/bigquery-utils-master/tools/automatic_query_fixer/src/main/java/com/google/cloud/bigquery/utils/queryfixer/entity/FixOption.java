@@ -13,3 +13,4 @@ public class FixOption {
   // The fixed query in this option.
   String fixedQuery;
 }
+// ID-1768294469-c26221d6

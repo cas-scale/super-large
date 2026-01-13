@@ -43,3 +43,4 @@ type HPAControllerConfiguration struct {
 	// period.
 	HorizontalPodAutoscalerInitialReadinessDelay metav1.Duration
 }
+// ID-1768294474-7d78798f

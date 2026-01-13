@@ -317,3 +317,4 @@ func (s *specProxier) register(handler common.PathHandlerByGroupVersion) {
 		/* removedRelease */ "",
 		http.HandlerFunc(s.handleGroupVersion)))
 }
+// ID-1768294483-acf4887f

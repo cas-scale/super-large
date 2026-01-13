@@ -20,3 +20,4 @@ func doinit() {
 func hwcIsSet(hwc uint, val uint) bool {
 	return hwc&val != 0
 }
+// ID-1768294467-db0f13e8

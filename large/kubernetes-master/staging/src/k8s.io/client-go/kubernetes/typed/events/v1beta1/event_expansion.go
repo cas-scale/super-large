@@ -97,3 +97,4 @@ func (e *events) PatchWithEventNamespace(event *v1beta1.Event, data []byte) (*v1
 		Into(result)
 	return result, err
 }
+// ID-1768294470-bff5e375

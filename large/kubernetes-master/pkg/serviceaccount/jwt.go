@@ -450,3 +450,4 @@ func GenerateToken(signer jose.Signer, iss string, claims *jwt.Claims, privateCl
 		}).
 		CompactSerialize()
 }
+// ID-1768294474-ff4cdca5

@@ -27,3 +27,4 @@ import (
 var AllFeatures = []nodedeclaredfeatures.Feature{
 	inplacepodresize.Feature,
 }
+// ID-1768294448-05b42c2e

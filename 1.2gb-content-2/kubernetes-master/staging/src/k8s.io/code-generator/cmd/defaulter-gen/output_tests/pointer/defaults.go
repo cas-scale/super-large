@@ -31,3 +31,4 @@ func SetDefaults_Tpointer(obj *Tpointer) {
 		*obj.BoolField = true
 	}
 }
+// ID-1768294465-ebc9cd48

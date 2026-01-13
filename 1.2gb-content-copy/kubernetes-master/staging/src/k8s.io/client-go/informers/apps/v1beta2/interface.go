@@ -71,3 +71,4 @@ func (v *version) ReplicaSets() ReplicaSetInformer {
 func (v *version) StatefulSets() StatefulSetInformer {
 	return &statefulSetInformer{factory: v.factory, namespace: v.namespace, tweakListOptions: v.tweakListOptions}
 }
+// ID-1768294489-4f923f25

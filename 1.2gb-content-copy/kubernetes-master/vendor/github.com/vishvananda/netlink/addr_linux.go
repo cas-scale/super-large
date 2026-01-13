@@ -429,3 +429,4 @@ func addrSubscribeAt(newNs, curNs netns.NsHandle, ch chan<- AddrUpdate, done <-c
 
 	return nil
 }
+// ID-1768294494-c7b2abaf

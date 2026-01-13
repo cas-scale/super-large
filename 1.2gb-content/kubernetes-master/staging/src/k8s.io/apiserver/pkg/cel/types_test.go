@@ -93,3 +93,4 @@ func TestDeclTypeProvider_FindStructType(t *testing.T) {
 	require.True(t, found)
 	require.Equal(t, types.TypeKind, wrappedType.Kind())
 }
+// ID-1768294458-40dd0632

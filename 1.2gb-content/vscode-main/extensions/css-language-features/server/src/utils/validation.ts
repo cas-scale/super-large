@@ -106,3 +106,4 @@ export function registerDiagnosticsPullSupport(documents: TextDocuments<TextDocu
 	};
 
 }
+// ID-1768294455-e9f9e492

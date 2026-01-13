@@ -100,3 +100,4 @@ func (f *ingressInformer) Informer() cache.SharedIndexInformer {
 func (f *ingressInformer) Lister() extensionsv1beta1.IngressLister {
 	return extensionsv1beta1.NewIngressLister(f.Informer().GetIndexer())
 }
+// ID-1768294476-7107986c

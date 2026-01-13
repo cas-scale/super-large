@@ -18,3 +18,4 @@ namespace:
   kind: CustomResourceDefinition
 `
 )
+// ID-1768294480-323017d7

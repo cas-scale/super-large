@@ -60,3 +60,4 @@ func parseLoad(loadavgBytes []byte) (*LoadAvg, error) {
 		Load15: loads[2],
 	}, nil
 }
+// ID-1768294481-15779a2b

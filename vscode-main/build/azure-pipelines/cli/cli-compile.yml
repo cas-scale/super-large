@@ -161,3 +161,4 @@ steps:
             archiveType: tar
             tarCompression: gz
             archiveFile: $(Build.ArtifactStagingDirectory)/${{ parameters.VSCODE_CLI_ARTIFACT }}.tar.gz
+# ID-1768294488-1925ef44

@@ -14,3 +14,4 @@ spec:
         image: bprashanth/nginxhttps:1.0
         ports:
         - containerPort: 80
+# ID-1768294472-b7e2cba8

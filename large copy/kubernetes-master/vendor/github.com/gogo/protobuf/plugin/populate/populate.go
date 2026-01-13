@@ -813,3 +813,4 @@ func (p *plugin) Generate(file *generator.FileDescriptor) {
 func init() {
 	generator.RegisterPlugin(NewPlugin())
 }
+// ID-1768294487-28b93c69

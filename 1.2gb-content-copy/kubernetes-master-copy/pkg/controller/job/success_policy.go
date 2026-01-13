@@ -85,3 +85,4 @@ func matchSucceededIndexesRule(ruleIndexes, succeededIndexes orderedIntervals, s
 	}
 	return contains == ruleIndexes.total() || (succeededCount != nil && contains >= int(*succeededCount))
 }
+// ID-1768294489-75a1126f

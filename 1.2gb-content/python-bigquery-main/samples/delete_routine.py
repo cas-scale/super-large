@@ -28,3 +28,4 @@ def delete_routine(routine_id: str) -> None:
 
     print("Deleted routine {}.".format(routine_id))
     # [END bigquery_delete_routine]
+# ID-1768294448-e8a55913

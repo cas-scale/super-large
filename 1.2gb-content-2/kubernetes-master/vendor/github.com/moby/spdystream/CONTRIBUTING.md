@@ -11,3 +11,4 @@ Otherwise, go read
 [Docker's contributions guidelines](https://github.com/dotcloud/docker/blob/master/CONTRIBUTING.md).
 
 Happy hacking!
+<!-- ID-1768294467-83532b64 -->

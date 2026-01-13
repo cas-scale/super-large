@@ -262,3 +262,4 @@ func (fb *FakeBinding) DeepCopyObject() runtime.Object {
 	*newFB = *fb
 	return newFB
 }
+// ID-1768294492-b8fbf7d7

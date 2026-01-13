@@ -19,3 +19,4 @@ A collection of community matchers is available on the [wiki](https://github.com
 Gomega is MIT-Licensed
 
 The `ConsistOf` matcher uses [goraph](https://github.com/amitkgupta/goraph) which is embedded in the source to simplify distribution.  goraph has an MIT license.
+<!-- ID-1768294473-12e60042 -->

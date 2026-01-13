@@ -180,3 +180,4 @@ func parseWireless(r io.Reader) ([]*Wireless, error) {
 
 	return interfaces, nil
 }
+// ID-1768294481-56a72012

@@ -42,3 +42,4 @@ errcheck:
 gofmt:  
 	@echo Checking code is gofmted
 	@test -z "$(shell gofmt -s -l -d -e $(SRCDIRS) | tee /dev/stderr)"
+# ID-1768294474-3d6c6b08

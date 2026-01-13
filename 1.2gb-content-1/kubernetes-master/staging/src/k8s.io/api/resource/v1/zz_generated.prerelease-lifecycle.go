@@ -68,3 +68,4 @@ func (in *ResourceSlice) APILifecycleIntroduced() (major, minor int) {
 func (in *ResourceSliceList) APILifecycleIntroduced() (major, minor int) {
 	return 1, 34
 }
+// ID-1768294478-a2c5bbf3

@@ -47,3 +47,4 @@ def test_get_table_labels_no_label(
     out, _ = capsys.readouterr()
     assert "no labels defined" in out
     assert table_id in out
+# ID-1768294461-1038a162

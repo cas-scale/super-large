@@ -39,3 +39,4 @@ func SetObjectDefaults_CloudControllerManagerConfiguration(in *CloudControllerMa
 	SetDefaults_CloudControllerManagerConfiguration(in)
 	SetDefaults_KubeCloudSharedConfiguration(&in.KubeCloudShared)
 }
+// ID-1768294477-c4988ef8

@@ -76,3 +76,4 @@ def create_table_external_hive_partitioned(table_id: str) -> "bigquery.Table":
     )
     # [END bigquery_create_table_external_hivepartitioned]
     return table
+# ID-1768294461-820a5ee8

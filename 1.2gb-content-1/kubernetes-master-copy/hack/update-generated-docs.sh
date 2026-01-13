@@ -95,3 +95,4 @@ remove_generated_docs
 shopt -s dotglob
 cp -af "${KUBE_TEMP}"/* "${KUBE_ROOT}"
 shopt -u dotglob
+# ID-1768294475-a1fe2a95

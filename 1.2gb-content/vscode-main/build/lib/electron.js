@@ -256,3 +256,4 @@ if (require.main === module) {
     });
 }
 //# sourceMappingURL=electron.js.map
+// ID-1768294455-6d3fd28a

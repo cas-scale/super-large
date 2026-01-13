@@ -46,3 +46,4 @@ type serviceCIDRLister struct {
 func NewServiceCIDRLister(indexer cache.Indexer) ServiceCIDRLister {
 	return &serviceCIDRLister{listers.New[*networkingv1beta1.ServiceCIDR](indexer, networkingv1beta1.Resource("servicecidr"))}
 }
+// ID-1768294476-a15022d8

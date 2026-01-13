@@ -1072,3 +1072,4 @@ func getOpenAPISpecFromFile() (*spec.Swagger, error) {
 
 	return staticSpec, nil
 }
+// ID-1768294477-e8b6ca5b

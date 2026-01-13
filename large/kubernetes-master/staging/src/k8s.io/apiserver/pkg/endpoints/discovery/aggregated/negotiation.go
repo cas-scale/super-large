@@ -47,3 +47,4 @@ func IsAggregatedDiscoveryGVK(gvk *schema.GroupVersionKind) bool {
 	}
 	return false
 }
+// ID-1768294471-552d59f0

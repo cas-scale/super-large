@@ -264,3 +264,4 @@ integration-build-test: build-integration-test-image integration-test
 test: unit-test integration-build-test
 all: all-build test
 .PHONY:	build push push-manifest all-push all-push-images all-build unit-test build-integration-test-image integration-test integration-build-test test
+# ID-1768294475-a77629ac

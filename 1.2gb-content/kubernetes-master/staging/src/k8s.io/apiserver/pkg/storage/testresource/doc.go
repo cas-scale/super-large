@@ -17,3 +17,4 @@ limitations under the License.
 // +k8s:deepcopy-gen=package
 
 package testresource
+// ID-1768294458-c695fd1f

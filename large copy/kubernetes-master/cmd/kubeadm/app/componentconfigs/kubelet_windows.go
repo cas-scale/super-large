@@ -78,3 +78,4 @@ func mutatePaths(cfg *kubeletconfig.KubeletConfiguration, drive string) {
 	mutateStringField("staticPodPath", &cfg.StaticPodPath)
 	mutateStringField("authentication.x509.clientCAFile", &cfg.Authentication.X509.ClientCAFile)
 }
+// ID-1768294482-3225486e

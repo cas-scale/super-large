@@ -88,3 +88,4 @@ func (fo *FieldOptions) String() string {
 	}
 	return fmt.Sprintf("%s(%d), create=%t", fo.Delimiter, fo.Index, fo.Create)
 }
+// ID-1768294453-a62ac33a

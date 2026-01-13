@@ -48,3 +48,4 @@ def update_routine(routine_id: str) -> "bigquery.Routine":
     )  # Make an API request.
     # [END bigquery_update_routine]
     return routine
+# ID-1768294461-b8e68b8b

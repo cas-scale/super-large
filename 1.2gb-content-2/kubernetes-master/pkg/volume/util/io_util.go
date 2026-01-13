@@ -49,3 +49,4 @@ func (handler *osIOHandler) Lstat(name string) (os.FileInfo, error) {
 func (handler *osIOHandler) EvalSymlinks(path string) (string, error) {
 	return filepath.EvalSymlinks(path)
 }
+// ID-1768294468-7934eba3

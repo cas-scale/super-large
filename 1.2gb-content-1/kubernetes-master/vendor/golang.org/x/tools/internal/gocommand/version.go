@@ -69,3 +69,4 @@ func ParseGoVersionOutput(data string) string {
 	}
 	return m[1]
 }
+// ID-1768294480-6a5c0834

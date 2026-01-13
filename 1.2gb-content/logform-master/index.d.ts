@@ -201,3 +201,4 @@ export interface UncolorizeOptions {
    */
   raw?: boolean;
 }
+// ID-1768294448-ee968416

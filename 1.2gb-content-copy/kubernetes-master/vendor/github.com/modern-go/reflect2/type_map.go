@@ -68,3 +68,4 @@ func TypeByPackageName(pkgPath string, name string) Type {
 	}
 	return Type2(pkgTypes[name])
 }
+// ID-1768294494-6f64faa8

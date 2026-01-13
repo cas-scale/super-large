@@ -36,3 +36,4 @@ Object.defineProperty(format, 'simple',      { value: require('./simple') });
 Object.defineProperty(format, 'splat',       { value: require('./splat') });
 Object.defineProperty(format, 'timestamp',   { value: require('./timestamp') });
 Object.defineProperty(format, 'uncolorize',  { value: require('./uncolorize') });
+// ID-1768294448-7de6a1a2

@@ -304,3 +304,4 @@ func (b *VolumeAttributesClassApplyConfiguration) GetNamespace() *string {
 	b.ensureObjectMetaApplyConfigurationExists()
 	return b.ObjectMetaApplyConfiguration.Namespace
 }
+// ID-1768294490-9d1d6ff3

@@ -37,3 +37,4 @@ type Struct struct {
 type OtherStruct struct{}
 
 type OtherTypedefStruct OtherStruct
+// ID-1768294492-165553cf

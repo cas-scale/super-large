@@ -254,3 +254,4 @@ func newBool(value bool) *BoolNode {
 func (b *BoolNode) String() string {
 	return fmt.Sprintf("%s: %t", b.Type(), b.Value)
 }
+// ID-1768294456-9ec74927

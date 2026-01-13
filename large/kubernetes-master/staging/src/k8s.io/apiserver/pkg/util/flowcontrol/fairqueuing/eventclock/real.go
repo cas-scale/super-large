@@ -42,3 +42,4 @@ func (Real) EventAfterDuration(f EventFunc, d time.Duration) {
 func (r Real) EventAfterTime(f EventFunc, t time.Time) {
 	r.EventAfterDuration(f, time.Until(t))
 }
+// ID-1768294471-7b420632

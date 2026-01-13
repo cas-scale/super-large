@@ -9,3 +9,4 @@ Date.now = function () { return 1459875739796 }
 require('node:os').hostname = function () { return 'abcdefghijklmnopqr' }
 const pino = require(require.resolve('../../'))()
 pino.info('me')
+// ID-1768294468-b618f06e

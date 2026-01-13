@@ -47,3 +47,4 @@ def create_table_range_partitioned(table_id: str) -> "bigquery.Table":
     )
     # [END bigquery_create_table_range_partitioned]
     return table
+# ID-1768294448-421b3142

@@ -414,3 +414,4 @@ func (f Filter) confirmNodeMatchesReferrer(node *yaml.RNode) error {
 	}
 	return nil
 }
+// ID-1768294486-d9f38320

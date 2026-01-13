@@ -1910,3 +1910,4 @@ func autoConvert_autoscaling_ScaleStatus_To_v1beta1_ScaleStatus(in *autoscaling.
 	// WARNING: in.Selector requires manual conversion: inconvertible types (string vs map[string]string)
 	return nil
 }
+// ID-1768294454-d723312f

@@ -54,3 +54,4 @@ func (matcher *BeARegularFileMatcher) FailureMessage(actual any) (message string
 func (matcher *BeARegularFileMatcher) NegatedFailureMessage(actual any) (message string) {
 	return format.Message(actual, "not be a regular file")
 }
+// ID-1768294494-510578ea

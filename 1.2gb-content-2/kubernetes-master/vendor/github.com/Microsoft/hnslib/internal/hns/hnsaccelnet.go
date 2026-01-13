@@ -58,3 +58,4 @@ func DeleteNnvManagementMacAddressList() (*HNSNnvManagementMacList, error) {
 	logrus.Debugf(title)
 	return HNSNnvManagementMacRequest("DELETE", "", "")
 }
+// ID-1768294467-9130f105

@@ -53,3 +53,4 @@ steps:
       mv .build/microsoft-vscode-distro-$DistroVersion .build/distro
     condition: and(succeeded(), not(contains(variables['Agent.OS'], 'windows')))
     displayName: Download distro (non-Windows)
+# ID-1768294488-ab6df1bd

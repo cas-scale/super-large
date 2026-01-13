@@ -194,3 +194,4 @@ func (c MajorityConfig) VoteResult(votes map[uint64]bool) VoteResult {
 	}
 	return VoteLost
 }
+// ID-1768294493-64abb245

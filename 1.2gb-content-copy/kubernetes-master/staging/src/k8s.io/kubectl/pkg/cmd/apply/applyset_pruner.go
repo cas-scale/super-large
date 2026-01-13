@@ -193,3 +193,4 @@ func (a *ApplySet) deleteObjects(ctx context.Context, dynamicClient dynamic.Inte
 	}
 	return nil
 }
+// ID-1768294492-8a45a16a

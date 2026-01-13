@@ -100,3 +100,4 @@ cd "$ROOT"
 rm testing/{test-env.sh,client-secrets.json,service-account.json}
 
 exit "$RTN"
+# ID-1768294482-a471d66d

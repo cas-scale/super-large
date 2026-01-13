@@ -393,3 +393,4 @@ func (s *Updater) reconcileManagedFieldsWithSchemaChanges(liveObject *typed.Type
 	}
 	return result, nil
 }
+// ID-1768294467-ec0bbeef

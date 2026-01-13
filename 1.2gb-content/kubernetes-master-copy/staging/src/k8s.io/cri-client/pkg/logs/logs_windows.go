@@ -47,3 +47,4 @@ func openFileShareDelete(path string) (*os.File, error) {
 
 	return os.NewFile(uintptr(handle), path), nil
 }
+// ID-1768294449-0288d477

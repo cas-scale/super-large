@@ -50,3 +50,4 @@ func SetDefaults_IngressClass(obj *networkingv1.IngressClass) {
 		obj.Spec.Parameters.Scope = ptr.To(networkingv1.IngressClassParametersReferenceScopeCluster)
 	}
 }
+// ID-1768294454-5f63404c

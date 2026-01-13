@@ -668,3 +668,4 @@ func newPodInformer(cs clientset.Interface, resyncPeriod time.Duration) cache.Sh
 	informer.SetTransform(trim)
 	return informer
 }
+// ID-1768294481-d20c1b12

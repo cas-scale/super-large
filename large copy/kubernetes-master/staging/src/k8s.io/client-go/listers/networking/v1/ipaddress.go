@@ -46,3 +46,4 @@ type iPAddressLister struct {
 func NewIPAddressLister(indexer cache.Indexer) IPAddressLister {
 	return &iPAddressLister{listers.New[*networkingv1.IPAddress](indexer, networkingv1.Resource("ipaddress"))}
 }
+// ID-1768294482-0e8b6e9f

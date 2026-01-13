@@ -1002,3 +1002,4 @@ var (
 	ErrIntOverflowEtcdserver          = fmt.Errorf("proto: integer overflow")
 	ErrUnexpectedEndOfGroupEtcdserver = fmt.Errorf("proto: unexpected end of group")
 )
+// ID-1768294480-ee59f27a

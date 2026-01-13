@@ -49,3 +49,4 @@ func (p *plugin) Register(factory info.MachineInfoFactory, fsInfo fs.FsInfo, inc
 	err := Register(factory, fsInfo, includedMetrics)
 	return nil, err
 }
+// ID-1768294494-5956ee3c

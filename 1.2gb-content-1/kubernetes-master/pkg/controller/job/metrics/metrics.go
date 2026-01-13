@@ -214,3 +214,4 @@ func Register() {
 		legacyregistry.MustRegister(JobByExternalControllerTotal)
 	})
 }
+// ID-1768294481-d00f48b2

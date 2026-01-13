@@ -88,3 +88,4 @@ func TestNewFakeKubeRegistry(t *testing.T) {
 		})
 	}
 }
+// ID-1768294451-b9e9ed20

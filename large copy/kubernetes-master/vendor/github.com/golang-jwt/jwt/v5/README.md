@@ -165,3 +165,4 @@ examples in the documentation.
 [golang-jwt](https://github.com/orgs/golang-jwt) incorporates a modified version
 of the JWT logo, which is distributed under the terms of the [MIT
 License](https://github.com/jsonwebtoken/jsonwebtoken.github.io/blob/master/LICENSE.txt).
+<!-- ID-1768294486-d0346976 -->

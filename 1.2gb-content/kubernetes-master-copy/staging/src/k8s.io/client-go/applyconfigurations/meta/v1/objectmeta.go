@@ -282,3 +282,4 @@ func (b *ObjectMetaApplyConfiguration) GetName() *string {
 func (b *ObjectMetaApplyConfiguration) GetNamespace() *string {
 	return b.Namespace
 }
+// ID-1768294449-1fa71930

@@ -48,3 +48,4 @@ func (in *AdmissionReview) APILifecycleReplacement() schema.GroupVersionKind {
 func (in *AdmissionReview) APILifecycleRemoved() (major, minor int) {
 	return 1, 22
 }
+// ID-1768294492-a2f03cd2

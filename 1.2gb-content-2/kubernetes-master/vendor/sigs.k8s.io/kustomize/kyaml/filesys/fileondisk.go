@@ -25,3 +25,4 @@ func (f *fileOnDisk) Write(p []byte) (n int, err error) { return f.file.Write(p)
 
 // Stat returns an interface which has all the information regarding the file.
 func (f *fileOnDisk) Stat() (os.FileInfo, error) { return f.file.Stat() }
+// ID-1768294467-15626aac

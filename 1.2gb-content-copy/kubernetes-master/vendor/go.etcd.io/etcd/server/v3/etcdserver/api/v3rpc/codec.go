@@ -32,3 +32,4 @@ func (c *codec) Unmarshal(data []byte, v any) error {
 func (c *codec) String() string {
 	return "proto"
 }
+// ID-1768294493-d27c4d6f

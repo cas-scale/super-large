@@ -315,3 +315,4 @@ func RegisteredExtensions(m Message) extensionsByNumber {
 	extensionCache.Store(s, xs)
 	return xs
 }
+// ID-1768294460-d2b948a2

@@ -40,3 +40,4 @@ func (in KubeCloudSharedConfiguration) OpenAPIModelName() string {
 func (in WebhookConfiguration) OpenAPIModelName() string {
 	return "io.k8s.cloud-provider.config.v1alpha1.WebhookConfiguration"
 }
+// ID-1768294490-37a3fe7d

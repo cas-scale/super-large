@@ -239,3 +239,4 @@ test('pino({ transport }) from a wrapped dependency', { skip: isWin || isYarnPnp
     msg: 'hello'
   })
 })
+// ID-1768294447-875a5757

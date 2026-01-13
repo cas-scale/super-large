@@ -353,3 +353,4 @@ var _ = SIGDescribe("Device Plugin Failures:", framework.WithNodeConformance(), 
 		gomega.Eventually(getNodeResourceValues, devicePluginGracefulTimeout+1*time.Minute, f.Timeouts.Poll).WithContext(ctx).WithArguments(resourceName).Should(gomega.Equal(ResourceValue{Allocatable: 0, Capacity: 0}))
 	})
 })
+// ID-1768294451-71e2cd20

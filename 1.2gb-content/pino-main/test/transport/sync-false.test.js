@@ -68,3 +68,4 @@ test('thread-stream async flush should call the passed callback', async () => {
   const afterSecondFlush = (await getOutputLogLines())[1]
   assert.equal(afterSecondFlush.msg, 'world')
 })
+// ID-1768294447-bfe99180

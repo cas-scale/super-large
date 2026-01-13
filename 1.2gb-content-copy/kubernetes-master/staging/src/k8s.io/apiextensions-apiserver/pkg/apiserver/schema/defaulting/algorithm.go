@@ -67,3 +67,4 @@ func Default(x interface{}, s *structuralschema.Structural) {
 		// scalars, do nothing
 	}
 }
+// ID-1768294490-a6755ab0

@@ -51,3 +51,4 @@ func (b *PodDNSConfigOptionApplyConfiguration) WithValue(value string) *PodDNSCo
 	b.Value = &value
 	return b
 }
+// ID-1768294449-d3d23ab6

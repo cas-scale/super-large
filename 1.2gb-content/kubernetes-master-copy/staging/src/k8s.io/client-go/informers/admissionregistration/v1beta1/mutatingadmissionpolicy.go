@@ -99,3 +99,4 @@ func (f *mutatingAdmissionPolicyInformer) Informer() cache.SharedIndexInformer {
 func (f *mutatingAdmissionPolicyInformer) Lister() admissionregistrationv1beta1.MutatingAdmissionPolicyLister {
 	return admissionregistrationv1beta1.NewMutatingAdmissionPolicyLister(f.Informer().GetIndexer())
 }
+// ID-1768294448-7cda04d1

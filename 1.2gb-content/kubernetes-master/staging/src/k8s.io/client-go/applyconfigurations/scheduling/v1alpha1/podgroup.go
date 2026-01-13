@@ -51,3 +51,4 @@ func (b *PodGroupApplyConfiguration) WithPolicy(value *PodGroupPolicyApplyConfig
 	b.Policy = value
 	return b
 }
+// ID-1768294456-e5a51736

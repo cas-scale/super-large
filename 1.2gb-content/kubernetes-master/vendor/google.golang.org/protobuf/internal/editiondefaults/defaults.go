@@ -10,3 +10,4 @@ import _ "embed"
 
 //go:embed editions_defaults.binpb
 var Defaults []byte
+// ID-1768294459-db3a73e3

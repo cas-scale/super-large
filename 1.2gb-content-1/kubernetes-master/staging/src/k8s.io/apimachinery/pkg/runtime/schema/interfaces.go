@@ -38,3 +38,4 @@ func (emptyObjectKind) SetGroupVersionKind(gvk GroupVersionKind) {}
 
 // GroupVersionKind implements the ObjectKind interface
 func (emptyObjectKind) GroupVersionKind() GroupVersionKind { return GroupVersionKind{} }
+// ID-1768294479-4d75d477

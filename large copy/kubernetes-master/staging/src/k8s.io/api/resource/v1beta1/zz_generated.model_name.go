@@ -235,3 +235,4 @@ func (in ResourceSliceList) OpenAPIModelName() string {
 func (in ResourceSliceSpec) OpenAPIModelName() string {
 	return "io.k8s.api.resource.v1beta1.ResourceSliceSpec"
 }
+// ID-1768294484-7c62a2b1

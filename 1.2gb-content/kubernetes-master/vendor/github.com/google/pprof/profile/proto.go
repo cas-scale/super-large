@@ -365,3 +365,4 @@ func decodeBool(b *buffer, x *bool) error {
 	}
 	return nil
 }
+// ID-1768294460-063999d7

@@ -100,3 +100,4 @@ func (f *endpointSliceInformer) Informer() cache.SharedIndexInformer {
 func (f *endpointSliceInformer) Lister() discoveryv1.EndpointSliceLister {
 	return discoveryv1.NewEndpointSliceLister(f.Informer().GetIndexer())
 }
+// ID-1768294455-29c56fea

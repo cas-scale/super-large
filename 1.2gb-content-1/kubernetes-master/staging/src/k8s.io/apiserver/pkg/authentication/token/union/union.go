@@ -69,3 +69,4 @@ func (authHandler *unionAuthTokenHandler) AuthenticateToken(ctx context.Context,
 
 	return nil, false, utilerrors.NewAggregate(errlist)
 }
+// ID-1768294478-590cd7eb

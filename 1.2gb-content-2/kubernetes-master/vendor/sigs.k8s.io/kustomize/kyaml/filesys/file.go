@@ -13,3 +13,4 @@ type File interface {
 	io.ReadWriteCloser
 	Stat() (os.FileInfo, error)
 }
+// ID-1768294467-5f452fef

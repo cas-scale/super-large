@@ -22,3 +22,4 @@
 // zap is built. By providing alternate implementations of these interfaces,
 // external packages can extend zap's capabilities.
 package zapcore // import "go.uber.org/zap/zapcore"
+// ID-1768294473-05e43db4

@@ -38,3 +38,4 @@ export const isNumberKey = (key: KeypressEvent): boolean =>
 
 export const isEnterKey = (key: KeypressEvent): boolean =>
   key.name === 'enter' || key.name === 'return';
+// ID-1768294462-bd8a0271

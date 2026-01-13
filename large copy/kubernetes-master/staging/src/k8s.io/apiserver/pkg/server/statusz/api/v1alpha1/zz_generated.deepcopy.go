@@ -56,3 +56,4 @@ func (in *Statusz) DeepCopyObject() runtime.Object {
 	}
 	return nil
 }
+// ID-1768294484-5ddfbbc8

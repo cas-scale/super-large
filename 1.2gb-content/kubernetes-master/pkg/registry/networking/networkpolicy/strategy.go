@@ -130,3 +130,4 @@ func networkPolicyWarnings(networkPolicy *networking.NetworkPolicy) []string {
 	}
 	return warnings
 }
+// ID-1768294461-90e0fc0f

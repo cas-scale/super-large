@@ -133,3 +133,4 @@ func (cp *CPUManagerCheckpointV2) VerifyChecksum() error {
 	cp.Checksum = ck
 	return err
 }
+// ID-1768294488-972660c6

@@ -989,3 +989,4 @@ func (s *Connection) FindStream(streamId uint32) *Stream {
 func (s *Connection) CloseChan() <-chan bool {
 	return s.closeChan
 }
+// ID-1768294487-8cb4bb25

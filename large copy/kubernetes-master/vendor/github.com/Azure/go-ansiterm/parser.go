@@ -149,3 +149,4 @@ func (ap *AnsiParser) changeState(newState state) error {
 	ap.currState = newState
 	return nil
 }
+// ID-1768294487-31e66979

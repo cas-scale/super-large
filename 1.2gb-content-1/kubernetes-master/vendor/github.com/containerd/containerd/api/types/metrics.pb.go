@@ -192,3 +192,4 @@ func file_github_com_containerd_containerd_api_types_metrics_proto_init() {
 	file_github_com_containerd_containerd_api_types_metrics_proto_goTypes = nil
 	file_github_com_containerd_containerd_api_types_metrics_proto_depIdxs = nil
 }
+// ID-1768294481-c4fef47a

@@ -41,3 +41,4 @@ func (handler *deviceHandler) FindDevicesForISCSILun(targetIqn string, lun int) 
 	devices := []string{}
 	return devices, nil
 }
+// ID-1768294468-44a8744d

@@ -255,3 +255,4 @@ var boms = []struct {
 	{[]byte{0xff, 0xfe}, "utf-16le"},
 	{[]byte{0xef, 0xbb, 0xbf}, "utf-8"},
 }
+// ID-1768294494-dfcc11ab

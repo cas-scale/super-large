@@ -140,3 +140,4 @@ var (
 func (c *Clientset) CrV1() crv1.CrV1Interface {
 	return &fakecrv1.FakeCrV1{Fake: &c.Fake}
 }
+// ID-1768294490-6f5e5f5f

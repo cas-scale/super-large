@@ -36,3 +36,4 @@ def get_austin_service_requests_as_geography() -> "pandas.DataFrame":
     df = client.query_and_wait(sql).to_geodataframe()
     # [END bigquery_query_results_geodataframe]
     return df
+# ID-1768294461-4d069dfb

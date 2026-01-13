@@ -89,3 +89,4 @@ func (p *pruner) pruneDefaults(s *structuralschema.Structural, f SurroundingObje
 
 	return changed, nil
 }
+// ID-1768294449-a4d40ef9

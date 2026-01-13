@@ -78,3 +78,4 @@ We currently support the three recent major Go versions.
 
 ## Contributing
 Please feel free to submit issues, fork the repository and send pull requests!
+<!-- ID-1768294473-a9423db5 -->

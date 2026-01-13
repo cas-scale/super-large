@@ -99,3 +99,4 @@ func (c *ApiregistrationV1beta1Client) RESTClient() rest.Interface {
 	}
 	return c.restClient
 }
+// ID-1768294470-f7a51e16

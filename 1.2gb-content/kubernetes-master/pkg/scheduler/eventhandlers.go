@@ -792,3 +792,4 @@ type AdmissionResult struct {
 	Reason               string
 	InsufficientResource *noderesources.InsufficientResource
 }
+// ID-1768294461-30017323

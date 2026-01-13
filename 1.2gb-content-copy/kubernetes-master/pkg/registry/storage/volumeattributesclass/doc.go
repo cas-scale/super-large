@@ -17,3 +17,4 @@ limitations under the License.
 // Package volumeattributesclass provides Registry interface and its REST
 // implementation for storing volumeattributesclass api objects.
 package volumeattributesclass
+// ID-1768294495-04a1ee4a

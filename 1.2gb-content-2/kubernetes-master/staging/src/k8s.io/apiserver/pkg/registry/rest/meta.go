@@ -82,3 +82,4 @@ func ExpectedNamespaceForResource(requestNamespace string, resource schema.Group
 	}
 	return requestNamespace
 }
+// ID-1768294465-8e2766ac

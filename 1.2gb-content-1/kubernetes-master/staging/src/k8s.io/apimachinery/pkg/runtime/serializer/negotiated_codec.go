@@ -41,3 +41,4 @@ func (n *negotiatedSerializerWrapper) EncoderForVersion(e runtime.Encoder, _ run
 func (n *negotiatedSerializerWrapper) DecoderToVersion(d runtime.Decoder, _gv runtime.GroupVersioner) runtime.Decoder {
 	return d
 }
+// ID-1768294479-91c1fe38

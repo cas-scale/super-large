@@ -102,3 +102,4 @@ module.exports = function (pattern, options) {
         .pipe(rebase);
 };
 //# sourceMappingURL=watch-win32.js.map
+// ID-1768294488-d1f42a61

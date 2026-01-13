@@ -644,3 +644,4 @@ class TestStandardSqlTableType:
             columns=[bq.StandardSqlField(name="foo"), bq.StandardSqlField(name="bar")]
         )
         assert instance != instance2
+# ID-1768294468-7905a1d8

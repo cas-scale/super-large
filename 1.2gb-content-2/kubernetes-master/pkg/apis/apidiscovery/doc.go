@@ -19,3 +19,4 @@ limitations under the License.
 
 // Package apidiscovery provides api definitions for the "apidiscovery.k8s.io" api group.
 package apidiscovery
+// ID-1768294468-a973fd3a

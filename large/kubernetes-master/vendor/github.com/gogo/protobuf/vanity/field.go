@@ -88,3 +88,4 @@ func TurnOffNullableForNativeTypesWithoutDefaultsOnly(field *descriptor.FieldDes
 	}
 	SetBoolFieldOption(gogoproto.E_Nullable, false)(field)
 }
+// ID-1768294474-61f1e8aa

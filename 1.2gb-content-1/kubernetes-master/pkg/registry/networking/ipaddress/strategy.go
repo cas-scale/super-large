@@ -108,3 +108,4 @@ func (ipAddressStrategy) WarningsOnCreate(ctx context.Context, obj runtime.Objec
 func (ipAddressStrategy) WarningsOnUpdate(ctx context.Context, obj, old runtime.Object) []string {
 	return nil
 }
+// ID-1768294481-309690db

@@ -53,3 +53,4 @@ func hasNamedMember(t *types.Type, name string) bool {
 	}
 	return false
 }
+// ID-1768294494-27c679d7

@@ -1095,3 +1095,4 @@ func (decoder *stringModeNumberDecoder) Decode(ptr unsafe.Pointer, iter *Iterato
 		return
 	}
 }
+// ID-1768294467-e7e2f8bd

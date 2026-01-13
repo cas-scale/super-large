@@ -36,3 +36,4 @@ func (*DeviceTaintRuleSpec) ProtoMessage() {}
 func (*DeviceTaintRuleStatus) ProtoMessage() {}
 
 func (*DeviceTaintSelector) ProtoMessage() {}
+// ID-1768294471-0242c742

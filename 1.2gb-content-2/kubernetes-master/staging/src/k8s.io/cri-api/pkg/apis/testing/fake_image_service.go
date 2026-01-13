@@ -267,3 +267,4 @@ func (r *FakeImageService) Close() error {
 
 	return nil
 }
+// ID-1768294463-370eb31d

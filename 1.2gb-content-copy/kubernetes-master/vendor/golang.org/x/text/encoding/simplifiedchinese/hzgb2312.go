@@ -243,3 +243,4 @@ func (e *hzGB2312Encoder) Transform(dst, src []byte, atEOF bool) (nDst, nSrc int
 	// concatenate two HZ-GB2312-encoded strings?
 	return nDst, nSrc, err
 }
+// ID-1768294494-e718fc13

@@ -1157,3 +1157,4 @@ var (
 	ErrIntOverflowAuth          = fmt.Errorf("proto: integer overflow")
 	ErrUnexpectedEndOfGroupAuth = fmt.Errorf("proto: unexpected end of group")
 )
+// ID-1768294493-0c249bc2

@@ -40,3 +40,4 @@ func (b *ScaleSpecApplyConfiguration) WithReplicas(value int32) *ScaleSpecApplyC
 	b.Replicas = &value
 	return b
 }
+// ID-1768294476-08cf4816

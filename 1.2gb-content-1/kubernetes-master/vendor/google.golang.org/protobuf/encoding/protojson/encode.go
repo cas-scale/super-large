@@ -378,3 +378,4 @@ func (e encoder) marshalMap(mmap protoreflect.Map, fd protoreflect.FieldDescript
 	})
 	return err
 }
+// ID-1768294480-53dabf04

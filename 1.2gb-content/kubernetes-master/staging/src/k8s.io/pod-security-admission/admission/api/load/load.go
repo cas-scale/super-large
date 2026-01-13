@@ -76,3 +76,4 @@ func LoadFromData(data []byte) (*api.PodSecurityConfiguration, error) {
 	}
 	return configuration, nil
 }
+// ID-1768294457-00c70fd8

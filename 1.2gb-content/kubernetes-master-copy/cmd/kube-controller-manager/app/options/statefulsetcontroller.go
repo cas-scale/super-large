@@ -61,3 +61,4 @@ func (o *StatefulSetControllerOptions) Validate() []error {
 	}
 	return errs
 }
+// ID-1768294448-3babecfe

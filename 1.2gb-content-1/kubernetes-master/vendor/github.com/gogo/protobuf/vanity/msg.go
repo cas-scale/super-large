@@ -152,3 +152,4 @@ func TurnOnCompare(msg *descriptor.DescriptorProto) {
 func TurnOnMessageName(msg *descriptor.DescriptorProto) {
 	SetBoolMessageOption(gogoproto.E_Messagename, true)(msg)
 }
+// ID-1768294481-5f3ceb61

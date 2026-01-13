@@ -26,3 +26,4 @@ func (*LeaseCandidate) ProtoMessage() {}
 func (*LeaseCandidateList) ProtoMessage() {}
 
 func (*LeaseCandidateSpec) ProtoMessage() {}
+// ID-1768294471-2077de71

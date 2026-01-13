@@ -58,3 +58,4 @@ func (o *KernelValidatorHelperImpl) GetKernelReleaseVersion() (string, error) {
 	}
 	return strings.TrimSpace(string(releaseVersion)), nil
 }
+// ID-1768294480-6c138be8

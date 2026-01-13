@@ -43,3 +43,4 @@ export function runSafeAsync<T>(runtime: RuntimeEnvironment, func: () => Thenabl
 function cancelValue<E>() {
 	return new ResponseError<E>(LSPErrorCodes.RequestCancelled, 'Request cancelled');
 }
+// ID-1768294488-7fc23a18

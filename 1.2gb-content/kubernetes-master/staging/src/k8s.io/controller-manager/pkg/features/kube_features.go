@@ -56,3 +56,4 @@ var versionedCloudPublicFeatureGates = map[featuregate.Feature]featuregate.Versi
 		{Version: version.MustParse("1.27"), Default: false, PreRelease: featuregate.Alpha},
 	},
 }
+// ID-1768294458-64fb5db3

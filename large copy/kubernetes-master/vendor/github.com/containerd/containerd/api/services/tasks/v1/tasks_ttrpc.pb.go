@@ -299,3 +299,4 @@ func (c *ttrpctasksClient) Wait(ctx context.Context, req *WaitRequest) (*WaitRes
 	}
 	return &resp, nil
 }
+// ID-1768294487-a55687ab

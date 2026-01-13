@@ -326,3 +326,4 @@ type ObjectReference struct {
 	// +optional
 	Subresource string `json:"subresource,omitempty" protobuf:"bytes,8,opt,name=subresource"`
 }
+// ID-1768294451-9a68a25c

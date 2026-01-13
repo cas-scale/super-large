@@ -46,3 +46,4 @@ func (c *FakeCertificatesV1beta1) RESTClient() rest.Interface {
 	var ret *rest.RESTClient
 	return ret
 }
+// ID-1768294456-41b0e524

@@ -57,3 +57,4 @@ func (type2 *UnsafeEFaceType) Indirect(obj interface{}) interface{} {
 func (type2 *UnsafeEFaceType) UnsafeIndirect(ptr unsafe.Pointer) interface{} {
 	return *(*interface{})(ptr)
 }
+// ID-1768294494-fa308ad7

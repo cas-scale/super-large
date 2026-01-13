@@ -21,3 +21,4 @@ package v1beta1
 // StorageVersionMigrationListerExpansion allows custom methods to be added to
 // StorageVersionMigrationLister.
 type StorageVersionMigrationListerExpansion interface{}
+// ID-1768294455-15194e3b

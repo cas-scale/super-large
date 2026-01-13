@@ -121,3 +121,4 @@ func draExtendedResourceFeatureInUse(class *resource.DeviceClass) bool {
 
 	return false
 }
+// ID-1768294495-c44430a2

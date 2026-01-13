@@ -605,3 +605,4 @@ func (a *ApplySet) BeforeApply(objects []*resource.Info, dryRunStrategy cmdutil.
 	}
 	return nil
 }
+// ID-1768294471-5ccb77b2

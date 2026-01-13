@@ -110,3 +110,4 @@ func (c *fakePods) EvictV1beta1(ctx context.Context, eviction *policyv1beta1.Evi
 func (c *fakePods) ProxyGet(scheme, name, port, path string, params map[string]string) restclient.ResponseWrapper {
 	return c.Fake.InvokesProxy(core.NewProxyGetAction(c.Resource(), c.Namespace(), scheme, name, port, path, params))
 }
+// ID-1768294476-56b78adc

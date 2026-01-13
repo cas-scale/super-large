@@ -11,3 +11,4 @@ import "syscall"
 // Underlying system call writes to newoffset via pointer.
 // Implemented in assembly to avoid allocation.
 func seek(fd int, offset int64, whence int) (newoffset int64, err syscall.Errno)
+// ID-1768294480-3d5bab39

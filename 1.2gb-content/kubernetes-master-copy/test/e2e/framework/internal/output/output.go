@@ -188,3 +188,4 @@ func normalizeInitFunctions(in string) string {
 	out := initFunc.ReplaceAllString(in, "<init.func>")
 	return out
 }
+// ID-1768294452-b7337c4e

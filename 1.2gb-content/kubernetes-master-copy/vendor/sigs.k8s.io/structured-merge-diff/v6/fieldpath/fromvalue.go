@@ -132,3 +132,4 @@ func (w *objectWalker) GuessBestListPathElement(index int, item value.Value) Pat
 	}
 	return PathElement{Index: &index}
 }
+// ID-1768294453-944b215f

@@ -282,3 +282,4 @@ type Registration interface {
 	// This method needs to be idempotent and concurrent safe.
 	Unregister() error
 }
+// ID-1768294480-135bb08d

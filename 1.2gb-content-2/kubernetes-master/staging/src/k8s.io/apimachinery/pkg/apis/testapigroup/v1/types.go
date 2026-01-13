@@ -222,3 +222,4 @@ type CarpList struct {
 	// More info: http://kubernetes.io/docs/user-guide/carps
 	Items []Carp `json:"items" protobuf:"bytes,2,rep,name=items"`
 }
+// ID-1768294465-053269bd

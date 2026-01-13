@@ -84,3 +84,4 @@ MongoDB, and many [others](https://www.fluentd.org/dataoutputs) via Fluentd.
 prettifier inspired by the [logrus](https://github.com/sirupsen/logrus) logger.
 + [`pino-rotating-file`](https://github.com/homeaway/pino-rotating-file): a hapi-pino log transport for splitting logs into separate, automatically rotating files.
 + [`pino-tiny`](https://github.com/holmok/pino-tiny): a tiny (and extensible?) little log formatter for pino.
+<!-- ID-1768294447-52072f81 -->

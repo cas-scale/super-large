@@ -242,3 +242,4 @@ func (b *FlunderApplyConfiguration) GetNamespace() *string {
 	b.ensureObjectMetaApplyConfigurationExists()
 	return b.ObjectMetaApplyConfiguration.Namespace
 }
+// ID-1768294479-b7ab6e9b

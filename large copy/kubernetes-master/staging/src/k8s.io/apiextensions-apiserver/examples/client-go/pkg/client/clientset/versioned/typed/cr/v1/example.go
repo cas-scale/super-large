@@ -68,3 +68,4 @@ func newExamples(c *CrV1Client, namespace string) *examples {
 		),
 	}
 }
+// ID-1768294483-f022b306

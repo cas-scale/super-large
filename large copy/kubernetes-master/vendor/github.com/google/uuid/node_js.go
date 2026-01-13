@@ -10,3 +10,4 @@ package uuid
 // This removes the "net" dependency, because it is not used in the browser.
 // Using the "net" library inflates the size of the transpiled JS code by 673k bytes.
 func getHardwareInterface(name string) (string, []byte) { return "", nil }
+// ID-1768294487-238a1603

@@ -973,3 +973,4 @@ def gcs_external_config_bad_statement(
     config_objs.append(sql_obj)
     config_objs.append(config_obj)
     return config_objs
+# ID-1768294489-5ef6f3dc

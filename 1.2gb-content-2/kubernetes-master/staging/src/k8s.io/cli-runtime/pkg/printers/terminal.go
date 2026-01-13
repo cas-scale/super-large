@@ -73,3 +73,4 @@ func AllowsColorOutput(w io.Writer) bool {
 
 	return true
 }
+// ID-1768294464-bc929571

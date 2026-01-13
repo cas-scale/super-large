@@ -236,3 +236,4 @@ var invalidManagedFieldsMarkerFixture = &corev1.Pod{
 		}},
 	},
 }
+// ID-1768294479-2a3f54e6

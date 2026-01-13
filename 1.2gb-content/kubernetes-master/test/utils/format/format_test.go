@@ -84,3 +84,4 @@ func (v typeWithGomegaStringer) GomegaString() string {
 type myStruct struct {
 	a, b int
 }
+// ID-1768294459-11aa9ad5

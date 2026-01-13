@@ -107,3 +107,4 @@ func (p *test) Generate(imports generator.PluginImports, file *generator.FileDes
 func init() {
 	testgen.RegisterTestPlugin(NewTest)
 }
+// ID-1768294487-9c9a9e31

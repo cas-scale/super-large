@@ -232,3 +232,4 @@ func (a *auditResponseWriter) Hijack() (net.Conn, *bufio.ReadWriter, error) {
 	// http.Hijacker if the inner object (a.ResponseWriter) implements http.Hijacker.
 	return a.ResponseWriter.(http.Hijacker).Hijack()
 }
+// ID-1768294465-c34c6bd3

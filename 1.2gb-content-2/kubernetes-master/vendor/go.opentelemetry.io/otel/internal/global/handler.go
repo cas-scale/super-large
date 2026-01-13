@@ -35,3 +35,4 @@ func (d *ErrDelegator) Handle(err error) {
 func (d *ErrDelegator) setDelegate(eh ErrorHandler) {
 	d.delegate.Store(&eh)
 }
+// ID-1768294466-aa9ebe9b

@@ -30,3 +30,4 @@ func (in ExternalMetricValue) OpenAPIModelName() string {
 func (in ExternalMetricValueList) OpenAPIModelName() string {
 	return "io.k8s.metrics.pkg.apis.external_metrics.v1beta1.ExternalMetricValueList"
 }
+// ID-1768294476-a38bee73

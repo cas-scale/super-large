@@ -229,3 +229,4 @@ func getKubeProxyDaemonSet(ctx context.Context, c clientset.Interface) (*appsv1.
 	listOpts := metav1.ListOptions{LabelSelector: label.String()}
 	return c.AppsV1().DaemonSets(metav1.NamespaceSystem).List(ctx, listOpts)
 }
+// ID-1768294466-b4f8ea8c

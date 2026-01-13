@@ -24,3 +24,4 @@ package resource
 func (*Quantity) ProtoMessage() {}
 
 func (*QuantityValue) ProtoMessage() {}
+// ID-1768294472-dfcb0656

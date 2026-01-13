@@ -16,3 +16,4 @@ func execCommand(name string, arg ...string) (string, error) {
 
 	return string(b), nil
 }
+// ID-1768294486-0d1ee4c7

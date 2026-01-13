@@ -38,3 +38,4 @@ func (d *digester) Hash() hash.Hash {
 func (d *digester) Digest() Digest {
 	return NewDigest(d.alg, d.hash)
 }
+// ID-1768294460-a2e105a9

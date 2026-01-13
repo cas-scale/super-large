@@ -10,3 +10,4 @@ async function install() {
 }
 install();
 //# sourceMappingURL=installPlaywright.js.map
+// ID-1768294455-9a15b116

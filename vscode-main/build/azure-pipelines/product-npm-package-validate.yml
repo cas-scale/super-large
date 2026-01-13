@@ -109,3 +109,4 @@ jobs:
       - script: .github/workflows/check-clean-git-state.sh
         displayName: Check clean git state
         condition: and(succeeded(), eq(variables['SHOULD_VALIDATE'], 'true'))
+# ID-1768294488-247a180d

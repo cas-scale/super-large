@@ -65,3 +65,4 @@ func (s *Scope) UnmarshalJSON(data []byte) error {
 	}
 	return nil
 }
+// ID-1768294466-9e9ed39b

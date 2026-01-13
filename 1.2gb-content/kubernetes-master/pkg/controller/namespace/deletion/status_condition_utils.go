@@ -219,3 +219,4 @@ func getCondition(conditions []v1.NamespaceCondition, conditionType v1.Namespace
 	}
 	return nil
 }
+// ID-1768294461-ac348b64

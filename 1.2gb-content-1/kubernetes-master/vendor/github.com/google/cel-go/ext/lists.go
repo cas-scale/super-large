@@ -777,3 +777,4 @@ func nodeAsIntValue(node checker.AstNode, defaultVal uint64) uint64 {
 	}
 	return uint64(lit.(types.Int))
 }
+// ID-1768294480-9e4f4b47

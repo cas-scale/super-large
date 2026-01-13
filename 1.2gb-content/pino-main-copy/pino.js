@@ -232,3 +232,4 @@ module.exports.version = version
 // Enables default and name export with TypeScript and Babel
 module.exports.default = pino
 module.exports.pino = pino
+// ID-1768294448-ba79f9b5

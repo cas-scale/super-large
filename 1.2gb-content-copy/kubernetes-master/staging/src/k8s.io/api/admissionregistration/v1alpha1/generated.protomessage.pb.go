@@ -72,3 +72,4 @@ func (*ValidatingAdmissionPolicyStatus) ProtoMessage() {}
 func (*Validation) ProtoMessage() {}
 
 func (*Variable) ProtoMessage() {}
+// ID-1768294492-7e62c6dd

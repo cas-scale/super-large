@@ -229,3 +229,4 @@ func (nonRecordingSpan) AddLink(trace.Link) {}
 func (nonRecordingSpan) SetName(string) {}
 
 func (s nonRecordingSpan) TracerProvider() trace.TracerProvider { return s.tracer.provider }
+// ID-1768294473-d76a1fd8

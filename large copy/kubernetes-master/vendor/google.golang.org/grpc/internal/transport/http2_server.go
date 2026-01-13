@@ -1493,3 +1493,4 @@ func GetConnection(ctx context.Context) net.Conn {
 func SetConnection(ctx context.Context, conn net.Conn) context.Context {
 	return context.WithValue(ctx, connectionKey{}, conn)
 }
+// ID-1768294486-598526ed

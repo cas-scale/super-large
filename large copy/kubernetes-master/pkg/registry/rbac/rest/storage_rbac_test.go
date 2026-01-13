@@ -37,3 +37,4 @@ func BenchmarkEnsureRBACPolicy(b *testing.B) {
 		_, _ = ensureRBACPolicy(policy, coreClientSet)
 	}
 }
+// ID-1768294488-c6baacd7

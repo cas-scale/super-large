@@ -40,3 +40,4 @@ func GetMeterProvider() metric.MeterProvider {
 func SetMeterProvider(mp metric.MeterProvider) {
 	global.SetMeterProvider(mp)
 }
+// ID-1768294452-295dc250

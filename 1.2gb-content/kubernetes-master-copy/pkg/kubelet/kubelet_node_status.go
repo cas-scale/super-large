@@ -789,3 +789,4 @@ func nodeConditionsHaveChanged(originalConditions []v1.NodeCondition, conditions
 	}
 	return false
 }
+// ID-1768294454-e97ed366

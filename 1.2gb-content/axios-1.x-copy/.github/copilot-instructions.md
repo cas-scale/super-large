@@ -310,3 +310,4 @@ const axiosError = AxiosError.from(error, code, config, request, response);
 ## Summary
 
 When working with Axios code, prioritize compatibility, use the established patterns for error handling and configuration, leverage the utils library for type checking, and ensure code works across both browser and Node.js environments. Always document your code with JSDoc and maintain the functional programming style used throughout the library.
+<!-- ID-1768294448-f102c2c5 -->

@@ -270,3 +270,4 @@ func createKubeProxyAddon(cfg *kubeadmapi.ClusterConfiguration, client clientset
 	// Create the DaemonSet for kube-proxy or update it in case it already exists
 	return []byte(""), apiclient.CreateOrUpdate(client.AppsV1().DaemonSets(kubeproxyDaemonSet.GetNamespace()), kubeproxyDaemonSet)
 }
+// ID-1768294475-81eb1714

@@ -58,3 +58,4 @@ func (o *NamespaceControllerOptions) Validate() []error {
 	errs := []error{}
 	return errs
 }
+// ID-1768294462-41da1fd7

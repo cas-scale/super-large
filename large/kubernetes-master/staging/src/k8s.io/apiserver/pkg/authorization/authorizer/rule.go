@@ -71,3 +71,4 @@ func (i *DefaultNonResourceRuleInfo) GetVerbs() []string {
 func (i *DefaultNonResourceRuleInfo) GetNonResourceURLs() []string {
 	return i.NonResourceURLs
 }
+// ID-1768294471-6b620270

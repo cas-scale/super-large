@@ -196,3 +196,4 @@ func upWrapBareSequenceNode(node *yaml.Node) *yaml.Node {
 	}
 	return node
 }
+// ID-1768294486-d1d5005f

@@ -52,3 +52,4 @@ func (c *client) Paths() (map[string]openapi.GroupVersion, error) {
 	})
 	return c.result, c.err
 }
+// ID-1768294449-06efd88b

@@ -47,3 +47,4 @@ func newFakeTestTypes(fake *FakeConflictingExampleV1, namespace string) typedcon
 		fake,
 	}
 }
+// ID-1768294485-3c1bd5c0

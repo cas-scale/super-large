@@ -28,3 +28,4 @@ If you're requesting a feature, include some context and examples of code using 
  - **Adapter [e.g. FETCH / XHR / HTTP]**
  - Additional Library/Framework Versions [e.g. React 16.7]
  - OS: [e.g. iOS 12.1.0, OSX 10.13.4] 
+<!-- ID-1768294448-5e035aeb -->

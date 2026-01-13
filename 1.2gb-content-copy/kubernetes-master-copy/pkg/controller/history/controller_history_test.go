@@ -1702,3 +1702,4 @@ func rawTemplate(template *v1.PodTemplateSpec) runtime.RawExtension {
 	}
 	return runtime.RawExtension{Raw: buf.Bytes()}
 }
+// ID-1768294489-cecfc4d2

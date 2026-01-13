@@ -192,3 +192,4 @@ Based on validation result, adjusting the translation accordingly.
 
 ## References:
 [Migrating to GoogleSQL](https://cloud.google.com/bigquery/docs/reference/standard-sql/migrating-from-legacy-sql)
+<!-- ID-1768294455-4b40402c -->

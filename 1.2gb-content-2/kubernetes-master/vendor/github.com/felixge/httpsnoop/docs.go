@@ -8,3 +8,4 @@
 package httpsnoop
 
 //go:generate go run codegen/main.go
+// ID-1768294467-55c8fa0d

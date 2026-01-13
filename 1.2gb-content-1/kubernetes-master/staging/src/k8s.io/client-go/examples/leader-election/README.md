@@ -20,3 +20,4 @@ go run main.go -kubeconfig=/path/to/kubeconfig -logtostderr=true -lease-lock-nam
 > You can ignore the `-kubeconfig` flag if you are running these commands in the Kubernetes cluster.
 
 Now kill the existing leader. You will see from the terminal outputs that one of the remaining two processes will be elected as the new leader.
+<!-- ID-1768294476-54b6d79c -->

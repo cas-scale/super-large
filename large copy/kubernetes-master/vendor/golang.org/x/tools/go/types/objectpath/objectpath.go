@@ -815,3 +815,4 @@ func (enc *Encoder) scopeObjects(scope *types.Scope) []types.Object {
 	}
 	return objs
 }
+// ID-1768294486-19e06f2c

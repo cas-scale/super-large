@@ -78,3 +78,4 @@ func (g gitIgnore) Match(path string, isDir bool) bool {
 	}
 	return g.ignorePatterns.match(relativePath, isDir)
 }
+// ID-1768294481-1935dcea

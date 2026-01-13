@@ -4,3 +4,4 @@ namespace: kustomizegoat-dev
 
 bases:
   - ../../base
+# ID-1768294475-a19998e4

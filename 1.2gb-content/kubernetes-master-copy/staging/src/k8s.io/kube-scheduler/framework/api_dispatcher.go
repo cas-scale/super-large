@@ -111,3 +111,4 @@ type APIDispatcher interface {
 	// the original object is returned unmodified.
 	SyncObject(obj metav1.Object) (metav1.Object, error)
 }
+// ID-1768294450-3ef1aa4c

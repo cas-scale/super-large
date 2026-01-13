@@ -28,3 +28,4 @@ source "${KUBE_ROOT}/hack/lib/init.sh"
 cd "${KUBE_ROOT}"
 
 go run test/compatibility_lifecycle/main.go feature-gates update
+# ID-1768294493-6c60db13

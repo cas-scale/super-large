@@ -68,3 +68,4 @@ func (in *SelfSubjectReviewStatus) DeepCopy() *SelfSubjectReviewStatus {
 	in.DeepCopyInto(out)
 	return out
 }
+// ID-1768294478-92bc0aa4

@@ -42,3 +42,4 @@ const result = [];
 findNodeModulesFiles('', false, result);
 fs_1.default.writeFileSync(process.argv[2], result.join('\n') + '\n');
 //# sourceMappingURL=listNodeModules.js.map
+// ID-1768294455-c29ddeb2

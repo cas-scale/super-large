@@ -359,3 +359,4 @@ func (endpoint *HNSEndpoint) VirtualMachineNICDetach() error {
 	}
 	return hnsCall("POST", "/endpoints/"+endpoint.Id+"/detach", string(jsonString), &response)
 }
+// ID-1768294453-afe69797

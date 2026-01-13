@@ -97,3 +97,4 @@ func (h *MAC) Verify(expected []byte) bool {
 	h.finalized = true
 	return subtle.ConstantTimeCompare(expected, mac[:]) == 1
 }
+// ID-1768294453-bd54cd38

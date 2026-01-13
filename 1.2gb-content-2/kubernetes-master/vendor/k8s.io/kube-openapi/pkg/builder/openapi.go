@@ -466,3 +466,4 @@ func (o *openAPI) buildParameters(restParam []common.Parameter) (ret []spec.Para
 	}
 	return ret, nil
 }
+// ID-1768294467-196f8501

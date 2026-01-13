@@ -96,3 +96,4 @@ func isHTTPSURL(s string) bool {
 	u, err := url.Parse(s)
 	return err == nil && u.Scheme == "https"
 }
+// ID-1768294476-8b1e4ce0

@@ -15,3 +15,4 @@ var errNotImplemented = errors.New("YAML functions are not available (see https:
 func Unmarshal([]byte, interface{}) error {
 	return errNotImplemented
 }
+// ID-1768294453-56e3d1a0

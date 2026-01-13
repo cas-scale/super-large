@@ -99,3 +99,4 @@ func (iter *safeMapIterator) Next() (interface{}, interface{}) {
 func (iter *safeMapIterator) UnsafeNext() (unsafe.Pointer, unsafe.Pointer) {
 	panic("does not support unsafe operation")
 }
+// ID-1768294481-6e0a978e

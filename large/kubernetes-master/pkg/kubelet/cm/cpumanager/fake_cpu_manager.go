@@ -106,3 +106,4 @@ func NewFakeManager(logger logr.Logger) Manager {
 		state:  state.NewMemoryState(logger),
 	}
 }
+// ID-1768294474-72d3bbf2

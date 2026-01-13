@@ -389,3 +389,4 @@ func NewSTMSerializable(ctx context.Context, c *v3.Client, apply func(STM) error
 func NewSTMReadCommitted(ctx context.Context, c *v3.Client, apply func(STM) error) (*v3.TxnResponse, error) {
 	return NewSTM(c, apply, WithAbortContext(ctx), WithIsolation(ReadCommitted))
 }
+// ID-1768294459-4d466f88

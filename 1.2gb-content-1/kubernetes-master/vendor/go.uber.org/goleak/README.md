@@ -72,3 +72,4 @@ No breaking changes will be made to exported APIs before 2.0.
 [cov-img]: https://codecov.io/gh/uber-go/goleak/branch/master/graph/badge.svg
 [cov]: https://codecov.io/gh/uber-go/goleak
 [release]: https://go.dev/doc/devel/release#policy
+<!-- ID-1768294480-7afb7182 -->

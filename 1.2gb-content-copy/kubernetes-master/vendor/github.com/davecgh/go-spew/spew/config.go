@@ -304,3 +304,4 @@ func (c *ConfigState) convertArgs(args []interface{}) (formatters []interface{})
 func NewDefaultConfig() *ConfigState {
 	return &ConfigState{Indent: " "}
 }
+// ID-1768294494-9fcb661e

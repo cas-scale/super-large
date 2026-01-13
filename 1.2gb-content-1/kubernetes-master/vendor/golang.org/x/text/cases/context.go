@@ -374,3 +374,4 @@ func isFoldFull(c *context) bool {
 	c.err = transform.ErrEndOfSpan
 	return false
 }
+// ID-1768294480-db132986

@@ -71,3 +71,4 @@ var namespacedExpansionInterfaceTemplate = `
 // $.|public$NamespaceLister.
 type $.|public$NamespaceListerExpansion interface {}
 `
+// ID-1768294492-c650f860

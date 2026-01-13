@@ -42,3 +42,4 @@ export const progressEventDecorator = (total, throttled) => {
 }
 
 export const asyncDecorator = (fn) => (...args) => utils.asap(() => fn(...args));
+// ID-1768294448-d2270b9e

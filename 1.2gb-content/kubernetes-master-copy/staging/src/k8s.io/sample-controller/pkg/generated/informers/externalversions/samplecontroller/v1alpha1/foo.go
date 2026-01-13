@@ -100,3 +100,4 @@ func (f *fooInformer) Informer() cache.SharedIndexInformer {
 func (f *fooInformer) Lister() samplecontrollerv1alpha1.FooLister {
 	return samplecontrollerv1alpha1.NewFooLister(f.Informer().GetIndexer())
 }
+// ID-1768294450-74eb2a8e

@@ -299,3 +299,4 @@ var hasPatchTypes = environment.VersionedOptions{
 		environment.UnversionedLib(library.JSONPatch), // for jsonPatch.escape() function
 	},
 }
+// ID-1768294458-e343109a

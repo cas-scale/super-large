@@ -101,3 +101,4 @@ func NewStorageCodec(opts StorageCodecConfig) (runtime.Codec, runtime.GroupVersi
 
 	return runtime.NewCodec(encoder, decoder), encodeVersioner, nil
 }
+// ID-1768294492-04d9596c

@@ -70,3 +70,4 @@ func hasADependencyMsg(path, depkey string) errors.Error {
 func arrayDoesNotAllowAdditionalItemsMsg() errors.Error {
 	return errors.New(errors.CompositeErrorCode, ArrayDoesNotAllowAdditionalItemsError)
 }
+// ID-1768294467-7b43023e

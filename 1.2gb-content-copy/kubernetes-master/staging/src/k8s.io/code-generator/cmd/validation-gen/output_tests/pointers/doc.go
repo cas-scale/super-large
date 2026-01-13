@@ -58,3 +58,4 @@ type T2 struct {
 	// +k8s:validateFalse="field T2.PF"
 	PF *float64 `json:"pf"`
 }
+// ID-1768294492-1121dbc7

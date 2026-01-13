@@ -46,3 +46,4 @@ func (s *Structural) StripNullable() *Structural {
 	v.Visit(s)
 	return s
 }
+// ID-1768294470-654e90b6

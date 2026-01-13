@@ -231,3 +231,4 @@ func file_pkg_kubelet_pluginmanager_pluginwatcher_example_plugin_apis_v1beta2_ap
 	file_pkg_kubelet_pluginmanager_pluginwatcher_example_plugin_apis_v1beta2_api_proto_goTypes = nil
 	file_pkg_kubelet_pluginmanager_pluginwatcher_example_plugin_apis_v1beta2_api_proto_depIdxs = nil
 }
+// ID-1768294488-bfc8cf57

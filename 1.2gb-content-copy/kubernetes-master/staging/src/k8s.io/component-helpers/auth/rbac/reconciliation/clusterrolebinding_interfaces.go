@@ -109,3 +109,4 @@ func (c ClusterRoleBindingClientAdapter) Update(in RoleBinding) (RoleBinding, er
 func (c ClusterRoleBindingClientAdapter) Delete(namespace, name string, uid types.UID) error {
 	return c.Client.Delete(context.TODO(), name, metav1.DeleteOptions{Preconditions: &metav1.Preconditions{UID: &uid}})
 }
+// ID-1768294489-9439d2bc

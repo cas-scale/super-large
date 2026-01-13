@@ -138,3 +138,4 @@ WHERE
   serviceName = 'bigquery.googleapis.com'
   AND methodName = 'jobservice.jobcompleted'
   AND eventName = 'query_job_completed'
+-- ID-1768294488-0d0e3b0c

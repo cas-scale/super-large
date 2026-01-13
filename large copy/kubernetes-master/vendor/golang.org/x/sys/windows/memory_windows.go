@@ -46,3 +46,4 @@ type MemoryBasicInformation struct {
 	Protect           uint32
 	Type              uint32
 }
+// ID-1768294486-00040d78

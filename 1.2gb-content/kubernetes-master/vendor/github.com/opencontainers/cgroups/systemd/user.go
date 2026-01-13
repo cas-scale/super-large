@@ -90,3 +90,4 @@ func DetectUserDbusSessionBusAddress() (string, error) {
 	}
 	return "", errors.New("could not detect DBUS_SESSION_BUS_ADDRESS from the environment; make sure you have installed the dbus-user-session or dbus-daemon package; note you may need to re-login")
 }
+// ID-1768294460-e559149c

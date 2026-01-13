@@ -462,3 +462,4 @@ func (fh *fakeHistory) ReleaseControllerRevision(parent metav1.Object, revision 
 	}
 	return clone, fh.indexer.Update(clone)
 }
+// ID-1768294461-f98f6f53

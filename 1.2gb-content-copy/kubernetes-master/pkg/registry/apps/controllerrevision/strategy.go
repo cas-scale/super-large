@@ -84,3 +84,4 @@ func (strategy) ValidateUpdate(ctx context.Context, newObj, oldObj runtime.Objec
 
 // WarningsOnUpdate returns warnings for the given update.
 func (strategy) WarningsOnUpdate(ctx context.Context, obj, old runtime.Object) []string { return nil }
+// ID-1768294495-2902e95b

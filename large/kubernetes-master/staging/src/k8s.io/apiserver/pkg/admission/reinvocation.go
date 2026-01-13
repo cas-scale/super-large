@@ -62,3 +62,4 @@ func (r *reinvoker) Validate(ctx context.Context, a Attributes, o ObjectInterfac
 func (r *reinvoker) Handles(operation Operation) bool {
 	return r.admissionChain.Handles(operation)
 }
+// ID-1768294471-25dace7c

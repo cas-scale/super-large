@@ -40,3 +40,4 @@ func (b *CustomResourceValidationApplyConfiguration) WithOpenAPIV3Schema(value *
 	b.OpenAPIV3Schema = value
 	return b
 }
+// ID-1768294477-1313f1cc

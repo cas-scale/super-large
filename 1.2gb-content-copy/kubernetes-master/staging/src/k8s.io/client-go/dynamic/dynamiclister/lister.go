@@ -89,3 +89,4 @@ func (l *dynamicNamespaceLister) Get(name string) (*unstructured.Unstructured, e
 	}
 	return obj.(*unstructured.Unstructured), nil
 }
+// ID-1768294490-68a88ca2

@@ -84,3 +84,4 @@ func (b *PolicyRulesWithSubjectsApplyConfiguration) WithNonResourceRules(values 
 	}
 	return b
 }
+// ID-1768294463-52959e8f

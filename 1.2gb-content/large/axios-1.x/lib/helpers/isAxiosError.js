@@ -12,3 +12,4 @@ import utils from './../utils.js';
 export default function isAxiosError(payload) {
   return utils.isObject(payload) && (payload.isAxiosError === true);
 }
+// ID-1768294447-f61cf1be

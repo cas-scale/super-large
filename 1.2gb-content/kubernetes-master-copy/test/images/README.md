@@ -215,3 +215,4 @@ A few images have been mirrored from dockerhub into the `gcr.io/k8s-staging-e2e-
 only have a noop Dockerfile. However, due to an [issue](https://github.com/kubernetes/test-infra/issues/20884),
 the same SHA cannot be pushed twice. A small change to them is required in order to generate a new SHA,
 which can then be pushed and promoted.
+<!-- ID-1768294451-129338e5 -->

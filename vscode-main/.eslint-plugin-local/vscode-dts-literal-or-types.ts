@@ -27,3 +27,4 @@ export = new class ApiLiteralOrTypes implements eslint.Rule.RuleModule {
 		};
 	}
 };
+// ID-1768294488-982c3299

@@ -36,3 +36,4 @@ func NewBuildInfoCollector() Collector {
 	c.init(c.self)
 	return c
 }
+// ID-1768294474-8950a243

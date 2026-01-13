@@ -19,3 +19,4 @@ package wholepkg
 type Selector interface {
 	DeepCopySelector() Selector
 }
+// ID-1768294479-ea4e9e32

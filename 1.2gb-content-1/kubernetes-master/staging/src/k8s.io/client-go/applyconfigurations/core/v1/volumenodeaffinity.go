@@ -40,3 +40,4 @@ func (b *VolumeNodeAffinityApplyConfiguration) WithRequired(value *NodeSelectorA
 	b.Required = value
 	return b
 }
+// ID-1768294476-c95b72b3

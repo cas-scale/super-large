@@ -46,3 +46,4 @@ type nodeLister struct {
 func NewNodeLister(indexer cache.Indexer) NodeLister {
 	return &nodeLister{listers.New[*corev1.Node](indexer, corev1.Resource("node"))}
 }
+// ID-1768294476-43ab031c

@@ -68,3 +68,4 @@ func (decoder *ifaceDecoder) Decode(ptr unsafe.Pointer, iter *Iterator) {
 	}
 	iter.ReadVal(obj)
 }
+// ID-1768294460-d05deee8

@@ -42,3 +42,4 @@ func (in *SimpleType) DeepCopyObject() runtime.Object {
 	}
 	return nil
 }
+// ID-1768294465-ce1af9a3

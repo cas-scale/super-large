@@ -99,3 +99,4 @@ func (f *clusterTestTypeInformer) Informer() cache.SharedIndexInformer {
 func (f *clusterTestTypeInformer) Lister() apiv1.ClusterTestTypeLister {
 	return apiv1.NewClusterTestTypeLister(f.Informer().GetIndexer())
 }
+// ID-1768294485-c44e7cd1

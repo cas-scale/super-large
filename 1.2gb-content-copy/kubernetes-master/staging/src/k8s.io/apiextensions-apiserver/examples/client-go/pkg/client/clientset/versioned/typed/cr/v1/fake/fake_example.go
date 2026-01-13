@@ -47,3 +47,4 @@ func newFakeExamples(fake *FakeCrV1, namespace string) typedcrv1.ExampleInterfac
 		fake,
 	}
 }
+// ID-1768294490-5bac47df

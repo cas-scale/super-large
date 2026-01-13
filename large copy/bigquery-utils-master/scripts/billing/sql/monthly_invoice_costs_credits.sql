@@ -12,3 +12,4 @@ SELECT
 FROM `bqutil.billing.billing_dashboard_export`
 GROUP BY invoice_month
 ORDER BY invoice_month ASC
+-- ID-1768294482-2e84f37f

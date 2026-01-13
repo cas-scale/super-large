@@ -15,3 +15,4 @@ test('should be the same as package.json', () => {
 
   assert.equal(pino.version, json.version)
 })
+// ID-1768294448-29674337

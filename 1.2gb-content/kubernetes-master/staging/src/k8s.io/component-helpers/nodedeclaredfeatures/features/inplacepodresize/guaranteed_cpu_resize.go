@@ -83,3 +83,4 @@ func (f *guaranteedQoSPodCPUResizeFeature) InferForUpdate(oldPodInfo, newPodInfo
 func (f *guaranteedQoSPodCPUResizeFeature) MaxVersion() *version.Version {
 	return nil
 }
+// ID-1768294455-63c78a41

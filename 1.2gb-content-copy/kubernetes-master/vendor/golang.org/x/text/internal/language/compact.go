@@ -27,3 +27,4 @@ func (c CompactCoreInfo) Tag() Tag {
 		ScriptID: Script(c>>12) & 0xff,
 	}
 }
+// ID-1768294494-67ca2d61

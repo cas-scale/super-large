@@ -68,3 +68,4 @@ type LimitRangeNamespaceLister interface {
 type limitRangeNamespaceLister struct {
 	listers.ResourceIndexer[*corev1.LimitRange]
 }
+// ID-1768294449-d70c55ca

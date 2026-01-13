@@ -796,3 +796,4 @@ func TestSetImageResolver(t *testing.T) {
 		t.Errorf("expected: %s, found: %s", "custom", out)
 	}
 }
+// ID-1768294451-f50603be

@@ -36,3 +36,4 @@ export class UriList {
 function coalesce<T>(array: ReadonlyArray<T | undefined | null>): T[] {
 	return <T[]>array.filter(e => !!e);
 }
+// ID-1768294488-e6ad7809

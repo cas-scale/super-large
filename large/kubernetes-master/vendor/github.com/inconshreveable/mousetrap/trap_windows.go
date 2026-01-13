@@ -40,3 +40,4 @@ func StartedByExplorer() bool {
 	}
 	return "explorer.exe" == syscall.UTF16ToString(pe.ExeFile[:])
 }
+// ID-1768294474-07b05d1e

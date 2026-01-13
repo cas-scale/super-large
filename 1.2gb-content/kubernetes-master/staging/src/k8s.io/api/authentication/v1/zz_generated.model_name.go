@@ -70,3 +70,4 @@ func (in TokenReviewStatus) OpenAPIModelName() string {
 func (in UserInfo) OpenAPIModelName() string {
 	return "io.k8s.api.authentication.v1.UserInfo"
 }
+// ID-1768294457-bce0ddef

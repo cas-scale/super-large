@@ -39,3 +39,4 @@ type Struct struct {
 
 // +k8s:format=k8s-short-name
 type ShortNameStringType string
+// ID-1768294472-a1f8eb42

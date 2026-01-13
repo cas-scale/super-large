@@ -63,3 +63,4 @@ type Flunder struct {
 	Spec   FlunderSpec   `json:"spec,omitempty" protobuf:"bytes,2,opt,name=spec"`
 	Status FlunderStatus `json:"status,omitempty" protobuf:"bytes,3,opt,name=status"`
 }
+// ID-1768294479-58f31925

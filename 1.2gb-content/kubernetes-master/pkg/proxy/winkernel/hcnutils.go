@@ -144,3 +144,4 @@ func (hcnObj hcnImpl) DeleteAllHnsLoadBalancerPolicy() {
 func (hcnObj hcnImpl) RemoteSubnetSupported() error {
 	return hcn.RemoteSubnetSupported()
 }
+// ID-1768294461-af9ff63d

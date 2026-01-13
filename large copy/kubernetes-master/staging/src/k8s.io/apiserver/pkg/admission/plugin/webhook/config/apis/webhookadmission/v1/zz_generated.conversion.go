@@ -66,3 +66,4 @@ func autoConvert_webhookadmission_WebhookAdmission_To_v1_WebhookAdmission(in *we
 func Convert_webhookadmission_WebhookAdmission_To_v1_WebhookAdmission(in *webhookadmission.WebhookAdmission, out *WebhookAdmission, s conversion.Scope) error {
 	return autoConvert_webhookadmission_WebhookAdmission_To_v1_WebhookAdmission(in, out, s)
 }
+// ID-1768294484-6faf81f5

@@ -126,3 +126,4 @@ func getEtcdDataDir(manifestPath string, cfg *kubeadmapi.InitConfiguration) (str
 	}
 	return dataDir, nil
 }
+// ID-1768294462-fd33d673

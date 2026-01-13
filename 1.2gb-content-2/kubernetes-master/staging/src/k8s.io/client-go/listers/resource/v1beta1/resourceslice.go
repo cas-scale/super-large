@@ -46,3 +46,4 @@ type resourceSliceLister struct {
 func NewResourceSliceLister(indexer cache.Indexer) ResourceSliceLister {
 	return &resourceSliceLister{listers.New[*resourcev1beta1.ResourceSlice](indexer, resourcev1beta1.Resource("resourceslice"))}
 }
+// ID-1768294463-d592c1e0

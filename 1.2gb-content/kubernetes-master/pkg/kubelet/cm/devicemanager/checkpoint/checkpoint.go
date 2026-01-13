@@ -107,3 +107,4 @@ func (cp *Data) VerifyChecksum() error {
 func (cp *Data) GetData() ([]PodDevicesEntry, map[string][]string) {
 	return cp.Data.PodDeviceEntries, cp.Data.RegisteredDevices
 }
+// ID-1768294461-442f6188

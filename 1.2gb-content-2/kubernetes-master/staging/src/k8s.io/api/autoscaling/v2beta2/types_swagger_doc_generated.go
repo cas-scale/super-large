@@ -295,3 +295,4 @@ func (ResourceMetricStatus) SwaggerDoc() map[string]string {
 }
 
 // AUTO-GENERATED FUNCTIONS END HERE
+// ID-1768294465-7f235f66

@@ -139,3 +139,4 @@ class translatorCommaJoin:
 
 obj = translatorCommaJoin()
 obj.translate_comma_join(legacy_sql)
+# ID-1768294489-a96bb625

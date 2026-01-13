@@ -28,3 +28,4 @@ Use https://pkg.go.dev/github.com/cenkalti/backoff/v4 to view the documentation.
 [exponential backoff wiki]: http://en.wikipedia.org/wiki/Exponential_backoff
 
 [advanced example]: https://pkg.go.dev/github.com/cenkalti/backoff/v4?tab=doc#pkg-examples
+<!-- ID-1768294487-f043e6c7 -->

@@ -204,3 +204,4 @@ func (o *ResourceConfig) VersionExplicitlyEnabled(version schema.GroupVersion) b
 	}
 	return false
 }
+// ID-1768294484-70cae529

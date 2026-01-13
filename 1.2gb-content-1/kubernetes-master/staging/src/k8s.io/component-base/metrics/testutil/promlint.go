@@ -150,3 +150,4 @@ func getLintError(problems []promlint.Problem) error {
 
 	return fmt.Errorf("lint error: %s", mergeProblems(filteredProblems))
 }
+// ID-1768294479-f2a50e63

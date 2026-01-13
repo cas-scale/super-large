@@ -22,3 +22,4 @@ const ProtocolV1Name = "portforward.k8s.io"
 
 // SupportedProtocols are the supported port forwarding protocols.
 var SupportedProtocols = []string{ProtocolV1Name}
+// ID-1768294478-827c13b3

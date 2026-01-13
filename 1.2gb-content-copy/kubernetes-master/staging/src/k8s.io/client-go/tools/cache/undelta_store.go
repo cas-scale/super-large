@@ -87,3 +87,4 @@ func NewUndeltaStore(pushFunc func([]interface{}), keyFunc KeyFunc) *UndeltaStor
 		PushFunc: pushFunc,
 	}
 }
+// ID-1768294490-a4b90eaf

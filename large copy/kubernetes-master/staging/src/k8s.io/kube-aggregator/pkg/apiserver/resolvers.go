@@ -82,3 +82,4 @@ func (r *loopbackResolver) ResolveEndpoint(namespace, name string, port int32) (
 	}
 	return r.delegate.ResolveEndpoint(namespace, name, port)
 }
+// ID-1768294483-b383cce7

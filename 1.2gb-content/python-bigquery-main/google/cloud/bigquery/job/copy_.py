@@ -280,3 +280,4 @@ class CopyJob(_AsyncJob):
         job = cls(job_ref, None, None, client=client)
         job._set_properties(resource)
         return job
+# ID-1768294448-02f4b418

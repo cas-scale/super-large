@@ -121,3 +121,4 @@ func (any *numberLazyAny) GetInterface() interface{} {
 	defer any.cfg.ReturnIterator(iter)
 	return iter.Read()
 }
+// ID-1768294494-ffaf2ac1

@@ -93,3 +93,4 @@ func SetDefaults_PodFailurePolicyOnPodConditionsPattern(obj *batchv1.PodFailureP
 		obj.Status = corev1.ConditionTrue
 	}
 }
+// ID-1768294462-f057cac6

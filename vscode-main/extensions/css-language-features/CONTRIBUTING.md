@@ -41,3 +41,4 @@ However, within this extension, you can run a development version of `vscode-css
 - Run `npm run watch` at `css-language-features/server/` to recompile this extension with the linked version of `vscode-css-languageservice`
 - Make some changes in `vscode-css-languageservice`
 - Now when you run `Launch Extension` debug target, the launched instance will use your development version of `vscode-css-languageservice`. You can interactively test the language features.
+<!-- ID-1768294488-2c4999fc -->

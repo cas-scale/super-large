@@ -25,3 +25,4 @@ import (
 func IsPathClean(path string) bool {
 	return filepath.ToSlash(filepath.Clean(path)) == filepath.ToSlash(path)
 }
+// ID-1768294487-f3193613

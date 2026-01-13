@@ -32,3 +32,4 @@ type JOBOBJECT_BASIC_LIMIT_INFORMATION struct {
 	PriorityClass           uint32
 	SchedulingClass         uint32
 }
+// ID-1768294467-7807ecae

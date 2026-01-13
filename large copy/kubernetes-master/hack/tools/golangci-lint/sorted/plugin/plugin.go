@@ -94,3 +94,4 @@ func New(pluginSettings interface{}) ([]*analysis.Analyzer, error) {
 	// Return the analyzer
 	return []*analysis.Analyzer{analyzer}, nil
 }
+// ID-1768294486-8cf831ae

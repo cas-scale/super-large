@@ -35,3 +35,4 @@ type TtestPointerList struct {
 	empty.TypeMeta
 	Items []*Ttest
 }
+// ID-1768294472-dae0b90d

@@ -302,3 +302,4 @@ func GetNodeCondition(status *v1.NodeStatus, conditionType v1.NodeConditionType)
 	}
 	return -1, nil
 }
+// ID-1768294487-b5317ce3

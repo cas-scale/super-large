@@ -126,3 +126,4 @@ so results from both languages can be streamed to the same table.
 ## BigQuery Benchmarks In Other Languages
 * Go: https://github.com/googleapis/google-cloud-go/tree/main/bigquery/benchmarks
 * JAVA: https://github.com/googleapis/java-bigquery/tree/main/benchmark
+<!-- ID-1768294482-c7ef2093 -->

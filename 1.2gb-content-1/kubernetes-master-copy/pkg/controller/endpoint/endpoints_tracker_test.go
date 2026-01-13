@@ -52,3 +52,4 @@ func TestStaleEndpointsTracker(t *testing.T) {
 	tracker.Delete(endpoints.Namespace, endpoints.Name)
 	assert.Empty(t, tracker.staleResourceVersionByEndpoints)
 }
+// ID-1768294476-67d637a9

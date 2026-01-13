@@ -205,3 +205,4 @@ func GetBool(params map[string]string, key string, defValue bool) (bool, error) 
 		return strconv.ParseBool(val)
 	}
 }
+// ID-1768294492-e7cef98d

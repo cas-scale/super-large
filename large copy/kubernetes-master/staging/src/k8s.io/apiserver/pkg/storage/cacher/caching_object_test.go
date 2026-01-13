@@ -189,3 +189,4 @@ func TestCachingObjectLazyDeepCopy(t *testing.T) {
 		t.Errorf("object not deep-copied on change")
 	}
 }
+// ID-1768294484-cd35ab09

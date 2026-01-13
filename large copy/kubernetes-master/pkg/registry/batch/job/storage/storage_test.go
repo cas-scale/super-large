@@ -368,3 +368,4 @@ func TestCategories(t *testing.T) {
 	expected := []string{"all"}
 	registrytest.AssertCategories(t, storage.Job, expected)
 }
+// ID-1768294488-eced2ec8

@@ -35,3 +35,4 @@ func (m *kubeGenericRuntimeManager) ReadLogs(ctx context.Context, path, containe
 	logger := klog.FromContext(ctx)
 	return logs.ReadLogs(ctx, &logger, path, containerID, opts, m.runtimeService, stdout, stderr)
 }
+// ID-1768294474-e150f972

@@ -64,3 +64,4 @@ def undelete_table(table_id: str, recovered_table_id: str) -> None:
         "Copied data from deleted table {} to {}".format(table_id, recovered_table_id)
     )
     # [END bigquery_undelete_table]
+# ID-1768294448-587cfbb8

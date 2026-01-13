@@ -1528,3 +1528,4 @@ type MutatingAdmissionPolicyBindingSpec struct {
 	// +optional
 	MatchResources *MatchResources `json:"matchResources,omitempty" protobuf:"bytes,3,rep,name=matchResources"`
 }
+// ID-1768294465-5046ad7e

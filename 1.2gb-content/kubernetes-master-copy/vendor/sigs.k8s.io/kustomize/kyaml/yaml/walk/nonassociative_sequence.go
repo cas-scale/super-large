@@ -11,3 +11,4 @@ import (
 func (l Walker) walkNonAssociativeSequence() (*yaml.RNode, error) {
 	return l.VisitList(l.Sources, l.Schema, NonAssociateList)
 }
+// ID-1768294453-7d60a1b9

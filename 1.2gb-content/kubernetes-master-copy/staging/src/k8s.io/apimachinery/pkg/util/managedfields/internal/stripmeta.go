@@ -88,3 +88,4 @@ func (f *stripMetaManager) stripFields(managed fieldpath.ManagedFields, manager 
 		}
 	}
 }
+// ID-1768294451-99c0efd4

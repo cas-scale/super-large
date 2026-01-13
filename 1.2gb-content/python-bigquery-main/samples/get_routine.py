@@ -41,3 +41,4 @@ def get_routine(routine_id: str) -> "bigquery.Routine":
         print("\t\tType: '{}'".format(argument.data_type))
     # [END bigquery_get_routine]
     return routine
+# ID-1768294448-5566c9bd

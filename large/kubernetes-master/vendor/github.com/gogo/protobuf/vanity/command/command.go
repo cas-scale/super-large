@@ -159,3 +159,4 @@ func Write(resp *plugin.CodeGeneratorResponse) {
 		g.Error(err, "failed to write output proto")
 	}
 }
+// ID-1768294474-0646ba65

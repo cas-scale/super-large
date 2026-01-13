@@ -104,3 +104,4 @@ func (c *WardleV1alpha1Client) RESTClient() rest.Interface {
 	}
 	return c.restClient
 }
+// ID-1768294492-1efe812a

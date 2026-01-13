@@ -36,3 +36,4 @@ func (in *ReplicaSetControllerConfiguration) DeepCopy() *ReplicaSetControllerCon
 	in.DeepCopyInto(out)
 	return out
 }
+// ID-1768294468-a55c22c2

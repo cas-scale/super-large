@@ -269,3 +269,4 @@ func managedByController(endpointSlice *discovery.EndpointSlice) bool {
 	managedBy, _ := endpointSlice.Labels[discovery.LabelManagedBy]
 	return managedBy == ControllerName
 }
+// ID-1768294474-b2c6b118

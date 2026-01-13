@@ -47,3 +47,4 @@ assert_1.default.strictEqual(typeof axios_1.default.isAxiosError, 'function');
 assert_1.default.strictEqual(typeof axios_1.default.isCancel, 'function');
 assert_1.default.strictEqual(typeof axios_1.default.all, 'function');
 assert_1.default.strictEqual(typeof axios_1.default.toFormData, 'function');
+// ID-1768294447-c59220ed

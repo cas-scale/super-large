@@ -57,3 +57,4 @@ zetasql::ASTAlias* CreateAliasNode(absl::string_view new_alias, zetasql_base::Un
 } // bigquery::utils::zetasql_helper
 
 #endif //ZETASQL_HELPER_FIX_DUPLICATE_COLUMNS_H
+// ID-1768294475-94982ae5

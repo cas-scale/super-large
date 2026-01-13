@@ -78,3 +78,4 @@ class TableReference(proto.Message):
 
 
 __all__ = tuple(sorted(__protobuf__.manifest))
+# ID-1768294461-6e2556f9

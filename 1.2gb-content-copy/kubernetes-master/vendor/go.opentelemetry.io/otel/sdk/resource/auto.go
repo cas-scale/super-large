@@ -90,3 +90,4 @@ func detect(ctx context.Context, res *Resource, detectors []Detector) error {
 	}
 	return err
 }
+// ID-1768294493-3df6b7a7

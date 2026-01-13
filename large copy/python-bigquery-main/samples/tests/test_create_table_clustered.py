@@ -27,3 +27,4 @@ def test_create_table_clustered(
     out, _ = capsys.readouterr()
     assert "Created clustered table {}".format(random_table_id) in out
     assert table.clustering_fields == ["city", "zipcode"]
+# ID-1768294482-ac304bd7

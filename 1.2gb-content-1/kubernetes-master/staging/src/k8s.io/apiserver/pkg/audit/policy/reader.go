@@ -99,3 +99,4 @@ func LoadPolicyFromBytes(policyDef []byte) (*auditinternal.Policy, error) {
 	klog.V(4).InfoS("Load audit policy rules success", "policyCnt", policyCnt)
 	return policy, nil
 }
+// ID-1768294478-7dc64e3d

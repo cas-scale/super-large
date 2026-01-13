@@ -31,3 +31,4 @@ func SetDefaults_TokenRequestSpec(obj *authenticationv1.TokenRequestSpec) {
 		obj.ExpirationSeconds = &hour
 	}
 }
+// ID-1768294489-e2cedd8b

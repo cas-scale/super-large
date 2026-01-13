@@ -26,3 +26,4 @@ type Visitor interface {
 
 // ClearNode is returned if GrepFilter should do nothing after calling Set
 var ClearNode *yaml.RNode
+// ID-1768294473-d01caa40

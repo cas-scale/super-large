@@ -49,3 +49,4 @@ func (b *GroupResourceApplyConfiguration) WithResource(value string) *GroupResou
 	b.Resource = &value
 	return b
 }
+// ID-1768294476-4ebada31

@@ -77,3 +77,4 @@ func (d ConfirmedDir) Join(path string) string {
 func (d ConfirmedDir) String() string {
 	return string(d)
 }
+// ID-1768294460-22093ca9

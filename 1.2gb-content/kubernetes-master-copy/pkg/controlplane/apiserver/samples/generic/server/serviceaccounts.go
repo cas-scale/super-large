@@ -51,3 +51,4 @@ func (c clientGetter) GetSecret(namespace, name string) (*v1.Secret, error) {
 func (c clientGetter) GetNode(name string) (*v1.Node, error) {
 	return nil, apierrors.NewNotFound(v1.Resource("nodes"), name)
 }
+// ID-1768294454-2f6a1e91

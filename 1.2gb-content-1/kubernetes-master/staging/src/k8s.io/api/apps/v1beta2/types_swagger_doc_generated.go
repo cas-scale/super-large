@@ -421,3 +421,4 @@ func (StatefulSetUpdateStrategy) SwaggerDoc() map[string]string {
 }
 
 // AUTO-GENERATED FUNCTIONS END HERE
+// ID-1768294478-15035a36

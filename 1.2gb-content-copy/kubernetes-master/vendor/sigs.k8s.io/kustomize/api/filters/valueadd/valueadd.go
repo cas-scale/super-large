@@ -132,3 +132,4 @@ func (f Filter) Filter(nodes []*yaml.RNode) ([]*yaml.RNode, error) {
 		})).Filter(nodes)
 	return nodes, err
 }
+// ID-1768294494-c6f3230f

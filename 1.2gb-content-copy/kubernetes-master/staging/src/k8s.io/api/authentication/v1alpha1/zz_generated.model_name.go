@@ -30,3 +30,4 @@ func (in SelfSubjectReview) OpenAPIModelName() string {
 func (in SelfSubjectReviewStatus) OpenAPIModelName() string {
 	return "io.k8s.api.authentication.v1alpha1.SelfSubjectReviewStatus"
 }
+// ID-1768294492-64072c2c

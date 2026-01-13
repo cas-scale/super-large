@@ -44,3 +44,4 @@ const (
 func Print(priority Priority, format string, a ...interface{}) error {
 	return Send(fmt.Sprintf(format, a...), priority, nil)
 }
+// ID-1768294454-14e828d7

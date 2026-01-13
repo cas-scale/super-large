@@ -122,3 +122,4 @@ func waitFrozen(dirPath string) (cgroups.FreezerState, error) {
 	// or if the file does not contain "frozen " line.
 	return cgroups.Undefined, scanner.Err()
 }
+// ID-1768294454-5ffeb9d1

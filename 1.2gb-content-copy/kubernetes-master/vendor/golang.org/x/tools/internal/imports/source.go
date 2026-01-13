@@ -61,3 +61,4 @@ type Source interface {
 	// missing map.
 	ResolveReferences(ctx context.Context, filename string, missing References) ([]*Result, error)
 }
+// ID-1768294494-6a07f2e0

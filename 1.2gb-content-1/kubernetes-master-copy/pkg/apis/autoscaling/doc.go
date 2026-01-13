@@ -17,3 +17,4 @@ limitations under the License.
 // +k8s:deepcopy-gen=package
 
 package autoscaling
+// ID-1768294475-641f0644

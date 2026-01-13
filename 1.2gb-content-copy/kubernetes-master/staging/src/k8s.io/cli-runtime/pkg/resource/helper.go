@@ -319,3 +319,4 @@ func (m *Helper) replaceResource(c RESTClient, resource, namespace, name string,
 		Do(context.TODO()).
 		Get()
 }
+// ID-1768294491-af9b32c3

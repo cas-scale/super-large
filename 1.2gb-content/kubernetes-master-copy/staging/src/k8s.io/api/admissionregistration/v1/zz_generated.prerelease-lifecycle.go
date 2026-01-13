@@ -68,3 +68,4 @@ func (in *ValidatingWebhookConfiguration) APILifecycleIntroduced() (major, minor
 func (in *ValidatingWebhookConfigurationList) APILifecycleIntroduced() (major, minor int) {
 	return 1, 16
 }
+// ID-1768294450-e9769f13

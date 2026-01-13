@@ -147,3 +147,4 @@ func (c *Clientset) ApiextensionsV1() apiextensionsv1.ApiextensionsV1Interface {
 func (c *Clientset) ApiextensionsV1beta1() apiextensionsv1beta1.ApiextensionsV1beta1Interface {
 	return &fakeapiextensionsv1beta1.FakeApiextensionsV1beta1{Fake: &c.Fake}
 }
+// ID-1768294483-fa581080

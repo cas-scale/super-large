@@ -117,3 +117,4 @@ func dropDisabledFields(newClaimTemplate, oldClaimTemplate *resource.ResourceCla
 	}
 	resourceclaimspec.DropDisabledFields(&newClaimTemplate.Spec.Spec, oldClaimSpec)
 }
+// ID-1768294482-f4faca37

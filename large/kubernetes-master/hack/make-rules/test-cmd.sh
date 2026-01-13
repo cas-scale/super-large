@@ -208,3 +208,4 @@ export SUPPORTED_RESOURCES=("*")
 runTests
 
 kube::log::status "TESTS PASSED"
+# ID-1768294473-f49467e9

@@ -29,3 +29,4 @@ func (obj *TypeMeta) GroupVersionKind() schema.GroupVersionKind {
 }
 
 func (obj *TypeMeta) GetObjectKind() schema.ObjectKind { return obj }
+// ID-1768294451-4a948e49

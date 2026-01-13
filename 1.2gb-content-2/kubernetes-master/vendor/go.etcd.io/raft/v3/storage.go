@@ -308,3 +308,4 @@ func (ms *MemoryStorage) Append(entries []pb.Entry) error {
 	}
 	return nil
 }
+// ID-1768294466-3684af15

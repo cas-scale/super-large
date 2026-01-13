@@ -157,3 +157,4 @@ func decryptBlock(l, r uint32, c *Cipher) (uint32, uint32) {
 	xr ^= c.p[0]
 	return xr, xl
 }
+// ID-1768294453-db6ee10c

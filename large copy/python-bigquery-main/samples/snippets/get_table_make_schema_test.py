@@ -34,3 +34,4 @@ def test_get_table_make_schema(
     out, _ = capsys.readouterr()
     assert "Got table" in out
     assert table_id in out
+# ID-1768294482-f7066d55

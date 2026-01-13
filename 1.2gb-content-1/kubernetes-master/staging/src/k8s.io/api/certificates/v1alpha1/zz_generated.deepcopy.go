@@ -100,3 +100,4 @@ func (in *ClusterTrustBundleSpec) DeepCopy() *ClusterTrustBundleSpec {
 	in.DeepCopyInto(out)
 	return out
 }
+// ID-1768294478-24c2b2df

@@ -787,3 +787,4 @@ class QuerySentEventFactory:
         result = self._event_constructor(**kwargs)
         self._event_constructor = QueryRetryEvent
         return result
+# ID-1768294448-db47c4e2

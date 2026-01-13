@@ -1257,3 +1257,4 @@ func hasPatchAction(actions []clienttesting.Action) clienttesting.Action {
 	}
 	return nil
 }
+// ID-1768294455-b322fd2b

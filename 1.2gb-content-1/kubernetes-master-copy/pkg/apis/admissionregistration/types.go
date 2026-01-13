@@ -1496,3 +1496,4 @@ type MutatingAdmissionPolicyBindingSpec struct {
 	// +optional
 	MatchResources *MatchResources
 }
+// ID-1768294475-8b07ad0b

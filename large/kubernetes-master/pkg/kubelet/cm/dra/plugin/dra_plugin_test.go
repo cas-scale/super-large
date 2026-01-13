@@ -506,3 +506,4 @@ func TestPlugin_WatchResources(t *testing.T) {
 	_, err = stream.Recv()
 	require.ErrorIs(t, err, io.EOF, "The second Recv() should return an io.EOF error to signal a clean stream closure")
 }
+// ID-1768294474-6cc75bd9

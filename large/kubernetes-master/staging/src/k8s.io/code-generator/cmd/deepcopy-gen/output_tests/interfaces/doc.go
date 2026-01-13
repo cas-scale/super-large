@@ -27,3 +27,4 @@ type Inner interface {
 type Ttest struct {
 	I []Inner
 }
+// ID-1768294472-95020fe2

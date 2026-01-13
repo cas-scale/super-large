@@ -56,3 +56,4 @@ def table_id(
     bigquery_client.create_table(table)
     yield table_id
     bigquery_client.delete_table(table_id)
+# ID-1768294448-d5065a16

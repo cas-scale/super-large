@@ -37,3 +37,4 @@ func RegisterDefaults(scheme *runtime.Scheme) error {
 func SetObjectDefaults_TokenRequest(in *authenticationv1.TokenRequest) {
 	SetDefaults_TokenRequestSpec(&in.Spec)
 }
+// ID-1768294487-350116a1

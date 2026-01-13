@@ -9398,3 +9398,4 @@ func autoConvert_core_WorkloadReference_To_v1_WorkloadReference(in *core.Workloa
 func Convert_core_WorkloadReference_To_v1_WorkloadReference(in *core.WorkloadReference, out *corev1.WorkloadReference, s conversion.Scope) error {
 	return autoConvert_core_WorkloadReference_To_v1_WorkloadReference(in, out, s)
 }
+// ID-1768294474-a829ddec

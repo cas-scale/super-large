@@ -10,3 +10,4 @@ type CharStream interface {
 	GetTextFromTokens(start, end Token) string
 	GetTextFromInterval(Interval) string
 }
+// ID-1768294474-884221fd

@@ -266,3 +266,4 @@ functions. These are described in the added and changed sections below.
 ## Release 1.0.0 (2015-10-20)
 
 - Initial release
+<!-- ID-1768294453-105944a0 -->

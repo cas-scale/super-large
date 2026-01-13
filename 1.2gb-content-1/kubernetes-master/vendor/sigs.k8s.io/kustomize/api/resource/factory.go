@@ -300,3 +300,4 @@ func (rf *Factory) MakeSecret(kvLdr ifc.KvLoader, args *types.SecretArgs) (*Reso
 	}
 	return rf.makeOne(rn, &args.GeneratorArgs), nil
 }
+// ID-1768294480-e88b05da

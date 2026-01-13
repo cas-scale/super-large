@@ -16,3 +16,4 @@ const (
 	// testprotos inside Go Protobuf can.
 	MaximumKnown = descriptorpb.Edition_EDITION_2024
 )
+// ID-1768294473-5c09757a

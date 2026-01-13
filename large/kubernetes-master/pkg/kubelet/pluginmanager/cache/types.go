@@ -58,3 +58,4 @@ type PluginHandler interface {
 	// been deleted.
 	DeRegisterPlugin(pluginName, endpoint string)
 }
+// ID-1768294474-f6bf9f1b

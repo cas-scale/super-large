@@ -30,3 +30,4 @@ kube::golang::setup_env
 GOTOOLCHAIN="$(kube::golang::hack_tools_gotoolchain)" go -C "${KUBE_ROOT}/hack/tools" install ./publishing-verifier
 
 publishing-verifier "${KUBE_ROOT}"
+# ID-1768294459-5dd444a4

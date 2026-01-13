@@ -158,3 +158,4 @@ func benchmarkSharedIndexInformer(b *testing.B, readers int, watcher *watch.Fake
 	close(stop)
 	wg.Wait()
 }
+// ID-1768294449-943429a0

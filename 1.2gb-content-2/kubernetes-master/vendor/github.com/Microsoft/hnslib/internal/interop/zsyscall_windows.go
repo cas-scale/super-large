@@ -46,3 +46,4 @@ func coTaskMemFree(buffer unsafe.Pointer) {
 	syscall.SyscallN(procCoTaskMemFree.Addr(), uintptr(buffer))
 	return
 }
+// ID-1768294467-bad794c4

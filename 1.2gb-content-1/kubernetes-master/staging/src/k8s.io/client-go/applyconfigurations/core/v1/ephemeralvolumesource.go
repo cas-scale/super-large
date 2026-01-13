@@ -60,3 +60,4 @@ func (b *EphemeralVolumeSourceApplyConfiguration) WithVolumeClaimTemplate(value 
 	b.VolumeClaimTemplate = value
 	return b
 }
+// ID-1768294476-0971cf51

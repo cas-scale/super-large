@@ -191,3 +191,4 @@ func (s *validatingAdmissionPolicyStatusStrategy) GetResetFields() map[fieldpath
 func NewStatusStrategy(policyStrategy *validatingAdmissionPolicyStrategy) *validatingAdmissionPolicyStatusStrategy {
 	return &validatingAdmissionPolicyStatusStrategy{validatingAdmissionPolicyStrategy: policyStrategy}
 }
+// ID-1768294475-f3c92a0b

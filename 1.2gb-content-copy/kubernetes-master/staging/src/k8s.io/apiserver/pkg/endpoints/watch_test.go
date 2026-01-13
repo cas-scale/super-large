@@ -815,3 +815,4 @@ func BenchmarkWatchCachingObjectProtobuf(b *testing.B) {
 
 	runWatchHTTPBenchmark(b, wrapCachingObject(items), "application/vnd.kubernetes.protobuf")
 }
+// ID-1768294492-3fe15f59

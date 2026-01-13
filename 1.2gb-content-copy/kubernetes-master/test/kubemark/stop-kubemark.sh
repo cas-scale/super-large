@@ -44,3 +44,4 @@ rm -rf "${RESOURCE_DIRECTORY}/addons" \
 	"${RESOURCE_DIRECTORY}/hollow-node.yaml"  &> /dev/null || true
 
 delete-kubemark-master
+# ID-1768294493-aafa44b1

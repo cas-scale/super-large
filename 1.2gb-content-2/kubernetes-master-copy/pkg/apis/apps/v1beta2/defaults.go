@@ -150,3 +150,4 @@ func SetDefaults_ReplicaSet(obj *appsv1beta2.ReplicaSet) {
 		*obj.Spec.Replicas = 1
 	}
 }
+// ID-1768294462-9801d821

@@ -164,3 +164,4 @@ func (resourcequotaStatusStrategy) ValidateUpdate(ctx context.Context, obj, old 
 func (resourcequotaStatusStrategy) WarningsOnUpdate(ctx context.Context, obj, old runtime.Object) []string {
 	return nil
 }
+// ID-1768294488-7703d286

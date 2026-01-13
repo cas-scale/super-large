@@ -31,3 +31,4 @@ with etcd is over localhost.
 
 - Goto [http://localhost:9101/metrics](http://localhost:9101/metrics) in order to view the exported metrics.
 - The metrics prefixed with "etcd_" are the ones of interest to us.
+<!-- ID-1768294469-37929cbf -->

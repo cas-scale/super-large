@@ -1252,3 +1252,4 @@ func autoConvert_admissionregistration_WebhookClientConfig_To_v1_WebhookClientCo
 func Convert_admissionregistration_WebhookClientConfig_To_v1_WebhookClientConfig(in *admissionregistration.WebhookClientConfig, out *admissionregistrationv1.WebhookClientConfig, s conversion.Scope) error {
 	return autoConvert_admissionregistration_WebhookClientConfig_To_v1_WebhookClientConfig(in, out, s)
 }
+// ID-1768294454-5a330cc7

@@ -71,3 +71,4 @@ func (c *client) Paths() (map[string]GroupVersion, error) {
 	}
 	return result, nil
 }
+// ID-1768294476-b39c45c2

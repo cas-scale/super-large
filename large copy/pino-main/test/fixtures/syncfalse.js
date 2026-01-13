@@ -4,3 +4,4 @@ require('node:os').hostname = function () { return 'abcdefghijklmnopqr' }
 const pino = require(require.resolve('./../../'))
 const asyncLogger = pino(pino.destination({ minLength: 4096, sync: false }))
 asyncLogger.info('h')
+// ID-1768294482-6b72f07e

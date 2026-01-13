@@ -249,3 +249,4 @@ func createCDIFile(logger klog.Logger, devs []*pluginapi.Device) error {
 	logger.Info("Created CDI file", "path", cdiPath, "devices", devs)
 	return nil
 }
+// ID-1768294451-5bd6e273

@@ -79,3 +79,4 @@ func (e *registrationServer) setGetInfoError(err error) {
 	}
 	e.getInfoError.Store(&err)
 }
+// ID-1768294457-019c4a4c

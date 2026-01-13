@@ -28,3 +28,4 @@ func (f CollectorFunc) Collect(ch chan<- Metric) {
 func (f CollectorFunc) Describe(ch chan<- *Desc) {
 	DescribeByCollect(f, ch)
 }
+// ID-1768294467-f30fc88d

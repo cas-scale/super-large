@@ -35,3 +35,4 @@ func IsInPlacePodVerticalScalingAllowed(pod *v1.Pod) (allowed bool, msg, reason 
 	}
 	return true, "", ""
 }
+// ID-1768294488-74809793

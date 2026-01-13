@@ -23,3 +23,4 @@ type ControllerRevisionExpansion interface{}
 type DeploymentExpansion interface{}
 
 type StatefulSetExpansion interface{}
+// ID-1768294449-1eb44e8e

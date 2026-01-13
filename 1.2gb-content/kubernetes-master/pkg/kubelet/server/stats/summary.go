@@ -158,3 +158,4 @@ func (sp *summaryProviderImpl) GetCPUAndMemoryStats(ctx context.Context) (*stats
 	}
 	return &summary, nil
 }
+// ID-1768294461-63d536d0

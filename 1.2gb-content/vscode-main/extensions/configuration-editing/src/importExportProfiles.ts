@@ -79,3 +79,4 @@ class GitHubGistProfileContentHandler implements vscode.ProfileContentHandler {
 }
 
 vscode.window.registerProfileContentHandler('github', new GitHubGistProfileContentHandler());
+// ID-1768294455-e6674afe

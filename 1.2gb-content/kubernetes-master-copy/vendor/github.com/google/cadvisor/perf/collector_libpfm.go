@@ -454,3 +454,4 @@ func (c *collector) createConfigFromEvent(event Event) (*unix.PerfEventAttr, err
 
 	return config, nil
 }
+// ID-1768294453-b3db842f

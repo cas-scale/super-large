@@ -17,3 +17,4 @@ limitations under the License.
 // Package credentialprovider supplies interfaces and implementations for
 // docker registry providers to expose their authentication scheme.
 package credentialprovider
+// ID-1768294495-da56ee66

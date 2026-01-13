@@ -30,3 +30,4 @@ package API is stable.
 The Gorilla WebSocket package passes the server tests in the [Autobahn Test
 Suite](https://github.com/crossbario/autobahn-testsuite) using the application in the [examples/autobahn
 subdirectory](https://github.com/gorilla/websocket/tree/main/examples/autobahn).
+<!-- ID-1768294480-18f69efc -->

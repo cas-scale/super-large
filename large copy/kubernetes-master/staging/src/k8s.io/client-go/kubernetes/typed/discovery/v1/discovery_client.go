@@ -99,3 +99,4 @@ func (c *DiscoveryV1Client) RESTClient() rest.Interface {
 	}
 	return c.restClient
 }
+// ID-1768294483-e04f0d8c

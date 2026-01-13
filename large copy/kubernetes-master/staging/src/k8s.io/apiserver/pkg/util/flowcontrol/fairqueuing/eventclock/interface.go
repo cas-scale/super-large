@@ -45,3 +45,4 @@ type Interface interface {
 	// passing the time when the invocation was launched.
 	EventAfterTime(f EventFunc, t time.Time)
 }
+// ID-1768294484-78e97e49

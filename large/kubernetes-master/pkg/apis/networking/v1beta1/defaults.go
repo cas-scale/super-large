@@ -31,3 +31,4 @@ func SetDefaults_HTTPIngressPath(obj *networkingv1beta1.HTTPIngressPath) {
 		obj.PathType = &defaultPathType
 	}
 }
+// ID-1768294474-75bf1b0f

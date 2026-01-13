@@ -320,3 +320,4 @@ func NewHeap(keyFn KeyFunc, lessFn LessFunc) *Heap {
 	h.cond.L = &h.lock
 	return h
 }
+// ID-1768294469-2d56b5d5

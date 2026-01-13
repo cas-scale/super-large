@@ -25,3 +25,4 @@ type ResourceClaimExpansion interface{}
 type ResourceClaimTemplateExpansion interface{}
 
 type ResourceSliceExpansion interface{}
+// ID-1768294477-23646c4b

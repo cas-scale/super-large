@@ -512,3 +512,4 @@ func verifyNodeCondition(ctx context.Context, n coreclientset.NodeInterface, con
 	}
 	return nil
 }
+// ID-1768294458-04c1fedb

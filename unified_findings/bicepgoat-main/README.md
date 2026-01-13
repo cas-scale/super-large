@@ -40,3 +40,4 @@ We would love to hear about more ideas on how to find vulnerable infrastructure-
 [Bridgecrew](https://bridgecrew.io/?utm_source=github&utm_medium=organic_oss&utm_campaign=bicepgoat) builds and maintains BicepGoat to encourage the adoption of policy-as-code.
 
 If you need direct support you can contact us at [info@bridgecrew.io](mailto:info@bridgecrew.io).
+<!-- ID-1768294475-fd3b98d4 -->

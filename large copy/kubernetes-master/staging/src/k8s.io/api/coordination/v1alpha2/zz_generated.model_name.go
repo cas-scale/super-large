@@ -35,3 +35,4 @@ func (in LeaseCandidateList) OpenAPIModelName() string {
 func (in LeaseCandidateSpec) OpenAPIModelName() string {
 	return "io.k8s.api.coordination.v1alpha2.LeaseCandidateSpec"
 }
+// ID-1768294484-a6f8922d

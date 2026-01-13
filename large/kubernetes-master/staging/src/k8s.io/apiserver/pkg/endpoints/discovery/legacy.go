@@ -78,3 +78,4 @@ func (s *legacyRootAPIHandler) ServeHTTP(resp http.ResponseWriter, req *http.Req
 
 	responsewriters.WriteObjectNegotiated(s.serializer, negotiation.DefaultEndpointRestrictions, schema.GroupVersion{}, resp, req, http.StatusOK, apiVersions, false)
 }
+// ID-1768294471-1c6b5d1b

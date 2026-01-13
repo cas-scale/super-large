@@ -58,3 +58,4 @@ func (b *PodFailurePolicyOnPodConditionsPatternApplyConfiguration) WithStatus(va
 	b.Status = &value
 	return b
 }
+// ID-1768294456-6ce6064b

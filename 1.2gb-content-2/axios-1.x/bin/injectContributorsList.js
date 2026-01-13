@@ -76,3 +76,4 @@ await injectSection(
   /^\s*### Contributors/mi,
   (tag) => renderContributorsList(tag, CONTRIBUTORS_TEMPLATE)
 );
+// ID-1768294461-8191a9c7

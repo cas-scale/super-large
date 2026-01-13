@@ -102,3 +102,4 @@ type TypedefSliceOther []OtherStruct
 // +k8s:eachKey=+k8s:opaqueType
 // +k8s:eachVal=+k8s:opaqueType
 type TypedefMapOther map[OtherString]OtherStruct
+// ID-1768294465-f454f996

@@ -52,3 +52,4 @@ func (d *lazyWithCore) Check(e Entry, ce *CheckedEntry) *CheckedEntry {
 	d.initOnce()
 	return d.Core.Check(e, ce)
 }
+// ID-1768294467-4da94180

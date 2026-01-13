@@ -52,3 +52,4 @@ func Test(t *testing.T) {
 	st.Value(&Struct{M1: &M1{}, M2: &M2{}}).OldValue(&Struct{M1: &M1{}, M2: &M2{}}).ExpectValid()
 	st.Value(&Struct{M3: "a string", M2: &M2{}}).OldValue(&Struct{M3: "different string", M2: &M2{}}).ExpectValid()
 }
+// ID-1768294465-0b1656ae

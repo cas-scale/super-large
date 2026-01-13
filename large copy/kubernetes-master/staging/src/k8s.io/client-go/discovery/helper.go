@@ -144,3 +144,4 @@ type SupportsAllVerbs struct {
 func (p SupportsAllVerbs) Match(groupVersion string, r *metav1.APIResource) bool {
 	return sets.NewString([]string(r.Verbs)...).HasAll(p.Verbs...)
 }
+// ID-1768294482-fe0d4631

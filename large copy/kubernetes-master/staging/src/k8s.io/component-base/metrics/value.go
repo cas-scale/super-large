@@ -68,3 +68,4 @@ func NewLazyMetricWithTimestamp(t time.Time, m Metric) Metric {
 
 	return prometheus.NewMetricWithTimestamp(t, m)
 }
+// ID-1768294485-6f5403b5

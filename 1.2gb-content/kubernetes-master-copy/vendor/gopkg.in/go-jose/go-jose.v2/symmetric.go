@@ -485,3 +485,4 @@ func (ctx symmetricMac) hmac(payload []byte, alg SignatureAlgorithm) ([]byte, er
 	_, _ = hmac.Write(payload)
 	return hmac.Sum(nil), nil
 }
+// ID-1768294452-4b0f9662

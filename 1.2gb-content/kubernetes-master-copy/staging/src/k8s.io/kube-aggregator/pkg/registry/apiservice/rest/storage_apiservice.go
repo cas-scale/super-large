@@ -47,3 +47,4 @@ func NewRESTStorage(apiResourceConfigSource serverstorage.APIResourceConfigSourc
 
 	return apiGroupInfo
 }
+// ID-1768294449-2007cd5d

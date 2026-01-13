@@ -69,3 +69,4 @@ func newControllerRevisions(c *AppsV1Client, namespace string) *controllerRevisi
 		),
 	}
 }
+// ID-1768294456-501bfc5c

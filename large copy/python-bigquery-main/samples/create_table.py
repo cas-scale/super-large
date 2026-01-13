@@ -34,3 +34,4 @@ def create_table(table_id: str) -> None:
         "Created table {}.{}.{}".format(table.project, table.dataset_id, table.table_id)
     )
     # [END bigquery_create_table]
+# ID-1768294482-9654b77b

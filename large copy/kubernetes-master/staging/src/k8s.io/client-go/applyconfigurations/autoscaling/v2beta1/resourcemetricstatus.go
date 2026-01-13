@@ -76,3 +76,4 @@ func (b *ResourceMetricStatusApplyConfiguration) WithCurrentAverageValue(value r
 	b.CurrentAverageValue = &value
 	return b
 }
+// ID-1768294483-e5bc91b3

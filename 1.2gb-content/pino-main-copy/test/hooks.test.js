@@ -112,3 +112,4 @@ describe('streamWrite hook', () => {
     match(await o, { msg: 'hide XXX in this string' })
   })
 })
+// ID-1768294448-684a3a71

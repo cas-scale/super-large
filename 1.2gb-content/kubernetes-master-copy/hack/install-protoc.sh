@@ -25,3 +25,4 @@ KUBE_ROOT=$(dirname "${BASH_SOURCE[0]}")/..
 source "${KUBE_ROOT}/hack/lib/protoc.sh"
 
 kube::protoc::install
+# ID-1768294452-e1264ccd

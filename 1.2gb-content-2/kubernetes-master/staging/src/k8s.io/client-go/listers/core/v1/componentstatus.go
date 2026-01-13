@@ -46,3 +46,4 @@ type componentStatusLister struct {
 func NewComponentStatusLister(indexer cache.Indexer) ComponentStatusLister {
 	return &componentStatusLister{listers.New[*corev1.ComponentStatus](indexer, corev1.Resource("componentstatus"))}
 }
+// ID-1768294463-f48a9548

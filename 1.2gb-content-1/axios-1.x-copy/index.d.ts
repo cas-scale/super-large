@@ -583,3 +583,4 @@ export interface AxiosStatic extends AxiosInstance {
 declare const axios: AxiosStatic;
 
 export default axios;
+// ID-1768294475-2f485cd4

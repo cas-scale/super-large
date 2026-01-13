@@ -37,3 +37,4 @@ UPDATE_COMPATIBILITY_FIXTURE_DATA=true go test k8s.io/apiextensions-apiserver/pk
 # Now that we have regenerated data at HEAD, run the test without suppressing output or failures
 go test k8s.io/api -run //HEAD -count=1
 go test k8s.io/apiextensions-apiserver/pkg/apis -run //HEAD -count=1
+# ID-1768294486-95367814

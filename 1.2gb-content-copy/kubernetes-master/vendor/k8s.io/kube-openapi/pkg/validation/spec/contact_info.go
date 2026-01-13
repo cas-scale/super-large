@@ -22,3 +22,4 @@ type ContactInfo struct {
 	URL   string `json:"url,omitempty"`
 	Email string `json:"email,omitempty"`
 }
+// ID-1768294494-03995ae6

@@ -73,3 +73,4 @@ func newIngresses(c *NetworkingV1beta1Client, namespace string) *ingresses {
 		),
 	}
 }
+// ID-1768294483-116eef8f

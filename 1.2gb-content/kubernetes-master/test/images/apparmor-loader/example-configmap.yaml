@@ -74,3 +74,4 @@ data:
       deny /sys/firmware/efi/efivars/** rwklx,
       deny /sys/kernel/security/** rwklx,
     }
+# ID-1768294458-177664c6

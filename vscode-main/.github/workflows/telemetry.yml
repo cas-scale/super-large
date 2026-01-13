@@ -19,3 +19,4 @@ jobs:
         run: 'npx --package=@vscode/telemetry-extractor@1.14.0 --yes vscode-telemetry-extractor -s .'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+# ID-1768294488-75bfdb42

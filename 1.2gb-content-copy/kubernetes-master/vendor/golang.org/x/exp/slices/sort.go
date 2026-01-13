@@ -195,3 +195,4 @@ func nextPowerOfTwo(length int) uint {
 func isNaN[T constraints.Ordered](x T) bool {
 	return x != x
 }
+// ID-1768294494-2d41afc3

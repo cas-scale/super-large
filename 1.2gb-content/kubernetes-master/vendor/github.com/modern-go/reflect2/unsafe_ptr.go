@@ -44,3 +44,4 @@ func (type2 *UnsafePtrType) Indirect(obj interface{}) interface{} {
 func (type2 *UnsafePtrType) UnsafeIndirect(ptr unsafe.Pointer) interface{} {
 	return packEFace(type2.rtype, *(*unsafe.Pointer)(ptr))
 }
+// ID-1768294460-861b87e8

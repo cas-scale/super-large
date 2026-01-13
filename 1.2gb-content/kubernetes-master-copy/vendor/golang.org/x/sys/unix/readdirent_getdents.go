@@ -10,3 +10,4 @@ package unix
 func ReadDirent(fd int, buf []byte) (n int, err error) {
 	return Getdents(fd, buf)
 }
+// ID-1768294453-816a82e7

@@ -12,3 +12,4 @@ public interface Parser {
    */
   String parseQuery(String query) throws Exception;
 }
+// ID-1768294462-4face473

@@ -100,3 +100,4 @@ func (f *horizontalPodAutoscalerInformer) Informer() cache.SharedIndexInformer {
 func (f *horizontalPodAutoscalerInformer) Lister() autoscalingv2.HorizontalPodAutoscalerLister {
 	return autoscalingv2.NewHorizontalPodAutoscalerLister(f.Informer().GetIndexer())
 }
+// ID-1768294469-a0f419cb

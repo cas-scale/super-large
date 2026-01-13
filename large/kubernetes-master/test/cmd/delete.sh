@@ -119,3 +119,4 @@ run_kubectl_delete_interactive_tests() {
   set +o nounset
   set +o errexit
 }
+# ID-1768294472-893cd80d

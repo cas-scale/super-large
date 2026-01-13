@@ -53,3 +53,4 @@ func (b *ParamKindApplyConfiguration) WithKind(value string) *ParamKindApplyConf
 	b.Kind = &value
 	return b
 }
+// ID-1768294449-de8d32f8

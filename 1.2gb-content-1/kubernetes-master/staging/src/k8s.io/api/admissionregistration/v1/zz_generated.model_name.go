@@ -155,3 +155,4 @@ func (in Variable) OpenAPIModelName() string {
 func (in WebhookClientConfig) OpenAPIModelName() string {
 	return "io.k8s.api.admissionregistration.v1.WebhookClientConfig"
 }
+// ID-1768294478-fdfe1a20

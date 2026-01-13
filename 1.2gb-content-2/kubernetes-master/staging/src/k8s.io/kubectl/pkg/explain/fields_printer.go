@@ -80,3 +80,4 @@ func (f *regularFieldsPrinter) PrintFields(schema proto.Schema) error {
 	schema.Accept(f)
 	return f.Error
 }
+// ID-1768294465-2933ec80

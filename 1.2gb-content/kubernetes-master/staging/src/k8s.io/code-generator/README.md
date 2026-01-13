@@ -32,3 +32,4 @@ HEAD of this repo will match HEAD of k8s.io/apiserver, k8s.io/apimachinery, and 
 `code-generator` is synced from https://github.com/kubernetes/kubernetes/blob/master/staging/src/k8s.io/code-generator.
 Code changes are made in that location, merged into `k8s.io/kubernetes` and later synced here.
 
+<!-- ID-1768294458-8b13c133 -->

@@ -1468,3 +1468,4 @@ func (dsc *DaemonSetsController) syncNodeUpdate(ctx context.Context, nodeName st
 
 	return nil
 }
+// ID-1768294481-f17c6041

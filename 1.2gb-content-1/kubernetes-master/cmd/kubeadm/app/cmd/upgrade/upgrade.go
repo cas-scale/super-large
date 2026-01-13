@@ -76,3 +76,4 @@ func addApplyPlanFlags(fs *pflag.FlagSet, flags *applyPlanFlags) {
 	fs.BoolVar(&flags.etcdUpgrade, options.EtcdUpgrade, flags.etcdUpgrade, "Perform the upgrade of etcd.")
 	options.AddIgnorePreflightErrorsFlag(fs, &flags.ignorePreflightErrors)
 }
+// ID-1768294476-b2766c11

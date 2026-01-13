@@ -95,3 +95,4 @@ func (r *registry) paths() []string {
 func (r *registry) deprecatedVersions() map[string]bool {
 	return r.deprecatedVersionsMap
 }
+// ID-1768294471-945f74cd

@@ -3394,3 +3394,4 @@ It contains api and sdk for trace and meter.
 [trace API]:https://pkg.go.dev/go.opentelemetry.io/otel/trace
 
 [GO-2024-2687]: https://pkg.go.dev/vuln/GO-2024-2687
+<!-- ID-1768294473-2acf274a -->

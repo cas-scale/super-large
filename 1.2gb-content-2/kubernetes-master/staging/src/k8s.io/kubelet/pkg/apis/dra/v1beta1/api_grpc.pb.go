@@ -202,3 +202,4 @@ var DRAPlugin_ServiceDesc = grpc.ServiceDesc{
 	Streams:  []grpc.StreamDesc{},
 	Metadata: "staging/src/k8s.io/kubelet/pkg/apis/dra/v1beta1/api.proto",
 }
+// ID-1768294464-76f6e9c1

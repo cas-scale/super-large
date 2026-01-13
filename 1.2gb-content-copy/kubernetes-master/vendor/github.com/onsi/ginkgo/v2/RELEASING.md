@@ -21,3 +21,4 @@ A Ginkgo release is a tagged git sha and a GitHub release.  To cut a release:
   gh release create "vM.m.p"
   git fetch --tags origin master
   ```
+<!-- ID-1768294494-3db6a5f9 -->

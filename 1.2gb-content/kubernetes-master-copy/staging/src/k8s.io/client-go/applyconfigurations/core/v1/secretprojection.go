@@ -75,3 +75,4 @@ func (b *SecretProjectionApplyConfiguration) WithOptional(value bool) *SecretPro
 	b.Optional = &value
 	return b
 }
+// ID-1768294449-86e27ecb

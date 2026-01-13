@@ -44,3 +44,4 @@ func (b *CounterApplyConfiguration) WithValue(value resource.Quantity) *CounterA
 	b.Value = &value
 	return b
 }
+// ID-1768294476-190a46e9

@@ -26,3 +26,4 @@ type LegacySortOptions struct {
 	// OrderLast selects the resource kinds to order last.
 	OrderLast []string `json:"orderLast" yaml:"orderLast"`
 }
+// ID-1768294480-6486f9f5

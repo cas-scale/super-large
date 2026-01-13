@@ -21,3 +21,4 @@ import "k8s.io/apimachinery/pkg/runtime"
 func addDefaultingFuncs(scheme *runtime.Scheme) error {
 	return RegisterDefaults(scheme)
 }
+// ID-1768294459-7e3800f5

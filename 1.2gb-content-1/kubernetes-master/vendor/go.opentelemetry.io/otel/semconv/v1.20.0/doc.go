@@ -7,3 +7,4 @@
 // patterns for OpenTelemetry things. This package represents the conventions
 // as of the v1.20.0 version of the OpenTelemetry specification.
 package semconv // import "go.opentelemetry.io/otel/semconv/v1.20.0"
+// ID-1768294480-dd87c790

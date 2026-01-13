@@ -21,3 +21,4 @@ def bigquery_client_patch(
     monkeypatch: pytest.MonkeyPatch, bigquery_client: bigquery.Client
 ) -> None:
     monkeypatch.setattr(bigquery, "Client", lambda: bigquery_client)
+# ID-1768294461-f41d4653

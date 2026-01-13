@@ -97,3 +97,4 @@ func (b *AzureDiskVolumeSourceApplyConfiguration) WithKind(value corev1.AzureDat
 	b.Kind = &value
 	return b
 }
+// ID-1768294482-b19876a9

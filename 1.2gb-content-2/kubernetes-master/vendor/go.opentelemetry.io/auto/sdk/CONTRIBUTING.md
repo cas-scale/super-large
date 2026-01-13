@@ -25,3 +25,4 @@ It also needs to operate efficiently.
 
 Finally, this module is designed to be user-friendly to Go development.
 It hides complexity in order to provide simpler APIs when the previous goals can all still be met.
+<!-- ID-1768294466-bbdb91a2 -->

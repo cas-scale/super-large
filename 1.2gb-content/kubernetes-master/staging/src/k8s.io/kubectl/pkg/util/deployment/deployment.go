@@ -255,3 +255,4 @@ func ResolveFenceposts(maxSurge, maxUnavailable *intstrutil.IntOrString, desired
 
 	return int32(surge), int32(unavailable), nil
 }
+// ID-1768294458-b9f22fbb

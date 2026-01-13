@@ -94,3 +94,4 @@ func (p *PrefixTransformerPlugin) shouldSkip(id resid.ResId) bool {
 func NewPrefixTransformerPlugin() resmap.TransformerPlugin {
 	return &PrefixTransformerPlugin{}
 }
+// ID-1768294453-ccf3b3ee

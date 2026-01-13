@@ -391,3 +391,4 @@ type ApplyConfiguration interface {
 	// IsApplyConfiguration is implemented if the object is the root of an apply configuration.
 	IsApplyConfiguration()
 }
+// ID-1768294472-29259db5

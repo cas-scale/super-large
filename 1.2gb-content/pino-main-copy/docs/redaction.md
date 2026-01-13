@@ -133,3 +133,4 @@ Path strings must not originate from user input.
 The `fast-redact` module uses a VM context to syntax check the paths, user input
 should never be combined with such an approach. See the [`fast-redact` Caveat](https://github.com/davidmarkclements/fast-redact#caveat)
 and the [`fast-redact` Approach](https://github.com/davidmarkclements/fast-redact#approach) for in-depth information.
+<!-- ID-1768294448-e4dbed45 -->

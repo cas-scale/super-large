@@ -170,3 +170,4 @@ type InitializationValidator interface {
 type ConfigProvider interface {
 	ConfigFor(pluginName string) (io.Reader, error)
 }
+// ID-1768294471-6a654704

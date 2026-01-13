@@ -74,3 +74,4 @@ func (h *mac) Sum(out *[TagSize]byte) {
 	}
 	finalize(out, &state.h, &state.s)
 }
+// ID-1768294467-172d40b9

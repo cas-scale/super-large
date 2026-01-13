@@ -50,3 +50,4 @@ def revoke_dataset_access(dataset_id: str, entity_id: str) -> None:
     full_dataset_id = f"{dataset.project}.{dataset.dataset_id}"
     print(f"Revoked dataset access for '{entity_id}' to ' dataset '{full_dataset_id}.'")
     # [END bigquery_revoke_dataset_access]
+# ID-1768294469-90ee1f95

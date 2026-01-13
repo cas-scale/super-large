@@ -272,3 +272,4 @@ func convert_v1beta1_Capacity_To_v1_Capacity(in map[resourcev1beta1.QualifiedNam
 	}
 	return nil
 }
+// ID-1768294464-d0a0cac8

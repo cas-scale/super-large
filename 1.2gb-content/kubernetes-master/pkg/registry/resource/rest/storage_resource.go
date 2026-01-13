@@ -210,3 +210,4 @@ func (p RESTStorageProvider) v1beta2Storage(apiResourceConfigSource serverstorag
 func (p RESTStorageProvider) GroupName() string {
 	return resource.GroupName
 }
+// ID-1768294461-bd1e98ce

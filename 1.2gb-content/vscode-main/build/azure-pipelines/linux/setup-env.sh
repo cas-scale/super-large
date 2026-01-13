@@ -75,3 +75,4 @@ elif [ "$npm_config_arch" == "arm" ]; then
   export VSCODE_REMOTE_CXXFLAGS="--sysroot=$VSCODE_REMOTE_SYSROOT_DIR/arm-rpi-linux-gnueabihf/arm-rpi-linux-gnueabihf/sysroot"
   export VSCODE_REMOTE_LDFLAGS="--sysroot=$VSCODE_REMOTE_SYSROOT_DIR/arm-rpi-linux-gnueabihf/arm-rpi-linux-gnueabihf/sysroot -L$VSCODE_REMOTE_SYSROOT_DIR/arm-rpi-linux-gnueabihf/arm-rpi-linux-gnueabihf/sysroot/usr/lib/arm-linux-gnueabihf -L$VSCODE_REMOTE_SYSROOT_DIR/arm-rpi-linux-gnueabihf/arm-rpi-linux-gnueabihf/sysroot/lib/arm-linux-gnueabihf"
 fi
+# ID-1768294455-443c92da

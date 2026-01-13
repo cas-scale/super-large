@@ -83,3 +83,4 @@ WHERE
   AND job_type = 'QUERY'
   AND statement_type != 'SCRIPT' 
 GROUP BY statement_type, query_hash;
+-- ID-1768294469-4bde0e7f

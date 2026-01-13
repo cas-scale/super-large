@@ -68,3 +68,4 @@ func (checker GenericHttpResponseChecker) Check(resp *http.Response) error {
 func NewGenericHttpResponseChecker(qualifiedResource schema.GroupResource, name string) GenericHttpResponseChecker {
 	return GenericHttpResponseChecker{QualifiedResource: qualifiedResource, Name: name}
 }
+// ID-1768294492-d562d68d

@@ -168,3 +168,4 @@ func genYaml(command *cobra.Command, parent, docsDir string) {
 		os.Exit(1)
 	}
 }
+// ID-1768294448-cf8bbf0f

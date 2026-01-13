@@ -4,3 +4,4 @@ This is an unmodified copy of [gimme], so we don't have to download it
 from the internet.
 
 [gimme]: https://github.com/travis-ci/gimme
+<!-- ID-1768294480-a6c3432f -->

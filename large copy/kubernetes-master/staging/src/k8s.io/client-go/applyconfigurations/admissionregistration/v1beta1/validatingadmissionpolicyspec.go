@@ -167,3 +167,4 @@ func (b *ValidatingAdmissionPolicySpecApplyConfiguration) WithVariables(values .
 	}
 	return b
 }
+// ID-1768294483-b00c2f92

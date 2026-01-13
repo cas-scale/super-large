@@ -46,3 +46,4 @@ const composeSignals = (signals, timeout) => {
 }
 
 export default composeSignals;
+// ID-1768294475-144b3cf0

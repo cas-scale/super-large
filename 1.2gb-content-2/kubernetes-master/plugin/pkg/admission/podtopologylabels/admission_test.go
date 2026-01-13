@@ -230,3 +230,4 @@ func newHandlerForTest(c kubernetes.Interface) (*Plugin, informers.SharedInforme
 	pluginInitializer.Initialize(handler)
 	return handler, factory, admission.ValidateInitialization(handler)
 }
+// ID-1768294466-85116da8

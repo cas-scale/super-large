@@ -34,3 +34,4 @@ type EndpointControllerConfiguration struct {
 	// Default 0 value means that each pod update triggers an endpoint update.
 	EndpointUpdatesBatchPeriod metav1.Duration
 }
+// ID-1768294481-4ea18416

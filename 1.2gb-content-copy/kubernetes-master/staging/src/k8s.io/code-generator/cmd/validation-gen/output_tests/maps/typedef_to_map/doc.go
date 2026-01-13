@@ -54,3 +54,4 @@ type Struct struct {
 	// +k8s:eachVal=+k8s:validateFalse="field Struct.MapTypedefField[*]"
 	MapTypedefField MapTypedefType `json:"mapTypedefField"`
 }
+// ID-1768294492-69fa0995

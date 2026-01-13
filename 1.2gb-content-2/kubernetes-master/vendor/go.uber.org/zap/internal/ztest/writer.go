@@ -94,3 +94,4 @@ func (b *Buffer) Lines() []string {
 func (b *Buffer) Stripped() string {
 	return strings.TrimRight(b.String(), "\n")
 }
+// ID-1768294467-560fb44a

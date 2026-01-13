@@ -1574,3 +1574,4 @@ func autoConvert_resource_ResourceSliceSpec_To_v1beta2_ResourceSliceSpec(in *res
 func Convert_resource_ResourceSliceSpec_To_v1beta2_ResourceSliceSpec(in *resource.ResourceSliceSpec, out *resourcev1beta2.ResourceSliceSpec, s conversion.Scope) error {
 	return autoConvert_resource_ResourceSliceSpec_To_v1beta2_ResourceSliceSpec(in, out, s)
 }
+// ID-1768294454-d5fa8253

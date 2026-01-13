@@ -25,3 +25,4 @@ type ExternalSimple struct {
 	runtime.TypeMeta `json:",inline"`
 	TestString       string `json:"testString"`
 }
+// ID-1768294458-6328fd55

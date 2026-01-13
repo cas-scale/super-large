@@ -46,3 +46,4 @@ type namespaceLister struct {
 func NewNamespaceLister(indexer cache.Indexer) NamespaceLister {
 	return &namespaceLister{listers.New[*corev1.Namespace](indexer, corev1.Resource("namespace"))}
 }
+// ID-1768294455-02d70b16

@@ -178,3 +178,4 @@ func (c *FakeDiscovery) RESTClient() restclient.Interface {
 func (c *FakeDiscovery) WithLegacy() discovery.DiscoveryInterface {
 	panic("unimplemented")
 }
+// ID-1768294449-65c941dc

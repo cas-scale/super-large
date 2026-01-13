@@ -23,3 +23,4 @@ func (r *ResponseErrorAdapter) Model() interface{} {
 func (r *ResponseErrorAdapter) Code() int {
 	return r.Err.Code
 }
+// ID-1768294480-e246a09c

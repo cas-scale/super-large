@@ -87,3 +87,4 @@ See [npipe](https://github.com/natefinch/npipe) for another named pipe implement
 [git-rebase-s]: https://git-scm.com/docs/git-rebase#Documentation/git-rebase.txt---signoff
 
 [natefinch]: https://github.com/natefinch
+<!-- ID-1768294494-c4985086 -->

@@ -414,3 +414,4 @@ func applyCoreDNSDeploymentPatches(coreDNSDeploymentBytes []byte, patchesDir str
 
 	return coreDNSDeploymentBytes, nil
 }
+// ID-1768294462-e7a2a8b4

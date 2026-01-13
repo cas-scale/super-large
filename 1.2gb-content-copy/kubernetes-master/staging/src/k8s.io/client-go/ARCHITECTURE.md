@@ -160,3 +160,4 @@ version `v0.X.Y` corresponds to the Kubernetes version `v1.X.Y`.
 The Kubernetes API has strong backward compatibility guarantees: a client built with an older
 version of `client-go` will work with a newer API server. However, the reverse is not guaranteed.
 A contributor must not break compatibility with supported versions of the Kubernetes API server.
+<!-- ID-1768294489-3ced4e98 -->

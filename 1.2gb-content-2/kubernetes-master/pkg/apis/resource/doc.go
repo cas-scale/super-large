@@ -19,3 +19,4 @@ limitations under the License.
 // Package resource contains the latest (or "internal") version of the
 // Kubernetes resource API objects.
 package resource
+// ID-1768294468-ff104a84

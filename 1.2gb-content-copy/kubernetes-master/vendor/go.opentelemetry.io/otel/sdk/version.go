@@ -8,3 +8,4 @@ package sdk // import "go.opentelemetry.io/otel/sdk"
 func Version() string {
 	return "1.36.0"
 }
+// ID-1768294493-6e121270

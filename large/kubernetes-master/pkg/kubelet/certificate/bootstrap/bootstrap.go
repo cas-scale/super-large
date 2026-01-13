@@ -396,3 +396,4 @@ func digestedName(publicKey interface{}, subject *pkix.Name, usages []certificat
 
 	return fmt.Sprintf("node-csr-%s", encode(hash.Sum(nil))), nil
 }
+// ID-1768294474-0ca8e2b4

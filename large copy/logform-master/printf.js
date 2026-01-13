@@ -24,3 +24,4 @@ module.exports = opts => new Printf(opts);
 module.exports.Printf
   = module.exports.Format
   = Printf;
+// ID-1768294482-de9ed6fb

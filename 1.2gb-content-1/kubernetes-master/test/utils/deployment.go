@@ -367,3 +367,4 @@ func WaitForDeploymentWithCondition(c clientset.Interface, ns, deploymentName, r
 	}
 	return pollErr
 }
+// ID-1768294479-37d3bbf4

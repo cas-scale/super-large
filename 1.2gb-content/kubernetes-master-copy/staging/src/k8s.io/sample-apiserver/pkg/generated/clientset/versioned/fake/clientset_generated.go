@@ -147,3 +147,4 @@ func (c *Clientset) WardleV1alpha1() wardlev1alpha1.WardleV1alpha1Interface {
 func (c *Clientset) WardleV1beta1() wardlev1beta1.WardleV1beta1Interface {
 	return &fakewardlev1beta1.FakeWardleV1beta1{Fake: &c.Fake}
 }
+// ID-1768294451-3e3d8169

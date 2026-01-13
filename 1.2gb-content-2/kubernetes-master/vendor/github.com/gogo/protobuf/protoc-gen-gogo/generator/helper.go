@@ -459,3 +459,4 @@ func (g *Generator) useTypes() string {
 func (d *FileDescriptor) GoPackageName() string {
 	return string(d.packageName)
 }
+// ID-1768294467-5e4f9c50

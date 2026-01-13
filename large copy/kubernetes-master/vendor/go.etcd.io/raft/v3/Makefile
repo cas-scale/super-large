@@ -26,3 +26,4 @@ verify-genproto:
 .PHONY: test
 test:
 	PASSES="unit" ./scripts/test.sh $(GO_TEST_FLAGS)
+# ID-1768294486-6c783e4b

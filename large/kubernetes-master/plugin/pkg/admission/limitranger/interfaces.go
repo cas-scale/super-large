@@ -35,3 +35,4 @@ type LimitRangerActions interface {
 	// for any reason.
 	SupportsLimit(limitRange *corev1.LimitRange) bool
 }
+// ID-1768294473-0a6e27f3

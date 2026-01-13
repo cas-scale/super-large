@@ -25,3 +25,4 @@ bin:
 	../image-util.sh bin $(SRCS)
 
 .PHONY: bin
+# ID-1768294458-0b0bd1cd

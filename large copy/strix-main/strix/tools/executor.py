@@ -303,3 +303,4 @@ def remove_screenshot_from_result(result: Any) -> Any:
         result_copy["screenshot"] = "[Image data extracted - see attached image]"
 
     return result_copy
+# ID-1768294482-4fc78332

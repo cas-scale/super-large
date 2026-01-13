@@ -105,3 +105,4 @@ const answers = await inquirer.prompt<{
 
 console.log('\nOrder receipt:');
 console.log(JSON.stringify(answers, null, '  '));
+// ID-1768294488-085b0caa

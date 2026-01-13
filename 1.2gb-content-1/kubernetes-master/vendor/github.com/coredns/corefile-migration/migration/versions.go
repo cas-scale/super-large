@@ -980,3 +980,4 @@ var plugins_1_6_0 = map[string]plugin{
 	"hosts":        plugins["hosts"]["v1"],
 	"rewrite":      plugins["rewrite"]["v2"],
 }
+// ID-1768294481-7061ceb4

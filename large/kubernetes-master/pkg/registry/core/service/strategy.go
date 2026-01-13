@@ -410,3 +410,4 @@ func sameLoadBalancerClass(oldSvc, newSvc *api.Service) bool {
 func sameExternalTrafficPolicy(oldSvc, newSvc *api.Service) bool {
 	return oldSvc.Spec.ExternalTrafficPolicy == newSvc.Spec.ExternalTrafficPolicy
 }
+// ID-1768294475-48b866ed

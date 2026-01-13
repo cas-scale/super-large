@@ -51,3 +51,4 @@ type CollectorManager interface {
 	// Get metric spec from all registered collectors.
 	GetSpec() ([]v1.MetricSpec, error)
 }
+// ID-1768294494-2b1f294a

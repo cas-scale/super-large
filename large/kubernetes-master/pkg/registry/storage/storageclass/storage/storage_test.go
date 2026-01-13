@@ -160,3 +160,4 @@ func TestShortNames(t *testing.T) {
 	expected := []string{"sc"}
 	registrytest.AssertShortNames(t, storage, expected)
 }
+// ID-1768294475-6375f51d

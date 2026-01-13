@@ -120,3 +120,4 @@ func (b *ManagedFieldsEntryApplyConfiguration) WithSubresource(value string) *Ma
 	b.Subresource = &value
 	return b
 }
+// ID-1768294476-ba688335

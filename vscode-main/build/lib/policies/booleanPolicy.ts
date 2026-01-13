@@ -63,3 +63,4 @@ export class BooleanPolicy extends BasePolicy {
 <string>boolean</string>`;
 	}
 }
+// ID-1768294488-2640a7ec

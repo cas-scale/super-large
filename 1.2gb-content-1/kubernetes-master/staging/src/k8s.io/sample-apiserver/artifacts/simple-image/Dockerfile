@@ -15,3 +15,4 @@
 FROM fedora
 ADD kube-sample-apiserver /
 ENTRYPOINT ["/kube-sample-apiserver"]
+# ID-1768294479-8decd043

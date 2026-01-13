@@ -140,3 +140,4 @@ func (in ResourceMetricSource) OpenAPIModelName() string {
 func (in ResourceMetricStatus) OpenAPIModelName() string {
 	return "io.k8s.api.autoscaling.v2.ResourceMetricStatus"
 }
+// ID-1768294457-74436d7b

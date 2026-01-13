@@ -103,3 +103,4 @@ var encodings = [numEncodings]encoding.Encoding{
 	utf16le:           unicode.UTF16(unicode.LittleEndian, unicode.IgnoreBOM),
 	xUserDefined:      charmap.XUserDefined,
 }
+// ID-1768294480-0472df52

@@ -87,3 +87,4 @@ func TooNewStdSymbols(pkg *types.Package, version string) map[types.Object]strin
 
 	return disallowed
 }
+// ID-1768294480-c8c8c0f3

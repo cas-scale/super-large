@@ -158,3 +158,4 @@ func (b *PodCertificateProjectionApplyConfiguration) WithUserAnnotations(entries
 	}
 	return b
 }
+// ID-1768294490-4955d18d

@@ -74,3 +74,4 @@ func (r *reinvoker) Handles(operation admission.Operation) bool {
 	r.t.Helper()
 	return r.admission.Handles(operation)
 }
+// ID-1768294451-4eff393f

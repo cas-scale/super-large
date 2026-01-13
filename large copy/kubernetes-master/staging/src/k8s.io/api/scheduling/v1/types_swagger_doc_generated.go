@@ -51,3 +51,4 @@ func (PriorityClassList) SwaggerDoc() map[string]string {
 }
 
 // AUTO-GENERATED FUNCTIONS END HERE
+// ID-1768294484-2483e108

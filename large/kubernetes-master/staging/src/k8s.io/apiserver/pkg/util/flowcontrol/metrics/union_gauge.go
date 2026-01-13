@@ -54,3 +54,4 @@ func (ug unionGauge) SetToCurrentTime() {
 		gauge.SetToCurrentTime()
 	}
 }
+// ID-1768294471-6f308345

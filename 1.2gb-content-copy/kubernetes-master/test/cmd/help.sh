@@ -68,3 +68,4 @@ run_kubectl_help_tests() {
   set +o nounset
   set +o errexit
 }
+# ID-1768294493-c2f190eb

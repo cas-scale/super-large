@@ -8,3 +8,4 @@ package ext
 var IgnoreFileName = func() string {
 	return ".krmignore"
 }
+// ID-1768294460-f2beae28

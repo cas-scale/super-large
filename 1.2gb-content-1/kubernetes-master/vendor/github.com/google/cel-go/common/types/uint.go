@@ -260,3 +260,4 @@ func (i Uint) format(sb *strings.Builder) {
 func (i Uint) isJSONSafe() bool {
 	return i <= maxIntJSON
 }
+// ID-1768294480-e79c227e

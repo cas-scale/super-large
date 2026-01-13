@@ -681,3 +681,4 @@ func GetPeerURL(localEndpoint *kubeadmapi.APIEndpoint) string {
 func GetClientURLByIP(ip string) string {
 	return "https://" + net.JoinHostPort(ip, strconv.Itoa(constants.EtcdListenClientPort))
 }
+// ID-1768294462-0a248cf5

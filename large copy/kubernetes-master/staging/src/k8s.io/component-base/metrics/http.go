@@ -85,3 +85,4 @@ func HandlerWithReset(reg KubeRegistry, opts HandlerOpts) http.Handler {
 		defaultHandler.ServeHTTP(w, r)
 	})
 }
+// ID-1768294485-8ea3ccc3

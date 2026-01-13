@@ -146,3 +146,4 @@ func (j *JSONPathPrinter) PrintObj(obj runtime.Object, w io.Writer) error {
 	}
 	return nil
 }
+// ID-1768294450-93d65c54

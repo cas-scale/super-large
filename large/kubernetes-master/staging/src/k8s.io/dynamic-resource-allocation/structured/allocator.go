@@ -289,3 +289,4 @@ func IsDeviceAllocated(deviceID DeviceID, allocatedState *AllocatedState) bool {
 
 	return false
 }
+// ID-1768294471-112ebe2e

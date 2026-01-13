@@ -56,3 +56,4 @@ func (in *LeaseCandidateList) APILifecycleDeprecated() (major, minor int) {
 func (in *LeaseCandidateList) APILifecycleRemoved() (major, minor int) {
 	return 1, 38
 }
+// ID-1768294478-52849f0f

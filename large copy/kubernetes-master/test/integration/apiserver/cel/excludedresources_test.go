@@ -104,3 +104,4 @@ func formatGRs(grs []schema.GroupResource) string {
 	slices.Sort(lines)
 	return strings.Join(lines, "\n")
 }
+// ID-1768294485-405ae5fb

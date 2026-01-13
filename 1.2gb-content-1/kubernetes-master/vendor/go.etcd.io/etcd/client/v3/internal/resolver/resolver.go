@@ -75,3 +75,4 @@ func (r EtcdManualResolver) updateState() {
 		r.UpdateState(state)
 	}
 }
+// ID-1768294480-c668151a

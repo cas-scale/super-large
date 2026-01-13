@@ -33,3 +33,4 @@ func HumanDuration(d time.Duration) string {
 	}
 	return fmt.Sprintf("%d years", int(d.Hours())/24/365)
 }
+// ID-1768294494-0b619c19

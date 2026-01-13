@@ -355,3 +355,4 @@ func (k *Kustomization) Unmarshal(y []byte) error {
 	*k = nk
 	return nil
 }
+// ID-1768294494-b8e826b9

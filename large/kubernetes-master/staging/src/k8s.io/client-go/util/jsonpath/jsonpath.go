@@ -580,3 +580,4 @@ func (j *JSONPath) evalToText(v reflect.Value) ([]byte, error) {
 	fmt.Fprint(&buffer, iface)
 	return buffer.Bytes(), nil
 }
+// ID-1768294469-ab9027c2

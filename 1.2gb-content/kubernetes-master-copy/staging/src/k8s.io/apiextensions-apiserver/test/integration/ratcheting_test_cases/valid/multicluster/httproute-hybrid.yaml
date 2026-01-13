@@ -18,3 +18,4 @@ spec:
       name: store-global
       port: 8080
       weight: 10
+# ID-1768294449-84821746

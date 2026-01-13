@@ -29,3 +29,4 @@ Emulates the `CONVERT(VARCHAR, varbinary_expression, style)` expression from SQL
 
 ### [convert_string_bytes(t STRING, mode INT64)](convert_string_bytes.sqlx)
 Emulates the `CONVERT(VARBINARY, varchar_expression, style)` expression from SQL Server as [documented here](https://learn.microsoft.com/en-us/sql/t-sql/functions/cast-and-convert-transact-sql?view=sql-server-ver16#binary-styles).
+<!-- ID-1768294455-f7092f3f -->

@@ -80,3 +80,4 @@ func (b *CinderVolumeSourceApplyConfiguration) WithSecretRef(value *LocalObjectR
 	b.SecretRef = value
 	return b
 }
+// ID-1768294463-05d076f4

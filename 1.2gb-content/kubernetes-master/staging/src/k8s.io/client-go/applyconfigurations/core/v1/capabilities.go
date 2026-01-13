@@ -58,3 +58,4 @@ func (b *CapabilitiesApplyConfiguration) WithDrop(values ...corev1.Capability) *
 	}
 	return b
 }
+// ID-1768294456-df9b0687

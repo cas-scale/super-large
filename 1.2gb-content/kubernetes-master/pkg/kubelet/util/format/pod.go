@@ -39,3 +39,4 @@ func PodDesc(podName, podNamespace string, podUID types.UID) string {
 	// (DNS subdomain format), while allowed in the container name format.
 	return fmt.Sprintf("%s_%s(%s)", podName, podNamespace, podUID)
 }
+// ID-1768294461-d9e1a99f

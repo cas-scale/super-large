@@ -610,3 +610,4 @@ func defaultLogBatchConfig() pluginbuffered.BatchConfig {
 		AsyncDelegate: false,
 	}
 }
+// ID-1768294471-0f82b46b

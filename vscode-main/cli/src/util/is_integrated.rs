@@ -28,3 +28,4 @@ pub fn is_integrated_cli() -> io::Result<bool> {
 
 	Ok(parent.join(expected_file).exists())
 }
+// ID-1768294488-cbdecf0b

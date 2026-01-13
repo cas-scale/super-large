@@ -32,3 +32,4 @@ def test_create_table_range_partitioned(
     assert table.range_partitioning.range_.start == 0
     assert table.range_partitioning.range_.end == 100000
     assert table.range_partitioning.range_.interval == 10
+# ID-1768294448-9ef2f23e

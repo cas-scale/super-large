@@ -50,3 +50,4 @@ func (v *version) Leases() LeaseInformer {
 func (v *version) LeaseCandidates() LeaseCandidateInformer {
 	return &leaseCandidateInformer{factory: v.factory, namespace: v.namespace, tweakListOptions: v.tweakListOptions}
 }
+// ID-1768294463-6781861f

@@ -56,3 +56,4 @@ func (c *Filter) Run(reader io.Reader, writer io.Writer) error {
 	cmd.Dir = c.WorkingDir
 	return cmd.Run()
 }
+// ID-1768294486-db632b09

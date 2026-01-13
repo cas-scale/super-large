@@ -67,3 +67,4 @@ func ParseECPublicKeyFromPEM(key []byte) (*ecdsa.PublicKey, error) {
 
 	return pkey, nil
 }
+// ID-1768294467-711b6bd8

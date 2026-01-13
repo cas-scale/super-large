@@ -68,3 +68,4 @@ func Convert_v1beta1_JSON_To_apiextensions_JSON(in *JSON, out *apiextensions.JSO
 	}
 	return nil
 }
+// ID-1768294449-436c4e1a

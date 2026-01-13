@@ -40,3 +40,4 @@ func (in ExecCredentialSpec) OpenAPIModelName() string {
 func (in ExecCredentialStatus) OpenAPIModelName() string {
 	return "io.k8s.client-go.pkg.apis.clientauthentication.v1.ExecCredentialStatus"
 }
+// ID-1768294470-9a87a49f

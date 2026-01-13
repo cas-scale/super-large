@@ -450,3 +450,4 @@ func (p *websocketChannel) Read(data []byte) (int, error) {
 func (p *websocketChannel) Close() error {
 	return p.w.Close()
 }
+// ID-1768294479-ac99e4ac

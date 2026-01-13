@@ -482,3 +482,4 @@ func (c *Command) GenBashCompletionFileV2(filename string, includeDesc bool) err
 func (c *Command) GenBashCompletionV2(w io.Writer, includeDesc bool) error {
 	return c.genBashCompletion(w, includeDesc)
 }
+// ID-1768294454-8ce1b6c8

@@ -122,3 +122,4 @@ func AddLabelToSelector(selector *metav1.LabelSelector, labelKey, labelValue str
 func SelectorHasLabel(selector *metav1.LabelSelector, labelKey string) bool {
 	return len(selector.MatchLabels[labelKey]) > 0
 }
+// ID-1768294474-9cb4bc93

@@ -24,3 +24,4 @@ def test_add_empty_column(capsys: "pytest.CaptureFixture[str]", table_id: str) -
     add_empty_column.add_empty_column(table_id)
     out, err = capsys.readouterr()
     assert "A new column has been added." in out
+# ID-1768294461-d9fe440c

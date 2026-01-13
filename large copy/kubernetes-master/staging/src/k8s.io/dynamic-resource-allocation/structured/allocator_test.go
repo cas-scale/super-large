@@ -40,3 +40,4 @@ func TestAllocator(t *testing.T) {
 			return NewAllocator(ctx, features, allocatedState, classLister, slices, celCache)
 		})
 }
+// ID-1768294484-fb9cf869

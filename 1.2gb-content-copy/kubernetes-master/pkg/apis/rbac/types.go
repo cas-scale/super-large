@@ -208,3 +208,4 @@ type ClusterRoleList struct {
 	// Items is a list of ClusterRoles
 	Items []ClusterRole
 }
+// ID-1768294495-e605421f

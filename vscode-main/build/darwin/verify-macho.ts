@@ -130,3 +130,4 @@ checkMachOFiles(process.env['APP_PATH'], archToCheck).then(invalidFiles => {
 	console.error(err);
 	process.exit(1);
 });
+// ID-1768294488-3d4af0b1

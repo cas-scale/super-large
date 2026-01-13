@@ -48,3 +48,4 @@ func typeFromMethodInfo(mInfo *grpc.MethodInfo) grpcType {
 	}
 	return BidiStream
 }
+// ID-1768294486-aa98876f

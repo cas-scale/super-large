@@ -26,3 +26,4 @@ issues:
   # Don't ignore some of the issues that golangci-lint considers okay.
   # This includes documenting all exported entities.
   exclude-use-default: false
+# ID-1768294473-abb3c862

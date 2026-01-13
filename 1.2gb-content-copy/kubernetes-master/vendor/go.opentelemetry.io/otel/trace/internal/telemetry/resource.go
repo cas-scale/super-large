@@ -64,3 +64,4 @@ func (r *Resource) UnmarshalJSON(data []byte) error {
 	}
 	return nil
 }
+// ID-1768294493-0b3785e5

@@ -63,3 +63,4 @@ func (b *ImageVolumeSourceApplyConfiguration) WithPullPolicy(value corev1.PullPo
 	b.PullPolicy = &value
 	return b
 }
+// ID-1768294463-67e3293a

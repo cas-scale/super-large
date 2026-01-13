@@ -340,3 +340,4 @@ func (scd *signalChannelData) close() {
 	close(scd.done)
 	scd.wg.Wait() // wait until all spawned goroutines return
 }
+// ID-1768294474-89925714

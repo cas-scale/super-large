@@ -81,3 +81,4 @@ cluster is v1.6 or above in `kubectl version`:
     panic: the server could not find the requested resource
 
 [1]: https://kubernetes.io/docs/user-guide/deployments/
+<!-- ID-1768294469-c474f1d3 -->

@@ -7,3 +7,4 @@ package winterm
 func addInRange(n int16, increment int16, min int16, max int16) int16 {
 	return ensureInRange(n+increment, min, max)
 }
+// ID-1768294494-08f1c38c

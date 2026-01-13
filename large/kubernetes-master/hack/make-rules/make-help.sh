@@ -48,3 +48,4 @@ for tar in ${ALL_TARGETS}; do
 	make -C "${KUBE_ROOT}" "${tar}" PRINT_HELP=y
 	echo "---------------------------------------------------------------------------------"
 done
+# ID-1768294473-d3b1b68f

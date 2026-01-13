@@ -155,3 +155,4 @@ func (s *FreezerGroup) GetState(path string) (cgroups.FreezerState, error) {
 		}
 	}
 }
+// ID-1768294460-50b769c2

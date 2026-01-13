@@ -64,3 +64,4 @@ func Split(imageName string) (name string, tag string, digest string) {
 	tag = strings.TrimPrefix(imageName[ic:], ":")
 	return name, tag, ""
 }
+// ID-1768294460-2b5c464e

@@ -36,3 +36,4 @@ func NewPluginInitializer() *PluginInitializer {
 // Initialize checks the initialization interfaces implemented by each plugin
 // and provide the appropriate initialization data
 func (i *PluginInitializer) Initialize(plugin admission.Interface) {}
+// ID-1768294495-908f75a4

@@ -67,3 +67,4 @@ func PodExtendedStatusEqual(statusA, statusB *corev1.PodExtendedResourceClaimSta
 	// cases this code here has to check.
 	return slices.Equal(statusA.RequestMappings, statusB.RequestMappings)
 }
+// ID-1768294457-11bf464e

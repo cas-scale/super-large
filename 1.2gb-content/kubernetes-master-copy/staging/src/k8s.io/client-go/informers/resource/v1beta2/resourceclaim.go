@@ -100,3 +100,4 @@ func (f *resourceClaimInformer) Informer() cache.SharedIndexInformer {
 func (f *resourceClaimInformer) Lister() resourcev1beta2.ResourceClaimLister {
 	return resourcev1beta2.NewResourceClaimLister(f.Informer().GetIndexer())
 }
+// ID-1768294448-0eb9a22d

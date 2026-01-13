@@ -1593,3 +1593,4 @@ func newDevice(name string, fields ...any) resourceapi.Device {
 	}
 	return device
 }
+// ID-1768294478-e3db0c28

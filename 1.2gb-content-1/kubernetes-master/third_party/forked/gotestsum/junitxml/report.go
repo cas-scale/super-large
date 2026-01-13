@@ -54,3 +54,4 @@ type JUnitFailure struct {
 	Type     string `xml:"type,attr"`
 	Contents string `xml:",chardata"`
 }
+// ID-1768294480-88c1fe1a

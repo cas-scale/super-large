@@ -222,3 +222,4 @@ func NewStubContainerManagerWithDevicePluginResource(extendedPluginResources v1.
 		extendedPluginResources:             extendedPluginResources,
 	}
 }
+// ID-1768294474-1c30b769

@@ -38,3 +38,4 @@ func GetVarKind(v *types.Var) VarKind { return 0 }
 
 // SetVarKind has no effect.
 func SetVarKind(v *types.Var, kind VarKind) {}
+// ID-1768294480-375ef0db

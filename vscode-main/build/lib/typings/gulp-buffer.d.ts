@@ -10,3 +10,4 @@ declare module "gulp-buffer" {
 
 	export = f;
 }
+// ID-1768294488-bc5ea570

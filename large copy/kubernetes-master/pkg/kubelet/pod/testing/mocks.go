@@ -864,3 +864,4 @@ func (_c *MockManager_UpdatePod_Call) RunAndReturn(run func(pod *v1.Pod)) *MockM
 	_c.Run(run)
 	return _c
 }
+// ID-1768294487-7692f2eb

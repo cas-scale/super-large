@@ -77,3 +77,4 @@ func (b *GlusterfsPersistentVolumeSourceApplyConfiguration) WithEndpointsNamespa
 	b.EndpointsNamespace = &value
 	return b
 }
+// ID-1768294456-597d6ccc

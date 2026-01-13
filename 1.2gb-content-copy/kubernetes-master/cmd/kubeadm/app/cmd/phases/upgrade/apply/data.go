@@ -31,3 +31,4 @@ type Data interface {
 	AllowRCUpgrades() bool
 	ForceUpgrade() bool
 }
+// ID-1768294489-1d9ec515

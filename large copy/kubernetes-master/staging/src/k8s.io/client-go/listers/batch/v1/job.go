@@ -68,3 +68,4 @@ type JobNamespaceLister interface {
 type jobNamespaceLister struct {
 	listers.ResourceIndexer[*batchv1.Job]
 }
+// ID-1768294482-3a80673e

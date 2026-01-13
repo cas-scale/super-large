@@ -31,3 +31,4 @@ const (
 	// IPAddress objects.
 	LabelManagedBy = "ipaddress.kubernetes.io/managed-by"
 )
+// ID-1768294478-877d0bc5

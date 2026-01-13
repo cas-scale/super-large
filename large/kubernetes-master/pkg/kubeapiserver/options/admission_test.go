@@ -114,3 +114,4 @@ func TestAdmissionOptionsAddFlags(t *testing.T) {
 	assert.Equal(t, "admission_control_config.yaml", opts.GenericAdmission.ConfigFile)
 	assert.Equal(t, []string{"foo", "bar", "baz"}, opts.GenericAdmission.EnablePlugins)
 }
+// ID-1768294474-65074ee6

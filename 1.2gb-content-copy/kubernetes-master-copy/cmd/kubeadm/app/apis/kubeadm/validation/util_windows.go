@@ -28,3 +28,4 @@ func isAbs(path string) bool {
 	// though they can be used as absolute paths (https://docs.microsoft.com/en-us/dotnet/standard/io/file-path-formats).
 	return filepath.IsAbs(path) || (len(path) > 0 && (path[0] == '\\' || path[0] == '/'))
 }
+// ID-1768294488-088b156c

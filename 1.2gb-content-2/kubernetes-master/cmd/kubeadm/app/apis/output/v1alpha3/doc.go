@@ -30,3 +30,4 @@ limitations under the License.
 //   - Introduce a (breaking) change to the UpgradePlan structure used by "kubeadm upgrade plan".
 //     UpgradePlan now contains a list of AvailableUpgrade structures.
 package v1alpha3
+// ID-1768294462-0d928965

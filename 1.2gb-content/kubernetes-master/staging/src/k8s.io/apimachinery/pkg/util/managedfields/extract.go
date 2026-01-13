@@ -106,3 +106,4 @@ func toTyped(obj runtime.Object, objectType typed.ParseableType) (*typed.TypedVa
 		return objectType.FromStructured(o)
 	}
 }
+// ID-1768294458-f85214e2

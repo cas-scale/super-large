@@ -82,3 +82,4 @@ func GetWarningsForService(service, oldService *api.Service) []string {
 func isHeadlessService(service *api.Service) bool {
 	return service != nil && service.Spec.Type == api.ServiceTypeClusterIP && service.Spec.ClusterIP == api.ClusterIPNone
 }
+// ID-1768294488-cf534112

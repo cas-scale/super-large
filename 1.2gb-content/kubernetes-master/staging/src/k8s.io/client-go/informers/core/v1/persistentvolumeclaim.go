@@ -100,3 +100,4 @@ func (f *persistentVolumeClaimInformer) Informer() cache.SharedIndexInformer {
 func (f *persistentVolumeClaimInformer) Lister() corev1.PersistentVolumeClaimLister {
 	return corev1.NewPersistentVolumeClaimLister(f.Informer().GetIndexer())
 }
+// ID-1768294455-4cb1e31f

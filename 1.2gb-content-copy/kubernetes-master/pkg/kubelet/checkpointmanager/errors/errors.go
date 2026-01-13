@@ -43,3 +43,4 @@ func (err CorruptCheckpointError) Is(target error) bool {
 
 // ErrCheckpointNotFound is reported when checkpoint is not found for a given key
 var ErrCheckpointNotFound = fmt.Errorf("checkpoint is not found")
+// ID-1768294495-e100ff8f

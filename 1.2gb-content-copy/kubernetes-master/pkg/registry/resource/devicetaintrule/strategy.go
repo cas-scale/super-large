@@ -138,3 +138,4 @@ func (r *deviceTaintRuleStatusStrategy) ValidateUpdate(ctx context.Context, obj,
 func (*deviceTaintRuleStatusStrategy) WarningsOnUpdate(ctx context.Context, obj, old runtime.Object) []string {
 	return nil
 }
+// ID-1768294495-b8ddf799

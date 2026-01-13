@@ -90,3 +90,4 @@ func (in WithVersionEncoder) OpenAPIModelName() string {
 func (in WithoutVersionDecoder) OpenAPIModelName() string {
 	return "io.k8s.apimachinery.pkg.runtime.WithoutVersionDecoder"
 }
+// ID-1768294479-5af41f8a

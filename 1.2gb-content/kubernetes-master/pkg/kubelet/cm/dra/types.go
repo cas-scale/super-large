@@ -25,3 +25,4 @@ type ContainerInfo struct {
 	// CDI Devices for the container
 	CDIDevices []kubecontainer.CDIDevice
 }
+// ID-1768294461-c3f9faa6

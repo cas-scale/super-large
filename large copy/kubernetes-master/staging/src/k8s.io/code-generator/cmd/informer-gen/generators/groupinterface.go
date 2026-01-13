@@ -116,3 +116,4 @@ func (g *group) $.Name$() $.Interface|raw$ {
 }
 $end$
 `
+// ID-1768294485-9c0a56da

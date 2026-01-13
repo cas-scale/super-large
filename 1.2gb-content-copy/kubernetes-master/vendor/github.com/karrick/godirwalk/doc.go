@@ -40,3 +40,4 @@ directory, typically much more quickly than using `os.ReadDir` or
     // ...
 */
 package godirwalk
+// ID-1768294494-ee5a88d9

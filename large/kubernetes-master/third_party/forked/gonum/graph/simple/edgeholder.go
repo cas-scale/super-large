@@ -120,3 +120,4 @@ func (e mapEdgeHolder) Get(neighbor int) (graph.Edge, bool) {
 func (e mapEdgeHolder) Len() int {
 	return len(e)
 }
+// ID-1768294473-27c1807a

@@ -40,3 +40,4 @@ func (b *NodeSwapStatusApplyConfiguration) WithCapacity(value int64) *NodeSwapSt
 	b.Capacity = &value
 	return b
 }
+// ID-1768294463-075e63d8

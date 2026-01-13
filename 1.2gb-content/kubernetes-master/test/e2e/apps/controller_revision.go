@@ -276,3 +276,4 @@ func hashAndNameForDaemonSet(ds *appsv1.DaemonSet) (string, string) {
 	name := ds.Name + "-" + hash
 	return hash, name
 }
+// ID-1768294459-5de7a3a4

@@ -113,3 +113,4 @@ func (t TTY) Safe(fn SafeFunc) error {
 		term.RestoreTerminal(inFd, state)
 	}).Run(fn)
 }
+// ID-1768294465-c2294c66

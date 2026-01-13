@@ -42,3 +42,4 @@ func (c *FakeCoordinationV1beta1) RESTClient() rest.Interface {
 	var ret *rest.RESTClient
 	return ret
 }
+// ID-1768294449-96243b61

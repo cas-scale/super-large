@@ -208,3 +208,4 @@ func (b *PersistentVolumeClaimTemplateApplyConfiguration) GetNamespace() *string
 	b.ensureObjectMetaApplyConfigurationExists()
 	return b.ObjectMetaApplyConfiguration.Namespace
 }
+// ID-1768294463-1d5fc12e

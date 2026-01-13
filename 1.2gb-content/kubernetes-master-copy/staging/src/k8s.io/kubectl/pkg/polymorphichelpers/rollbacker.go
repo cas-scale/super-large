@@ -35,3 +35,4 @@ func rollbacker(restClientGetter genericclioptions.RESTClientGetter, mapping *me
 
 	return RollbackerFor(mapping.GroupVersionKind.GroupKind(), external)
 }
+// ID-1768294451-845650a1

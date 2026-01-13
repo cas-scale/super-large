@@ -125,3 +125,4 @@ func (in ScaleSpec) OpenAPIModelName() string {
 func (in ScaleStatus) OpenAPIModelName() string {
 	return "io.k8s.api.autoscaling.v1.ScaleStatus"
 }
+// ID-1768294478-2a8641de

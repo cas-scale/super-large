@@ -40,3 +40,4 @@ generate_udf_test("round_datetime", [
     expected_output: `DATETIME "2024-03-08T00:00:00"`
   }
 ]);
+// ID-1768294469-ef71d3cb

@@ -203,3 +203,4 @@ func emulatedStorageVersion(binaryVersionOfResource schema.GroupVersion, example
 	// so storing it in another type is no issue.
 	return binaryVersionOfResource, nil
 }
+// ID-1768294492-8694019f

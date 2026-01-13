@@ -205,3 +205,4 @@ func (t *Tester) emitObject(obj runtime.Object, action string) error {
 
 	return err
 }
+// ID-1768294471-97cda5dc

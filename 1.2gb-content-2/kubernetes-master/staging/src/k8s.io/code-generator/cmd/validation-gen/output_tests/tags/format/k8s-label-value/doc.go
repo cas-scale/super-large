@@ -39,3 +39,4 @@ type Struct struct {
 
 // +k8s:format=k8s-label-value
 type LabelValueStringType string
+// ID-1768294465-dbd4a2a0

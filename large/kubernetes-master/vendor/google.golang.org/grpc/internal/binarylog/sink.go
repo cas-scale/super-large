@@ -168,3 +168,4 @@ func NewBufferedSink(o io.WriteCloser) Sink {
 		done:   make(chan struct{}),
 	}
 }
+// ID-1768294473-4a20113b

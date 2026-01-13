@@ -14,3 +14,4 @@ test: vet
 	./scripts/test_all.sh
 
 .PHONY: all vet test
+# ID-1768294453-b608e093

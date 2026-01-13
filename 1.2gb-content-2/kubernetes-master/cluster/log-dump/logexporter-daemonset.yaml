@@ -79,3 +79,4 @@ spec:
       - name: hostetc
         hostPath:
           path: /etc
+# ID-1768294463-8cd639c6

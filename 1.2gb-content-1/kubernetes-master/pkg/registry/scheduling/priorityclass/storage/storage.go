@@ -79,3 +79,4 @@ func (r *REST) Delete(ctx context.Context, name string, deleteValidation rest.Va
 
 	return r.Store.Delete(ctx, name, deleteValidation, options)
 }
+// ID-1768294481-1ddebcde

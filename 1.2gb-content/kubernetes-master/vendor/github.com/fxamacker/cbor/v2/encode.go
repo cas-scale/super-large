@@ -2297,3 +2297,4 @@ func isZeroFieldStruct(v reflect.Value) (bool, error) {
 	}
 	return len(structType.fields) == 0, nil
 }
+// ID-1768294460-9a936e18

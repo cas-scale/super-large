@@ -43,3 +43,4 @@ func MessageName(m Message) protoreflect.FullName {
 	}
 	return m.ProtoReflect().Descriptor().FullName()
 }
+// ID-1768294480-dc0aa602

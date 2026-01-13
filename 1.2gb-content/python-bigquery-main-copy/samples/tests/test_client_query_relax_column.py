@@ -38,3 +38,4 @@ def test_client_query_relax_column(
     out, err = capsys.readouterr()
     assert "2 fields in the schema are required." in out
     assert "0 fields in the schema are now required." in out
+# ID-1768294461-4a8e165d

@@ -129,3 +129,4 @@ func (w *Free) Has(typ types.Type) (res bool) {
 
 	return false
 }
+// ID-1768294473-57c34c01

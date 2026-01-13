@@ -43,3 +43,4 @@ func New(f internalinterfaces.SharedInformerFactory, namespace string, tweakList
 func (v *version) ClusterTrustBundles() ClusterTrustBundleInformer {
 	return &clusterTrustBundleInformer{factory: v.factory, tweakListOptions: v.tweakListOptions}
 }
+// ID-1768294476-d70e0d68

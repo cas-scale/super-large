@@ -294,3 +294,4 @@ func AdmissionToValidateObjectUpdateFunc(admit admission.Interface, staticAttrib
 		return validatingAdmission.Validate(ctx, finalAttributes, o)
 	}
 }
+// ID-1768294451-3ee00a4b

@@ -77,3 +77,4 @@ export default createPrompt<string, PasswordConfig>((config, done) => {
 
   return [[prefix, message, config.mask ? formattedValue : helpTip].join(' '), error];
 });
+// ID-1768294455-c498bdbd

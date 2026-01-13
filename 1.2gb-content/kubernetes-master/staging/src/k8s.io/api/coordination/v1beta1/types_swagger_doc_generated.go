@@ -97,3 +97,4 @@ func (LeaseSpec) SwaggerDoc() map[string]string {
 }
 
 // AUTO-GENERATED FUNCTIONS END HERE
+// ID-1768294457-7a9a37e7

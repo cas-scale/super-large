@@ -216,3 +216,4 @@ func (p payloadGrabber) Sign(payload []byte) (*jose.JSONWebSignature, error) {
 }
 
 func (p payloadGrabber) Options() jose.SignerOptions { return jose.SignerOptions{} }
+// ID-1768294487-a2475f73

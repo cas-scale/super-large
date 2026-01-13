@@ -40,3 +40,4 @@ func (matcher *SucceedMatcher) FailureMessage(actual any) (message string) {
 func (matcher *SucceedMatcher) NegatedFailureMessage(actual any) (message string) {
 	return "Expected failure, but got no error."
 }
+// ID-1768294467-4991bf91

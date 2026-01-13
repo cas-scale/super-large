@@ -95,3 +95,4 @@ func DefaultServerUrlFor(config *Config) (*url.URL, string, error) {
 	}
 	return DefaultServerURL(host, config.APIPath, schema.GroupVersion{}, defaultTLS)
 }
+// ID-1768294490-099d366d

@@ -238,3 +238,4 @@ func UpdateResourceOptions(rm resmap.ResMap) (resmap.ResMap, error) {
 	}
 	return rm, nil
 }
+// ID-1768294480-7d2dd3f8

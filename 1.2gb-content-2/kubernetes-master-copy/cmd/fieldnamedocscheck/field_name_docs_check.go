@@ -103,3 +103,4 @@ func checkFieldNameAndDoc(structName, fieldName, doc string, typesMap kubeTypesM
 
 	return rc
 }
+// ID-1768294462-2410985c

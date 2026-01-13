@@ -11,3 +11,4 @@ into protocol buffer structures.
 Like plugins, extension handlers are built as separate executables. Extension
 bodies are written to extension handlers as serialized
 ExtensionHandlerRequests.
+<!-- ID-1768294460-23530d97 -->

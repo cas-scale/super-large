@@ -89,3 +89,4 @@ kube::codegen::gen_client \
     --output-pkg "${THIS_PKG}/HyphenGroup" \
     --boilerplate "${SCRIPT_ROOT}/hack/boilerplate.go.txt" \
     "${SCRIPT_ROOT}/HyphenGroup/apis"
+# ID-1768294479-569465e6

@@ -275,3 +275,4 @@ func (m *RawMessage) UnmarshalCBOR(data []byte) error {
 	*m = append((*m)[0:0], data...)
 	return nil
 }
+// ID-1768294481-e28724a5

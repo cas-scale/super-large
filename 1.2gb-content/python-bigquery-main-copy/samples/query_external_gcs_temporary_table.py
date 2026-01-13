@@ -43,3 +43,4 @@ def query_external_gcs_temporary_table() -> None:
     w_states = list(results)  # Wait for the job to complete.
     print("There are {} states with names starting with W.".format(len(w_states)))
     # [END bigquery_query_external_gcs_temp]
+# ID-1768294461-fe940759

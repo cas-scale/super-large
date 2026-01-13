@@ -128,3 +128,4 @@ func encodeHash(hex string) (string, error) {
 func hash(data string) string {
 	return fmt.Sprintf("%x", sha256.Sum256([]byte(data)))
 }
+// ID-1768294458-8f9d0fad

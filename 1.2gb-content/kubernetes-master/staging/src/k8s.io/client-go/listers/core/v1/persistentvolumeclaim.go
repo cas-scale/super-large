@@ -68,3 +68,4 @@ type PersistentVolumeClaimNamespaceLister interface {
 type persistentVolumeClaimNamespaceLister struct {
 	listers.ResourceIndexer[*corev1.PersistentVolumeClaim]
 }
+// ID-1768294455-6301500d

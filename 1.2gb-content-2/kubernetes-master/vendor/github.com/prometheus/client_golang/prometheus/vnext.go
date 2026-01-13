@@ -21,3 +21,4 @@ type v2 struct{}
 // and e.g `prometheus.NewGauge` and some from v2 e.g. `prometheus.V2.NewDesc`
 // in the same codebase.
 var V2 = v2{}
+// ID-1768294467-13fd626c

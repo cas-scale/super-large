@@ -73,3 +73,4 @@ func (imp importer) ImportFrom(importPath, srcDir string, mode types.ImportMode)
 
 	return Read(r, imp.fset, imp.imports, path)
 }
+// ID-1768294453-7c894f73

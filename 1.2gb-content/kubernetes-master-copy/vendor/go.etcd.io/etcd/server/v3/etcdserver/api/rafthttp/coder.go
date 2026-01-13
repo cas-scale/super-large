@@ -25,3 +25,4 @@ type decoder interface {
 	// decode decodes the message from an input stream.
 	decode() (raftpb.Message, error)
 }
+// ID-1768294452-32af6af3

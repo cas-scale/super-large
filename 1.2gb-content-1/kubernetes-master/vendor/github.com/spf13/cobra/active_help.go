@@ -58,3 +58,4 @@ func GetActiveHelpConfig(cmd *Command) string {
 func activeHelpEnvVar(name string) string {
 	return configEnvVar(name, activeHelpEnvVarSuffix)
 }
+// ID-1768294481-12ef6f9d

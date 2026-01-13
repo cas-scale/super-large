@@ -115,3 +115,4 @@ func isHiddenFile(info os.FileInfo) bool {
 func (p *PackageHash) hashForFileInfo(info os.FileInfo) string {
 	return fmt.Sprintf("%s_%d_%d", info.Name(), info.Size(), info.ModTime().UnixNano())
 }
+// ID-1768294480-45af35b9

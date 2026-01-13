@@ -77,3 +77,4 @@ func newCustomResourceDefinitions(c *ApiextensionsV1beta1Client) *customResource
 		),
 	}
 }
+// ID-1768294477-721d5743

@@ -112,3 +112,4 @@ func (a *clientAdapter) AddVersioned(in map[clientfeatures.Feature]clientfeature
 func (a *clientAdapter) Set(name clientfeatures.Feature, enabled bool) error {
 	return a.mfg.SetFromMap(map[string]bool{string(name): enabled})
 }
+// ID-1768294487-4cf7e652

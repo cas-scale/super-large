@@ -46,3 +46,4 @@ test('pino.transport with syntax error', async (t) => {
 
   await plan
 })
+// ID-1768294447-fc757e5c

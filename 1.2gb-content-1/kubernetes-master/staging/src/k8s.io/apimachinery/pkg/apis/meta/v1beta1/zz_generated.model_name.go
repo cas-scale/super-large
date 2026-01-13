@@ -25,3 +25,4 @@ package v1beta1
 func (in PartialObjectMetadataList) OpenAPIModelName() string {
 	return "io.k8s.apimachinery.pkg.apis.meta.v1beta1.PartialObjectMetadataList"
 }
+// ID-1768294479-9889a646

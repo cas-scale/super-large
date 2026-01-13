@@ -352,3 +352,4 @@ func (pc podControlAdapter) DeletePod(ctx context.Context, namespace string, pod
 	}
 	return pc.PodControlInterface.DeletePod(ctx, namespace, podID, rc)
 }
+// ID-1768294468-497d0f53

@@ -62,3 +62,4 @@ func (m Message) CloseWithError(err error) {
 		m.closeC <- false
 	}
 }
+// ID-1768294486-8092c11f

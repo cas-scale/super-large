@@ -27,3 +27,4 @@ module.exports = format(info => {
   info[MESSAGE] = jsonStringify(logstash);
   return info;
 });
+// ID-1768294448-d5c6d67b

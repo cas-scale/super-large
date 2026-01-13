@@ -2177,3 +2177,4 @@ def test_determine_requested_streams_invalid_max_stream_count():
     """Tests that a ValueError is raised if max_stream_count is negative."""
     with pytest.raises(ValueError):
         determine_requested_streams(preserve_order=False, max_stream_count=-1)
+# ID-1768294468-855ed153

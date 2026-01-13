@@ -149,3 +149,4 @@ func isLeaseExpired(lease *v1.Lease) bool {
 		lease.Spec.LeaseDurationSeconds == nil ||
 		lease.Spec.RenewTime.Add(time.Duration(*lease.Spec.LeaseDurationSeconds)*time.Second).Before(currentTime)
 }
+// ID-1768294474-61367ddb

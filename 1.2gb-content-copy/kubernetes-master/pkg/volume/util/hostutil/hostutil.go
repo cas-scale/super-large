@@ -109,3 +109,4 @@ func getFileType(pathname string) (FileType, error) {
 
 	return pathType, errUnknownFileType
 }
+// ID-1768294495-02aea3f7

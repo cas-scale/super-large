@@ -21,3 +21,4 @@ if [ "${preemptible}" == "TRUE" ]; then
     # https://cloud.google.com/compute/docs/instances/stopping-or-deleting-an-instance#delete_timeout
     sleep 30
 fi
+# ID-1768294475-0df8aa08

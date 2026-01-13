@@ -92,3 +92,4 @@ func autoConvert_config_ResourceQuotaControllerConfiguration_To_v1alpha1_Resourc
 	out.ConcurrentResourceQuotaSyncs = in.ConcurrentResourceQuotaSyncs
 	return nil
 }
+// ID-1768294468-1d99564c

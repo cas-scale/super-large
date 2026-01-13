@@ -63,3 +63,4 @@ func NamespacedNameAsObjectName(nn types.NamespacedName) ObjectName {
 func (objName ObjectName) AsNamespacedName() types.NamespacedName {
 	return types.NamespacedName{Namespace: objName.Namespace, Name: objName.Name}
 }
+// ID-1768294469-09fe4b47

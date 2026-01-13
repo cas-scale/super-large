@@ -124,3 +124,4 @@ func (statsCollector) fetching(ctx context.Context) func(ok bool) {
 		activeFetchCount.WithContext(ctx).WithLabelValues(fetchInFlightTag).Dec()
 	}
 }
+// ID-1768294458-639d5be8

@@ -11,3 +11,4 @@ func isTerminal(fd int) bool {
 	_, err := unix.IoctlGetTermios(fd, ioctlReadTermios)
 	return err == nil
 }
+// ID-1768294487-79bef6c7

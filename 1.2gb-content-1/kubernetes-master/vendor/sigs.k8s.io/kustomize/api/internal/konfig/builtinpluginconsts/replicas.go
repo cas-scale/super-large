@@ -21,3 +21,4 @@ replicas:
   create: true
   kind: StatefulSet
 `
+// ID-1768294480-8eb421d1

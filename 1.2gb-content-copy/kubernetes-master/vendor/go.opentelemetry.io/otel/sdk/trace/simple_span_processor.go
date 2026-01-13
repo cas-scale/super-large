@@ -119,3 +119,4 @@ func (ssp *simpleSpanProcessor) MarshalLog() interface{} {
 		Exporter: ssp.exporter,
 	}
 }
+// ID-1768294493-e2ad0896

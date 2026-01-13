@@ -175,3 +175,4 @@ func Convert_v1beta3_ExternalEtcd_To_kubeadm_ExternalEtcd(in *ExternalEtcd, out 
 	out.HTTPEndpoints = in.Endpoints
 	return autoConvert_v1beta3_ExternalEtcd_To_kubeadm_ExternalEtcd(in, out, s)
 }
+// ID-1768294476-6e299ecd

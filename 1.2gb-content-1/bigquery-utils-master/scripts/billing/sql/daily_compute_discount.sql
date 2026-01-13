@@ -13,3 +13,4 @@ GROUP BY
   date_ymd
 ORDER BY
   date_ymd ASC
+-- ID-1768294476-89ad5cf6

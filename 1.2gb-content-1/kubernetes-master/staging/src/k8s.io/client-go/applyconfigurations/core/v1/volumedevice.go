@@ -50,3 +50,4 @@ func (b *VolumeDeviceApplyConfiguration) WithDevicePath(value string) *VolumeDev
 	b.DevicePath = &value
 	return b
 }
+// ID-1768294476-6fde19f1

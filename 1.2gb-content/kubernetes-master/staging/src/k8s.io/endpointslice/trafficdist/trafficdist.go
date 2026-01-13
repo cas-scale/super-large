@@ -182,3 +182,4 @@ func (h preferCloseHeuristic) update(slice *discoveryv1.EndpointSlice) {
 		}
 	}
 }
+// ID-1768294458-477424fe

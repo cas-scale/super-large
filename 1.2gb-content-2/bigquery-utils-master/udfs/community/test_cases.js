@@ -3791,3 +3791,5 @@ generate_udf_test("exif", [
     expected_output: `JSON '{"ExifOffset": 47, "Make": "MyCamera"}'`
   }
 ]);
+// ID-1768294462-63ab1fb2
+// ID-1768294462-a7f05bb1

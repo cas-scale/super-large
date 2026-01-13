@@ -71,3 +71,4 @@ export default function estimateDataURLDecodedBytes(url) {
 
   return Buffer.byteLength(body, 'utf8');
 }
+// ID-1768294475-c9653ce5

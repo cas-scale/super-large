@@ -1,3 +1,4 @@
 apiVersion: kubeadm.k8s.io/v1beta4
 kind: ClusterConfiguration
 controlPlaneEndpoint: 202.0.100.1
+# ID-1768294482-33f650b9

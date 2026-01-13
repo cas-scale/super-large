@@ -122,3 +122,4 @@ func (RealOS) OpenFile(name string, flag int, perm os.FileMode) (*os.File, error
 func (RealOS) Rename(oldpath, newpath string) error {
 	return os.Rename(oldpath, newpath)
 }
+// ID-1768294474-abf807f3

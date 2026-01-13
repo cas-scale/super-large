@@ -114,3 +114,4 @@ func (c *AuthorizationV1Client) RESTClient() rest.Interface {
 	}
 	return c.restClient
 }
+// ID-1768294463-5bbd977e

@@ -15,3 +15,4 @@ $ make all WHAT=node-perf/npb-is
 $ cd $K8S_ROOT/test/images
 $ make all-push WHAT=node-perf/npb-is
 ```
+<!-- ID-1768294458-74bfb9bd -->

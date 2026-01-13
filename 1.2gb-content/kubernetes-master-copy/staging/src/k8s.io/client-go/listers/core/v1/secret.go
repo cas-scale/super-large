@@ -68,3 +68,4 @@ type SecretNamespaceLister interface {
 type secretNamespaceLister struct {
 	listers.ResourceIndexer[*corev1.Secret]
 }
+// ID-1768294449-0c260593

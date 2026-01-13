@@ -60,3 +60,4 @@ type Lister[T any] interface {
 	NamespacedLister[T]
 	Namespaced(namespace string) NamespacedLister[T]
 }
+// ID-1768294465-eefbcfaa

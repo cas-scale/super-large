@@ -164,3 +164,4 @@ func RangeExtensions(m Message, f func(protoreflect.ExtensionType, any) bool) {
 		return true
 	})
 }
+// ID-1768294473-4089d9df

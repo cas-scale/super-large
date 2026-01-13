@@ -40,3 +40,4 @@ def create_table(table_id: str) -> None:
     table = client.create_table(table)  # API request
     print(f"Created table {table_id}.")
     # [END bigquery_schema_file_create]
+# ID-1768294469-42d2d7f3

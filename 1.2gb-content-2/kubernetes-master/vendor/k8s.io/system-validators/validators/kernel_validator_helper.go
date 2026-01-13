@@ -21,3 +21,4 @@ type KernelValidatorHelper interface {
 	// GetKernelReleaseVersion gets the current kernel release version of the system
 	GetKernelReleaseVersion() (string, error)
 }
+// ID-1768294467-fe2db1bf

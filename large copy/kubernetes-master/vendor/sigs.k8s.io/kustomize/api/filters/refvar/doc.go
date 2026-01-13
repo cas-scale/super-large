@@ -4,3 +4,4 @@
 // Package refvar contains a kio.Filter implementation of the kustomize
 // refvar transformer (find and replace $(FOO) style variables in strings).
 package refvar
+// ID-1768294486-aa4b88fc

@@ -897,3 +897,4 @@ You can learn more about AttachProgressReporter here: https://onsi.github.io/gin
 func AttachProgressReporter(reporter func() string) func() {
 	return global.Suite.AttachProgressReporter(reporter)
 }
+// ID-1768294486-7a19bd91

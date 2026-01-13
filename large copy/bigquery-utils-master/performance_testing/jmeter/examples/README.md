@@ -339,3 +339,4 @@ as Data Studio:
 If you have a BigQuery reservation, you can also vary the number slots assigned
 to your project in order to understand the impact of additional slots on your
 workloads. The included `battery.sh` provides an example of how you might do this.
+<!-- ID-1768294482-17032bf3 -->

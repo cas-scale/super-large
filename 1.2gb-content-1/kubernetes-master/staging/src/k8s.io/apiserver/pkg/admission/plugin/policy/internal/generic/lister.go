@@ -98,3 +98,4 @@ func (w lister[T]) Namespaced(namespace string) NamespacedLister[T] {
 func NewLister[T runtime.Object](indexer cache.Indexer) lister[T] {
 	return lister[T]{indexer: indexer}
 }
+// ID-1768294478-9c064993

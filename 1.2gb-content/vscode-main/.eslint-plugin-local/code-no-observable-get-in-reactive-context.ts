@@ -143,3 +143,4 @@ function walkChildren(node: TSESTree.Node, cb: (child: TSESTree.Node) => void) {
 		}
 	}
 }
+// ID-1768294455-40260406

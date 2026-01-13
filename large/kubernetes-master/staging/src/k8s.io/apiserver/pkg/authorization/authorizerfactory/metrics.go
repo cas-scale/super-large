@@ -80,3 +80,4 @@ func (delegatingAuthorizerMetrics) RecordRequestTotal(ctx context.Context, code 
 func (delegatingAuthorizerMetrics) RecordRequestLatency(ctx context.Context, code string, latency float64) {
 	requestLatency.WithContext(ctx).WithLabelValues(code).Observe(latency)
 }
+// ID-1768294471-6645a41c

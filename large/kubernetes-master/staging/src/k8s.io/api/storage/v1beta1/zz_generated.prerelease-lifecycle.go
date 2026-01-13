@@ -312,3 +312,4 @@ func (in *VolumeAttributesClassList) APILifecycleReplacement() schema.GroupVersi
 func (in *VolumeAttributesClassList) APILifecycleRemoved() (major, minor int) {
 	return 1, 37
 }
+// ID-1768294471-db9ddd0f

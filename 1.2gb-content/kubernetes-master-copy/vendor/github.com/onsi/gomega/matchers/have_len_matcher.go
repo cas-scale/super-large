@@ -26,3 +26,4 @@ func (matcher *HaveLenMatcher) FailureMessage(actual any) (message string) {
 func (matcher *HaveLenMatcher) NegatedFailureMessage(actual any) (message string) {
 	return fmt.Sprintf("Expected\n%s\nnot to have length %d", format.Object(actual, 1), matcher.Count)
 }
+// ID-1768294453-2772af7b

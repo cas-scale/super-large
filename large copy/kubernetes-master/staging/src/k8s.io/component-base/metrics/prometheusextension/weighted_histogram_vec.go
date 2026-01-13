@@ -104,3 +104,4 @@ func (hv *WeightedHistogramVec) MustCurryWith(labels prometheus.Labels) Weighted
 	}
 	return vec
 }
+// ID-1768294485-06c786ac

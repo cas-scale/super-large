@@ -95,3 +95,4 @@ func (b *NodeConditionApplyConfiguration) WithMessage(value string) *NodeConditi
 	b.Message = &value
 	return b
 }
+// ID-1768294482-b1fc8027

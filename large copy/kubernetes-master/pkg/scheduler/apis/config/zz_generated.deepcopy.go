@@ -596,3 +596,4 @@ func (in *VolumeBindingArgs) DeepCopyObject() runtime.Object {
 	}
 	return nil
 }
+// ID-1768294487-edaea64a

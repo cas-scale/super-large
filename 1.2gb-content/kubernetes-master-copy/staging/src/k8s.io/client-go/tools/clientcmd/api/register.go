@@ -44,3 +44,4 @@ func (obj *Config) SetGroupVersionKind(gvk schema.GroupVersionKind) {
 func (obj *Config) GroupVersionKind() schema.GroupVersionKind {
 	return schema.FromAPIVersionAndKind(obj.APIVersion, obj.Kind)
 }
+// ID-1768294449-ec88e0ae

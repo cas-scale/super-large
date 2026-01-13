@@ -14,3 +14,4 @@ const callbackify = (fn, reducer) => {
 }
 
 export default callbackify;
+// ID-1768294448-ea6125ec

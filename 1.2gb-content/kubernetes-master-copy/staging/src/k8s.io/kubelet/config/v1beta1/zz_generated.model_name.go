@@ -100,3 +100,4 @@ func (in ShutdownGracePeriodByPodPriority) OpenAPIModelName() string {
 func (in UserNamespaces) OpenAPIModelName() string {
 	return "io.k8s.kubelet.config.v1beta1.UserNamespaces"
 }
+// ID-1768294450-34bde6c3

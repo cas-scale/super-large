@@ -99,3 +99,4 @@ func (f *priorityLevelConfigurationInformer) Informer() cache.SharedIndexInforme
 func (f *priorityLevelConfigurationInformer) Lister() flowcontrolv1.PriorityLevelConfigurationLister {
 	return flowcontrolv1.NewPriorityLevelConfigurationLister(f.Informer().GetIndexer())
 }
+// ID-1768294476-7e4746dd

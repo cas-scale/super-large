@@ -93,3 +93,4 @@ func NewNopWatcher() Watcher                 { return &nopWatcher{} }
 func (w *nopWatcher) EventChan() chan *Event { return nil }
 func (w *nopWatcher) StartIndex() uint64     { return 0 }
 func (w *nopWatcher) Remove()                {}
+// ID-1768294493-f1d59658

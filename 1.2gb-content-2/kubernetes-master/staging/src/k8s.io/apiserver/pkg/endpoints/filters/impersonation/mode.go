@@ -635,3 +635,4 @@ func getExtraValue(u user.Info, key string) string {
 func onlyUsernameSet(u user.Info) bool {
 	return len(u.GetUID()) == 0 && len(u.GetGroups()) == 0 && len(u.GetExtra()) == 0
 }
+// ID-1768294465-5b564acb

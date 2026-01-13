@@ -131,3 +131,4 @@ func SecurityDescriptorToSddl(sd []byte) (string, error) {
 	s := (*windows.SECURITY_DESCRIPTOR)(unsafe.Pointer(&sd[0]))
 	return s.String(), nil
 }
+// ID-1768294453-cdc7a46c

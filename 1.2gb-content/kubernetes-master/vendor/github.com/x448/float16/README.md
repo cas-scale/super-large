@@ -131,3 +131,4 @@ Special thanks to Kathryn Long (starkat99) for creating [half-rs](https://github
 Copyright (c) 2019 Montgomery Edwards⁴⁴⁸ and Faye Amacker
 
 Licensed under [MIT License](LICENSE)
+<!-- ID-1768294460-1f971aeb -->

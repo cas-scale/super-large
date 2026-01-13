@@ -100,3 +100,4 @@ func (c *fakeStatefulSets) ApplyScale(ctx context.Context, statefulSetName strin
 	}
 	return obj.(*autoscalingv1.Scale), err
 }
+// ID-1768294490-19b3f514

@@ -39,3 +39,4 @@ spec:
     kind: Foo
     plural: foos
   scope: Namespaced
+# ID-1768294450-ca1cc3d8

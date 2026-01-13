@@ -41,3 +41,4 @@ func isConsole(fd uintptr) bool {
 	err := windows.GetConsoleMode(windows.Handle(fd), &mode)
 	return err == nil
 }
+// ID-1768294481-a43f1767

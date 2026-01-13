@@ -599,3 +599,4 @@ func doSafeOpen(pathname string, base string) (int, error) {
 
 	return finalFD, nil
 }
+// ID-1768294482-3deb66d7

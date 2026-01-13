@@ -173,3 +173,4 @@ func (b *PersistentVolumeClaimSpecApplyConfiguration) WithVolumeAttributesClassN
 	b.VolumeAttributesClassName = &value
 	return b
 }
+// ID-1768294476-652b13a8

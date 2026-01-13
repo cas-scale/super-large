@@ -128,3 +128,4 @@ def test_view(
     out, _ = capsys.readouterr()
     assert "example-analyst-group@google.com" in out
     assert table_id in out
+# ID-1768294469-a446b0f2

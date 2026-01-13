@@ -6,3 +6,4 @@ bases:
 
 patchesStrategicMerge:
   - deployment.yaml
+# ID-1768294475-b12bd8e1

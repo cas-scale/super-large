@@ -40,3 +40,4 @@ func (d *Document) YAMLValue(comment string) ([]byte, error) {
 	}
 	return yaml.Marshal(rawInfo)
 }
+// ID-1768294467-d9d9c342

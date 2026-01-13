@@ -50,3 +50,4 @@ func (FakeManager) UpdatePodStatus(_ context.Context, _ *v1.Pod, podStatus *v1.P
 		podStatus.ContainerStatuses[i].Ready = true
 	}
 }
+// ID-1768294454-0b565b6b

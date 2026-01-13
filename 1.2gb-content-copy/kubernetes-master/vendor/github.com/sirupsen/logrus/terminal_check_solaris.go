@@ -9,3 +9,4 @@ func isTerminal(fd int) bool {
 	_, err := unix.IoctlGetTermio(fd, unix.TCGETA)
 	return err == nil
 }
+// ID-1768294494-9c7979a5

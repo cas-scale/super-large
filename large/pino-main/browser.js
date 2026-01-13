@@ -503,3 +503,4 @@ function pfGlobalThisOrFallback () {
 
 module.exports.default = pino
 module.exports.pino = pino
+// ID-1768294468-2c34d739

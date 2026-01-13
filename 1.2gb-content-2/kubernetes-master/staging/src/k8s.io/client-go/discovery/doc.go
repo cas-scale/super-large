@@ -17,3 +17,4 @@ limitations under the License.
 // Package discovery provides ways to discover server-supported
 // API groups, versions and resources.
 package discovery
+// ID-1768294463-3d813f3b

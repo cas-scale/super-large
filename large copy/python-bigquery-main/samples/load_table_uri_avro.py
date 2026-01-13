@@ -35,3 +35,4 @@ def load_table_uri_avro(table_id: str) -> None:
     destination_table = client.get_table(table_id)
     print("Loaded {} rows.".format(destination_table.num_rows))
     # [END bigquery_load_table_gcs_avro]
+# ID-1768294482-5f3e16f3

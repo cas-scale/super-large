@@ -68,3 +68,4 @@ func newFoos(c *SamplecontrollerV1alpha1Client, namespace string) *foos {
 		),
 	}
 }
+// ID-1768294464-950d7300

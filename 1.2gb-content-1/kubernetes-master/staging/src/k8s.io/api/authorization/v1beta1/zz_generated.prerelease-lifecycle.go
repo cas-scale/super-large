@@ -120,3 +120,4 @@ func (in *SubjectAccessReview) APILifecycleReplacement() schema.GroupVersionKind
 func (in *SubjectAccessReview) APILifecycleRemoved() (major, minor int) {
 	return 1, 22
 }
+// ID-1768294478-88e29ef3

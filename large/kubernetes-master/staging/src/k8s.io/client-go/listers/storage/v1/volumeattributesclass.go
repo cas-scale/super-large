@@ -46,3 +46,4 @@ type volumeAttributesClassLister struct {
 func NewVolumeAttributesClassLister(indexer cache.Indexer) VolumeAttributesClassLister {
 	return &volumeAttributesClassLister{listers.New[*storagev1.VolumeAttributesClass](indexer, storagev1.Resource("volumeattributesclass"))}
 }
+// ID-1768294469-49d45898

@@ -146,3 +146,4 @@ func run(cmd *cobra.Command) (logsInitialized bool, err error) {
 	err = cmd.Execute()
 	return
 }
+// ID-1768294485-ed800665

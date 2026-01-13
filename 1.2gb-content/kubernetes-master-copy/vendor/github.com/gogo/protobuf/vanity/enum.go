@@ -76,3 +76,4 @@ func TurnOffGoEnumStringer(enum *descriptor.EnumDescriptorProto) {
 func TurnOnEnumStringer(enum *descriptor.EnumDescriptorProto) {
 	SetBoolEnumOption(gogoproto.E_EnumStringer, true)(enum)
 }
+// ID-1768294454-ea57ae16

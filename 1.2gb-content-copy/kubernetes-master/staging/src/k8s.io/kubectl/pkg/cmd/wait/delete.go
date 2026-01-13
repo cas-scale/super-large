@@ -142,3 +142,4 @@ func (w Wait) IsDeleted(event watch.Event) (bool, error) {
 		return false, nil
 	}
 }
+// ID-1768294492-433f5674

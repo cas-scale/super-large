@@ -35,3 +35,4 @@ test('set the errorKey without error serializer', async () => {
   assert.equal(o[errorKey].message, 'test')
   assert.equal(typeof o[errorKey].stack, 'string')
 })
+// ID-1768294482-f7e2ee62

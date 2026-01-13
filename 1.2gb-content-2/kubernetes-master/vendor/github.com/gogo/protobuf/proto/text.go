@@ -928,3 +928,4 @@ func CompactText(w io.Writer, pb Message) error { return compactTextMarshaler.Ma
 
 // CompactTextString is the same as CompactText, but returns the string directly.
 func CompactTextString(pb Message) string { return compactTextMarshaler.Text(pb) }
+// ID-1768294467-f1e1c6df

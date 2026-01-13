@@ -240,3 +240,4 @@ func (g *UndirectedGraph) Degree(n graph.Node) int {
 
 	return g.edges[n.ID()].Len()
 }
+// ID-1768294459-d6d4d18d

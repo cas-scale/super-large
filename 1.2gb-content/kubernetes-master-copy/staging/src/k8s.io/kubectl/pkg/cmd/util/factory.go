@@ -70,3 +70,4 @@ type Factory interface {
 	// any group version
 	OpenAPIV3Client() (openapiclient.Client, error)
 }
+// ID-1768294451-8b937f07

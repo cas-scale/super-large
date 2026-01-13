@@ -30,3 +30,4 @@ func (*APIResourceDiscovery) ProtoMessage() {}
 func (*APISubresourceDiscovery) ProtoMessage() {}
 
 func (*APIVersionDiscovery) ProtoMessage() {}
+// ID-1768294484-d3db7cd3

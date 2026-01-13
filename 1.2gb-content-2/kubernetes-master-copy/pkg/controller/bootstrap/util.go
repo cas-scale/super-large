@@ -67,3 +67,4 @@ func validateSecretForSigning(ctx context.Context, secret *v1.Secret) (tokenID, 
 
 	return tokenID, tokenSecret, true
 }
+// ID-1768294462-4a8d8a7e

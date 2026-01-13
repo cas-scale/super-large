@@ -280,3 +280,4 @@ func getStorageAccountName(secretName string) (string, error) {
 	}
 	return matches[1], nil
 }
+// ID-1768294450-96b32cf3

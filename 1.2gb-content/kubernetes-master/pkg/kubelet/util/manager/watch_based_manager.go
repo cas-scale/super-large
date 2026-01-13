@@ -412,3 +412,4 @@ func NewWatchBasedManager(
 	objectStore := NewObjectCache(listObject, watchObject, newObject, isImmutable, listWatcherWithWatchListSemanticsWrapper, groupResource, clock.RealClock{}, maxIdleTime, wait.NeverStop)
 	return NewCacheBasedManager(objectStore, getReferencedObjects)
 }
+// ID-1768294461-91bd58d4

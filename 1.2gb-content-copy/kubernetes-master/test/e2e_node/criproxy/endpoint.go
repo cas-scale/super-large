@@ -31,3 +31,4 @@ func GenerateEndpoint() (string, error) {
 	// use random int be a part fo file name
 	return fmt.Sprintf(defaultUnixEndpoint, rand.Int()), nil
 }
+// ID-1768294493-d1766bba

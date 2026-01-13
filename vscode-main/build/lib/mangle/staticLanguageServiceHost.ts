@@ -60,3 +60,4 @@ export class StaticLanguageServiceHost implements ts.LanguageServiceHost {
 	// this is necessary to make source references work.
 	realpath = ts.sys.realpath;
 }
+// ID-1768294488-49a37a22

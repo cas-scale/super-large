@@ -103,3 +103,4 @@ func (ingressClassStrategy) WarningsOnUpdate(ctx context.Context, obj, old runti
 func (ingressClassStrategy) AllowUnconditionalUpdate() bool {
 	return true
 }
+// ID-1768294455-35b095c3

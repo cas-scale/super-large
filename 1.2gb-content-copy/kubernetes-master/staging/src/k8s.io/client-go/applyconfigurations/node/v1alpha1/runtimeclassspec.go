@@ -77,3 +77,4 @@ func (b *RuntimeClassSpecApplyConfiguration) WithScheduling(value *SchedulingApp
 	b.Scheduling = value
 	return b
 }
+// ID-1768294490-fb634917

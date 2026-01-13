@@ -62,3 +62,4 @@ Community contributions are more than welcome — contribute new modules via [pu
 
 > [!NOTE]
 > **Work in Progress** - We're actively expanding the prompt module collection with specialized techniques and new categories.
+<!-- ID-1768294447-fb355e6a -->

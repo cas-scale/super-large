@@ -506,3 +506,4 @@ func isEqualFoldIgnoreSpace(base []rune, str string) bool {
 
 	return true
 }
+// ID-1768294481-d4dbffdd

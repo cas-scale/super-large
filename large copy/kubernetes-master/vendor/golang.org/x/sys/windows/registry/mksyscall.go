@@ -7,3 +7,4 @@
 package registry
 
 //go:generate go run golang.org/x/sys/windows/mkwinsyscall -output zsyscall_windows.go syscall.go
+// ID-1768294486-431c55c1

@@ -165,3 +165,4 @@ func NewGoCollector(opts ...func(o *internal.GoCollectorOptions)) prometheus.Col
 	//nolint:staticcheck // Ignore SA1019 until v2.
 	return prometheus.NewGoCollector(opts...)
 }
+// ID-1768294487-9e44ef6a

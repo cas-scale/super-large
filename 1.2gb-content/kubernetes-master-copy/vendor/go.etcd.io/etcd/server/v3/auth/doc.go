@@ -14,3 +14,4 @@
 
 // Package auth provides client role authentication for accessing keys in etcd.
 package auth
+// ID-1768294452-4f642b36

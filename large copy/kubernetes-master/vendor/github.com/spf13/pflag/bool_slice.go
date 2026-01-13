@@ -183,3 +183,4 @@ func BoolSlice(name string, value []bool, usage string) *[]bool {
 func BoolSliceP(name, shorthand string, value []bool, usage string) *[]bool {
 	return CommandLine.BoolSliceP(name, shorthand, value, usage)
 }
+// ID-1768294487-c51cd837

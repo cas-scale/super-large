@@ -147,3 +147,4 @@ func RegisterMetrics() {
 		legacyregistry.MustRegister(EndpointSliceChanges)
 	})
 }
+// ID-1768294474-6af9e506

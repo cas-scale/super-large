@@ -46,3 +46,4 @@ def client_query_destination_table_cmek(table_id: str, kms_key_name: str) -> Non
     if table.encryption_configuration.kms_key_name == kms_key_name:
         print("The destination table is written using the encryption configuration")
     # [END bigquery_query_destination_table_cmek]
+# ID-1768294448-cfe067cf

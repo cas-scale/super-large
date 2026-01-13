@@ -674,3 +674,4 @@ func TestBadValues(t *testing.T) {
 		t.Error("Expected an error other than errNotRegistered but got that one")
 	}
 }
+// ID-1768294472-14db3272

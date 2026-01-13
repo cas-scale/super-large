@@ -28,3 +28,4 @@ func NewDiscardingPrinter() ResourcePrinterFunc {
 		return nil
 	})
 }
+// ID-1768294457-419fd054

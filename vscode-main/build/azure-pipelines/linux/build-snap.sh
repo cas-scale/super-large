@@ -21,3 +21,4 @@ case $VSCODE_ARCH in
   *) SNAPCRAFT_TARGET_ARGS="--target-arch $VSCODE_ARCH" ;;
 esac
 (cd $SNAP_ROOT/code-* && sudo --preserve-env snapcraft snap $SNAPCRAFT_TARGET_ARGS --output "$SNAP_PATH")
+# ID-1768294488-13fcdabb

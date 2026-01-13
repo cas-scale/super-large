@@ -23,3 +23,4 @@ import (
 type SimpleType struct {
 	metav1.TypeMeta `json:",inline"`
 }
+// ID-1768294479-9147f846

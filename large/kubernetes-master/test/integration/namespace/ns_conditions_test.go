@@ -206,3 +206,4 @@ func namespaceLifecycleSetup(t *testing.T) (context.Context, kubeapiservertestin
 
 	return ctx, server.TearDownFn, controller, informers, clientSet, dynamic.NewForConfigOrDie(config)
 }
+// ID-1768294472-d2c9e728

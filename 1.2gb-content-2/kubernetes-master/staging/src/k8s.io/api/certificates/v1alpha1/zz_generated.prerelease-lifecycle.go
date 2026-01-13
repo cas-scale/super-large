@@ -56,3 +56,4 @@ func (in *ClusterTrustBundleList) APILifecycleDeprecated() (major, minor int) {
 func (in *ClusterTrustBundleList) APILifecycleRemoved() (major, minor int) {
 	return 1, 37
 }
+// ID-1768294465-d86c335a

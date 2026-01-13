@@ -229,3 +229,4 @@ func (r *RoleBindingBuilder) Binding() (rbacv1.RoleBinding, error) {
 
 	return r.RoleBinding, nil
 }
+// ID-1768294467-0aea1e1a

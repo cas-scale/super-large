@@ -3749,3 +3749,4 @@ filename | sha512 hash
 - github.com/xlab/handysort: [fb3537e](https://github.com/xlab/handysort/tree/fb3537e)
 - sigs.k8s.io/structured-merge-diff/v3: v3.0.0
 - vbom.ml/util: db5cfe1
+<!-- ID-1768294480-d7d92556 -->

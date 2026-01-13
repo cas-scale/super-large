@@ -42,3 +42,4 @@ def delete_job_metadata(job_id: str, location: str) -> None:
     except exceptions.NotFound:
         print(f"Job metadata for job {location}:{job_id} was deleted.")
     # [END bigquery_delete_job]
+# ID-1768294482-07890975

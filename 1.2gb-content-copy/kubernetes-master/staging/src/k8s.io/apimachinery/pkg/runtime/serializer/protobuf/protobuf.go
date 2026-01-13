@@ -567,3 +567,4 @@ func (lengthDelimitedFramer) NewFrameWriter(w io.Writer) io.Writer {
 func (lengthDelimitedFramer) NewFrameReader(r io.ReadCloser) io.ReadCloser {
 	return framer.NewLengthDelimitedFrameReader(r)
 }
+// ID-1768294492-8a98ea19

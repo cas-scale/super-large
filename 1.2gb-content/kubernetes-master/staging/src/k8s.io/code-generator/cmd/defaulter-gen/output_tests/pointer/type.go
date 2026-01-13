@@ -31,3 +31,4 @@ type Ttest struct {
 	NTP Tpointer
 	Tp  *Tpointer
 }
+// ID-1768294458-70b92f09

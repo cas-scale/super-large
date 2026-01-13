@@ -109,3 +109,4 @@ func (DeviceTaintSelector) SwaggerDoc() map[string]string {
 }
 
 // AUTO-GENERATED FUNCTIONS END HERE
+// ID-1768294450-2e2627b6

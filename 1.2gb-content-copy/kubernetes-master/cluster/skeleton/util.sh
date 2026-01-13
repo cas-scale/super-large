@@ -77,3 +77,4 @@ function prepare-e2e {
 function detect-project {
 	echo "Skeleton Provider: detect-project not implemented" 1>&2
 }
+# ID-1768294489-2d95e6ed

@@ -41,3 +41,4 @@ pino.info(new Error('kaboom'))
 pino.info(null)
 
 pino.info(new Error('kaboom'), 'with', 'a', 'message')
+// ID-1768294447-c00a903d

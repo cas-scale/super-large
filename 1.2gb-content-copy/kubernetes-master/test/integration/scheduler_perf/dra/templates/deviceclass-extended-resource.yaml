@@ -7,3 +7,4 @@ spec:
   - cel:
       expression: device.driver == "test-driver.cdi.k8s.io"
   extendedResourceName: example.com/gpu-{{.Index}}
+# ID-1768294493-d84f1b5c

@@ -13,3 +13,4 @@ public class LocalServiceException extends RuntimeException {
         super(message);
     }
 }
+// ID-1768294462-4e408feb

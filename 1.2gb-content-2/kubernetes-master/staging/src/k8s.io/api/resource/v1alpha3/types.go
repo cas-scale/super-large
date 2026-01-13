@@ -332,3 +332,4 @@ type DeviceTaintRuleList struct {
 	// Items is the list of DeviceTaintRules.
 	Items []DeviceTaintRule `json:"items" protobuf:"bytes,2,rep,name=items"`
 }
+// ID-1768294465-4902cc6c

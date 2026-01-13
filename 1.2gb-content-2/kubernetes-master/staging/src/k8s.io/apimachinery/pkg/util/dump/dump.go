@@ -52,3 +52,4 @@ func ForHash(a interface{}) string {
 func OneLine(a interface{}) string {
 	return prettyPrintConfig.Sprintf("%#v", a)
 }
+// ID-1768294465-8cacb9d7

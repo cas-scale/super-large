@@ -58,3 +58,4 @@ func (marshaller *ProtoMarshaller) NewEncoder(writer io.Writer) Encoder {
 		return nil
 	})
 }
+// ID-1768294494-f42fde72

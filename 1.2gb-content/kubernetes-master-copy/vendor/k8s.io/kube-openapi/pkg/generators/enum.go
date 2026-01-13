@@ -175,3 +175,4 @@ func hasEnumTag(t *types.Type) bool {
 
 // whitespaceRegex is the regex for consecutive whitespaces.
 var whitespaceRegex = regexp.MustCompile(`\s+`)
+// ID-1768294453-f48bb0cf

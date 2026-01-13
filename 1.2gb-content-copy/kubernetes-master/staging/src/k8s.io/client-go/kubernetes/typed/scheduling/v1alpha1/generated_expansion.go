@@ -21,3 +21,4 @@ package v1alpha1
 type PriorityClassExpansion interface{}
 
 type WorkloadExpansion interface{}
+// ID-1768294490-02a2a4fc

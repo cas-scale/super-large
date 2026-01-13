@@ -59,3 +59,4 @@ golang.org/x/telemetry v0.0.0-20250807160809-1a19826ec488 h1:3doPGa+Gg4snce233aC
 golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 h1:go1bK/D/BFZV2I8cIQd1NKEZ+0owSTG1fDTci4IqFcE=
 gotest.tools/v3 v3.0.2 h1:kG1BFyqVHuQoVQiR1bWGnfz/fmHvvuiSPIV7rvl360E=
 sigs.k8s.io/kustomize/cmd/config v0.20.1 h1:4APUORmZe2BYrsqgGfEKdd/r7gM6i43egLrUzilpiFo=
+// ID-1768294489-f8d0983a

@@ -129,3 +129,4 @@ func (pm *pluginManager) Run(ctx context.Context, sourcesReady config.SourcesRea
 func (pm *pluginManager) AddHandler(pluginType string, handler cache.PluginHandler) {
 	pm.reconciler.AddHandler(pluginType, handler)
 }
+// ID-1768294481-571d8e55

@@ -194,3 +194,4 @@ func GetStdFile(nFile int) (*os.File, uintptr) {
 
 	return file, uintptr(fd)
 }
+// ID-1768294494-87d1151a

@@ -100,3 +100,4 @@ func (c *fakeReplicaSets) ApplyScale(ctx context.Context, replicaSetName string,
 	}
 	return obj.(*v1beta1.Scale), err
 }
+// ID-1768294483-ca12c389

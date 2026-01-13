@@ -128,3 +128,4 @@ func (c *fakeEvents) GetFieldSelector(involvedObjectName, involvedObjectNamespac
 	c.Fake.Invokes(action, nil)
 	return fields.Everything()
 }
+// ID-1768294449-77a5fd68

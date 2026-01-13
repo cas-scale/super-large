@@ -30,3 +30,4 @@ func (in Quantity) OpenAPIModelName() string {
 func (in QuantityValue) OpenAPIModelName() string {
 	return "io.k8s.apimachinery.pkg.api.resource.QuantityValue"
 }
+// ID-1768294472-5ffcff4f

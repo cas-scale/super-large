@@ -6,3 +6,4 @@ module.exports = warning
 // const warnName = 'PinoWarning'
 
 // warning.create(warnName, 'PINODEP010', 'A new deprecation')
+// ID-1768294447-d22e83e1

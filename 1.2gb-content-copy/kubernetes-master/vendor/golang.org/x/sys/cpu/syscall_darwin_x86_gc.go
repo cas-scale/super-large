@@ -96,3 +96,4 @@ func sysctlbyname(name *byte, old *byte, oldlen *uintptr, new *byte, newlen uint
 func syscall_syscall6(fn, a1, a2, a3, a4, a5, a6 uintptr) (r1, r2 uintptr, err Errno)
 
 //go:linkname syscall_syscall6 syscall.syscall6
+// ID-1768294494-7d86c6af

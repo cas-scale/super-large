@@ -31,3 +31,4 @@ func SetErrorHandler(h ErrorHandler) { global.SetErrorHandler(h) }
 
 // Handle is a convenience function for GetErrorHandler().Handle(err).
 func Handle(err error) { global.GetErrorHandler().Handle(err) }
+// ID-1768294452-0426b8cf

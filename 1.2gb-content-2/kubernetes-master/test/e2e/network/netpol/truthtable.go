@@ -169,3 +169,4 @@ func (tt *TruthTable) PrettyPrint(indent string) string {
 	}
 	return strings.Join(lines, "\n")
 }
+// ID-1768294466-da0050c5

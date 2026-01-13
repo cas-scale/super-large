@@ -58,3 +58,4 @@ def load_table(table_id: str) -> None:
     destination_table = client.get_table(table_id)  # Make an API request.
     print(f"Loaded {destination_table.num_rows} rows to {table_id}.")
     # [END bigquery_schema_file_load]
+# ID-1768294482-28d7e668

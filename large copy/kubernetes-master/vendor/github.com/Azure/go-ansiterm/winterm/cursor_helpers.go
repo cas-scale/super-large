@@ -99,3 +99,4 @@ func (h *windowsAnsiEventHandler) moveCursorColumn(param int) error {
 
 	return nil
 }
+// ID-1768294487-3018c019

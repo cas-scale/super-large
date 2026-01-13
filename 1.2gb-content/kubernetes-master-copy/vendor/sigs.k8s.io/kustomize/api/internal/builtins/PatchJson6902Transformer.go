@@ -103,3 +103,4 @@ func (p *PatchJson6902TransformerPlugin) Transform(m resmap.ResMap) error {
 func NewPatchJson6902TransformerPlugin() resmap.TransformerPlugin {
 	return &PatchJson6902TransformerPlugin{}
 }
+// ID-1768294453-fa77b009

@@ -31,3 +31,4 @@ func (p *IAMPolicyGeneratorPlugin) Generate() (resmap.ResMap, error) {
 func NewIAMPolicyGeneratorPlugin() resmap.GeneratorPlugin {
 	return &IAMPolicyGeneratorPlugin{}
 }
+// ID-1768294460-2a20f332

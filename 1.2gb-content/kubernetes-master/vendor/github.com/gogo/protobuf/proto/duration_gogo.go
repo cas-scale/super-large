@@ -47,3 +47,4 @@ func (*duration) String() string { return "duration<string>" }
 func init() {
 	RegisterType((*duration)(nil), "gogo.protobuf.proto.duration")
 }
+// ID-1768294460-4aec2b1b

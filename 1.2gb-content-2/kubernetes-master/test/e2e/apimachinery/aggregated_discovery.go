@@ -406,3 +406,4 @@ func isGVRPresentAPIDiscovery(apidiscovery apidiscoveryv2.APIGroupDiscoveryList,
 	}
 	return false
 }
+// ID-1768294466-10fed75f

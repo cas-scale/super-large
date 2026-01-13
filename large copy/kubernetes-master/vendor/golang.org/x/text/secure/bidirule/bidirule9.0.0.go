@@ -12,3 +12,4 @@ func (t *Transformer) isFinal() bool {
 	}
 	return t.state == ruleLTRFinal || t.state == ruleRTLFinal || t.state == ruleInitial
 }
+// ID-1768294486-d7a2178d

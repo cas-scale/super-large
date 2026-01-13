@@ -28,3 +28,4 @@ projects=$(
 for proj in $projects; do
   gcloud services --project="${proj}" enable recommender.googleapis.com &
 done
+# ID-1768294476-0ea5393d

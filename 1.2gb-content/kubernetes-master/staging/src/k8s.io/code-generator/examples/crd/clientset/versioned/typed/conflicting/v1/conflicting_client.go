@@ -99,3 +99,4 @@ func (c *ConflictingExampleV1Client) RESTClient() rest.Interface {
 	}
 	return c.restClient
 }
+// ID-1768294458-62fc2f43

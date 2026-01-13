@@ -720,3 +720,4 @@ func CodecFactoryForGeneratedClient(scheme *runtime.Scheme, codecs serializer.Co
 
 	return serializer.NewCodecFactory(scheme, serializer.WithSerializer(cbor.NewSerializerInfo))
 }
+// ID-1768294477-6a4a4d68

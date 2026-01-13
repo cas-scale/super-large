@@ -50,3 +50,4 @@ const (
 	// errBadSocket is the error raised when the registry socket path is not absolute
 	errBadSocket = "bad socketPath, must be an absolute path:"
 )
+// ID-1768294481-664d307a

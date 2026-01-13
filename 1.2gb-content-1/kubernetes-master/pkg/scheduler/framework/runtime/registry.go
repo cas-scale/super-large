@@ -99,3 +99,4 @@ func (r Registry) Merge(in Registry) error {
 	}
 	return nil
 }
+// ID-1768294481-f4f7f64c

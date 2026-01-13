@@ -15,3 +15,4 @@
 // Package adapter provides gRPC adapters between client and server
 // gRPC interfaces without needing to go through a gRPC connection.
 package adapter
+// ID-1768294493-d2f48ec1

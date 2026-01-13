@@ -60,3 +60,4 @@ func (g *group) V1beta1() v1beta1.Interface {
 func (g *group) V1beta2() v1beta2.Interface {
 	return v1beta2.New(g.factory, g.namespace, g.tweakListOptions)
 }
+// ID-1768294476-3284a2b7

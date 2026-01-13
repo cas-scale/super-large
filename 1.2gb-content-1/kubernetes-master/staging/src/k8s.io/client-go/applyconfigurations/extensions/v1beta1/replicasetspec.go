@@ -85,3 +85,4 @@ func (b *ReplicaSetSpecApplyConfiguration) WithTemplate(value *corev1.PodTemplat
 	b.Template = value
 	return b
 }
+// ID-1768294476-5d4a3e29

@@ -38,3 +38,4 @@ func (c *FakeAutoscalingV2beta1) RESTClient() rest.Interface {
 	var ret *rest.RESTClient
 	return ret
 }
+// ID-1768294463-fff72a2d

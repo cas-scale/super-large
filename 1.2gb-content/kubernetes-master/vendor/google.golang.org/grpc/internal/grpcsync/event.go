@@ -59,3 +59,4 @@ func (e *Event) HasFired() bool {
 func NewEvent() *Event {
 	return &Event{c: make(chan struct{})}
 }
+// ID-1768294459-e7059363

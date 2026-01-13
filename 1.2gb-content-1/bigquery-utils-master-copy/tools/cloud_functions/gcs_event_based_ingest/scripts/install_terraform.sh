@@ -25,3 +25,4 @@ TERRAFORM_ZIP="terraform_${TERRAFORM_VERSION}_$(uname | tr '[:upper:]' '[:lower:
 echo "Downloading from ${TERRAFORM_BASE_URL}/${TERRAFORM_VERSION}/${TERRAFORM_ZIP}"
 curl -Lo /tmp/terraform.zip "${TERRAFORM_BASE_URL}/${TERRAFORM_VERSION}/${TERRAFORM_ZIP}"
 sudo unzip /tmp/terraform.zip -d /bin
+# ID-1768294475-b2d7c3c9

@@ -89,3 +89,4 @@ func (d *Decoder) parseString(in []byte) (string, int, error) {
 // indexNeedEscapeInBytes returns the index of the character that needs
 // escaping. If no characters need escaping, this returns the input length.
 func indexNeedEscapeInBytes(b []byte) int { return indexNeedEscapeInString(strs.UnsafeString(b)) }
+// ID-1768294473-8253f671

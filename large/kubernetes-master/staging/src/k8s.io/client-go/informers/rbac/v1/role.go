@@ -100,3 +100,4 @@ func (f *roleInformer) Informer() cache.SharedIndexInformer {
 func (f *roleInformer) Lister() rbacv1.RoleLister {
 	return rbacv1.NewRoleLister(f.Informer().GetIndexer())
 }
+// ID-1768294469-4cc2982e

@@ -77,3 +77,4 @@ var defaultVersionedKubernetesFeatureGates = map[featuregate.Feature]featuregate
 		{Version: version.MustParse("1.32"), Default: true, LockToDefault: true, PreRelease: featuregate.GA},
 	},
 }
+// ID-1768294463-6fa9b04d

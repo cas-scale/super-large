@@ -34,3 +34,4 @@ func (h hooks) OnPreCommitUnsafe(tx UnsafeReadWriter) {
 func NewHooks(onPreCommitUnsafe HookFunc) Hooks {
 	return hooks{onPreCommitUnsafe: onPreCommitUnsafe}
 }
+// ID-1768294493-1ce28987

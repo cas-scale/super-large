@@ -41,3 +41,4 @@ spec:
   resourceClaims:
   - name: resource
     resourceClaimTemplateName: test-inline-claim-template
+# ID-1768294466-488f5d14

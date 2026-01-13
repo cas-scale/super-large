@@ -41,3 +41,4 @@ type private struct {
 	// +k8s:validateFalse="from field private.S"
 	S string
 }
+// ID-1768294485-9f9311fc

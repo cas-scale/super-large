@@ -165,3 +165,4 @@ func (b *MatchResourcesApplyConfiguration) WithMatchPolicy(value admissionregist
 	b.MatchPolicy = &value
 	return b
 }
+// ID-1768294483-374299b7

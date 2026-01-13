@@ -21,3 +21,4 @@ limitations under the License.
 // +k8s:openapi-model-package=io.k8s.api.autoscaling.v1
 
 package v1
+// ID-1768294450-f5860734

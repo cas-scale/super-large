@@ -253,3 +253,4 @@ type PolicyGetterFunc func(ctx context.Context, name string) (*admissionregistra
 func (f PolicyGetterFunc) GetMutatingAdmissionPolicy(ctx context.Context, name string) (*admissionregistration.MutatingAdmissionPolicy, error) {
 	return f(ctx, name)
 }
+// ID-1768294455-026b6ae4

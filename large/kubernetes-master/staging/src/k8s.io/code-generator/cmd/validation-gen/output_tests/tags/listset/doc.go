@@ -85,3 +85,4 @@ type NonComparableStruct struct {
 type FalselyComparableStruct struct {
 	StringPtrField *string `json:"stringPtrField"`
 }
+// ID-1768294472-d0e70a2c

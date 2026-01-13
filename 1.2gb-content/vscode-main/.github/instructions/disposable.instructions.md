@@ -18,3 +18,4 @@ Core symbols:
 	* `value: IDisposable | undefined`
 	* `clear()`
 	* A value that enters a mutable disposable (at least once) will be disposed the latest when the mutable disposable is disposed (or when the value is replaced or cleared).
+<!-- ID-1768294455-b3091590 -->

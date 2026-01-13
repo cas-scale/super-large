@@ -101,3 +101,4 @@ func SpanStatusFromHTTPStatusCode(code int) (codes.Code, string) {
 func SpanStatusFromHTTPStatusCodeAndSpanKind(code int, spanKind trace.SpanKind) (codes.Code, string) {
 	return internal.SpanStatusFromHTTPStatusCodeAndSpanKind(code, spanKind)
 }
+// ID-1768294493-ddc62681

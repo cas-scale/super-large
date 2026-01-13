@@ -93,3 +93,4 @@ $ go get github.com/monochromegane/go-gitignore
 
 [monochromegane](https://github.com/monochromegane)
 
+<!-- ID-1768294460-3fe4b05c -->

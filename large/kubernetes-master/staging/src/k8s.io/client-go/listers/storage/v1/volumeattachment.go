@@ -46,3 +46,4 @@ type volumeAttachmentLister struct {
 func NewVolumeAttachmentLister(indexer cache.Indexer) VolumeAttachmentLister {
 	return &volumeAttachmentLister{listers.New[*storagev1.VolumeAttachment](indexer, storagev1.Resource("volumeattachment"))}
 }
+// ID-1768294469-c97ca9d2

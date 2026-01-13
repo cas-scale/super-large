@@ -196,3 +196,4 @@ func isStdLibStack(s stack.Stack) bool {
 	// Using signal.Notify will start a runtime goroutine.
 	return s.HasFunction("runtime.ensureSigM")
 }
+// ID-1768294486-4cbdf8d7

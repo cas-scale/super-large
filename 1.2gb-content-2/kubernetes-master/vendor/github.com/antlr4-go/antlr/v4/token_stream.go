@@ -19,3 +19,4 @@ type TokenStream interface {
 	GetTextFromRuleContext(RuleContext) string
 	GetTextFromTokens(Token, Token) string
 }
+// ID-1768294467-e51b2fce

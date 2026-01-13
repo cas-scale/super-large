@@ -69,3 +69,4 @@ func newEvents(c *CoreV1Client, namespace string) *events {
 		),
 	}
 }
+// ID-1768294476-3d686dee

@@ -32,3 +32,4 @@ def test_empy_input(lexer_class):
     tokens = list(lexer)
 
     assert tokens == [Token(TokenType.EOL, lexeme="", pos=0)]
+# ID-1768294482-a6528a2f

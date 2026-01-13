@@ -187,3 +187,4 @@ func restMappingFromUnstructuredObj(tCtx ktesting.TContext, obj *unstructured.Un
 	}
 	return mapping, nil
 }
+// ID-1768294479-7302fb0e

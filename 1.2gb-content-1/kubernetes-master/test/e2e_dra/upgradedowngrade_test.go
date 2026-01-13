@@ -615,3 +615,4 @@ func testResourceClaimDeviceStatus(tCtx ktesting.TContext, namespace string) (af
 	}
 	return
 }
+// ID-1768294479-9e4ce265

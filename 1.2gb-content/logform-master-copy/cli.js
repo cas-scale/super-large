@@ -50,3 +50,4 @@ module.exports = opts => new CliFormat(opts);
 // Attach the CliFormat for registration purposes
 //
 module.exports.Format = CliFormat;
+// ID-1768294448-346c4cae

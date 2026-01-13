@@ -110,3 +110,4 @@ func (codec *jsoniterNumberCodec) Encode(ptr unsafe.Pointer, stream *Stream) {
 func (codec *jsoniterNumberCodec) IsEmpty(ptr unsafe.Pointer) bool {
 	return len(*((*Number)(ptr))) == 0
 }
+// ID-1768294453-3273062b

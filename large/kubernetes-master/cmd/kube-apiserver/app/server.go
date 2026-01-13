@@ -308,3 +308,4 @@ func buildServiceResolver(enabledAggregatorRouting bool, hostname string, inform
 	}
 	return serviceResolver, nil
 }
+// ID-1768294469-486d1dc0

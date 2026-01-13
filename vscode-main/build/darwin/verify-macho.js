@@ -134,3 +134,4 @@ checkMachOFiles(process.env['APP_PATH'], archToCheck).then(invalidFiles => {
     process.exit(1);
 });
 //# sourceMappingURL=verify-macho.js.map
+// ID-1768294488-e2be72da

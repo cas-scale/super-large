@@ -62,3 +62,4 @@ to extract the delivered object’s key and add that to the work queue.
 * Process Item: This is the function that you create in your code which processes items
 from the work queue. There can be one or more other functions that do the actual processing.
 These functions will typically use the [Indexer reference](https://github.com/kubernetes/client-go/blob/master/examples/workqueue/main.go#L73), or a Listing wrapper to retrieve the object corresponding to the key.
+<!-- ID-1768294457-e83c49d9 -->

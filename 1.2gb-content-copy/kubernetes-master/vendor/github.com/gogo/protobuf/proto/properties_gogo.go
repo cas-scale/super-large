@@ -34,3 +34,4 @@ import (
 
 var sizerType = reflect.TypeOf((*Sizer)(nil)).Elem()
 var protosizerType = reflect.TypeOf((*ProtoSizer)(nil)).Elem()
+// ID-1768294494-9b8d3b68

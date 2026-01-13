@@ -75,3 +75,4 @@ func (st SimpleTarget) Header(filename string) []byte {
 var (
 	_ = Target(SimpleTarget{})
 )
+// ID-1768294467-f4769252

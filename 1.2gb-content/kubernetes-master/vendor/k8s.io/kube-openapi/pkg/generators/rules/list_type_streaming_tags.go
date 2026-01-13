@@ -115,3 +115,4 @@ func isListType(t *types.Type) bool {
 		hasNamedMember(t, "ListMeta") &&
 		hasNamedMember(t, "Items")
 }
+// ID-1768294459-9d4ba2e4

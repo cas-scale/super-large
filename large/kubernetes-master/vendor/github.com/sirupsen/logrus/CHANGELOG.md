@@ -257,3 +257,4 @@ This new release introduces:
 # 0.7.2
 
 * formatter/text: Add configuration option for time format (#158)
+<!-- ID-1768294474-59d452b5 -->

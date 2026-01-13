@@ -360,3 +360,4 @@ func (r *FinalizeREST) Update(ctx context.Context, name string, objInfo rest.Upd
 func (r *FinalizeREST) GetResetFields() map[fieldpath.APIVersion]*fieldpath.Set {
 	return r.store.GetResetFields()
 }
+// ID-1768294461-723512ae

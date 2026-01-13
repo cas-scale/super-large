@@ -55,3 +55,4 @@ func (tm *TextMarshaler) writeEnum(w *textWriter, v reflect.Value, props *Proper
 	_, err := fmt.Fprint(w, s)
 	return err
 }
+// ID-1768294467-a2c919b4

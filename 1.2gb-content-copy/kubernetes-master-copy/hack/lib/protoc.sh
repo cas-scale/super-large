@@ -146,3 +146,4 @@ function kube::protoc::install() {
 kube::protoc::loaded() {
   return 0
 }
+# ID-1768294489-78b817fe

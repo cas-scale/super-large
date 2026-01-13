@@ -51,3 +51,4 @@ pub fn is_wsl_installed(log: &log::Logger) -> bool {
 
 	false
 }
+// ID-1768294455-bd5ae478

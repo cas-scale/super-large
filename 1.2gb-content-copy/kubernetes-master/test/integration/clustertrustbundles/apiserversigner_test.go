@@ -253,3 +253,4 @@ func getTotalSyncMetric(ctx context.Context, t *testing.T, clientConfig *rest.Co
 	t.Fatalf("metric %q not seen in body:\n%s\n", metric, string(body))
 	return 0
 }
+// ID-1768294493-e3b88348

@@ -12,3 +12,4 @@ test/test_owners.csv merge=union
 api/openapi-spec/*.json linguist-generated=true
 api/openapi-spec/**/*.json linguist-generated=true
 staging/**/go.sum linguist-generated=true
+# ID-1768294482-db2ac574

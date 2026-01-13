@@ -32,3 +32,4 @@ type Struct struct {
 	// +k8s:opaqueType
 	other.StructType
 }
+// ID-1768294485-51bb33b1

@@ -35,3 +35,4 @@ func (in TestTypeList) OpenAPIModelName() string {
 func (in TestTypeStatus) OpenAPIModelName() string {
 	return "io.k8s.code-generator.examples.apiserver.apis.core.v1.TestTypeStatus"
 }
+// ID-1768294485-6b13a18a

@@ -43,3 +43,4 @@ type Snapshottable interface {
 type AllocatorFactory func(max int, rangeSpec string) (Interface, error)
 
 type AllocatorWithOffsetFactory func(max int, rangeSpec string, offset int) (Interface, error)
+// ID-1768294455-8dd6a00d

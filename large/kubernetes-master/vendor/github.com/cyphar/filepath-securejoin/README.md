@@ -167,3 +167,4 @@ after `MkdirAll`).
 
 The license of this project is the same as Go, which is a BSD 3-clause license
 available in the `LICENSE` file.
+<!-- ID-1768294473-9c5993e2 -->

@@ -17,3 +17,4 @@ limitations under the License.
 // Package record has all client logic for recording and reporting
 // "k8s.io/api/core/v1".Event events.
 package record
+// ID-1768294482-3af93ad9

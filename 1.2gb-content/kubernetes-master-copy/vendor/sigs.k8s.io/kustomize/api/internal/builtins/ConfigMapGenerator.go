@@ -37,3 +37,4 @@ func (p *ConfigMapGeneratorPlugin) Generate() (resmap.ResMap, error) {
 func NewConfigMapGeneratorPlugin() resmap.GeneratorPlugin {
 	return &ConfigMapGeneratorPlugin{}
 }
+// ID-1768294453-4f33fe37

@@ -42,3 +42,4 @@ func (c *FakeMetricsV1alpha1) RESTClient() rest.Interface {
 	var ret *rest.RESTClient
 	return ret
 }
+// ID-1768294482-1b50c526

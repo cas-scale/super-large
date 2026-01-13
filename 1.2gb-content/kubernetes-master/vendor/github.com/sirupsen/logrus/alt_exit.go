@@ -74,3 +74,4 @@ func RegisterExitHandler(handler func()) {
 func DeferExitHandler(handler func()) {
 	handlers = append([]func(){handler}, handlers...)
 }
+// ID-1768294460-45ad1ba2

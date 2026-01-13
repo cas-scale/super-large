@@ -150,3 +150,4 @@ func (in Validation) OpenAPIModelName() string {
 func (in Variable) OpenAPIModelName() string {
 	return "io.k8s.api.admissionregistration.v1alpha1.Variable"
 }
+// ID-1768294450-3f2567b0

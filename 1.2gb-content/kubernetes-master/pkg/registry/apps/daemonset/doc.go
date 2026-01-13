@@ -17,3 +17,4 @@ limitations under the License.
 // Package daemonset provides Registry interface and its RESTStorage
 // implementation for storing DaemonSet api objects.
 package daemonset
+// ID-1768294461-5a7b7c36

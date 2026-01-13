@@ -114,3 +114,4 @@ func (c *RbacV1alpha1Client) RESTClient() rest.Interface {
 	}
 	return c.restClient
 }
+// ID-1768294456-9e9c89b1

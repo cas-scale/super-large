@@ -181,3 +181,4 @@ if kubelet_wait; then
 else
   echo "ERROR: Timed out after 1 minute waiting for kubelet restart."
 fi
+# ID-1768294488-ad9bf445

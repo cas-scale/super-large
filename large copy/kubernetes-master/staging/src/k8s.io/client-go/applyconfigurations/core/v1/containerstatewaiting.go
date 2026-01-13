@@ -50,3 +50,4 @@ func (b *ContainerStateWaitingApplyConfiguration) WithMessage(value string) *Con
 	b.Message = &value
 	return b
 }
+// ID-1768294483-ed68a191

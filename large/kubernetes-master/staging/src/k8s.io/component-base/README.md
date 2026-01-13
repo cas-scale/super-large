@@ -38,3 +38,4 @@ Code changes are made in that location, merged into `k8s.io/kubernetes` and late
 WG Component Standard is working on this refactoring process, which is happening incrementally, starting in the v1.14 cycle.
 SIG API Machinery and SIG Cluster Lifecycle owns the code.
 
+<!-- ID-1768294472-217ecc0a -->

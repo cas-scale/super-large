@@ -151,3 +151,4 @@ export function registerDropOrPasteResourceSupport(selector: vscode.DocumentSele
 		})
 	);
 }
+// ID-1768294488-55711b7f

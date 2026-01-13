@@ -62,3 +62,4 @@ func deployDevicePlugin(ctx context.Context, f *framework.Framework, nodeNames [
 	// Hard-coded in https://github.com/kubernetes/kubernetes/blob/111a2a0d2dfe13639724506f674bc4f342ccfbab/test/images/sample-device-plugin/sampledeviceplugin.go#L34C17-L34C39.
 	return "example.com/resource"
 }
+// ID-1768294493-b41da1a5

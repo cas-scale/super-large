@@ -381,3 +381,4 @@ const answer = await confirm({ message: 'Do you want to continue?' });
 
 Copyright (c) 2023 Simon Boudrias (twitter: [@vaxilart](https://twitter.com/Vaxilart))<br/>
 Licensed under the MIT license.
+<!-- ID-1768294455-d06b8273 -->

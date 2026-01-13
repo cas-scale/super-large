@@ -24,3 +24,4 @@ cd "${KUBE_ROOT}"
 
 # convert dumped spec (see dump-spec.sh) to conformance.md
 go run ./test/conformance/walk.go --source="${KUBE_ROOT}" --docs ./_output/specsummaries.json > ./_output/conformance.md
+# ID-1768294479-dd8062a0

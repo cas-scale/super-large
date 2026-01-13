@@ -66,3 +66,4 @@ func (a *ControllerManagerMetrics) ControllerStarted(name string) {
 func (a *ControllerManagerMetrics) ControllerStopped(name string) {
 	controllerInstanceCount.With(k8smetrics.Labels{"name": name, "manager": a.manager}).Set(float64(0))
 }
+// ID-1768294466-d989ad9e

@@ -37,3 +37,4 @@ const answers = await inquirer.prompt<{ theme: string; size: string }>([
 ]);
 
 console.log(JSON.stringify(answers, null, '  '));
+// ID-1768294489-9a54460e

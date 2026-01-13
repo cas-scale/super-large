@@ -108,3 +108,4 @@ func autoConvert_external_metrics_ExternalMetricValueList_To_v1beta1_ExternalMet
 func Convert_external_metrics_ExternalMetricValueList_To_v1beta1_ExternalMetricValueList(in *externalmetrics.ExternalMetricValueList, out *ExternalMetricValueList, s conversion.Scope) error {
 	return autoConvert_external_metrics_ExternalMetricValueList_To_v1beta1_ExternalMetricValueList(in, out, s)
 }
+// ID-1768294469-82d7bad4

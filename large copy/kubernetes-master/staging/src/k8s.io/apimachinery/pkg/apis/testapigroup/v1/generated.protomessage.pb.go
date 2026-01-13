@@ -32,3 +32,4 @@ func (*CarpList) ProtoMessage() {}
 func (*CarpSpec) ProtoMessage() {}
 
 func (*CarpStatus) ProtoMessage() {}
+// ID-1768294485-82a0392b

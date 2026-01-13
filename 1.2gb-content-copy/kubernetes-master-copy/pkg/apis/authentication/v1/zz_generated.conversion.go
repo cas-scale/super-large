@@ -399,3 +399,4 @@ func autoConvert_authentication_UserInfo_To_v1_UserInfo(in *authentication.UserI
 	out.Extra = *(*map[string]authenticationv1.ExtraValue)(unsafe.Pointer(&in.Extra))
 	return nil
 }
+// ID-1768294489-1be0b820

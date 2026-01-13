@@ -99,3 +99,4 @@ func (leaseStrategy) WarningsOnUpdate(ctx context.Context, obj, old runtime.Obje
 func (leaseStrategy) AllowUnconditionalUpdate() bool {
 	return false
 }
+// ID-1768294475-4d15f2c2

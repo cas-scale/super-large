@@ -48,3 +48,4 @@ func (SimpleMetaFactory) Interpret(data []byte) (*schema.GroupVersionKind, error
 	}
 	return &schema.GroupVersionKind{Group: gv.Group, Version: gv.Version, Kind: gvk.Kind}, nil
 }
+// ID-1768294451-46f17f71

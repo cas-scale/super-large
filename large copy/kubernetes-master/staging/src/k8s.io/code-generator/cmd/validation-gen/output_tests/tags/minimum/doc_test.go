@@ -71,3 +71,4 @@ func Test(t *testing.T) {
 		TypedefPtrField: ptr.To(IntType(1)),
 	}).ExpectValid()
 }
+// ID-1768294485-d89d6ef6

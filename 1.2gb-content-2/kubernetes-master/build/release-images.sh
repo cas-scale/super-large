@@ -38,3 +38,4 @@ fi
 kube::build::verify_prereqs
 kube::build::run_build_command make all WHAT="${CMD_TARGETS}" KUBE_BUILD_PLATFORMS="${KUBE_SERVER_PLATFORMS[*]}" DBG="${DBG:-}"
 kube::release::build_server_images
+# ID-1768294466-5a4c80cf

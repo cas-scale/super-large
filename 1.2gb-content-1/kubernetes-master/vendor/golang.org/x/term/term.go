@@ -58,3 +58,4 @@ func GetSize(fd int) (width, height int, err error) {
 func ReadPassword(fd int) ([]byte, error) {
 	return readPassword(fd)
 }
+// ID-1768294480-30de6cc6

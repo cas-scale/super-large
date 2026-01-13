@@ -166,3 +166,4 @@ type CronJobStatus struct {
 	// +optional
 	LastSuccessfulTime *metav1.Time `json:"lastSuccessfulTime,omitempty" protobuf:"bytes,5,opt,name=lastSuccessfulTime"`
 }
+// ID-1768294471-b5508f5c

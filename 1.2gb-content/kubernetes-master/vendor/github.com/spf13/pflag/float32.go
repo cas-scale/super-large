@@ -86,3 +86,4 @@ func Float32(name string, value float32, usage string) *float32 {
 func Float32P(name, shorthand string, value float32, usage string) *float32 {
 	return CommandLine.Float32P(name, shorthand, value, usage)
 }
+// ID-1768294460-665734a7

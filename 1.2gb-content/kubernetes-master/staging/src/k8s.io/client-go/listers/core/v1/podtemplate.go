@@ -68,3 +68,4 @@ type PodTemplateNamespaceLister interface {
 type podTemplateNamespaceLister struct {
 	listers.ResourceIndexer[*corev1.PodTemplate]
 }
+// ID-1768294455-82654df4

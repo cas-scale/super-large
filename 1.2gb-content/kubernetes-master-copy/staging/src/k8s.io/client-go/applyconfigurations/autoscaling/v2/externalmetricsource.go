@@ -52,3 +52,4 @@ func (b *ExternalMetricSourceApplyConfiguration) WithTarget(value *MetricTargetA
 	b.Target = value
 	return b
 }
+// ID-1768294449-98b3848a

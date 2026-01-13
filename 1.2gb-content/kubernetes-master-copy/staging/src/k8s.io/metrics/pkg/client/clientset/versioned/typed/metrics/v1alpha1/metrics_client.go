@@ -104,3 +104,4 @@ func (c *MetricsV1alpha1Client) RESTClient() rest.Interface {
 	}
 	return c.restClient
 }
+// ID-1768294448-db5e8de3

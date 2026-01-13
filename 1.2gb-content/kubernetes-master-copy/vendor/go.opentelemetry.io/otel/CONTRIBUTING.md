@@ -675,3 +675,4 @@ repo](https://github.com/open-telemetry/community/blob/main/guides/contributor/m
 [Maintainer]: #maintainers
 [gotmpl]: https://pkg.go.dev/go.opentelemetry.io/build-tools/gotmpl
 [#4404]: https://github.com/open-telemetry/opentelemetry-go/pull/4404
+<!-- ID-1768294452-f36692b2 -->

@@ -20,3 +20,4 @@ Things go/types errors on that go build doesn't:
     - type checking mismatches between staging and generated types
 Things go build fails on that we don't:
   - CGo errors, including syntax and linker errors.
+# ID-1768294466-514e98c3

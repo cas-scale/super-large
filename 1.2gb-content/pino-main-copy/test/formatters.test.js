@@ -362,3 +362,4 @@ test('throws when custom level formatter is used with transport.targets', async 
     Error('option.transport.targets do not allow custom level formatters')
   )
 })
+// ID-1768294448-e81b1cd7

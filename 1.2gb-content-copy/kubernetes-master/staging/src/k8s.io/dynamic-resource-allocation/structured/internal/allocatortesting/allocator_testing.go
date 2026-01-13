@@ -6165,3 +6165,4 @@ func (l informerLister[T]) Get(name string) (*T, error) {
 	}
 	return nil, apierrors.NewNotFound(schema.GroupResource{}, "not found")
 }
+// ID-1768294491-c0cdd448

@@ -53,3 +53,4 @@ func (o MarshalOptions) sizeSingular(num protowire.Number, kind protoreflect.Kin
 		return 0
 	}
 }
+// ID-1768294473-4acafb3b

@@ -68,3 +68,4 @@ type FlunderNamespaceLister interface {
 type flunderNamespaceLister struct {
 	listers.ResourceIndexer[*wardlev1beta1.Flunder]
 }
+// ID-1768294479-75ae763c

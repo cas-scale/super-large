@@ -60,3 +60,4 @@ func LockFile(path string, flag int, perm os.FileMode) (*LockedFile, error) {
 	}
 	return &LockedFile{f}, nil
 }
+// ID-1768294493-d4d484be

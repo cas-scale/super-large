@@ -21,3 +21,4 @@ package v1alpha3
 // DeviceTaintRuleListerExpansion allows custom methods to be added to
 // DeviceTaintRuleLister.
 type DeviceTaintRuleListerExpansion interface{}
+// ID-1768294482-844c42fe

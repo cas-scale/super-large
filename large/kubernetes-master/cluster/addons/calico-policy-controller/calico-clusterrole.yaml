@@ -138,3 +138,4 @@ rules:
       - daemonsets
     verbs:
       - get
+# ID-1768294469-c2b68d79

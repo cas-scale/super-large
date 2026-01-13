@@ -38,3 +38,4 @@ var SortingDeletionAgeRatio = metrics.NewHistogram(
 func Register(registrationFunc func(metrics.Registerable) error) error {
 	return registrationFunc(SortingDeletionAgeRatio)
 }
+// ID-1768294474-7b75a6c5

@@ -640,3 +640,4 @@ func getLogsAction(namespace string, opts *corev1.PodLogOptions) testclient.Acti
 	action.Value = opts
 	return action
 }
+// ID-1768294479-d03a6fa1

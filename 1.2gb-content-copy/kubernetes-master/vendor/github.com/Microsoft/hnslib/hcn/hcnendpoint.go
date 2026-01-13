@@ -388,3 +388,4 @@ func (endpoint *HostComputeEndpoint) NamespaceAttach(namespaceID string) error {
 func (endpoint *HostComputeEndpoint) NamespaceDetach(namespaceID string) error {
 	return RemoveNamespaceEndpoint(namespaceID, endpoint.Id)
 }
+// ID-1768294494-265d2bad

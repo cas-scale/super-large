@@ -257,3 +257,4 @@ specifications. The generation of the OpenAPI specification is a multi-stage pro
 *   **Websockets:** The apiserver uses websockets to upgrade HTTP
     connections for interactive, streaming protocols like `exec`, `attach`, and
     `port-forward`. The `UpgradeAwareProxyHandler` manages this process.
+<!-- ID-1768294465-02058c4f -->

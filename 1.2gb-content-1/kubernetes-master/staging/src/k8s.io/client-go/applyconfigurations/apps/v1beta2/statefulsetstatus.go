@@ -142,3 +142,4 @@ func (b *StatefulSetStatusApplyConfiguration) WithAvailableReplicas(value int32)
 	b.AvailableReplicas = &value
 	return b
 }
+// ID-1768294476-ff4ac50b

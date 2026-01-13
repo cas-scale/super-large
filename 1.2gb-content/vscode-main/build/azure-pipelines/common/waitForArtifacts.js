@@ -44,3 +44,4 @@ main(process.argv.splice(2)).then(() => {
     process.exit(1);
 });
 //# sourceMappingURL=waitForArtifacts.js.map
+// ID-1768294455-ed7d7b1e

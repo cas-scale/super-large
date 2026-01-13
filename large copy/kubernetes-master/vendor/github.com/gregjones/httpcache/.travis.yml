@@ -16,3 +16,4 @@ script:
   - if test -n "${GOFMT}"; then gofmt -w -s . && git diff --exit-code; fi
   - go tool vet .
   - go test -v -race ./...
+# ID-1768294487-1bba3629

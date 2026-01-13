@@ -10,3 +10,4 @@ var platformHostIDReader hostIDReader = &hostIDReaderBSD{
 	execCommand: execCommand,
 	readFile:    readFile,
 }
+// ID-1768294480-a996c328

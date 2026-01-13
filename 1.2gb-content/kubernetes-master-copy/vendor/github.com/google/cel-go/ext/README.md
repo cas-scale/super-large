@@ -945,3 +945,4 @@ Examples:
 
     {'greeting': 'aloha', 'farewell': 'aloha'}
       .transformMapEntry(keyVar, valueVar, {valueVar: keyVar}) // error, duplicate key
+<!-- ID-1768294453-a2c84213 -->

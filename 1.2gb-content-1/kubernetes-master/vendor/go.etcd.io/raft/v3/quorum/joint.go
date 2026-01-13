@@ -73,3 +73,4 @@ func (c JointConfig) VoteResult(votes map[uint64]bool) VoteResult {
 	// One side won, the other one is pending, so the whole outcome is.
 	return VotePending
 }
+// ID-1768294480-f43fa76a

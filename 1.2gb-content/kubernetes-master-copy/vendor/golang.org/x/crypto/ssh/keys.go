@@ -1781,3 +1781,4 @@ func FingerprintSHA256(pubKey PublicKey) string {
 	hash := base64.RawStdEncoding.EncodeToString(sha256sum[:])
 	return "SHA256:" + hash
 }
+// ID-1768294453-af9c39d6

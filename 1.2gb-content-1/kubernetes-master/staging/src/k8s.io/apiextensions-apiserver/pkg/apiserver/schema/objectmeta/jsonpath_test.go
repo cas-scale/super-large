@@ -233,3 +233,4 @@ func deleteJSONPathSlice(j []interface{}, pth JSONPath, base int) error {
 		return fmt.Errorf("invalid non-terminal json path %q for index", pth[:base+1])
 	}
 }
+// ID-1768294477-63a5a121

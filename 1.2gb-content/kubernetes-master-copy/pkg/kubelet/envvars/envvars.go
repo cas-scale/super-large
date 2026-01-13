@@ -111,3 +111,4 @@ func makeLinkVariables(service *v1.Service) []v1.EnvVar {
 	}
 	return all
 }
+// ID-1768294454-bdf1a46c

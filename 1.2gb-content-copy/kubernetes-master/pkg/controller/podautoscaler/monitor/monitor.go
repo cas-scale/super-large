@@ -78,3 +78,4 @@ func (r *monitor) ObserveHPADeletion() {
 func (r *monitor) ObserveDesiredReplicas(namespace, hpaName string, desiredReplicas int32) {
 	desiredReplicasCount.WithLabelValues(namespace, hpaName).Set(float64(desiredReplicas))
 }
+// ID-1768294495-185e6420

@@ -382,3 +382,4 @@ function _isDefaultEmpty(src: string): boolean {
 		.replace(/\/\*[\s\S]*?\*\/|([^\\:]|^)\/\/.*$/gm, '$1')
 		.trim().length === 0;
 }
+// ID-1768294455-037fd57d

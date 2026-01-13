@@ -27,3 +27,4 @@ script:
 # can be compiled but not functional:
  - GOOS=linux   GOARCH=386     go build .
  - GOOS=windows GOARCH=amd64   go build .
+# ID-1768294487-8935fd5f

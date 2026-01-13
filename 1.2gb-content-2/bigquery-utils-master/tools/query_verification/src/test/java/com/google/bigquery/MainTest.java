@@ -47,3 +47,4 @@ public class MainTest {
         assertArrayEquals(command.getOptionValues('q'), new String[]{queryOne, queryOne});
     }
 }
+// ID-1768294462-19ba7d1c

@@ -191,3 +191,4 @@ func parseGroupVersionKind(extensions map[string]interface{}) []schema.GroupVers
 
 	return gvkListResult
 }
+// ID-1768294479-51f519e8

@@ -517,3 +517,4 @@ func (w *Walker) WalkRoot(swagger *spec.Swagger) *spec.Swagger {
 
 	return swagger
 }
+// ID-1768294459-287e1c80

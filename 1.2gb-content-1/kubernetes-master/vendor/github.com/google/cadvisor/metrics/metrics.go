@@ -40,3 +40,4 @@ type infoProvider interface {
 	// GetMachineInfo provides information about the machine.
 	GetMachineInfo() (*info.MachineInfo, error)
 }
+// ID-1768294480-39d599fd

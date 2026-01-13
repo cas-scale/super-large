@@ -115,3 +115,4 @@ func ResolverEnvOption(resolver TypeResolver) cel.EnvOption {
 		return typeProviderOption(e)
 	}
 }
+// ID-1768294451-a1549f0f

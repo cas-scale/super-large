@@ -104,3 +104,4 @@ var _ = SIGDescribe("Kubectl delete", func() {
 		})
 	})
 })
+// ID-1768294479-8a063acf

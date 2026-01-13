@@ -99,3 +99,4 @@ func (c *CoordinationV1alpha2Client) RESTClient() rest.Interface {
 	}
 	return c.restClient
 }
+// ID-1768294469-f755bf22

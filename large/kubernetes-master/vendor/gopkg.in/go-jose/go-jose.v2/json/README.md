@@ -11,3 +11,4 @@ The following changes were made:
 * When deserializing a JSON object, we check for duplicate keys and reject the
   input whenever we detect a duplicate. Rather than trying to work with malformed
   data, we prefer to reject it right away.
+<!-- ID-1768294473-6f78f65a -->

@@ -41,3 +41,4 @@ def create_table_snapshot(source_table_id: str, snapshot_table_id: str) -> None:
 
     print("Created table snapshot {}".format(snapshot_table_id))
     # [END bigquery_create_table_snapshot]
+# ID-1768294482-ac031eca

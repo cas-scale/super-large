@@ -165,3 +165,4 @@ suite('StringPolicy', () => {
 		assert.strictEqual(manifest, '<dict>\n<key>pfm_default</key>\n<string></string>\n<key>pfm_description</key>\n<string>Test string policy description</string>\n<key>pfm_name</key>\n<string>TestStringPolicy</string>\n<key>pfm_title</key>\n<string>TestStringPolicy</string>\n<key>pfm_type</key>\n<string>string</string>\n</dict>');
 	});
 });
+// ID-1768294488-d1b5059d

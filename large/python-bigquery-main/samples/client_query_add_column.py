@@ -48,3 +48,4 @@ def client_query_add_column(table_id: str) -> None:
     table = client.get_table(table_id)  # Make an API request.
     print("Table {} now contains {} columns".format(table_id, len(table.schema)))
     # [END bigquery_add_column_query_append]
+# ID-1768294469-0525970d

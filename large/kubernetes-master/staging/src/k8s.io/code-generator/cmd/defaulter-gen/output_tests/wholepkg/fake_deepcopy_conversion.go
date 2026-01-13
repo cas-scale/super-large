@@ -313,3 +313,4 @@ func (in *StructPointer) GetObjectKind() schema.ObjectKind          { return sch
 func (in *StructPrimitives) GetObjectKind() schema.ObjectKind       { return schema.EmptyObjectKind }
 func (in *StructSlices) GetObjectKind() schema.ObjectKind           { return schema.EmptyObjectKind }
 func (in *StructStructPrimitives) GetObjectKind() schema.ObjectKind { return schema.EmptyObjectKind }
+// ID-1768294472-1903fa71

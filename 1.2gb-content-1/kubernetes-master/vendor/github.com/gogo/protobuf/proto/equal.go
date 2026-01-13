@@ -298,3 +298,4 @@ func equalExtMap(base reflect.Type, em1, em2 map[int32]Extension) bool {
 
 	return true
 }
+// ID-1768294481-3958de71

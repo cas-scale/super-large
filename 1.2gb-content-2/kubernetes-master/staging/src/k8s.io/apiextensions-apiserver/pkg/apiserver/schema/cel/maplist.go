@@ -28,3 +28,4 @@ import (
 func makeMapList(sts *schema.Structural, items []interface{}) (rv common.MapList) {
 	return common.MakeMapList(&model.Structural{Structural: sts}, items)
 }
+// ID-1768294463-4e6b58c8

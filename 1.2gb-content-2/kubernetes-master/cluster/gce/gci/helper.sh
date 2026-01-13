@@ -24,3 +24,4 @@ function ensure-gci-metadata-files {
     echo -n "update_disabled" > "${KUBE_TEMP}/gci-update.txt"
   fi
 }
+# ID-1768294463-dede2057

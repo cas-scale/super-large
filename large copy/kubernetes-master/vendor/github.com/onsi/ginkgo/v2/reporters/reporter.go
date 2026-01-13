@@ -27,3 +27,4 @@ func (n NoopReporter) EmitFailure(state types.SpecState, failure types.Failure) 
 func (n NoopReporter) EmitProgressReport(progressReport types.ProgressReport)   {}
 func (n NoopReporter) EmitReportEntry(entry types.ReportEntry)                  {}
 func (n NoopReporter) EmitSpecEvent(event types.SpecEvent)                      {}
+// ID-1768294486-6412fa4f

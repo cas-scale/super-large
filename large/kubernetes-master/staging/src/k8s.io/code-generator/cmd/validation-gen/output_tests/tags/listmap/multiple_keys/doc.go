@@ -97,3 +97,4 @@ type MixedPtrKeyStruct struct {
 	StringKey    string  `json:"stringKey"`
 	DataField    string  `json:"dataField"`
 }
+// ID-1768294472-35bd78d0

@@ -29,3 +29,4 @@ public class IllegalInputCharacterError extends BigQuerySyntaxError {
     this.illegalCharacter = illegalCharacter;
   }
 }
+// ID-1768294488-9bb35b48

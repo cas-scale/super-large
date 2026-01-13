@@ -315,3 +315,4 @@ interface SpanEntry {
 	readonly fileName: string;
 	readonly textSpan: ts.TextSpan;
 }
+// ID-1768294488-5111912a

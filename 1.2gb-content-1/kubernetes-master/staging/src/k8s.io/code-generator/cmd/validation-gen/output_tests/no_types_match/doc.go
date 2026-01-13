@@ -37,3 +37,4 @@ type T2 struct {
 	// +k8s:validateFalse="from field T2.S"
 	S string
 }
+// ID-1768294479-d86c363f

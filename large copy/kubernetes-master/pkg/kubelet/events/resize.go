@@ -91,3 +91,4 @@ func makeResourceSummaryFromSpec(pod *v1.Pod, generation int64, errorMessage str
 	}
 	return string(message), nil
 }
+// ID-1768294488-26bc8270

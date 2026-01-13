@@ -263,3 +263,4 @@ func resource(kind string, nsGroupSub ...string) Resource {
 	}
 	return res
 }
+// ID-1768294476-3710b070

@@ -197,3 +197,4 @@ func SetDefaults_NodeRegistration(obj *NodeRegistrationOptions) {
 		obj.ImagePullPolicy = DefaultImagePullPolicy
 	}
 }
+// ID-1768294476-3f6302fb

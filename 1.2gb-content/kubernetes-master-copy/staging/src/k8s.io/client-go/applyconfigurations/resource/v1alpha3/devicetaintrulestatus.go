@@ -68,3 +68,4 @@ func (b *DeviceTaintRuleStatusApplyConfiguration) WithConditions(values ...*v1.C
 	}
 	return b
 }
+// ID-1768294449-5ef9564c

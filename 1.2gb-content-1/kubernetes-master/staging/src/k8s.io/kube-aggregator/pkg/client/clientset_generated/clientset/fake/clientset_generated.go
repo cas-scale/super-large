@@ -110,3 +110,4 @@ func (c *Clientset) ApiregistrationV1() apiregistrationv1.ApiregistrationV1Inter
 func (c *Clientset) ApiregistrationV1beta1() apiregistrationv1beta1.ApiregistrationV1beta1Interface {
 	return &fakeapiregistrationv1beta1.FakeApiregistrationV1beta1{Fake: &c.Fake}
 }
+// ID-1768294477-423ceca1

@@ -191,3 +191,4 @@ func parsePatchMetadata(extensions map[string]interface{}) (string, []string, er
 	}
 	return mergeKey, patchStrategies, nil
 }
+// ID-1768294451-35dcad23

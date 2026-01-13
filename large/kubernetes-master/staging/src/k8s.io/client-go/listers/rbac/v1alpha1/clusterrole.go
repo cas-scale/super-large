@@ -46,3 +46,4 @@ type clusterRoleLister struct {
 func NewClusterRoleLister(indexer cache.Indexer) ClusterRoleLister {
 	return &clusterRoleLister{listers.New[*rbacv1alpha1.ClusterRole](indexer, rbacv1alpha1.Resource("clusterrole"))}
 }
+// ID-1768294469-b15e2cb5

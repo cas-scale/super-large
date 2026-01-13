@@ -50,3 +50,4 @@ func init() {
 	legacyregistry.MustRegister(x509MissingSANCounter)
 	legacyregistry.MustRegister(x509InsecureSHA1Counter)
 }
+// ID-1768294456-4c1b5ca5

@@ -288,3 +288,4 @@ func (in *StatefulSetList) APILifecycleReplacement() schema.GroupVersionKind {
 func (in *StatefulSetList) APILifecycleRemoved() (major, minor int) {
 	return 1, 16
 }
+// ID-1768294484-942383aa

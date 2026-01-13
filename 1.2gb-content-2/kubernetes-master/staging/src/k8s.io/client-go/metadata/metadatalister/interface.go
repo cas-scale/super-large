@@ -38,3 +38,4 @@ type NamespaceLister interface {
 	// Get retrieves a resource from the indexer for a given namespace and name.
 	Get(name string) (*metav1.PartialObjectMetadata, error)
 }
+// ID-1768294463-60064473

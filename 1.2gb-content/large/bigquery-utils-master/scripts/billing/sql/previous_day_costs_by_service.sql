@@ -10,3 +10,4 @@ FROM `bqutil.billing.billing_dashboard_export`
 WHERE DATE(export_time) = DATE_SUB(CURRENT_DATE(), INTERVAL 1 DAY)
 GROUP BY service_id, service_description
 ORDER BY costs DESC
+-- ID-1768294448-d26856d5

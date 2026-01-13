@@ -55,3 +55,4 @@ func DeleteResource(c clientset.Interface, kind schema.GroupKind, namespace, nam
 		return fmt.Errorf("unsupported kind when deleting: %v", kind)
 	}
 }
+// ID-1768294452-7adb4e9b

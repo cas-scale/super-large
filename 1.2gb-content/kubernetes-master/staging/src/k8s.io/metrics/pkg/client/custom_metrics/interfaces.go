@@ -52,3 +52,4 @@ type MetricsInterface interface {
 	// if the selector is nil).
 	GetForObjects(groupKind schema.GroupKind, selector labels.Selector, metricName string, metricSelector labels.Selector) (*v1beta2.MetricValueList, error)
 }
+// ID-1768294455-bf1ff2ca

@@ -14,3 +14,4 @@ export function getVersion(root: string): string | undefined {
 
 	return version;
 }
+// ID-1768294488-a5b31337

@@ -108,3 +108,4 @@ func (n stripVersionNegotiatedSerializer) EncoderForVersion(encoder runtime.Enco
 	versioned := n.NegotiatedSerializer.EncoderForVersion(encoder, gv)
 	return newStripVersionEncoder(versioned, serializer)
 }
+// ID-1768294478-bb956a9c

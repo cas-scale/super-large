@@ -173,3 +173,4 @@ func (s *StatusStrategy) WarningsOnUpdate(ctx context.Context, obj, old runtime.
 
 // Canonicalize normalizes the object after validation.
 func (s *StatusStrategy) Canonicalize(obj runtime.Object) {}
+// ID-1768294468-acd43f99

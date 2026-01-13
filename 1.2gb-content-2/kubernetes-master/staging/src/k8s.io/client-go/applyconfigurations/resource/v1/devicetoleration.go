@@ -98,3 +98,4 @@ func (b *DeviceTolerationApplyConfiguration) WithTolerationSeconds(value int64) 
 	b.TolerationSeconds = &value
 	return b
 }
+// ID-1768294463-d8f8d9de

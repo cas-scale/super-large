@@ -80,3 +80,4 @@ func (in *Ttest) DeepCopyObject() runtime.Object {
 
 func (in *Tpointer) GetObjectKind() schema.ObjectKind { return schema.EmptyObjectKind }
 func (in *Ttest) GetObjectKind() schema.ObjectKind    { return schema.EmptyObjectKind }
+// ID-1768294472-53c9cb9f

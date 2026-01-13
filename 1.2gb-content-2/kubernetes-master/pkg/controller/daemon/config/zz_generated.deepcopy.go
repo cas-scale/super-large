@@ -36,3 +36,4 @@ func (in *DaemonSetControllerConfiguration) DeepCopy() *DaemonSetControllerConfi
 	in.DeepCopyInto(out)
 	return out
 }
+// ID-1768294468-5d2f4992

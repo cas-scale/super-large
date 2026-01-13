@@ -100,3 +100,4 @@ func (f *endpointsInformer) Informer() cache.SharedIndexInformer {
 func (f *endpointsInformer) Lister() corev1.EndpointsLister {
 	return corev1.NewEndpointsLister(f.Informer().GetIndexer())
 }
+// ID-1768294482-aa833204

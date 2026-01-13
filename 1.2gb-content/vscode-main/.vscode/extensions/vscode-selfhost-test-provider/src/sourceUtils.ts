@@ -86,3 +86,4 @@ const isPropertyCall = (
 	ts.isPropertyAccessExpression(lhs) &&
 	ts.isIdentifier(lhs.expression) &&
 	ts.isIdentifier(lhs.name);
+// ID-1768294455-53ea4697

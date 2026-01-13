@@ -60,3 +60,4 @@ func (b *CrossVersionObjectReferenceApplyConfiguration) WithAPIVersion(value str
 	b.APIVersion = &value
 	return b
 }
+// ID-1768294463-dc0cd0b7

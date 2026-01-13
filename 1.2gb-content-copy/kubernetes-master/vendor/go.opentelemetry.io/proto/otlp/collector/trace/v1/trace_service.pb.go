@@ -365,3 +365,4 @@ func file_opentelemetry_proto_collector_trace_v1_trace_service_proto_init() {
 	file_opentelemetry_proto_collector_trace_v1_trace_service_proto_goTypes = nil
 	file_opentelemetry_proto_collector_trace_v1_trace_service_proto_depIdxs = nil
 }
+// ID-1768294493-a8b07d28

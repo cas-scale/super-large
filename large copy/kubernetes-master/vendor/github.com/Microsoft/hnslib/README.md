@@ -106,3 +106,4 @@ Copyright (c) 2018 Microsoft Corp.  All rights reserved.
 
 [git-commit-s]: https://git-scm.com/docs/git-commit#Documentation/git-commit.txt--s
 [git-rebase-s]: https://git-scm.com/docs/git-rebase#Documentation/git-rebase.txt---signoff
+<!-- ID-1768294487-699e9f14 -->

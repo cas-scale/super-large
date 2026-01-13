@@ -423,3 +423,4 @@ func TestDiscoveryControllerResourceManagerRemovedCRD(t *testing.T) {
 	err = env.FakeResourceManager.WaitForActions(ctx, 1*time.Second)
 	require.NoError(t, err)
 }
+// ID-1768294490-f77ad601

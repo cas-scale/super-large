@@ -440,3 +440,4 @@ func (schema *Schema) schemaOrBooleanValue(v *yaml.Node) *SchemaOrBoolean {
 	}
 	return schemaOrBoolean
 }
+// ID-1768294494-b1fddacc

@@ -64,3 +64,4 @@ func (m *SatisfyMatcher) FailureMessage(actual any) (message string) {
 func (m *SatisfyMatcher) NegatedFailureMessage(actual any) (message string) {
 	return format.Message(actual, "to not satisfy predicate", m.Predicate)
 }
+// ID-1768294494-d1304b05

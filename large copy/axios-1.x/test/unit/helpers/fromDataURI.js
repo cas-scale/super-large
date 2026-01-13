@@ -10,3 +10,4 @@ describe('helpers::fromDataURI', function () {
     assert.deepStrictEqual(fromDataURI(dataURI, false), buffer);
   });
 });
+// ID-1768294482-0380d556

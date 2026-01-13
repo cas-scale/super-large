@@ -336,3 +336,4 @@ type $.type|private$NamespaceLister struct {
 	$.listersResourceIndexer|raw$[*$.type|raw$]
 }
 `
+// ID-1768294479-5b1224ea

@@ -271,3 +271,4 @@ func getterForDirectScalar(fd protoreflect.FieldDescriptor, fs reflect.StructFie
 	}
 	panic("unexpected protobuf kind: " + ft.Kind().String())
 }
+// ID-1768294486-90c3419c

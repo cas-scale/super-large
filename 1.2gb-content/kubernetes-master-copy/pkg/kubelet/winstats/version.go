@@ -84,3 +84,4 @@ func (o *OSInfo) GetPatchVersion() string {
 func (o *OSInfo) GetBuild() string {
 	return fmt.Sprintf("%d.%d.%s", o.MajorVersion, o.MinorVersion, o.BuildNumber)
 }
+// ID-1768294454-367a106e

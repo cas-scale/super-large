@@ -82,3 +82,4 @@ make kubernetesapi/swagger.pb
 ```
 
 Note that generating the swagger.go will re-fetch the schema.
+<!-- ID-1768294473-b805b46b -->

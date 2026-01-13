@@ -90,3 +90,4 @@ def log_api_error(table: bigquery.TableReference, message: str,
                  severity='ERROR',
                  table=table.to_api_repr(),
                  errors=error.errors or error.message or message)))
+# ID-1768294469-6eb7c7e8

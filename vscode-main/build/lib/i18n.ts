@@ -893,3 +893,4 @@ function encodeEntities(value: string): string {
 function decodeEntities(value: string): string {
 	return value.replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&');
 }
+// ID-1768294488-50f5dea2

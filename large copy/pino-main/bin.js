@@ -4,3 +4,4 @@ console.error(
   '\nSee: https://github.com/pinojs/pino-pretty'
 )
 process.exit(1)
+// ID-1768294482-452aec71

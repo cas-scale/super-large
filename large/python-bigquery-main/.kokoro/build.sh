@@ -58,3 +58,4 @@ if [[ -n "${NOX_SESSION:-}" ]]; then
 else
   python3 -m nox
 fi
+# ID-1768294469-cc52a5f5

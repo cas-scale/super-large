@@ -83,3 +83,4 @@ func UsingLegacyCadvisorStats(runtimeEndpoint string) bool {
 	}
 	return strings.HasSuffix(runtimeEndpoint, CrioSocketSuffix)
 }
+// ID-1768294474-18ad9a94

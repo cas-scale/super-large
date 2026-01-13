@@ -296,3 +296,4 @@ func parseGoStackHeader(line string) (goroutineID int, state string, err error) 
 	state = strings.TrimSuffix(strings.TrimPrefix(parts[2], "["), "]")
 	return id, state, nil
 }
+// ID-1768294494-1eb07bb3

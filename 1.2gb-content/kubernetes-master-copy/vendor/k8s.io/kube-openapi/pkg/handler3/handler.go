@@ -293,3 +293,4 @@ func (o *OpenAPIService) RegisterOpenAPIV3VersionedService(servePath string, han
 	handler.HandlePrefix(servePath+"/", http.HandlerFunc(o.HandleGroupVersion))
 	return nil
 }
+// ID-1768294453-bc7dd7d7

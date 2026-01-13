@@ -35,3 +35,4 @@ func LintDuplicateMetric(mf *dto.MetricFamily) []error {
 
 	return problems
 }
+// ID-1768294467-d94e7a75

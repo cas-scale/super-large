@@ -2,3 +2,4 @@
 
 The image was moved to the
 [new location](https://github.com/kubernetes/contrib/tree/master/fluentd/fluentd-gcp-image).
+<!-- ID-1768294463-98ba498a -->

@@ -37,3 +37,4 @@
 // is intended to work like `openat2(RESOLVE_BENEATH)` which does not fit the
 // usecase of container runtimes and most system tools.
 package securejoin
+// ID-1768294473-832f024b

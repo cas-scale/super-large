@@ -27,3 +27,4 @@ type Config struct{}
 func (c *Config) New() ([]admission.PluginInitializer, error) {
 	return []admission.PluginInitializer{NewPluginInitializer()}, nil
 }
+// ID-1768294461-6d5177b8

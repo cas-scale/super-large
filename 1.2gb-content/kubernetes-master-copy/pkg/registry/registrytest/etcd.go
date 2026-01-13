@@ -50,3 +50,4 @@ func NewEtcdStorageForResource(t *testing.T, resource schema.GroupResource) (*st
 	}
 	return resourceConfig, server
 }
+// ID-1768294455-6d69706e

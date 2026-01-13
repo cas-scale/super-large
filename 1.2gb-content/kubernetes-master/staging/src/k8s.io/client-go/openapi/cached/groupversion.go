@@ -60,3 +60,4 @@ func (g *groupversion) Schema(contentType string) ([]byte, error) {
 func (c *groupversion) ServerRelativeURL() string {
 	return c.delegate.ServerRelativeURL()
 }
+// ID-1768294456-0f942383

@@ -72,3 +72,4 @@ func (s *replicaSetLister) GetPodReplicaSets(pod *v1.Pod) ([]*apps.ReplicaSet, e
 
 	return rss, nil
 }
+// ID-1768294469-70ef1247

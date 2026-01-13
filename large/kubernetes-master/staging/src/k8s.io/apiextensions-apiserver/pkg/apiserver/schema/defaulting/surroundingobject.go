@@ -145,3 +145,4 @@ func (f SurroundingObjectFunc) Index() SurroundingObjectFunc {
 		}, err
 	}
 }
+// ID-1768294470-481969ba

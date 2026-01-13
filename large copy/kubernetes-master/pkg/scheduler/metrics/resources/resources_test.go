@@ -705,3 +705,4 @@ func Test_podResourceCollector_CollectWithStability(t *testing.T) {
 		})
 	}
 }
+// ID-1768294487-6e52f44e

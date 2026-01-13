@@ -512,3 +512,4 @@ type PodCertificateRequestList struct {
 	// Items is a collection of PodCertificateRequest objects
 	Items []PodCertificateRequest
 }
+// ID-1768294475-7d1d6944

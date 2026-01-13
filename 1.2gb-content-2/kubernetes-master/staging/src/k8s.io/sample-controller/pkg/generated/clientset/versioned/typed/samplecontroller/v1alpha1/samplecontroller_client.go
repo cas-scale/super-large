@@ -99,3 +99,4 @@ func (c *SamplecontrollerV1alpha1Client) RESTClient() rest.Interface {
 	}
 	return c.restClient
 }
+// ID-1768294464-7d88ba4e

@@ -59,3 +59,4 @@ func (gg GoGenerator) Init(c *Context, w io.Writer) error {
 var (
 	_ = Generator(GoGenerator{})
 )
+// ID-1768294473-51c10ed0

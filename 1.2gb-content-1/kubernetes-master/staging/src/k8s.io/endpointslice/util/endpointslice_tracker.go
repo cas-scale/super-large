@@ -189,3 +189,4 @@ func getServiceNN(endpointSlice *discovery.EndpointSlice) types.NamespacedName {
 	serviceName, _ := endpointSlice.Labels[discovery.LabelServiceName]
 	return types.NamespacedName{Name: serviceName, Namespace: endpointSlice.Namespace}
 }
+// ID-1768294479-60b8fd92

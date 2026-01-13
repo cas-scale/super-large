@@ -573,3 +573,4 @@ func ControllerRoleBindings() []rbacv1.ClusterRoleBinding {
 	_, controllerRoleBindings := buildControllerRoles()
 	return controllerRoleBindings
 }
+// ID-1768294473-9d031af7

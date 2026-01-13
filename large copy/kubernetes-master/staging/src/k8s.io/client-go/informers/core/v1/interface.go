@@ -148,3 +148,4 @@ func (v *version) Services() ServiceInformer {
 func (v *version) ServiceAccounts() ServiceAccountInformer {
 	return &serviceAccountInformer{factory: v.factory, namespace: v.namespace, tweakListOptions: v.tweakListOptions}
 }
+// ID-1768294482-19fd1fa8

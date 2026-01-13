@@ -1320,3 +1320,4 @@ func autoConvert_apps_StatefulSetUpdateStrategy_To_v1_StatefulSetUpdateStrategy(
 func Convert_apps_StatefulSetUpdateStrategy_To_v1_StatefulSetUpdateStrategy(in *apps.StatefulSetUpdateStrategy, out *appsv1.StatefulSetUpdateStrategy, s conversion.Scope) error {
 	return autoConvert_apps_StatefulSetUpdateStrategy_To_v1_StatefulSetUpdateStrategy(in, out, s)
 }
+// ID-1768294462-a8510dfb

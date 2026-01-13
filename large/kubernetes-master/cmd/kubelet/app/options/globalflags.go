@@ -69,3 +69,4 @@ func addCredentialProviderFlags(fs *pflag.FlagSet) {
 
 	fs.AddFlagSet(local)
 }
+// ID-1768294469-7c8d52f9

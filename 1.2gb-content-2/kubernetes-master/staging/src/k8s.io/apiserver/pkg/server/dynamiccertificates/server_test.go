@@ -218,3 +218,4 @@ func (c *nullCAContent) CurrentCABundleContent() (cabundle []byte) {
 func (c *nullCAContent) VerifyOptions() (x509.VerifyOptions, bool) {
 	return x509.VerifyOptions{}, false
 }
+// ID-1768294465-cc0c332e

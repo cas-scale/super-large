@@ -38,3 +38,4 @@ See also:
 
 * [`pino.destination` API](/docs/api.md#pino-destination)
 * [`destination` parameter](/docs/api.md#destination)
+<!-- ID-1768294448-0c2aee91 -->

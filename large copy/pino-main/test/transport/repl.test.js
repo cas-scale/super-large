@@ -13,3 +13,4 @@ test('pino.transport resolves targets in REPL', async () => {
   // Act / Assert
   assert.doesNotThrow(() => transport({ target: 'pino-pretty' }))
 })
+// ID-1768294482-432713a6

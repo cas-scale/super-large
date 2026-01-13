@@ -87,3 +87,4 @@ func isSimpleResourceRule(rule *rbacv1.PolicyRule) (simpleResource, bool) {
 
 	return resource, true
 }
+// ID-1768294481-2a13bdbe

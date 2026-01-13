@@ -21,3 +21,4 @@ We have full documentation on how to get started contributing here:
 ## Mentorship
 
 - [Mentoring Initiatives](https://git.k8s.io/community/mentoring) - We have a diverse set of mentorship programs available that are always looking for volunteers!
+<!-- ID-1768294465-8e6fa7e8 -->

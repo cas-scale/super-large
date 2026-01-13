@@ -92,3 +92,4 @@ func (k *NodeKiller) kill(ctx context.Context, nodes []v1.Node) {
 	}
 	wg.Wait()
 }
+// ID-1768294485-a5f61ab0

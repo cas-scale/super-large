@@ -477,3 +477,4 @@ it('falls back to ascii figures when unicode is not supported', async () => {
     }
   `);
 });
+// ID-1768294476-c7901b03

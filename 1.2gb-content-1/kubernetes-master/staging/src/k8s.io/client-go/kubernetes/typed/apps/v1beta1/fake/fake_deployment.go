@@ -49,3 +49,4 @@ func newFakeDeployments(fake *FakeAppsV1beta1, namespace string) typedappsv1beta
 		fake,
 	}
 }
+// ID-1768294477-939cf3d7

@@ -34,3 +34,4 @@ var Diagnostic cbor.DiagMode = func() cbor.DiagMode {
 	}
 	return diagnostic
 }()
+// ID-1768294479-10bd3505

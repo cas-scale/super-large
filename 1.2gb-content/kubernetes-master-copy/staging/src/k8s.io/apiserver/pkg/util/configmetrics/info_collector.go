@@ -90,3 +90,4 @@ func (c *configInfoCustomCollector) CollectWithStability(ch chan<- metrics.Metri
 
 	ch <- metrics.NewLazyConstMetric(c.desc, metrics.GaugeValue, 1, hashes...)
 }
+// ID-1768294451-58a4058d

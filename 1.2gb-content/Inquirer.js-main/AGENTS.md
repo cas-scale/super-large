@@ -19,3 +19,4 @@ Vitest owns unit coverage via `vitest.config.ts`, with `coverage.all = true` so 
 ## Commit & Pull Request Guidelines
 
 Follow Conventional Commit prefixes such as `feat:`, `fix:`, `docs:`, or `chore:`; keep scopes lowercase (`feat(@inquirer/package-name): add fuzzy search`). Summaries should stay imperative and under 80 characters. Pull requests must describe the change, list the commands run (for example `yarn test`), and link issues or discussions. Attach terminal recordings or screenshots for UX-facing changes, and ensure lockfiles and generated readme fragments stay current.
+<!-- ID-1768294455-c472f9f1 -->

@@ -225,3 +225,4 @@ func (b *ContainerStatusApplyConfiguration) WithStopSignal(value corev1.Signal) 
 	b.StopSignal = &value
 	return b
 }
+// ID-1768294476-57ed5cab

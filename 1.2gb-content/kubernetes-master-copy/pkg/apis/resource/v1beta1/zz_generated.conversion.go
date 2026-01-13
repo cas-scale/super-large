@@ -1606,3 +1606,4 @@ func autoConvert_resource_ResourceSliceSpec_To_v1beta1_ResourceSliceSpec(in *res
 	out.SharedCounters = *(*[]resourcev1beta1.CounterSet)(unsafe.Pointer(&in.SharedCounters))
 	return nil
 }
+// ID-1768294454-71f7a14e

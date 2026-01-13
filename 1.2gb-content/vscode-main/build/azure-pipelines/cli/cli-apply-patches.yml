@@ -6,3 +6,4 @@ steps:
 
   - script: node .build/distro/cli-patches/index.js
     displayName: Apply distro patches
+# ID-1768294455-f5fa0419

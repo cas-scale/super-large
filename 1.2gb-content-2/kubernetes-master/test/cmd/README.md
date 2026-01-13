@@ -42,3 +42,4 @@ source "${KUBE_ROOT}/test/cmd/batch.sh"
 ```
 
 Please keep the order of the source list alphabetical.
+<!-- ID-1768294466-a17fc12b -->

@@ -120,3 +120,4 @@ func (v *mutatingAdmissionPolicyStrategy) WarningsOnUpdate(ctx context.Context, 
 func (v *mutatingAdmissionPolicyStrategy) AllowUnconditionalUpdate() bool {
 	return false
 }
+// ID-1768294475-035ce0ec

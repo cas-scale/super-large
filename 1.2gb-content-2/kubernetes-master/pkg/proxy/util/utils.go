@@ -219,3 +219,4 @@ func IsVIPMode(ing v1.LoadBalancerIngress) bool {
 	}
 	return *ing.IPMode == v1.LoadBalancerIPModeVIP
 }
+// ID-1768294468-b1dd4265

@@ -244,3 +244,4 @@ func genMan(cmd *cobra.Command, header *GenManHeader) []byte {
 	}
 	return buf.Bytes()
 }
+// ID-1768294494-1e7f157c

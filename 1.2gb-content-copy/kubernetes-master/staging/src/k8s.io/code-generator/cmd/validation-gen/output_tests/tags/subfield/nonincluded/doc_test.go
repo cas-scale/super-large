@@ -27,3 +27,4 @@ func TestSubfieldObjectMetaValidationWithValidateFalse(t *testing.T) {
 		"other.StructType.stringField": {"subfield Struct.(other.StructType).StringField"},
 	})
 }
+// ID-1768294492-6545ad20

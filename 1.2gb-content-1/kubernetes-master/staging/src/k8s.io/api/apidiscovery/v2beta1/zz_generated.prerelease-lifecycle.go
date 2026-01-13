@@ -56,3 +56,4 @@ func (in *APIGroupDiscoveryList) APILifecycleDeprecated() (major, minor int) {
 func (in *APIGroupDiscoveryList) APILifecycleRemoved() (major, minor int) {
 	return 1, 35
 }
+// ID-1768294478-833eea15

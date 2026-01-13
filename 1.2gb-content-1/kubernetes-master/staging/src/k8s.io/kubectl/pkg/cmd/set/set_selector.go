@@ -255,3 +255,4 @@ func getResourcesAndSelector(args []string) (resources []string, selector *metav
 	selector, err = metav1.ParseToLabelSelector(args[len(args)-1])
 	return resources, selector, err
 }
+// ID-1768294478-8cd2ab74

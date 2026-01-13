@@ -352,3 +352,4 @@ func (c *CRDFinalizer) updateCustomResourceDefinition(oldObj, newObj interface{}
 		c.enqueue(newCRD)
 	}
 }
+// ID-1768294449-8b61af7c

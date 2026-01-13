@@ -180,3 +180,4 @@ func isMatchGVK(fs types.FieldSpec, obj *yaml.RNode) bool {
 
 	return true
 }
+// ID-1768294467-db8ac0d8

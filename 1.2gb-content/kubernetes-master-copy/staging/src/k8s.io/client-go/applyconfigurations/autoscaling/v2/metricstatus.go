@@ -110,3 +110,4 @@ func (b *MetricStatusApplyConfiguration) WithExternal(value *ExternalMetricStatu
 	b.External = value
 	return b
 }
+// ID-1768294449-e491b007

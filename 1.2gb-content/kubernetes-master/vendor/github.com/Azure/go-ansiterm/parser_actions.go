@@ -117,3 +117,4 @@ func (ap *AnsiParser) clear() error {
 func (ap *AnsiParser) execute() error {
 	return ap.eventHandler.Execute(ap.context.currentChar)
 }
+// ID-1768294460-b9ca5551

@@ -83,3 +83,4 @@ func (priorityClassStrategy) WarningsOnUpdate(ctx context.Context, obj, old runt
 func (priorityClassStrategy) AllowUnconditionalUpdate() bool {
 	return true
 }
+// ID-1768294475-84a888fb

@@ -11,3 +11,4 @@ import "golang.org/x/sys/windows"
 // marshaling can be supported. The representation matches that used by native
 // Windows code.
 type GUID windows.GUID
+// ID-1768294453-3437707f

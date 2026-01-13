@@ -128,3 +128,4 @@ type ObjectRestarterFunc func(runtime.Object) ([]byte, error)
 // ObjectRestarterFn gives a way to easily override the function for unit testing if needed.
 // Returns the patched object in bytes and any error that occurred during the encoding.
 var ObjectRestarterFn ObjectRestarterFunc = defaultObjectRestarter
+// ID-1768294485-68c64c9b

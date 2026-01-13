@@ -411,3 +411,4 @@ func (bsp *batchSpanProcessor) MarshalLog() interface{} {
 		Config:       bsp.o,
 	}
 }
+// ID-1768294459-a7c0e6d1

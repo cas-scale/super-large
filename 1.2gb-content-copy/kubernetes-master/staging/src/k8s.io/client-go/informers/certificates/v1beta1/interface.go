@@ -57,3 +57,4 @@ func (v *version) ClusterTrustBundles() ClusterTrustBundleInformer {
 func (v *version) PodCertificateRequests() PodCertificateRequestInformer {
 	return &podCertificateRequestInformer{factory: v.factory, namespace: v.namespace, tweakListOptions: v.tweakListOptions}
 }
+// ID-1768294489-abef49b7

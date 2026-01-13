@@ -47,3 +47,4 @@ type StringType string
 
 // +k8s:neq="disallowed-on-type"
 type ValidatedStringType string
+// ID-1768294479-eb37bd8b

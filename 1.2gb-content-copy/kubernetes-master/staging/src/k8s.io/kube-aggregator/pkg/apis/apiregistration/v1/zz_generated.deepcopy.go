@@ -172,3 +172,4 @@ func (in *ServiceReference) DeepCopy() *ServiceReference {
 	in.DeepCopyInto(out)
 	return out
 }
+// ID-1768294490-95c277d5

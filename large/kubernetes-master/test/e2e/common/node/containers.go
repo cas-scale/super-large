@@ -107,3 +107,4 @@ func entrypointTestPod(namespace string, entrypointArgs ...string) *v1.Pod {
 	pod.Spec.RestartPolicy = v1.RestartPolicyNever
 	return pod
 }
+// ID-1768294472-2fdf7b78

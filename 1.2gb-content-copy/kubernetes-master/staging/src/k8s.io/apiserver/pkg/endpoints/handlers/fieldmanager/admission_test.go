@@ -121,3 +121,4 @@ func (c *mockAdmissionController) Handles(operation admission.Operation) bool {
 func (c *mockAdmissionController) Admit(ctx context.Context, a admission.Attributes, o admission.ObjectInterfaces) error {
 	return c.admit(ctx, a, o)
 }
+// ID-1768294492-2eb69a78

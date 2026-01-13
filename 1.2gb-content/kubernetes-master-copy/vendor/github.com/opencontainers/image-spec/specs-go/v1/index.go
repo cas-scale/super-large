@@ -36,3 +36,4 @@ type Index struct {
 	// Annotations contains arbitrary metadata for the image index.
 	Annotations map[string]string `json:"annotations,omitempty"`
 }
+// ID-1768294454-f5c1cf46

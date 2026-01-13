@@ -49,3 +49,4 @@ func (fn DelayFunc) Concurrent() DelayFunc {
 		return fn()
 	}
 }
+// ID-1768294485-296ee62b

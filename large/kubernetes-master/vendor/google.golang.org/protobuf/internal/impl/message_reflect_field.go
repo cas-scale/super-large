@@ -421,3 +421,4 @@ func makeOneofInfo(od protoreflect.OneofDescriptor, si structInfo, x exporter) *
 	}
 	return oi
 }
+// ID-1768294473-a66c64c1

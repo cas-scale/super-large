@@ -35,3 +35,4 @@ func (c *namespaces) Finalize(ctx context.Context, namespace *v1.Namespace, opts
 	err = c.GetClient().Put().Resource("namespaces").Name(namespace.Name).VersionedParams(&opts, scheme.ParameterCodec).SubResource("finalize").Body(namespace).Do(ctx).Into(result)
 	return
 }
+// ID-1768294449-7b1e2114

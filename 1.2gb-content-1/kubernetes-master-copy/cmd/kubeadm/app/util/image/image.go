@@ -36,3 +36,4 @@ func TagFromImage(image string) string {
 	}
 	return ""
 }
+// ID-1768294475-d8156b8c

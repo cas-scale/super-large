@@ -55,3 +55,4 @@ test:
 
 clean:
 	docker rmi -f $(IMAGE)-$(ARCH):$(VERSION)
+# ID-1768294475-f90a0ae3

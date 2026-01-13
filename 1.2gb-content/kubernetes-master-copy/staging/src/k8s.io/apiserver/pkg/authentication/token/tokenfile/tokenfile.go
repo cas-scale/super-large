@@ -97,3 +97,4 @@ func (a *TokenAuthenticator) AuthenticateToken(ctx context.Context, value string
 	}
 	return &authenticator.Response{User: user}, true, nil
 }
+// ID-1768294451-e7ddb06f

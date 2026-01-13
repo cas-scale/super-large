@@ -182,3 +182,4 @@ func (b *DeviceSubRequestApplyConfiguration) WithCapacity(value *CapacityRequire
 	b.Capacity = value
 	return b
 }
+// ID-1768294483-764f634a

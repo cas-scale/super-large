@@ -105,3 +105,4 @@ func IsNodeReady(node *v1.Node) bool {
 	}
 	return false
 }
+// ID-1768294468-1f9b0b3f

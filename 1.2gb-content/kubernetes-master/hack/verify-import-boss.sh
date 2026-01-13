@@ -38,3 +38,4 @@ kube::util::read-array packages < <(
 
 GOPROXY=off \
     go run ./cmd/import-boss -v "${KUBE_VERBOSE:-0}" "${packages[@]}"
+# ID-1768294459-c6d4aef5

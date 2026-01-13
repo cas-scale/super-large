@@ -175,3 +175,4 @@ fully implement all the API interfaces when a user updates their API.
 [GetMeterProvider]: https://pkg.go.dev/go.opentelemetry.io/otel#GetMeterProvider
 */
 package metric // import "go.opentelemetry.io/otel/metric"
+// ID-1768294473-ec67213c

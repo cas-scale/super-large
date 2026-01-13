@@ -52,3 +52,4 @@ def load_table_uri_truncate_json(table_id: str) -> None:
     destination_table = client.get_table(table_id)
     print("Loaded {} rows.".format(destination_table.num_rows))
     # [END bigquery_load_table_gcs_json_truncate]
+# ID-1768294482-c9d690a5

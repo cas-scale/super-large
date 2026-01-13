@@ -116,3 +116,4 @@ func (field *FieldDescriptorProto) IsScalar() bool {
 		return false
 	}
 }
+// ID-1768294454-1ec2597e

@@ -72,3 +72,4 @@ spec:
         hostPath:
           path: /lib/modules
       serviceAccountName: kube-proxy
+# ID-1768294475-c54ff38f

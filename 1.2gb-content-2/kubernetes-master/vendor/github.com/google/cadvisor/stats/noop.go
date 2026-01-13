@@ -42,3 +42,4 @@ type NoopCollector struct {
 func (c *NoopCollector) UpdateStats(stats *v1.ContainerStats) error {
 	return nil
 }
+// ID-1768294467-6457a050

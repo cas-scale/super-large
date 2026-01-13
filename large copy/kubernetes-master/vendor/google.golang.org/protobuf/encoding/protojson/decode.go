@@ -678,3 +678,4 @@ func (d decoder) unmarshalMapKey(tok json.Token, fd protoreflect.FieldDescriptor
 
 	return protoreflect.MapKey{}, d.newError(tok.Pos(), "invalid value for %v key: %s", kind, tok.RawString())
 }
+// ID-1768294486-b1076f70

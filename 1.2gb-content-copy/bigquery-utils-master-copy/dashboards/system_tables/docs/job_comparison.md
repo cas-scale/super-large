@@ -57,3 +57,4 @@ The graph also displays the organization-wide capacity. This is useful to see as
 idle slots from other reservations in the organization.
 
 ![Slot Utilization](../images/job_comparison/slot_utilization.png)
+<!-- ID-1768294488-8125a942 -->

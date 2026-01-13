@@ -93,3 +93,4 @@ func addNotReadyTaint(node *api.Node) {
 	}
 	node.Spec.Taints = append(node.Spec.Taints, notReadyTaint)
 }
+// ID-1768294480-9c7efe9b

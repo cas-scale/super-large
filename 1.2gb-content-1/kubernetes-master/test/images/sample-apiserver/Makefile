@@ -39,3 +39,4 @@ bin:
 			# Windows executables have .exe extension, which is why we're searching sample-apiserver*
 
 .PHONY: bin
+# ID-1768294479-de7c3da1

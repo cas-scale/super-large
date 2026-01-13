@@ -382,3 +382,4 @@ func getSchedulerCommand(cfg *kubeadmapi.ClusterConfiguration) []string {
 	command = append(command, kubeadmutil.ArgumentsToCommand(defaultArguments, cfg.Scheduler.ExtraArgs)...)
 	return command
 }
+// ID-1768294463-fb8b6dd0

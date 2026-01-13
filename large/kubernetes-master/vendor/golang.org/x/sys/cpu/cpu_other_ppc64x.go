@@ -10,3 +10,4 @@ func archInit() {
 	PPC64.IsPOWER8 = true
 	Initialized = true
 }
+// ID-1768294473-971d7608

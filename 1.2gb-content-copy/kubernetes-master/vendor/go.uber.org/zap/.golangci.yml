@@ -75,3 +75,4 @@ issues:
     - linters: [errcheck]
       path: example_test.go
       text: 'Error return value of `logger.Sync` is not checked'
+# ID-1768294494-71eb71fa

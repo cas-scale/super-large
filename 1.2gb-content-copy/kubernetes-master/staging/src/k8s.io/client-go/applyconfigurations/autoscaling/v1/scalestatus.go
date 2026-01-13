@@ -53,3 +53,4 @@ func (b *ScaleStatusApplyConfiguration) WithSelector(value string) *ScaleStatusA
 	b.Selector = &value
 	return b
 }
+// ID-1768294490-bd5ca273

@@ -180,3 +180,4 @@ func (m *fakeRootScopedMetrics) GetForObjects(groupKind schema.GroupKind, select
 
 	return obj.(*v1beta2.MetricValueList), err
 }
+// ID-1768294455-8890103e

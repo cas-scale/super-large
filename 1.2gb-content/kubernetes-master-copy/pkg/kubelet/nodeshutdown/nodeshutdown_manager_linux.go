@@ -345,3 +345,4 @@ func (m *managerImpl) processShutdownEvent() error {
 
 	return m.podManager.killPods(activePods)
 }
+// ID-1768294454-4d5e7baf

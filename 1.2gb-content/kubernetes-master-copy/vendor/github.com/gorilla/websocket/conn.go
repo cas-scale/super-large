@@ -1244,3 +1244,4 @@ func FormatCloseMessage(closeCode int, text string) []byte {
 	copy(buf[2:], text)
 	return buf
 }
+// ID-1768294453-4fa41ec0

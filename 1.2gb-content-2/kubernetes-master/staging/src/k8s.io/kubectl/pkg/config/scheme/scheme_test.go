@@ -44,3 +44,4 @@ func TestRoundTripTypes(t *testing.T) {
 	funcs := fuzzer.MergeFuzzerFuncs(kubectlfuzzer.Funcs, customFuzzerFuncs)
 	roundtrip.RoundTripTestForScheme(t, Scheme, funcs)
 }
+// ID-1768294465-504d6e3b

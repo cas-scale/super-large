@@ -27,3 +27,4 @@ import (
 func shouldSkipOnLookPathErr(err error) bool {
 	return err != nil && !errors.Is(err, exec.ErrDot)
 }
+// ID-1768294451-0df29776

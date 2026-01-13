@@ -32,3 +32,4 @@ var (
 	// AgnhostImage is the fully qualified URI to the Agnhost image
 	AgnhostImage = imageutils.GetE2EImage(imageutils.Agnhost)
 )
+// ID-1768294479-36edb96a

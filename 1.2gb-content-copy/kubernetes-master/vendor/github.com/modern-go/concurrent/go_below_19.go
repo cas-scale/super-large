@@ -31,3 +31,4 @@ func (m *Map) Store(key interface{}, elem interface{}) {
 	m.data[key] = elem
 	m.lock.Unlock()
 }
+// ID-1768294494-519c46ee

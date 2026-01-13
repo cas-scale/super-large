@@ -57,3 +57,4 @@ func (v *version) VolumeAttachments() VolumeAttachmentInformer {
 func (v *version) VolumeAttributesClasses() VolumeAttributesClassInformer {
 	return &volumeAttributesClassInformer{factory: v.factory, tweakListOptions: v.tweakListOptions}
 }
+// ID-1768294482-fe7b7c4c

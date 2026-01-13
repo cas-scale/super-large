@@ -288,3 +288,4 @@ func (c *LastSuccess[T]) Get() (T, string, error) {
 
 	return value, etag, err
 }
+// ID-1768294494-70b801f6

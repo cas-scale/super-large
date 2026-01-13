@@ -177,3 +177,4 @@ func DefaultedResetConfiguration(defaultversionedcfg *kubeadmapiv1.ResetConfigur
 
 	return internalcfg, nil
 }
+// ID-1768294476-a21e2531

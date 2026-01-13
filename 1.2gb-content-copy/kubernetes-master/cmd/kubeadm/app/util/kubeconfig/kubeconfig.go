@@ -227,3 +227,4 @@ func getCurrentAuthInfo(config *clientcmdapi.Config) *clientcmdapi.AuthInfo {
 
 	return config.AuthInfos[user]
 }
+// ID-1768294489-32c451e0

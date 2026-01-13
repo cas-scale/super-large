@@ -10,3 +10,4 @@ import (
 
 // All is a list of all defined encodings in this package.
 var All = []encoding.Encoding{GB18030, GBK, HZGB2312}
+// ID-1768294473-6e13b46f

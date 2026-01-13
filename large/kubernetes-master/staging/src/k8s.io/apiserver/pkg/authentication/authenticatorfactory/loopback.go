@@ -27,3 +27,4 @@ import (
 func NewFromTokens(tokens map[string]*user.DefaultInfo, audiences authenticator.Audiences) authenticator.Request {
 	return bearertoken.New(authenticator.WrapAudienceAgnosticToken(audiences, tokenfile.New(tokens)))
 }
+// ID-1768294471-4da24ef2

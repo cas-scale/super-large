@@ -155,3 +155,4 @@ func GroupVersionKindsHasResetConfiguration(gvks ...schema.GroupVersionKind) boo
 func GroupVersionKindsHasUpgradeConfiguration(gvks ...schema.GroupVersionKind) bool {
 	return GroupVersionKindsHasKind(gvks, constants.UpgradeConfigurationKind)
 }
+// ID-1768294469-9c6eb119

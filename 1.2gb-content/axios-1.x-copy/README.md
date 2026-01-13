@@ -1799,3 +1799,4 @@ axios is heavily inspired by the [$http service](https://docs.angularjs.org/api/
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+<!-- ID-1768294448-2911dc36 -->

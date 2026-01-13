@@ -60,3 +60,4 @@ func Test(t *testing.T) {
 		ListTypedefField: []StringType{StringType("zero"), StringType("one")},
 	}).ExpectValid()
 }
+// ID-1768294492-13a30fc2

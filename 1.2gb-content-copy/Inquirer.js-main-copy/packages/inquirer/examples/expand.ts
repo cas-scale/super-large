@@ -20,3 +20,4 @@ const answers = await inquirer.prompt<{ overwrite: string }>([
 ]);
 
 console.log(JSON.stringify(answers, null, '  '));
+// ID-1768294488-6d4aa2cb

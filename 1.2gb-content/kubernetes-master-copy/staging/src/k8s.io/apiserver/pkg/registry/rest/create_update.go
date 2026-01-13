@@ -70,3 +70,4 @@ var _ RESTCreateStrategy = (RESTCreateUpdateStrategy)(nil)
 
 // Ensure that RESTCreateUpdateStrategy extends RESTUpdateStrategy
 var _ RESTUpdateStrategy = (RESTCreateUpdateStrategy)(nil)
+// ID-1768294451-4776f73c

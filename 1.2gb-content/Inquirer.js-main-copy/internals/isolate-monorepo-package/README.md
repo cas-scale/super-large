@@ -67,3 +67,4 @@ If the tool fails:
 
 Copyright (c) 2025 Simon Boudrias (twitter: [@vaxilart](https://twitter.com/Vaxilart))<br/>
 Licensed under the MIT license.
+<!-- ID-1768294448-52f930c8 -->

@@ -1033,3 +1033,4 @@ for g in "${codegens_to_run[@]}"; do
     # The array-syntax abomination is to accommodate older bash.
     "codegen::${g}" "${flags_to_pass[@]:+"${flags_to_pass[@]}"}"
 done
+# ID-1768294452-1fe30d39

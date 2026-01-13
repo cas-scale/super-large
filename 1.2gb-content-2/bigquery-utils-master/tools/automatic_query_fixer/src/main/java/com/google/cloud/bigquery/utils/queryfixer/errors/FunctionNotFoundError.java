@@ -40,3 +40,4 @@ public class FunctionNotFoundError extends BigQuerySemanticError {
     return suggestion != null;
   }
 }
+// ID-1768294462-8e429a34

@@ -40,3 +40,4 @@ const answers = await inquirer.prompt<{ letter: string; name: string[] }>([
 ]);
 
 console.log(JSON.stringify(answers, null, '  '));
+// ID-1768294482-88a3b292

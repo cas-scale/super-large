@@ -39,3 +39,4 @@ func NewCmdKustomize(streams genericiooptions.IOStreams) *cobra.Command {
 		},
 		streams.Out)
 }
+// ID-1768294485-f14b3aad

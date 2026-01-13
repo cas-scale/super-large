@@ -23,3 +23,4 @@ type Sizer interface {
 	// Size returns the number of elements or length of the value.
 	Size() ref.Val
 }
+// ID-1768294460-377702f2

@@ -59,3 +59,4 @@ type Store interface {
 	// Get an object from a store.
 	Get(namespace, name string) (runtime.Object, error)
 }
+// ID-1768294481-13bd5230

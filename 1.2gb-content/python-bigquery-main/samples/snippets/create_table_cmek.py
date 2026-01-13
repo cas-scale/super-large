@@ -44,3 +44,4 @@ def create_table_cmek(table_id: str, kms_key_name: str) -> None:
     print(f"Key: {table.encryption_configuration.kms_key_name}.")
 
     # [END bigquery_create_table_cmek]
+# ID-1768294448-324bceed

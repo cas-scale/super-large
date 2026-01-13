@@ -41,3 +41,4 @@ func (b *PodSchedulingGateApplyConfiguration) WithName(value string) *PodSchedul
 	b.Name = &value
 	return b
 }
+// ID-1768294463-57376d67

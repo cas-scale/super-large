@@ -64,3 +64,4 @@ func GetMetricUsageRatio(metrics PodMetricsInfo, targetUsage int64) (usageRatio 
 
 	return float64(currentUsage) / float64(targetUsage), currentUsage
 }
+// ID-1768294495-2e676c9d

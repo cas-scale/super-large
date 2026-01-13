@@ -33,3 +33,4 @@ export = new class NoDangerousTypeAssertions implements eslint.Rule.RuleModule {
 		};
 	}
 };
+// ID-1768294455-a6dac961

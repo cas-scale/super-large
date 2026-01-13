@@ -271,3 +271,4 @@ func (o OldHTTPClient) createMeasures(meter metric.Meter) (metric.Int64Counter, 
 func (c OldHTTPClient) TraceAttributes(host string, attrs []attribute.KeyValue) []attribute.KeyValue {
 	return append(attrs, semconv.NetHostName(host))
 }
+// ID-1768294452-6ebd0a80

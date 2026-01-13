@@ -90,3 +90,4 @@ for groupVersion in "${groupVersions[@]}"; do
 
 	kubectl --kubeconfig="${AGG_KUBECONFIG}" create -f "${resourceFileName}"
 done
+# ID-1768294456-48322eca

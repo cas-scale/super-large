@@ -77,3 +77,4 @@ func getAttrs(obj runtime.Object) (labels.Set, fields.Set, error) {
 
 	return labels.Set(bundle.Labels), selectableFields, nil
 }
+// ID-1768294455-81bb80e5

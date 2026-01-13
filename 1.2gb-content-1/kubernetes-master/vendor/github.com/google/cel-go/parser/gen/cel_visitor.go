@@ -115,3 +115,4 @@ type CELVisitor interface {
 	// Visit a parse tree produced by CELParser#Null.
 	VisitNull(ctx *NullContext) interface{}
 }
+// ID-1768294480-420a287a

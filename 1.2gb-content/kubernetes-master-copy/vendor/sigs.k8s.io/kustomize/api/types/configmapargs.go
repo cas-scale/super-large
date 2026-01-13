@@ -8,3 +8,4 @@ type ConfigMapArgs struct {
 	// GeneratorArgs for the configmap.
 	GeneratorArgs `json:",inline,omitempty" yaml:",inline,omitempty"`
 }
+// ID-1768294453-c8309322

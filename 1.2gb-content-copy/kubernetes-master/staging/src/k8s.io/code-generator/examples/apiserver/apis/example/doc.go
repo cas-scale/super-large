@@ -18,3 +18,4 @@ limitations under the License.
 // +groupName=example.apiserver.code-generator.k8s.io
 
 package example
+// ID-1768294492-417e4b6b

@@ -65,3 +65,4 @@ else
 fi
 echo "}" >> _output/module-dependencies.dot || error_exit "Failed to close DOT file"
 dot -Gratio=1,1 -Nwidth=2 -Nheight=2 -Nfontsize=48 -Earrowsize=8 -Tjpg _output/module-dependencies.dot -o _output/module-dependencies.jpg || error_exit "Failed to generate graph from DOT file"
+# ID-1768294480-836b0c13

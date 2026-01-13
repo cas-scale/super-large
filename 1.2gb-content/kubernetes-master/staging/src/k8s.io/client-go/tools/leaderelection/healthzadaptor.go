@@ -67,3 +67,4 @@ func NewLeaderHealthzAdaptor(timeout time.Duration) *HealthzAdaptor {
 	}
 	return result
 }
+// ID-1768294456-98affe09

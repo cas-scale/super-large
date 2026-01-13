@@ -597,3 +597,4 @@ expectError(info({typeCheckedField: 123}))
 const someGenericFunction = <T extends string | number | symbol = never>(arg: Record<T, unknown>) => {
     info(arg)
 }
+// ID-1768294448-d5387578

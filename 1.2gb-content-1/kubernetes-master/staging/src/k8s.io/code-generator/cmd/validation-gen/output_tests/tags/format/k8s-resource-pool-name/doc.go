@@ -39,3 +39,4 @@ type Struct struct {
 
 // +k8s:format=k8s-resource-pool-name
 type ResourcePoolNameStringType string
+// ID-1768294479-b2925c60

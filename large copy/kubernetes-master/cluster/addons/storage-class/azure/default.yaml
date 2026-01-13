@@ -7,3 +7,4 @@ metadata:
   labels:
     addonmanager.kubernetes.io/mode: EnsureExists
 provisioner: kubernetes.io/azure-disk
+# ID-1768294482-49b7a8c2

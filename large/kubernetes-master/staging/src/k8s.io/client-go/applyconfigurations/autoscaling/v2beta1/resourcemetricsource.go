@@ -75,3 +75,4 @@ func (b *ResourceMetricSourceApplyConfiguration) WithTargetAverageValue(value re
 	b.TargetAverageValue = &value
 	return b
 }
+// ID-1768294469-5081f25f

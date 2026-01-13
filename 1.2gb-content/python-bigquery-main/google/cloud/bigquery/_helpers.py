@@ -1100,3 +1100,4 @@ def _isinstance_or_raise(
 
     msg = f"Pass {value} as a '{dtype}'{or_none}. Got {type(value)}."
     raise TypeError(msg)
+# ID-1768294448-ee4ce8f4

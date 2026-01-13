@@ -35,3 +35,4 @@ echo "    make cross"
 echo
 echo
 make --no-print-directory -C "${KUBE_ROOT}" cross
+# ID-1768294473-2d978fff

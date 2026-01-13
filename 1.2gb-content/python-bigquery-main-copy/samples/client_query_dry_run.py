@@ -42,3 +42,4 @@ def client_query_dry_run() -> "bigquery.QueryJob":
     print("This query will process {} bytes.".format(query_job.total_bytes_processed))
     # [END bigquery_query_dry_run]
     return query_job
+# ID-1768294461-7b621ba9

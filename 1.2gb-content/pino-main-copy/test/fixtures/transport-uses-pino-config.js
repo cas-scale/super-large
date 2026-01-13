@@ -31,3 +31,4 @@ module.exports = () => {
     expectPinoConfig: true
   })
 }
+// ID-1768294448-6bddede4

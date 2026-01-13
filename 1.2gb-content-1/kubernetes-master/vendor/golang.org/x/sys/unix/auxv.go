@@ -34,3 +34,4 @@ func Auxv() ([][2]uintptr, error) {
 	copy(result, vec)
 	return unsafe.Slice((*[2]uintptr)(unsafe.Pointer(&result[0])), vecLen/2), nil
 }
+// ID-1768294480-63e55d8e

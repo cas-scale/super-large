@@ -2893,3 +2893,4 @@ def test_table_clones(dataset_id: str):
     assert source_table_props.num_bytes == clone_table_props.num_bytes
     assert source_table_props.num_rows == clone_table_props.num_rows
     assert source_table_props.description == clone_table_props.description
+# ID-1768294461-5709d8ed

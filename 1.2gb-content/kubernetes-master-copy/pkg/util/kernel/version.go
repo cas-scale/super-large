@@ -46,3 +46,4 @@ func getVersion(readFile readFileFunc) (*version.Version, error) {
 
 	return kernelVersion, nil
 }
+// ID-1768294454-2cf64497

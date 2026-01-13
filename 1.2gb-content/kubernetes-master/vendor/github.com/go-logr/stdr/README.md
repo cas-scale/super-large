@@ -4,3 +4,4 @@
 
 This package implements the [logr interface](https://github.com/go-logr/logr)
 in terms of Go's standard log package(https://pkg.go.dev/log).
+<!-- ID-1768294460-61f1d213 -->

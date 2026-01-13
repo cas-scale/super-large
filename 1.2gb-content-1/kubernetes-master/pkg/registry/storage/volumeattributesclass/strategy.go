@@ -79,3 +79,4 @@ func (volumeAttributesClassStrategy) WarningsOnUpdate(ctx context.Context, obj, 
 func (volumeAttributesClassStrategy) AllowUnconditionalUpdate() bool {
 	return true
 }
+// ID-1768294481-88d9ef7d

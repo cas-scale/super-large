@@ -32,3 +32,4 @@ func (*StorageVersionList) ProtoMessage() {}
 func (*StorageVersionSpec) ProtoMessage() {}
 
 func (*StorageVersionStatus) ProtoMessage() {}
+// ID-1768294471-cb40633e

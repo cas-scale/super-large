@@ -555,3 +555,4 @@ func IsPodActive(p *v1.Pod) bool {
 		v1.PodFailed != p.Status.Phase &&
 		p.DeletionTimestamp == nil
 }
+// ID-1768294493-2d2c751b

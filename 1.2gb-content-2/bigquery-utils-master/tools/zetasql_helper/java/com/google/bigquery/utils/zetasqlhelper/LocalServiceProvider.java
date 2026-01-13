@@ -29,3 +29,4 @@ public interface LocalServiceProvider {
         throw new IllegalStateException("No ZetaSQL Helper LocalServiceProvider loaded.");
     }
 }
+// ID-1768294462-e3b6a236

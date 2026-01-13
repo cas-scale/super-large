@@ -786,3 +786,4 @@ func asMessage(v reflect.Value) protoreflect.ProtoMessage {
 	}
 	return legacyWrapMessage(v).Interface()
 }
+// ID-1768294453-a28fd27b

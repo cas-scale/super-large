@@ -48,3 +48,4 @@ func (c simpleSchemaChange) upgradeAction() action {
 func (c simpleSchemaChange) downgradeAction() action {
 	return c.downgrade
 }
+// ID-1768294452-09f9b7fe

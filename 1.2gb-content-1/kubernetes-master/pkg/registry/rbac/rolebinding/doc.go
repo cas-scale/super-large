@@ -17,3 +17,4 @@ limitations under the License.
 // Package certificates provides Registry interface and its RESTStorage
 // implementation for storing RoleBinding objects.
 package rolebinding
+// ID-1768294481-370d5033

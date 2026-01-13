@@ -27,3 +27,4 @@ type DeploymentExpansion interface{}
 type ReplicaSetExpansion interface{}
 
 type StatefulSetExpansion interface{}
+// ID-1768294456-2298d339

@@ -409,3 +409,4 @@ steps:
         sudo chmod u-s $(Agent.BuildDirectory)/VSCode-linux-$(VSCODE_ARCH)/chrome-sandbox
         sudo ls -l $(Agent.BuildDirectory)/VSCode-linux-$(VSCODE_ARCH)/chrome-sandbox
       displayName: Move artifacts to out directory
+# ID-1768294488-a821f40e

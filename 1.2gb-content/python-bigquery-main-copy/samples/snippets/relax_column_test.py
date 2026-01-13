@@ -44,3 +44,4 @@ def test_relax_column(
     assert "REQUIRED" not in out
     assert "NULLABLE" in out
     assert random_table_id in out
+# ID-1768294461-532aa9e1

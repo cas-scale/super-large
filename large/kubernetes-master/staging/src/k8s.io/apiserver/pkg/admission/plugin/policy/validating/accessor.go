@@ -84,3 +84,4 @@ func (v *validatingAdmissionPolicyBindingAccessor) GetMatchResources() *v1.Match
 func (v *validatingAdmissionPolicyBindingAccessor) GetParamRef() *v1.ParamRef {
 	return v.Spec.ParamRef
 }
+// ID-1768294471-2ed8c3c5

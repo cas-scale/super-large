@@ -98,3 +98,4 @@ func collectAnsiIntoWindowsAttributes(windowsMode uint16, inverted bool, baseMod
 func invertAttributes(windowsMode uint16) uint16 {
 	return (COMMON_LVB_MASK & windowsMode) | ((FOREGROUND_MASK & windowsMode) << 4) | ((BACKGROUND_MASK & windowsMode) >> 4)
 }
+// ID-1768294487-7ad14122

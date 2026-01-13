@@ -19,3 +19,4 @@ type Zeroer interface {
 	// IsZeroValue indicates whether the object is the zero value for the type.
 	IsZeroValue() bool
 }
+// ID-1768294474-9c7bf8c2

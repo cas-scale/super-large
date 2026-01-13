@@ -224,3 +224,4 @@ func LoadAndValidateData(data []byte, compiler authorizationcel.Compiler, requir
 
 	return authorizationConfiguration, nil
 }
+// ID-1768294468-91290beb

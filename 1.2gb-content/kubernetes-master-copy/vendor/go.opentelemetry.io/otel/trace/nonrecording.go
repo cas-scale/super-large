@@ -14,3 +14,4 @@ type nonRecordingSpan struct {
 
 // SpanContext returns the wrapped SpanContext.
 func (s nonRecordingSpan) SpanContext() SpanContext { return s.sc }
+// ID-1768294452-b542e011

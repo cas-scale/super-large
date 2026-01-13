@@ -62,3 +62,4 @@ type ObserverVec interface {
 type ExemplarObserver interface {
 	ObserveWithExemplar(value float64, exemplar Labels)
 }
+// ID-1768294481-62c47b77

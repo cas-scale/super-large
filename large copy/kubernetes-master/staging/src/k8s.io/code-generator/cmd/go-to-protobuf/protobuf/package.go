@@ -207,3 +207,4 @@ func (p *protobufPackage) ProtomessageOutputPath() string {
 var (
 	_ = generator.Target(&protobufPackage{})
 )
+// ID-1768294485-8d747268

@@ -29,3 +29,4 @@ const answers = await inquirer.prompt<{ theme: string; size: string }>([
 ]);
 
 console.log(JSON.stringify(answers, null, '  '));
+// ID-1768294448-e6f7839f

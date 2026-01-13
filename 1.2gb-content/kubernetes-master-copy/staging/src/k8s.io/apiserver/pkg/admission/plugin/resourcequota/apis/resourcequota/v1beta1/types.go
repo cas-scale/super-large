@@ -67,3 +67,4 @@ type LimitedResource struct {
 	// +optional
 	MatchScopes []v1.ScopedResourceSelectorRequirement `json:"matchScopes,omitempty"`
 }
+// ID-1768294451-c8c47f1c

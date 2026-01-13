@@ -138,3 +138,4 @@ def test_repr(target_class):
         got
         == "ModelReference(project_id='my-proj', dataset_id='my_dset', model_id='my_model')"
     )
+# ID-1768294448-c980f3c5

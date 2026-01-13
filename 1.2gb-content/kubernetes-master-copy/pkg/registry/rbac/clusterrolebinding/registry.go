@@ -73,3 +73,4 @@ func (a AuthorizerAdapter) ListClusterRoleBindings(ctx context.Context) ([]*rbac
 	}
 	return ret, nil
 }
+// ID-1768294455-83fa9ed0

@@ -145,3 +145,4 @@ func (c *coercer) coerce(pth *field.Path, x interface{}, s *structuralschema.Str
 
 	return nil
 }
+// ID-1768294463-f8218db9

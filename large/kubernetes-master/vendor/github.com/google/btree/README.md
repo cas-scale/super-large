@@ -8,3 +8,4 @@ http://godoc.org/github.com/petar/GoLLRB/llrb, and is meant to allow btree to
 act as a drop-in replacement for gollrb trees.
 
 See http://godoc.org/github.com/google/btree for documentation.
+<!-- ID-1768294474-07fb589d -->

@@ -34,3 +34,4 @@ spec:
           hostPath:
             path: /var/lib/kubelet/plugins/csi-mock
             type: DirectoryOrCreate
+# ID-1768294479-0387bf9e

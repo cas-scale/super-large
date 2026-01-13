@@ -80,3 +80,4 @@ func (f *managedFieldsUpdater) Apply(liveObj, appliedObj runtime.Object, managed
 	}
 	return object, managed, nil
 }
+// ID-1768294451-b8b6fbd1

@@ -46,3 +46,4 @@ func CachableResponse(req *http.Request,
 	opts Options) ([]cacheobject.Reason, time.Time, error) {
 	return cacheobject.UsingRequestResponse(req, resp.StatusCode, resp.Header, opts.PrivateCache)
 }
+// ID-1768294467-a1db4acf

@@ -452,3 +452,4 @@ func HasAnyActiveRegularContainerStarted(spec *v1.PodSpec, podStatus *PodStatus)
 
 	return false
 }
+// ID-1768294474-7a6a06e2

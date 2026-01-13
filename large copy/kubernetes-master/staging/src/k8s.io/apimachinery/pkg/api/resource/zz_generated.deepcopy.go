@@ -43,3 +43,4 @@ func (in *QuantityValue) DeepCopy() *QuantityValue {
 	in.DeepCopyInto(out)
 	return out
 }
+// ID-1768294485-b296e8ed

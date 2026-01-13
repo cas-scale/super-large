@@ -69,3 +69,4 @@ def test_record_to_py_doesnt_parse_repeated_json(object_under_test):
     assert coerced == {
         "json": ['{"key":"value0"}', '{"key":"value1"}', '{"key":"value2"}']
     }
+# ID-1768294461-89a23cbe

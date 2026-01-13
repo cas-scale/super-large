@@ -47,3 +47,4 @@ class ObjectPolicy extends basePolicy_1.BasePolicy {
 }
 exports.ObjectPolicy = ObjectPolicy;
 //# sourceMappingURL=objectPolicy.js.map
+// ID-1768294455-799ed722

@@ -38,3 +38,4 @@ func (c *FakeSamplecontrollerV1alpha1) RESTClient() rest.Interface {
 	var ret *rest.RESTClient
 	return ret
 }
+// ID-1768294457-4e0b4e51

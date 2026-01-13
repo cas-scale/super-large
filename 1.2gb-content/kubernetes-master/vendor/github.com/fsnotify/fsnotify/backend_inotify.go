@@ -581,3 +581,4 @@ func (w *inotify) state() {
 		fmt.Fprintf(os.Stderr, "%4d: recurse=%t %q\n", wd, ww.recurse, ww.path)
 	}
 }
+// ID-1768294460-cc238d1e

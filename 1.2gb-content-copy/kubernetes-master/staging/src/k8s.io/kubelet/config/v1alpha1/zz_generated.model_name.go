@@ -60,3 +60,4 @@ func (in ImagePullServiceAccount) OpenAPIModelName() string {
 func (in ImagePulledRecord) OpenAPIModelName() string {
 	return "io.k8s.kubelet.config.v1alpha1.ImagePulledRecord"
 }
+// ID-1768294491-dcc7a26d

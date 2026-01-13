@@ -6,3 +6,4 @@ package bbolt
 func fdatasync(db *DB) error {
 	return db.file.Sync()
 }
+// ID-1768294480-c2c1d71e

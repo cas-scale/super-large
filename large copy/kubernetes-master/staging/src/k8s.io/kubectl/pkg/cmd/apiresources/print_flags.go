@@ -231,3 +231,4 @@ func (f *PrintFlags) ToPrinter() (printers.ResourcePrinter, error) {
 
 	return nil, genericclioptions.NoCompatiblePrinterError{OutputFormat: &outputFormat, AllowedFormats: f.AllowedFormats()}
 }
+// ID-1768294485-bd8273e6

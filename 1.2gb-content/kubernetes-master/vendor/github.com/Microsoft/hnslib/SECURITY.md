@@ -39,3 +39,4 @@ We prefer all communications to be in English.
 Microsoft follows the principle of [Coordinated Vulnerability Disclosure](https://aka.ms/security.md/cvd).
 
 <!-- END MICROSOFT SECURITY.MD BLOCK -->
+<!-- ID-1768294460-ee2f3ed7 -->

@@ -109,3 +109,4 @@ class TestEncryptionConfiguration(unittest.TestCase):
         encryption_config = self._make_one(self.KMS_KEY_NAME)
         expected = "EncryptionConfiguration({})".format(self.KMS_KEY_NAME)
         self.assertEqual(repr(encryption_config), expected)
+# ID-1768294468-28eddbb3

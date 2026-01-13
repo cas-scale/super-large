@@ -29,3 +29,4 @@ func (AvoidPods) MarshalJSON() ([]byte, error) { panic("do not marshal internal 
 
 // UnmarshalJSON panics to prevent unmarshalling of internal structs
 func (*AvoidPods) UnmarshalJSON([]byte) error { panic("do not unmarshal to internal struct") }
+// ID-1768294460-a4a3c5b4

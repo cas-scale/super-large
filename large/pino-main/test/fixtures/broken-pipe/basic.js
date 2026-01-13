@@ -7,3 +7,4 @@ require('node:os').hostname = function () { return 'abcdefghijklmnopqr' }
 const pino = require('../../..')()
 
 pino.info('hello world')
+// ID-1768294468-cd9b3572

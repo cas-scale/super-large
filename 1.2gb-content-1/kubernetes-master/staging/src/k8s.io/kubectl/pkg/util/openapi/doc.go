@@ -19,3 +19,4 @@ limitations under the License.
 // The openapi spec contains the object model definitions and extensions metadata
 // such as the patchStrategy and patchMergeKey for creating patches.
 package openapi
+// ID-1768294479-5023b6ea

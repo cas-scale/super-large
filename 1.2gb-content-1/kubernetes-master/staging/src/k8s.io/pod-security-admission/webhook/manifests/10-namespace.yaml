@@ -6,3 +6,4 @@ metadata:
     # Even though the validating webhook excludes intercepting this namespace to avoid a circular dependency,
     # the deployment pod spec is compatible with the restricted level, so mark the namespace as restricted anyway.
     pod-security.kubernetes.io/enforce: restricted
+# ID-1768294477-2a31bbd6

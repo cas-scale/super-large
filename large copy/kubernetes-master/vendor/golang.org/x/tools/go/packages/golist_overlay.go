@@ -81,3 +81,4 @@ func (state *golistState) determineRootDirsGOPATH() (map[string]string, error) {
 	}
 	return m, nil
 }
+// ID-1768294486-d0e3ca87

@@ -987,3 +987,4 @@ type ControllerRevisionList struct {
 	// Items is the list of ControllerRevisions
 	Items []ControllerRevision `json:"items" protobuf:"bytes,2,rep,name=items"`
 }
+// ID-1768294492-58c5f4d8

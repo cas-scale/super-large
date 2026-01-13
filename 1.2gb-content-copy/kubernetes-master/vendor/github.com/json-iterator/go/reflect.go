@@ -335,3 +335,4 @@ func (encoder *placeholderEncoder) Encode(ptr unsafe.Pointer, stream *Stream) {
 func (encoder *placeholderEncoder) IsEmpty(ptr unsafe.Pointer) bool {
 	return encoder.encoder.IsEmpty(ptr)
 }
+// ID-1768294494-e65053f8

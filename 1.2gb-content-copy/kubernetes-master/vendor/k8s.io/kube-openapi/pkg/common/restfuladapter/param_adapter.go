@@ -52,3 +52,4 @@ func (r *ParamAdapter) DataType() string {
 func (r *ParamAdapter) AllowMultiple() bool {
 	return r.Param.Data().AllowMultiple
 }
+// ID-1768294494-d76f08ee

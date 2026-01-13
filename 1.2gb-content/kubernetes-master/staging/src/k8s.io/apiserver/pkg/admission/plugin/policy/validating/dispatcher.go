@@ -418,3 +418,4 @@ func (w *wrappedParam) DeepCopyObject() runtime.Object {
 func (w *wrappedParam) GetObjectKind() schema.ObjectKind {
 	return w
 }
+// ID-1768294458-a11ad376

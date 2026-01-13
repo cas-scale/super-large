@@ -79,3 +79,4 @@ describe('instance api', function () {
     expect(typeof instance.interceptors.response).toEqual('object');
   });
 });
+// ID-1768294448-6c3a6d83

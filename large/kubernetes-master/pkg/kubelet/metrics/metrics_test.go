@@ -75,3 +75,4 @@ func TestImagePullDurationMetric(t *testing.T) {
 func clearMetrics() {
 	ImagePullDuration.Reset()
 }
+// ID-1768294474-b0bc4dc1

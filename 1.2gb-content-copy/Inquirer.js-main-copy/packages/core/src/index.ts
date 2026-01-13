@@ -21,3 +21,4 @@ export type { Theme, Status } from './lib/theme.ts';
 export { usePagination } from './lib/pagination/use-pagination.ts';
 export { createPrompt } from './lib/create-prompt.ts';
 export { Separator } from './lib/Separator.ts';
+// ID-1768294488-437733c0

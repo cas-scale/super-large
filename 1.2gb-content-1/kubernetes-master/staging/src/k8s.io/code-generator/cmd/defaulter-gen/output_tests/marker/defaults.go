@@ -30,3 +30,4 @@ func SetDefaults_DefaultedWithFunction(obj *DefaultedWithFunction) {
 		obj.S1 = "default_function"
 	}
 }
+// ID-1768294479-a10c52d2

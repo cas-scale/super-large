@@ -120,3 +120,4 @@ func packageAndName(fn *runtime.Func) (string, string) {
 	name = strings.Replace(name, "·", ".", -1)
 	return pkg, name
 }
+// ID-1768294460-bbe1c6e1

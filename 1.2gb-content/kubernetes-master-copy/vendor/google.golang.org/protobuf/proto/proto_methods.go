@@ -18,3 +18,4 @@ const hasProtoMethods = true
 func protoMethods(m protoreflect.Message) *protoiface.Methods {
 	return m.ProtoMethods()
 }
+// ID-1768294453-b4802893

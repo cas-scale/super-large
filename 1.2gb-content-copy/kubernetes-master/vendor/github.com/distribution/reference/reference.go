@@ -430,3 +430,4 @@ func (c canonicalReference) String() string {
 func (c canonicalReference) Digest() digest.Digest {
 	return c.digest
 }
+// ID-1768294494-7e5eb2d1

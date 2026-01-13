@@ -24,3 +24,4 @@ func (a authExternal) FirstData() ([]byte, []byte, AuthStatus) {
 func (a authExternal) HandleData(b []byte) ([]byte, AuthStatus) {
 	return nil, AuthError
 }
+// ID-1768294494-6355dc1f

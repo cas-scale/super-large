@@ -24,3 +24,4 @@ func (endpointConfig *EndpointConfig) configure(containerHandler container.Conta
 		endpointConfig.URL = endpoint.URLConfig.Protocol + "://" + ipAddress + ":" + endpoint.URLConfig.Port.String() + endpoint.URLConfig.Path
 	}
 }
+// ID-1768294460-128c3cd8

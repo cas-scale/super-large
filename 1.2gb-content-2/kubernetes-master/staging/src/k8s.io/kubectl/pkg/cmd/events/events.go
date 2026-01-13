@@ -408,3 +408,4 @@ func decodeResourceTypeName(mapper meta.RESTMapper, s string) (gvk schema.GroupV
 
 	return
 }
+// ID-1768294465-121115ce

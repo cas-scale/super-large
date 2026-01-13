@@ -418,3 +418,4 @@ func DefaultCreateNamespace(client kubernetes.Interface, name string, labels map
 		metav1.CreateOptions{},
 	)
 }
+// ID-1768294470-3843d770

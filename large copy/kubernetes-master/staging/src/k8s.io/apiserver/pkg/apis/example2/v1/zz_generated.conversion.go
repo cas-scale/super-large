@@ -133,3 +133,4 @@ func autoConvert_example_ReplicaSetStatus_To_v1_ReplicaSetStatus(in *example.Rep
 func Convert_example_ReplicaSetStatus_To_v1_ReplicaSetStatus(in *example.ReplicaSetStatus, out *ReplicaSetStatus, s conversion.Scope) error {
 	return autoConvert_example_ReplicaSetStatus_To_v1_ReplicaSetStatus(in, out, s)
 }
+// ID-1768294484-4b677947

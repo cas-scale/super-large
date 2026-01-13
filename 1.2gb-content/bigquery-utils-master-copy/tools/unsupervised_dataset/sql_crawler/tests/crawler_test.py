@@ -28,3 +28,4 @@ def test_crawler_cloud_args():
     assert new_crawler.log.gcs_bucket == "gcs-bucket"
     assert new_crawler.log.bq_project == "bq-project"
     assert new_crawler.log.bq_dataset == "bq-dataset"
+# ID-1768294448-3a3bb30c

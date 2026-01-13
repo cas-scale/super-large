@@ -47,3 +47,4 @@ func SetObjectDefaults_DeviceTaintRuleList(in *resourcev1alpha3.DeviceTaintRuleL
 		SetObjectDefaults_DeviceTaintRule(a)
 	}
 }
+// ID-1768294468-5a260840

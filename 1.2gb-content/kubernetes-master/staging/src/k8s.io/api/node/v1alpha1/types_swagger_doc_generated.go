@@ -78,3 +78,4 @@ func (Scheduling) SwaggerDoc() map[string]string {
 }
 
 // AUTO-GENERATED FUNCTIONS END HERE
+// ID-1768294457-6f787699

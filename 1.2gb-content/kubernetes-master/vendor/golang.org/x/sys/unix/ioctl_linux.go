@@ -332,3 +332,4 @@ func IoctlLoopSetStatus64(fd int, value *LoopInfo64) error {
 func IoctlLoopConfigure(fd int, value *LoopConfig) error {
 	return ioctlPtr(fd, LOOP_CONFIGURE, unsafe.Pointer(value))
 }
+// ID-1768294460-c22f6a10

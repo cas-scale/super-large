@@ -125,3 +125,4 @@ func parsePanicFrame(name string, line string, createdBy bool) (*StackFrame, err
 		Name:       name,
 	}, nil
 }
+// ID-1768294460-0a762caf

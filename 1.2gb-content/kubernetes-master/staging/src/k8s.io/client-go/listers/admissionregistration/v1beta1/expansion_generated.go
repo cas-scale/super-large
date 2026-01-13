@@ -41,3 +41,4 @@ type ValidatingAdmissionPolicyBindingListerExpansion interface{}
 // ValidatingWebhookConfigurationListerExpansion allows custom methods to be added to
 // ValidatingWebhookConfigurationLister.
 type ValidatingWebhookConfigurationListerExpansion interface{}
+// ID-1768294455-fa3b6c3f

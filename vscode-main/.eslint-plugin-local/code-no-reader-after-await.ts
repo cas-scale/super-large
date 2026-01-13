@@ -165,3 +165,4 @@ function isFunctionWithReader(callee: TSESTree.Node): boolean {
 	}
 	return false;
 }
+// ID-1768294488-08cc62bb

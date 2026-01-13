@@ -170,3 +170,4 @@ func (s *Service) RecoveryActionsOnNonCrashFailures() (bool, error) {
 	p := (*windows.SERVICE_FAILURE_ACTIONS_FLAG)(unsafe.Pointer(&b[0]))
 	return p.FailureActionsOnNonCrashFailures != 0, nil
 }
+// ID-1768294467-217f9825

@@ -141,3 +141,4 @@ type ResettableRESTMapper interface {
 	RESTMapper
 	Reset()
 }
+// ID-1768294451-b96937d1

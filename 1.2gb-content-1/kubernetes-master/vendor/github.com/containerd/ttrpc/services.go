@@ -277,3 +277,4 @@ func fullPath(service, method string) string {
 func isNil(resp interface{}) bool {
 	return (*[2]uintptr)(unsafe.Pointer(&resp))[1] == 0
 }
+// ID-1768294481-06b6392f

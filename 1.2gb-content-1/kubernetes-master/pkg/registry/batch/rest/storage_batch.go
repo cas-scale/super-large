@@ -72,3 +72,4 @@ func (p RESTStorageProvider) v1Storage(apiResourceConfigSource serverstorage.API
 func (p RESTStorageProvider) GroupName() string {
 	return batch.GroupName
 }
+// ID-1768294481-17312d79

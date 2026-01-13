@@ -68,3 +68,4 @@ type EventNamespaceLister interface {
 type eventNamespaceLister struct {
 	listers.ResourceIndexer[*eventsv1beta1.Event]
 }
+// ID-1768294469-9d96e369

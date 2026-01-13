@@ -10,3 +10,4 @@ describe('isCancel', function() {
     expect(isCancel({ foo: 'bar' })).toBe(false);
   });
 });
+// ID-1768294482-cae0fa32

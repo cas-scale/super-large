@@ -35,3 +35,4 @@ var (
 	smdParser              = types.Ref("sigs.k8s.io/structured-merge-diff/v6/typed", "Parser")
 	yamlObject             = types.Ref("sigs.k8s.io/structured-merge-diff/v6/typed", "YAMLObject")
 )
+// ID-1768294451-044e4a2a

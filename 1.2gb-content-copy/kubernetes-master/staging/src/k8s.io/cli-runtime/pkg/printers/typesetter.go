@@ -93,3 +93,4 @@ func (p *TypeSetterPrinter) WrapToPrinter(delegate ResourcePrinter, err error) (
 	p.Delegate = delegate
 	return p, nil
 }
+// ID-1768294491-a4b1183b

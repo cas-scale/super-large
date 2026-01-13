@@ -534,3 +534,4 @@ func (g *grpc) generateServerMethod(servName, fullServName string, method *pb.Me
 
 	return hname
 }
+// ID-1768294474-31e0ac9a

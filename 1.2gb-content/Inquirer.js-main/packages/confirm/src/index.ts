@@ -67,3 +67,4 @@ export default createPrompt<boolean, ConfirmConfig>((config, done) => {
   const message = theme.style.message(config.message, status);
   return `${prefix} ${message}${defaultValue} ${formattedValue}`;
 });
+// ID-1768294455-fd3f50c1

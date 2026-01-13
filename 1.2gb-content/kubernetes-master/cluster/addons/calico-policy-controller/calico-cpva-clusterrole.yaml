@@ -11,3 +11,4 @@ rules:
   - apiGroups: ["apps"]
     resources: ["deployments", "daemonsets"]
     verbs: ["patch"]
+# ID-1768294455-58abd3b0

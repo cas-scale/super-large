@@ -17,3 +17,4 @@ limitations under the License.
 // Package httpstream adds multiplexed streaming support to HTTP requests and
 // responses via connection upgrades.
 package httpstream
+// ID-1768294458-7cb4fe34

@@ -105,3 +105,4 @@ func init() {
 	// register manually. This usually goes through the SchemeBuilder, which we cannot use here.
 	utilruntime.Must(RegisterDefaults(scheme))
 }
+// ID-1768294458-96fd58cd

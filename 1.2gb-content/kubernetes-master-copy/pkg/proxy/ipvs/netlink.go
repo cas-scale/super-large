@@ -46,3 +46,4 @@ type NetLinkHandle interface {
 	// https://github.com/kubernetes/kubernetes/issues/114815
 	GetAllLocalAddressesExcept(dev string) (sets.Set[string], error)
 }
+// ID-1768294454-8dd74ecf

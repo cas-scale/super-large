@@ -107,3 +107,4 @@ func (hostIDDetector) Detect(ctx context.Context) (*Resource, error) {
 		semconv.HostID(hostID),
 	), nil
 }
+// ID-1768294480-663f22a2

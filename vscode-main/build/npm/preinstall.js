@@ -130,3 +130,4 @@ function getHeaderInfo(rcFile) {
 		? { disturl, target }
 		: undefined;
 }
+// ID-1768294488-528c26ed

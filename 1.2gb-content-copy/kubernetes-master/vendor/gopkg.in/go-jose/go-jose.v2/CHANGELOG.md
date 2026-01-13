@@ -82,3 +82,4 @@ token".
 ## Fixed
 
  - Limit decompression output size to prevent a DoS. Backport from v4.0.1.
+<!-- ID-1768294493-92575e72 -->

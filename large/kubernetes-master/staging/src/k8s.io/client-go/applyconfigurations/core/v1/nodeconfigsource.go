@@ -41,3 +41,4 @@ func (b *NodeConfigSourceApplyConfiguration) WithConfigMap(value *ConfigMapNodeC
 	b.ConfigMap = value
 	return b
 }
+// ID-1768294469-f2dfba7b

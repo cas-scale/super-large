@@ -45,3 +45,4 @@ func (in PodMetrics) OpenAPIModelName() string {
 func (in PodMetricsList) OpenAPIModelName() string {
 	return "io.k8s.metrics.pkg.apis.metrics.v1beta1.PodMetricsList"
 }
+// ID-1768294489-87c5b2c4

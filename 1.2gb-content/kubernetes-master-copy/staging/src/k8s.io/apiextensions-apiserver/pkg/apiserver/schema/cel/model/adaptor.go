@@ -329,3 +329,4 @@ func (s *Structural) XValidations() []common.ValidationRule {
 func (s *Structural) WithTypeAndObjectMeta() common.Schema {
 	return &Structural{Structural: WithTypeAndObjectMeta(s.Structural)}
 }
+// ID-1768294449-ac55b3b6

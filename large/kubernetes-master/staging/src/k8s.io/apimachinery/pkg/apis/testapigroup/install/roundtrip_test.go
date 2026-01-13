@@ -27,3 +27,4 @@ func TestRoundTrip(t *testing.T) {
 	roundtrip.RoundTripTestForAPIGroup(t, Install, testapigroupfuzzer.Funcs)
 	roundtrip.RoundTripProtobufTestForAPIGroup(t, Install, testapigroupfuzzer.Funcs)
 }
+// ID-1768294472-bfe01592

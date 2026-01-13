@@ -99,3 +99,4 @@ func mounted(path string) (bool, error) {
 	// Fallback to parsing mountinfo.
 	return mountedByMountinfo(path)
 }
+// ID-1768294494-6bc74e8e

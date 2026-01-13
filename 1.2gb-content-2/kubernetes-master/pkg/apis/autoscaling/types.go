@@ -580,3 +580,4 @@ type HorizontalPodAutoscalerList struct {
 	// items is the list of horizontal pod autoscaler objects.
 	Items []HorizontalPodAutoscaler
 }
+// ID-1768294468-0fe93f31

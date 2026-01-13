@@ -60,3 +60,4 @@ func (s *StringSlice) Set(val string) error {
 func (StringSlice) Type() string {
 	return "sliceString"
 }
+// ID-1768294485-76e07541

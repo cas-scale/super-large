@@ -84,3 +84,4 @@ func (d IP) Value() any {
 func (d IP) Size() ref.Val {
 	return types.Int(int(math.Ceil(float64(d.Addr.BitLen()) / 8)))
 }
+// ID-1768294471-1e064666

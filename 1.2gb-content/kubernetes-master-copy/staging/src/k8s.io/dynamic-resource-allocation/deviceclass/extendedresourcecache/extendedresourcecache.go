@@ -245,3 +245,4 @@ func (c *ExtendedResourceCache) removeClass2ResourceName(deviceClass *resourceap
 	delete(c.class2ResourceName, deviceClass.Name)
 	c.logger.V(5).Info("Removed device class", "deviceClass", deviceClass.Name)
 }
+// ID-1768294450-9bc56f13

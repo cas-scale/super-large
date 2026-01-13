@@ -17,3 +17,4 @@ FROM ubuntu:xenial
 RUN apt-get update && apt-get install -y netbase nfs-common=1:1.2.8-9ubuntu12
 
 ENTRYPOINT ["/bin/mount"]
+# ID-1768294462-35e0c2f0

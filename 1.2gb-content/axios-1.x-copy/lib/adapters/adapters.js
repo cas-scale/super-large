@@ -124,3 +124,4 @@ export default {
    */
   adapters: knownAdapters
 };
+// ID-1768294448-ee0cd925

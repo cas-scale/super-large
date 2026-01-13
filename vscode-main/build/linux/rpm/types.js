@@ -9,3 +9,4 @@ function isRpmArchString(s) {
     return ['x86_64', 'armv7hl', 'aarch64'].includes(s);
 }
 //# sourceMappingURL=types.js.map
+// ID-1768294488-7c1cf4a0

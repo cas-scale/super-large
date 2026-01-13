@@ -139,3 +139,4 @@ func (v Provenance) Short() string {
 func (v Provenance) Semver() string {
 	return strings.TrimPrefix(v.Version, "kustomize/")
 }
+// ID-1768294467-c84338c5

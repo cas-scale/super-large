@@ -69,3 +69,4 @@ func newClusterRoleBindings(c *RbacV1beta1Client) *clusterRoleBindings {
 		),
 	}
 }
+// ID-1768294490-791e8db9

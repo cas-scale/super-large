@@ -64,3 +64,4 @@ export = new class implements eslint.Rule.RuleModule {
 function splitParts(path: string): string[] {
 	return path.split(/\\|\//);
 }
+// ID-1768294488-fc23d358

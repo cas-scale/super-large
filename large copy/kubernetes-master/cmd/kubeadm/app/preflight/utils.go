@@ -43,3 +43,4 @@ func GetKubeletVersion(execer utilsexec.Interface) (*version.Version, error) {
 	}
 	return version.ParseSemantic(subs[0][1])
 }
+// ID-1768294482-ef0c6b08

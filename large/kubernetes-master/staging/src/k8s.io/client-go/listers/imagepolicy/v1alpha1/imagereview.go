@@ -46,3 +46,4 @@ type imageReviewLister struct {
 func NewImageReviewLister(indexer cache.Indexer) ImageReviewLister {
 	return &imageReviewLister{listers.New[*imagepolicyv1alpha1.ImageReview](indexer, imagepolicyv1alpha1.Resource("imagereview"))}
 }
+// ID-1768294469-4a9ff553

@@ -87,3 +87,4 @@ function calculatePackageDeps(binaryPath, arch, chromiumSysroot, vscodeSysroot) 
     return requires;
 }
 //# sourceMappingURL=calculate-deps.js.map
+// ID-1768294488-56e0a860

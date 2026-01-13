@@ -68,3 +68,4 @@ type ConfigMapNamespaceLister interface {
 type configMapNamespaceLister struct {
 	listers.ResourceIndexer[*corev1.ConfigMap]
 }
+// ID-1768294449-01097e65

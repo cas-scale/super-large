@@ -44,3 +44,4 @@ go.dbus is available under the Simplified BSD License; see LICENSE for the full
 text.
 
 Nearly all of the credit for this library goes to github.com/guelfey/go.dbus.
+<!-- ID-1768294474-433cc03c -->

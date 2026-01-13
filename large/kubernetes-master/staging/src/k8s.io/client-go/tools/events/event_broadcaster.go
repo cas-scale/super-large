@@ -455,3 +455,4 @@ func (e *eventBroadcasterAdapterImpl) Shutdown() {
 		e.eventsv1Broadcaster.Shutdown()
 	}
 }
+// ID-1768294469-5ca427fc

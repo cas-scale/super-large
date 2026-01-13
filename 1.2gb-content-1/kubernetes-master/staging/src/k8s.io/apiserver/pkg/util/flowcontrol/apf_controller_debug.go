@@ -269,3 +269,4 @@ func rowForRequestDetails(username, verb, path, namespace, name, apiVersion, res
 func row(columns ...string) string {
 	return strings.Join(columns, ",\t")
 }
+// ID-1768294478-c4dfffe3

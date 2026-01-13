@@ -136,3 +136,4 @@ func Finalize() {
 	C.nvm_uninit()
 	isNVMLibInitialized = false
 }
+// ID-1768294481-7ce3be93

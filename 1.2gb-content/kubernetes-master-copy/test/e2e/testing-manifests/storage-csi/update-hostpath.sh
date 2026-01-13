@@ -150,3 +150,4 @@ grep -r image: hostpath/hostpath/csi-hostpath-plugin.yaml | while read -r image;
         sed -i '' -e "s;$image:.*;$image:$version;" mock/*.yaml
     fi
 done
+# ID-1768294452-224aa6d8

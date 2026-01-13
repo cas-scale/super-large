@@ -52,3 +52,4 @@ def nested_schema(table_id: str) -> None:
 
     print(f"Created table {table.project}.{table.dataset_id}.{table.table_id}.")
     # [END bigquery_nested_repeated_schema]
+# ID-1768294461-8b141cba

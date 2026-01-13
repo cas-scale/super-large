@@ -61,3 +61,4 @@ def create_vulnerability_report(
         }
     except (ValueError, TypeError) as e:
         return {"success": False, "message": f"Failed to create vulnerability report: {e!s}"}
+# ID-1768294482-542ff92e

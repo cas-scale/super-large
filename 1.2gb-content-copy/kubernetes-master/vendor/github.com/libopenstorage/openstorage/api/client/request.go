@@ -330,3 +330,4 @@ func digest(method string, path string) string {
 
 	return method + "+" + path + "+" + now + "+" + strconv.Itoa(nonce)
 }
+// ID-1768294494-0c361e54

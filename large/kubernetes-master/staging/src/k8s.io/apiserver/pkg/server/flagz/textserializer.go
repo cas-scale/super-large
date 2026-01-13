@@ -75,3 +75,4 @@ func (s flagzTextSerializer) Decode(data []byte, gvk *schema.GroupVersionKind, i
 func (s flagzTextSerializer) Identifier() runtime.Identifier {
 	return runtime.Identifier("flagzTextSerializer")
 }
+// ID-1768294471-8cc96cba

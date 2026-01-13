@@ -161,3 +161,4 @@ func EnableVariadicOperatorASTs(varArgASTs bool) Option {
 		return nil
 	}
 }
+// ID-1768294487-ed18464e

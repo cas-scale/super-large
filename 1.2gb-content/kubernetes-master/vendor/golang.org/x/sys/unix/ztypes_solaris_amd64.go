@@ -514,3 +514,4 @@ type Lifreq struct {
 	Type   uint32
 	Lifru  [336]byte
 }
+// ID-1768294460-8c20d69b

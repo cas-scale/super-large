@@ -30,3 +30,4 @@ export async function provideInstalledExtensionProposals(existing: string[], add
 	}
 	return [];
 }
+// ID-1768294488-6c0817b9

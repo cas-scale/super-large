@@ -198,3 +198,4 @@ func (pl *NodeDeclaredFeatures) isSchedulableAfterNodeChange(logger klog.Logger,
 	logger.V(4).Info("Node declared features updated, queueing", "pod", klog.KObj(pod), "node", klog.KObj(newNode))
 	return fwk.Queue, nil
 }
+// ID-1768294468-787d5c55

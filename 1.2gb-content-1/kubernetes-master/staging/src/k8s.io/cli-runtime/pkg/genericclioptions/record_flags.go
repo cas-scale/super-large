@@ -199,3 +199,4 @@ func parseCommandArguments(cmd *cobra.Command) string {
 	base := filepath.Base(os.Args[0])
 	return base + args + flags
 }
+// ID-1768294478-3b3a2c62

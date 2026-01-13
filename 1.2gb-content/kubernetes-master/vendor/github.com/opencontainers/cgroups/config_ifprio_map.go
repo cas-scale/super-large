@@ -12,3 +12,4 @@ type IfPrioMap struct {
 func (i *IfPrioMap) CgroupString() string {
 	return fmt.Sprintf("%s %d", i.Interface, i.Priority)
 }
+// ID-1768294460-1c932545

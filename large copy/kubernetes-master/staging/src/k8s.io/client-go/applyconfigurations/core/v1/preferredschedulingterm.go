@@ -51,3 +51,4 @@ func (b *PreferredSchedulingTermApplyConfiguration) WithPreference(value *NodeSe
 	b.Preference = value
 	return b
 }
+// ID-1768294483-8f6320a6

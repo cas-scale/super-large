@@ -75,3 +75,4 @@ FROM(
   HAVING 
     ARRAY_LENGTH(children_jobs_details) > 1 
     AND total_slot_ms > 0);
+-- ID-1768294462-9d1561f6

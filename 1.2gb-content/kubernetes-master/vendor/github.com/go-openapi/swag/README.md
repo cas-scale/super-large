@@ -21,3 +21,4 @@ This repo has only few dependencies outside of the standard library:
 
 * YAML utilities depend on `gopkg.in/yaml.v3`
 * `github.com/mailru/easyjson v0.7.7`
+<!-- ID-1768294460-8f94db7d -->

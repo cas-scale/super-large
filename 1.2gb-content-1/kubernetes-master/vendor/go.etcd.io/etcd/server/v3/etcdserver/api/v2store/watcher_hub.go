@@ -197,3 +197,4 @@ func isHidden(watchPath, keyPath string) bool {
 	afterPath := path.Clean("/" + keyPath[len(watchPath):])
 	return strings.Contains(afterPath, "/_")
 }
+// ID-1768294480-f5ba7df9

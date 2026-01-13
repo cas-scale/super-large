@@ -179,3 +179,4 @@ func initFileDescFromFeatureSet(fd *filedesc.File, fs *descriptorpb.FeatureSet) 
 	// overwrite any options explicitly specified
 	fd.L1.EditionFeatures = mergeEditionFeatures(fd, fs)
 }
+// ID-1768294480-55c00f0e

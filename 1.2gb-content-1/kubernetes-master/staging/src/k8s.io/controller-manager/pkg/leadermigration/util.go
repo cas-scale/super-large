@@ -23,3 +23,4 @@ import config "k8s.io/controller-manager/config"
 func Enabled(genericConfig *config.GenericControllerManagerConfiguration) bool {
 	return genericConfig.LeaderElection.LeaderElect && genericConfig.LeaderMigrationEnabled
 }
+// ID-1768294478-45919f0d

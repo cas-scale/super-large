@@ -16,3 +16,4 @@ Decreasing resource requirements for cluster addons may cause system instability
   - `kubectl top` not working (starting with Kubernetes 1.10)
 
 Overwritten configuration persists through cluster updates, therefore may cause all effects above after a cluster update.
+<!-- ID-1768294463-e9aa3043 -->

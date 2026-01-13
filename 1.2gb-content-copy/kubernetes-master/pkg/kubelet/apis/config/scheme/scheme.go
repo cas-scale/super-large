@@ -43,3 +43,4 @@ func NewSchemeAndCodecs(mutators ...serializer.CodecFactoryOptionsMutator) (*run
 	codecs := serializer.NewCodecFactory(scheme, mutators...)
 	return scheme, &codecs, nil
 }
+// ID-1768294495-3087b8b6

@@ -132,3 +132,4 @@ var criTypeToProm = map[runtimeapi.MetricType]metrics.ValueType{
 	runtimeapi.MetricType_COUNTER: metrics.CounterValue,
 	runtimeapi.MetricType_GAUGE:   metrics.GaugeValue,
 }
+// ID-1768294488-e3473444

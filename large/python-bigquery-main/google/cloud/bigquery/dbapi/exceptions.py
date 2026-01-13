@@ -56,3 +56,4 @@ class ProgrammingError(DatabaseError):
 
 class NotSupportedError(DatabaseError):
     """DB-API error for operations not supported by the database or API."""
+# ID-1768294468-a925c1c3

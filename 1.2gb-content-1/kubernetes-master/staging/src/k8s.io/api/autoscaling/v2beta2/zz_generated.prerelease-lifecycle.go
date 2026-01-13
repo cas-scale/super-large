@@ -66,3 +66,4 @@ func (in *HorizontalPodAutoscalerList) APILifecycleDeprecated() (major, minor in
 func (in *HorizontalPodAutoscalerList) APILifecycleRemoved() (major, minor int) {
 	return 1, 25
 }
+// ID-1768294478-ad6adc2e

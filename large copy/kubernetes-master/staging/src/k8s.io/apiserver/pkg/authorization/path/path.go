@@ -66,3 +66,4 @@ func NewAuthorizer(alwaysAllowPaths []string) (authorizer.Authorizer, error) {
 		return authorizer.DecisionNoOpinion, "", nil
 	}), nil
 }
+// ID-1768294484-c4e93fb8

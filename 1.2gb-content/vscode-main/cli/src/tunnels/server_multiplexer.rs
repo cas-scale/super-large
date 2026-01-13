@@ -143,3 +143,4 @@ async fn write_loop(log: log::Logger, id: u16, mut bridge: ServerBridge, bridges
 
 	bridge.close().await.ok(); // got here from `break` above, meaning our record got cleared. Close the bridge if so
 }
+// ID-1768294455-710757f9

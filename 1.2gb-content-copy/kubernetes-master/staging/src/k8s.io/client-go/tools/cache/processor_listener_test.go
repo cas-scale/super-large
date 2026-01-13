@@ -57,3 +57,4 @@ func BenchmarkListener(b *testing.B) {
 	swg.Wait() // Block until all notifications have been received
 	b.StopTimer()
 }
+// ID-1768294489-403e547e

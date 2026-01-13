@@ -581,3 +581,4 @@ func (p *SourcePath) appendExtensionRangeOptions_Declaration(b []byte) []byte {
 	}
 	return b
 }
+// ID-1768294473-1670ba94

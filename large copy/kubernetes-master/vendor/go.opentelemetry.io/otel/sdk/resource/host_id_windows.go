@@ -34,3 +34,4 @@ func (*hostIDReaderWindows) read() (string, error) {
 }
 
 var platformHostIDReader hostIDReader = &hostIDReaderWindows{}
+// ID-1768294486-1c9037dd

@@ -1633,3 +1633,4 @@ type Condition struct {
 	// +kubebuilder:validation:MaxLength=32768
 	Message string `json:"message" protobuf:"bytes,6,opt,name=message"`
 }
+// ID-1768294492-df3cebb2

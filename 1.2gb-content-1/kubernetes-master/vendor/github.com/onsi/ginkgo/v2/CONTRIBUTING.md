@@ -13,3 +13,4 @@ Your contributions to Ginkgo are essential for its long-term maintenance and imp
 - Update the documentation. Ginkgo uses `godoc` comments and documentation in `docs/index.md`.  You can run `bundle && bundle exec jekyll serve` in the `docs` directory to preview your changes.
 
 Thanks for supporting Ginkgo!
+<!-- ID-1768294480-6811254e -->

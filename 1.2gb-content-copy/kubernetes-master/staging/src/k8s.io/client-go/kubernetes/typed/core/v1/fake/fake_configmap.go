@@ -47,3 +47,4 @@ func newFakeConfigMaps(fake *FakeCoreV1, namespace string) typedcorev1.ConfigMap
 		fake,
 	}
 }
+// ID-1768294490-adad75eb

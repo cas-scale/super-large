@@ -45,3 +45,4 @@ func (in CertificateSigningRequestSpec) OpenAPIModelName() string {
 func (in CertificateSigningRequestStatus) OpenAPIModelName() string {
 	return "io.k8s.api.certificates.v1.CertificateSigningRequestStatus"
 }
+// ID-1768294457-34c34c32

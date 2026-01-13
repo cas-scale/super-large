@@ -45,3 +45,4 @@ def build_bigquery_table_ref(table_name):
     table_ref = bigquery.Table(f'project1.dataset1.{table_name}')
     table_ref._properties['type'] = TABLE_TYPE_PHYSICAL_TABLE
     return table_ref
+# ID-1768294469-96919959

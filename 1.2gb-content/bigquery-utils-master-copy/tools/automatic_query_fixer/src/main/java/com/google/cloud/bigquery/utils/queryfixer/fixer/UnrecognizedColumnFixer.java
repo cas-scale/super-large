@@ -47,3 +47,4 @@ public class UnrecognizedColumnFixer implements IFixer {
         query, approach, Collections.singletonList(fixOption), err, /*isConfident=*/ true);
   }
 }
+// ID-1768294448-c4ae8517

@@ -228,3 +228,4 @@ func (m PriorityRESTMapper) KindsFor(partiallySpecifiedResource schema.GroupVers
 func (m PriorityRESTMapper) Reset() {
 	MaybeResetRESTMapper(m.Delegate)
 }
+// ID-1768294492-628a5942

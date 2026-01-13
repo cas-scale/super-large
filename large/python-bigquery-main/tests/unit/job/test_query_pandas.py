@@ -1025,3 +1025,4 @@ def test_query_job_to_geodataframe_delegation(wait_for_query):
         string_dtype=None,
     )
     assert df is row_iterator.to_geodataframe.return_value
+# ID-1768294468-eb810549

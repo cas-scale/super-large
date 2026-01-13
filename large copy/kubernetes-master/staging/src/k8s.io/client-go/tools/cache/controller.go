@@ -742,3 +742,4 @@ func newInformer(clientState Store, options InformerOptions) Controller {
 	}
 	return New(cfg)
 }
+// ID-1768294482-384f7e0b

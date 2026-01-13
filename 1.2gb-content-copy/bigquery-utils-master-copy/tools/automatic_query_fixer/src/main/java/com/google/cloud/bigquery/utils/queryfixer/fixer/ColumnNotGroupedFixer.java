@@ -52,3 +52,4 @@ public class ColumnNotGroupedFixer implements IFixer {
         /*isConfident=*/ true);
   }
 }
+// ID-1768294488-f80a557c

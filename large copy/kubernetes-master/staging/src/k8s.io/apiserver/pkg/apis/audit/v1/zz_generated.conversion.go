@@ -357,3 +357,4 @@ func autoConvert_audit_PolicyRule_To_v1_PolicyRule(in *audit.PolicyRule, out *Po
 func Convert_audit_PolicyRule_To_v1_PolicyRule(in *audit.PolicyRule, out *PolicyRule, s conversion.Scope) error {
 	return autoConvert_audit_PolicyRule_To_v1_PolicyRule(in, out, s)
 }
+// ID-1768294484-9aac579f

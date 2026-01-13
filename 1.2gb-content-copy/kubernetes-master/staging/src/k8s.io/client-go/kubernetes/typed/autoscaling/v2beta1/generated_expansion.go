@@ -19,3 +19,4 @@ limitations under the License.
 package v2beta1
 
 type HorizontalPodAutoscalerExpansion interface{}
+// ID-1768294490-58b06a4b

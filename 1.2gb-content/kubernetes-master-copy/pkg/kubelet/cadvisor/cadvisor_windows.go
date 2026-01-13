@@ -81,3 +81,4 @@ func (cu *cadvisorClient) RootFsInfo() (cadvisorapiv2.FsInfo, error) {
 func (cu *cadvisorClient) GetDirFsInfo(path string) (cadvisorapiv2.FsInfo, error) {
 	return cu.winStatsClient.GetDirFsInfo(path)
 }
+// ID-1768294455-e7bb6294

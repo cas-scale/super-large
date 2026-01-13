@@ -31,3 +31,4 @@ func SetKubernetesVersion(cfg *kubeadmapiv1.ClusterConfiguration) {
 	}
 	cfg.KubernetesVersion = version.Get().String()
 }
+// ID-1768294475-9c9a7050

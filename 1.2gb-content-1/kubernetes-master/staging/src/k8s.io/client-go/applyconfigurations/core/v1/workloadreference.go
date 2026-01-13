@@ -72,3 +72,4 @@ func (b *WorkloadReferenceApplyConfiguration) WithPodGroupReplicaKey(value strin
 	b.PodGroupReplicaKey = &value
 	return b
 }
+// ID-1768294476-8eb83da9

@@ -40,3 +40,4 @@ func IsCompressorNameRegistered(name string) bool {
 func RegisteredCompressors() string {
 	return strings.Join(RegisteredCompressorNames, ",")
 }
+// ID-1768294493-2a2c3074

@@ -23,3 +23,4 @@ spec:
       - image: aronchick/hello-node:2.0
         imagePullPolicy: IfNotPresent
         name: hello
+# ID-1768294459-2a21b1a1

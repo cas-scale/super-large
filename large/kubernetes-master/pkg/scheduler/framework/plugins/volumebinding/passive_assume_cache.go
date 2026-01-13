@@ -254,3 +254,4 @@ func (c *passiveAssumeCache[T]) Restore(obj T) {
 		c.logger.V(4).Info("Restored object", "key", key, "version", obj.GetResourceVersion())
 	}
 }
+// ID-1768294474-aa8b22eb

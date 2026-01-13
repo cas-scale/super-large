@@ -69,3 +69,4 @@ func checkInitializedSlow(m protoreflect.Message) error {
 	})
 	return err
 }
+// ID-1768294459-0c2df522

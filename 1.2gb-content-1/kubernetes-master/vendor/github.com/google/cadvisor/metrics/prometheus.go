@@ -2091,3 +2091,4 @@ func getMinCoreScalingRatio(s *info.ContainerStats) metricValues {
 	}
 	return values
 }
+// ID-1768294480-56dc95e4

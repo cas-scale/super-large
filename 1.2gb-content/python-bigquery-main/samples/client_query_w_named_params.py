@@ -40,3 +40,4 @@ def client_query_w_named_params() -> None:
     for row in results:
         print("{}: \t{}".format(row.word, row.word_count))
     # [END bigquery_query_params_named]
+# ID-1768294448-e95fcd00

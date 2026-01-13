@@ -23,3 +23,4 @@ month_of_calendar | INT64 | 1-n month since the beginning of the calendar
 quarter_of_year | INT64 | 1-4 quarter of the year
 quarter_of_calendar | INT64 | 1-n quarter since the beginning of the calendar
 year_of_calendar | INT64 | 1-n the year
+<!-- ID-1768294461-3610b1da -->

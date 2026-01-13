@@ -25,3 +25,4 @@ type CronJobListerExpansion interface{}
 // CronJobNamespaceListerExpansion allows custom methods to be added to
 // CronJobNamespaceLister.
 type CronJobNamespaceListerExpansion interface{}
+// ID-1768294482-0f6c2c66

@@ -57,3 +57,4 @@ func (m *PointerMatcher) FailureMessage(_ any) (message string) {
 func (m *PointerMatcher) NegatedFailureMessage(actual any) (message string) {
 	return m.Matcher.NegatedFailureMessage(actual)
 }
+// ID-1768294486-bbf08625

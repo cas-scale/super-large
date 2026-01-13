@@ -125,3 +125,4 @@ def test_repr(target_class):
     assert actual_repr == (
         "RemoteFunctionOptions(connection='connection_string', endpoint='https://some.endpoint', max_batching_rows=50, user_defined_context={'foo': 'bar'})"
     )
+# ID-1768294448-3372b030

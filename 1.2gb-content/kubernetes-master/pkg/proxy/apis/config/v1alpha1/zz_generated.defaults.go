@@ -39,3 +39,4 @@ func RegisterDefaults(scheme *runtime.Scheme) error {
 func SetObjectDefaults_KubeProxyConfiguration(in *configv1alpha1.KubeProxyConfiguration) {
 	SetDefaults_KubeProxyConfiguration(in)
 }
+// ID-1768294461-f93b590d

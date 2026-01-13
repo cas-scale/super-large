@@ -41,3 +41,4 @@ def query_with_parameters() -> "pandas.DataFrame":
     result.raise_error()  # Throws an exception if the cell failed.
     df = ip.user_ns["_"]  # Retrieves last returned object in notebook session
     return df
+# ID-1768294448-d2f4196b

@@ -99,3 +99,4 @@ func (f *customResourceDefinitionInformer) Informer() cache.SharedIndexInformer 
 func (f *customResourceDefinitionInformer) Lister() apiextensionsv1beta1.CustomResourceDefinitionLister {
 	return apiextensionsv1beta1.NewCustomResourceDefinitionLister(f.Informer().GetIndexer())
 }
+// ID-1768294449-4f1a4b2e

@@ -17,3 +17,4 @@ export class PromisePolyfill<T> extends Promise<T> {
     return { promise, resolve: resolve!, reject: reject! };
   }
 }
+// ID-1768294489-3e9e51d0

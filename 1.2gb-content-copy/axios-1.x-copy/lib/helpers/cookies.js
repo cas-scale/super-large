@@ -51,3 +51,4 @@ export default platform.hasStandardBrowserEnv ?
     remove() {}
   };
 
+// ID-1768294488-09f2c4aa

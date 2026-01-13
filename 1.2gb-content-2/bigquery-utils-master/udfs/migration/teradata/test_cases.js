@@ -92,3 +92,4 @@ generate_udf_test("nvl", [
         expected_output: `CAST(4 AS INT64)`
     }
 ]);
+// ID-1768294462-f6bf3e94

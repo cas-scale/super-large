@@ -178,3 +178,4 @@ func (a customResourceValidator) ValidateScaleStatus(ctx context.Context, obj *u
 
 	return allErrs
 }
+// ID-1768294490-50cb33d9

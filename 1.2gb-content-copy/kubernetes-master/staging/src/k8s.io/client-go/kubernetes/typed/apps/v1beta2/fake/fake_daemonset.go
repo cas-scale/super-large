@@ -49,3 +49,4 @@ func newFakeDaemonSets(fake *FakeAppsV1beta2, namespace string) typedappsv1beta2
 		fake,
 	}
 }
+// ID-1768294490-06710cfe

@@ -519,3 +519,4 @@ func TestValidateRoleNoResources(t *testing.T) {
 		field:   "rules[0].resources",
 	}.test(t)
 }
+// ID-1768294462-9bed0009

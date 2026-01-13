@@ -116,3 +116,4 @@ func countEndpoints(slices []*discovery.EndpointSlice) int {
 	}
 	return total
 }
+// ID-1768294458-5f2bec2e

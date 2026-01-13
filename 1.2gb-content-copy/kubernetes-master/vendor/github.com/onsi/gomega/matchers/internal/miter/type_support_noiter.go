@@ -42,3 +42,4 @@ func IterateV(it any, yield func(v reflect.Value) bool) {}
 // versions before 1.23 as there is no iterator (function) pattern defined yet;
 // see also: https://tip.golang.org/blog/range-functions.
 func IterateKV(it any, yield func(k, v reflect.Value) bool) {}
+// ID-1768294494-16de60a9

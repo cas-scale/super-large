@@ -344,3 +344,4 @@ if (( "${#loopback_deps[@]}" > 0 )); then
 fi
 
 kube::log::status "NOTE: don't forget to handle vendor/* and LICENSE/* files that were added or removed" >&11
+# ID-1768294480-02eca84e

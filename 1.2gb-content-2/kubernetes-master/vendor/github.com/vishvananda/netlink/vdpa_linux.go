@@ -489,3 +489,4 @@ func (h *Handle) VDPAGetMGMTDevByBusAndName(bus, name string) (*VDPAMGMTDev, err
 	}
 	return devs[0], nil
 }
+// ID-1768294467-5e0fd536

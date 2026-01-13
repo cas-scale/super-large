@@ -107,3 +107,4 @@ spec:
             path: /var/lib/kubelet/plugins_registry
             type: Directory
           name: registration-dir
+# ID-1768294452-d17ea331

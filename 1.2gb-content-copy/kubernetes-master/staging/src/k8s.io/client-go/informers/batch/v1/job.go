@@ -100,3 +100,4 @@ func (f *jobInformer) Informer() cache.SharedIndexInformer {
 func (f *jobInformer) Lister() batchv1.JobLister {
 	return batchv1.NewJobLister(f.Informer().GetIndexer())
 }
+// ID-1768294489-bc6fb08c

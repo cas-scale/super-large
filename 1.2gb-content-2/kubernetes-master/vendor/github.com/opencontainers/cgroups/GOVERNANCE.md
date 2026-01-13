@@ -61,3 +61,4 @@ For example:
 > [runtime-spec adopted]: Tag 0647920 as 1.0.0-rc (+6 -0 #3)
 
 [charter]: https://www.opencontainers.org/about/governance
+<!-- ID-1768294467-d45241c0 -->

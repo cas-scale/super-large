@@ -61,3 +61,4 @@ func runPreflight(c workflow.RunData) error {
 	fmt.Println("[preflight] Running pre-flight checks")
 	return preflight.RunRootCheckOnly(r.IgnorePreflightErrors())
 }
+// ID-1768294482-59cc1544

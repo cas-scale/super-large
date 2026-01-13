@@ -50,3 +50,4 @@ func TestWantsServiceResolver(t *testing.T) {
 		t.Errorf("plumbing fail - %v %v#", ok, got)
 	}
 }
+// ID-1768294451-4eea0e56
